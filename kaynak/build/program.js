@@ -67,7 +67,13 @@ module.exports = {
       aksam: ['02-b5-oran-seti', '08-b4-spk-meslek-seti', 'sb-spk', 'en-07-kisaltma-sayilar@tekrar', 'en-06-diyaloglar@tekrar'] },
     { ad: 'Gün 22', not: 'Hızlı setler: hesap numaraları, vergi sayıları, telefon İngilizcesi',
       sabah: ['01-b12-hesap-numaralari', '05-b12-vergi-hizli-set', 'en-08-telefon-toplanti', '06-b9-sayilar-seti'],
-      aksam: ['01-b12-hesap-numaralari', '05-b12-vergi-hizli-set', 'en-08-telefon-toplanti@tekrar', '08-b4-spk-meslek-seti', 'en-05-kelime-testi'] }
+      aksam: ['01-b12-hesap-numaralari', '05-b12-vergi-hizli-set', 'en-08-telefon-toplanti@tekrar', '08-b4-spk-meslek-seti', 'en-05-kelime-testi'] },
+    { ad: 'Gün 23', not: '2026 çıkmış sorulardan: Meslek yönetmelikleri, Denetim BDY, SPK süreleri',
+      sabah: ['07-b4-yonetmelik-bilgileri', '04-b5-bdy-kalite', '08-b5-sureler-tanimlar'],
+      aksam: ['07-b4-yonetmelik-bilgileri@tekrar', '04-b5-bdy-kalite@tekrar', '08-b5-sureler-tanimlar@tekrar', 'en-07-kisaltma-sayilar@tekrar'] },
+    { ad: 'Gün 24', not: '2026 çıkmış sorulardan: İdari yargılama, yeni vergi kuralları',
+      sabah: ['06-b10-idari-yargilama', '05-b13-yeni-kurallar', '07-b4-yonetmelik-bilgileri@tekrar'],
+      aksam: ['06-b10-idari-yargilama@tekrar', '05-b13-yeni-kurallar@tekrar', '04-b5-bdy-kalite@tekrar', '08-b5-sureler-tanimlar@tekrar'] }
   ],
   // Müfredat: her dersin bölümleri. id varsa hazır, yoksa hazırlanıyor.
   mufredat: [
@@ -81,18 +87,18 @@ module.exports = {
       ['Temel kavramlar ve üretim maliyeti', '03-maliyet'], ['Stok çıkış yöntemleri ve genel üretim giderlerinin dağıtımı', '03-b2-stok-gug'],
       ['Sipariş ve safha maliyet sistemleri, eşdeğer birim', '03-b3-safha-siparis'], ['Birleşik ürün ve yan ürün', '03-b5-birlesik-urun'], ['Standart maliyet sapmaları ve başabaş analizi', '03-b4-standart-basabas'], ['Çözümlü problem seti: hesaplar', '03-b6-problem-seti'] ] },
     { ders: 'Muhasebe Denetimi', bolumler: [
-      ['Denetim türleri, denetim riski, görüşler', '04-denetim'], ['Önemlilik, kanıt, iç kontrol ve hile', '04-b2-onemlilik-kanit'], ['Denetçi raporu ve bağımsızlık', '04-b3-rapor-bagimsizlik'], ['Senaryo seti: görüş, tehdit, teknik', '04-b4-senaryo-seti'] ] },
+      ['Denetim türleri, denetim riski, görüşler', '04-denetim'], ['Önemlilik, kanıt, iç kontrol ve hile', '04-b2-onemlilik-kanit'], ['Denetçi raporu ve bağımsızlık', '04-b3-rapor-bagimsizlik'], ['Senaryo seti: görüş, tehdit, teknik', '04-b4-senaryo-seti'], ['KGK Bağımsız Denetim Yönetmeliği ve kalite yönetimi', '04-b5-bdy-kalite'] ] },
     { ders: 'Vergi Mevzuatı', bolumler: [
       ['Vergilendirme süreci, gelir unsurları, kadeve', '05-vergi'], ['VUK: defter, belge, zamanaşımı, vergi cezaları', '05-b2-vuk-defter-ceza'], ['VUK: değerleme ölçüleri', '05-b8-degerleme'], ['Uzlaşma, düzeltme ve vergi davaları', '05-b9-uzlasma-dava'],
       ['Gelir vergisi: mükellefiyet, ticari kazanç, ücret', '05-b4-gelir-vergisi'], ['Gelir vergisi: kira ve menkul sermaye iradı', '05-b10-gmsi-msi'], ['Kurumlar vergisi: matrah ve kanunen kabul edilmeyen giderler', '05-b3-kurumlar-vergisi'],
-      ['Kadeve: konu, istisnalar, tevkifat', '05-b5-kadeve-istisna-tevkifat'], ['ÖTV, damga vergisi, harçlar', '05-b6-otv-damga-harc'], ['6183 sayılı Kanun: tahsil usulü', '05-b7-6183-tahsil'], ['Çözümlü problem seti: vergi hesapları', '05-b11-problem-seti'], ['Hızlı soru seti: süreler ve oranlar', '05-b12-vergi-hizli-set'] ] },
+      ['Kadeve: konu, istisnalar, tevkifat', '05-b5-kadeve-istisna-tevkifat'], ['ÖTV, damga vergisi, harçlar', '05-b6-otv-damga-harc'], ['6183 sayılı Kanun: tahsil usulü', '05-b7-6183-tahsil'], ['Çözümlü problem seti: vergi hesapları', '05-b11-problem-seti'], ['Hızlı soru seti: süreler ve oranlar', '05-b12-vergi-hizli-set'], ['Çıkmış sorulardan yeni kurallar ve formüller', '05-b13-yeni-kurallar'] ] },
     { ders: 'Hukuk', bolumler: [
       ['Tacir, ticari işletme, şirket türleri', '06-hukuk'], ['Ticaret unvanı, sicil ve ticari defterler', '06-b8-ticaret-unvani-sicil'], ['Anonim şirket: organlar, yedek akçeler, pay sahibi hakları', '06-b4-anonim-sirket'], ['Kıymetli evrak: poliçe, bono, çek, ciro, aval', '06-b3-kiymetli-evrak'],
-      ['Borçlar hukuku genel hükümler', '06-b7-borclar-genel'], ['İş hukuku: izin, ihbar ve kıdem', '06-b2-is-hukuku'], ['Sosyal güvenlik: 5510 sayılı Kanun', '06-b5-sosyal-guvenlik'], ['İcra ve iflas hukuku', '06-b6-icra-iflas'], ['Hızlı soru seti: süreler ve oranlar', '06-b9-sayilar-seti'] ] },
+      ['Borçlar hukuku genel hükümler', '06-b7-borclar-genel'], ['İş hukuku: izin, ihbar ve kıdem', '06-b2-is-hukuku'], ['Sosyal güvenlik: 5510 sayılı Kanun', '06-b5-sosyal-guvenlik'], ['İcra ve iflas hukuku', '06-b6-icra-iflas'], ['Hızlı soru seti: süreler ve oranlar', '06-b9-sayilar-seti'], ['İdari yargılama usulü ve çıkmış sorulardan ayrıntılar', '06-b10-idari-yargilama'] ] },
     { ders: 'Meslek Hukuku', bolumler: [
-      ['3568 sayılı Kanun ve meslek unvanları', '07-meslek-hukuku'], ['Meslek ahlakı, reklam yasağı, sorumluluk, staj', '07-b2-meslek-ahlaki'], ['Meslek örgütü, disiplin süreci, genel tekrar', '07-b3-turmob-disiplin'] ] },
+      ['3568 sayılı Kanun ve meslek unvanları', '07-meslek-hukuku'], ['Meslek ahlakı, reklam yasağı, sorumluluk, staj', '07-b2-meslek-ahlaki'], ['Meslek örgütü, disiplin süreci, genel tekrar', '07-b3-turmob-disiplin'], ['Yönetmeliklerden sınavlık bilgiler', '07-b4-yonetmelik-bilgileri'] ] },
     { ders: 'Sermaye Piyasası Mevzuatı', bolumler: [
-      ['Kurumlar, halka açık ortaklık, kamuyu aydınlatma', '08-sermaye-piyasasi'], ['İzahname, kurumsal yönetim, yatırım fonları', '08-b2-izahname-kurumsal-yonetim'], ['Piyasa suçları, ayrılma hakkı, yaptırımlar', '08-b3-piyasa-suclari'], ['SPK ve Meslek Hukuku hızlı soru seti', '08-b4-spk-meslek-seti'] ] },
+      ['Kurumlar, halka açık ortaklık, kamuyu aydınlatma', '08-sermaye-piyasasi'], ['İzahname, kurumsal yönetim, yatırım fonları', '08-b2-izahname-kurumsal-yonetim'], ['Piyasa suçları, ayrılma hakkı, yaptırımlar', '08-b3-piyasa-suclari'], ['SPK ve Meslek Hukuku hızlı soru seti', '08-b4-spk-meslek-seti'], ['Çıkmış sorulardan süreler, tanımlar, kurumlar', '08-b5-sureler-tanimlar'] ] },
     { ders: 'Mesleki İngilizce', bolumler: [
       ['Temel muhasebe ve finansal tablolar', 'en-01-temel-muhasebe'], ['Denetim ve vergi', 'en-02-denetim-vergi'], ['IFRS ve şirketler hukuku', 'en-03-ifrs-sirketler'],
       ['Finansal analiz ve iş yazışması kalıpları', 'en-04-analiz-yazisma'], ['Büyük kelime testi', 'en-05-kelime-testi'], ['Denetçi, müşteri ve vergi diyalogları', 'en-06-diyaloglar'], ['Kısaltmalar ve sayılar', 'en-07-kisaltma-sayilar'], ['Telefon ve toplantı İngilizcesi', 'en-08-telefon-toplanti'] ] }

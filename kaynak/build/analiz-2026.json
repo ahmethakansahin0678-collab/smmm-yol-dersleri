@@ -1,0 +1,827 @@
+{
+ "Vergi Mevzuatı": {
+  "toplam": 40,
+  "konular": [
+   {
+    "konu": "Gelir vergisi",
+    "sayi": 8,
+    "dersler": [
+     "05-vergi",
+     "05-b4-gelir-vergisi",
+     "05-b10-gmsi-msi"
+    ],
+    "ornek": [
+     "2026-1/1",
+     "2026-1/2",
+     "2026-1/3",
+     "2026-1/4",
+     "2026-2/1",
+     "2026-2/2",
+     "2026-2/3",
+     "2026-2/14"
+    ]
+   },
+   {
+    "konu": "Kurumlar vergisi",
+    "sayi": 8,
+    "dersler": [
+     "05-b3-kurumlar-vergisi"
+    ],
+    "ornek": [
+     "2026-1/12",
+     "2026-1/13",
+     "2026-1/14",
+     "2026-2/6",
+     "2026-2/10",
+     "2026-2/11",
+     "2026-2/12",
+     "2026-2/13"
+    ]
+   },
+   {
+    "konu": "Katma değer vergisi",
+    "sayi": 7,
+    "dersler": [
+     "05-vergi",
+     "05-b5-kadeve-istisna-tevkifat"
+    ],
+    "ornek": [
+     "2026-1/8",
+     "2026-1/9",
+     "2026-1/10",
+     "2026-1/11",
+     "2026-2/4",
+     "2026-2/15",
+     "2026-2/19"
+    ]
+   },
+   {
+    "konu": "ÖTV, damga, MTV, emlak, veraset, harç",
+    "sayi": 7,
+    "dersler": [
+     "05-b6-otv-damga-harc"
+    ],
+    "ornek": [
+     "2026-1/7",
+     "2026-1/15",
+     "2026-1/16",
+     "2026-1/20",
+     "2026-2/16",
+     "2026-2/17",
+     "2026-2/20"
+    ]
+   },
+   {
+    "konu": "Vergi Usul Kanunu: ceza, pişmanlık, zamanaşımı, değerleme",
+    "sayi": 6,
+    "dersler": [
+     "05-b2-vuk-defter-ceza",
+     "05-b8-degerleme",
+     "05-b9-uzlasma-dava"
+    ],
+    "ornek": [
+     "2026-1/17",
+     "2026-1/18",
+     "2026-1/19",
+     "2026-2/5",
+     "2026-2/7",
+     "2026-2/18"
+    ]
+   },
+   {
+    "konu": "Amme alacaklarının tahsili (6183)",
+    "sayi": 4,
+    "dersler": [
+     "05-b7-6183-tahsil"
+    ],
+    "ornek": [
+     "2026-1/5",
+     "2026-1/6",
+     "2026-2/8",
+     "2026-2/9"
+    ]
+   }
+  ]
+ },
+ "Hukuk": {
+  "toplam": 40,
+  "konular": [
+   {
+    "konu": "İş hukuku",
+    "sayi": 12,
+    "dersler": [
+     "06-b2-is-hukuku"
+    ],
+    "ornek": [
+     "2026-1/2",
+     "2026-1/7",
+     "2026-1/9",
+     "2026-1/11",
+     "2026-1/12",
+     "2026-1/13",
+     "2026-1/15",
+     "2026-2/1",
+     "2026-2/2",
+     "2026-2/3",
+     "2026-2/4",
+     "2026-2/14"
+    ]
+   },
+   {
+    "konu": "Borçlar hukuku",
+    "sayi": 9,
+    "dersler": [
+     "06-b7-borclar-genel"
+    ],
+    "ornek": [
+     "2026-1/3",
+     "2026-1/4",
+     "2026-1/16",
+     "2026-1/17",
+     "2026-2/5",
+     "2026-2/6",
+     "2026-2/7",
+     "2026-2/8",
+     "2026-2/12"
+    ]
+   },
+   {
+    "konu": "İdari yargılama usulü (2577)",
+    "sayi": 7,
+    "dersler": [],
+    "ornek": [
+     "2026-1/5",
+     "2026-1/6",
+     "2026-1/20",
+     "2026-2/17",
+     "2026-2/18",
+     "2026-2/19",
+     "2026-2/20"
+    ]
+   },
+   {
+    "konu": "Sosyal güvenlik",
+    "sayi": 6,
+    "dersler": [
+     "06-b5-sosyal-guvenlik"
+    ],
+    "ornek": [
+     "2026-1/1",
+     "2026-1/8",
+     "2026-1/14",
+     "2026-2/13",
+     "2026-2/15",
+     "2026-2/16"
+    ]
+   },
+   {
+    "konu": "Kıymetli evrak (çek, bono, poliçe)",
+    "sayi": 4,
+    "dersler": [
+     "06-b3-kiymetli-evrak"
+    ],
+    "ornek": [
+     "2026-1/10",
+     "2026-1/19",
+     "2026-2/9",
+     "2026-2/10"
+    ]
+   },
+   {
+    "konu": "Şirketler hukuku",
+    "sayi": 1,
+    "dersler": [
+     "06-hukuk",
+     "06-b4-anonim-sirket"
+    ],
+    "ornek": [
+     "2026-1/18"
+    ]
+   },
+   {
+    "konu": "Tacir, ticari işletme, ticaret sicili",
+    "sayi": 1,
+    "dersler": [
+     "06-hukuk",
+     "06-b8-ticaret-unvani-sicil"
+    ],
+    "ornek": [
+     "2026-2/11"
+    ]
+   }
+  ]
+ },
+ "Meslek Hukuku": {
+  "toplam": 40,
+  "konular": [
+   {
+    "konu": "Oda ve TÜRMOB örgütlenmesi",
+    "sayi": 13,
+    "dersler": [
+     "07-b3-turmob-disiplin"
+    ],
+    "ornek": [
+     "2026-1/3",
+     "2026-1/7",
+     "2026-1/16",
+     "2026-1/17",
+     "2026-1/18",
+     "2026-1/20",
+     "2026-2/2",
+     "2026-2/5",
+     "2026-2/7",
+     "2026-2/16",
+     "2026-2/17",
+     "2026-2/19",
+     "2026-2/20"
+    ]
+   },
+   {
+    "konu": "Etik ilkeler ve tehditler",
+    "sayi": 7,
+    "dersler": [],
+    "ornek": [
+     "2026-1/1",
+     "2026-1/5",
+     "2026-1/9",
+     "2026-1/10",
+     "2026-1/14",
+     "2026-2/10",
+     "2026-2/11"
+    ]
+   },
+   {
+    "konu": "Meslek mensubu olma, staj, sınav, sürekli eğitim",
+    "sayi": 6,
+    "dersler": [
+     "07-meslek-hukuku"
+    ],
+    "ornek": [
+     "2026-1/11",
+     "2026-1/13",
+     "2026-2/1",
+     "2026-2/3",
+     "2026-2/14",
+     "2026-2/15"
+    ]
+   },
+   {
+    "konu": "Disiplin cezaları ve süreç",
+    "sayi": 5,
+    "dersler": [
+     "07-b3-turmob-disiplin",
+     "07-meslek-hukuku"
+    ],
+    "ornek": [
+     "2026-1/4",
+     "2026-1/15",
+     "2026-2/12",
+     "2026-2/13",
+     "2026-2/18"
+    ]
+   },
+   {
+    "konu": "Haksız rekabet ve reklam yasağı",
+    "sayi": 5,
+    "dersler": [
+     "07-b2-meslek-ahlaki"
+    ],
+    "ornek": [
+     "2026-1/6",
+     "2026-1/12",
+     "2026-2/6",
+     "2026-2/8",
+     "2026-2/9"
+    ]
+   },
+   {
+    "konu": "Çalışma usulleri, sözleşme, ücret",
+    "sayi": 4,
+    "dersler": [
+     "07-b2-meslek-ahlaki"
+    ],
+    "ornek": [
+     "2026-1/2",
+     "2026-1/8",
+     "2026-1/19",
+     "2026-2/4"
+    ]
+   }
+  ]
+ },
+ "Sermaye Piyasası Mevzuatı": {
+  "toplam": 40,
+  "konular": [
+   {
+    "konu": "Yatırım kuruluşları, fonlar, kripto",
+    "sayi": 13,
+    "dersler": [
+     "08-sermaye-piyasasi"
+    ],
+    "ornek": [
+     "2026-1/6",
+     "2026-1/8",
+     "2026-1/9",
+     "2026-1/10",
+     "2026-1/12",
+     "2026-1/14",
+     "2026-2/4",
+     "2026-2/6",
+     "2026-2/7",
+     "2026-2/13",
+     "2026-2/14",
+     "2026-2/19",
+     "2026-2/20"
+    ]
+   },
+   {
+    "konu": "Halka arz, izahname, ihraç",
+    "sayi": 10,
+    "dersler": [
+     "08-sermaye-piyasasi",
+     "08-b2-izahname-kurumsal-yonetim"
+    ],
+    "ornek": [
+     "2026-1/1",
+     "2026-1/3",
+     "2026-1/18",
+     "2026-1/19",
+     "2026-2/1",
+     "2026-2/3",
+     "2026-2/8",
+     "2026-2/9",
+     "2026-2/17",
+     "2026-2/18"
+    ]
+   },
+   {
+    "konu": "Kurumsal yönetim ve kamuyu aydınlatma",
+    "sayi": 6,
+    "dersler": [
+     "08-b2-izahname-kurumsal-yonetim"
+    ],
+    "ornek": [
+     "2026-1/2",
+     "2026-1/5",
+     "2026-1/13",
+     "2026-1/15",
+     "2026-2/10",
+     "2026-2/16"
+    ]
+   },
+   {
+    "konu": "Piyasa suçları ve yaptırımlar",
+    "sayi": 5,
+    "dersler": [
+     "08-b3-piyasa-suclari"
+    ],
+    "ornek": [
+     "2026-1/11",
+     "2026-1/16",
+     "2026-1/17",
+     "2026-2/11",
+     "2026-2/12"
+    ]
+   },
+   {
+    "konu": "Diğer düzenlemeler: teminat, sistemik risk, birleşme-bölünme",
+    "sayi": 3,
+    "dersler": [],
+    "ornek": [
+     "2026-1/4",
+     "2026-1/20",
+     "2026-2/15"
+    ]
+   },
+   {
+    "konu": "Halka açık ortaklık, sermaye, pay alım teklifi",
+    "sayi": 3,
+    "dersler": [
+     "08-sermaye-piyasasi",
+     "08-b3-piyasa-suclari"
+    ],
+    "ornek": [
+     "2026-1/7",
+     "2026-2/2",
+     "2026-2/5"
+    ]
+   }
+  ]
+ },
+ "Muhasebe Denetimi": {
+  "toplam": 40,
+  "konular": [
+   {
+    "konu": "KGK Bağımsız Denetim Yönetmeliği: yetkilendirme, ekip, sicil, eğitim, sözleşme",
+    "sayi": 16,
+    "dersler": [],
+    "ornek": [
+     "2026-1/2",
+     "2026-1/4",
+     "2026-1/8",
+     "2026-1/13",
+     "2026-1/14",
+     "2026-1/15",
+     "2026-1/16",
+     "2026-1/17",
+     "2026-2/1",
+     "2026-2/2",
+     "2026-2/4",
+     "2026-2/5",
+     "2026-2/6",
+     "2026-2/8",
+     "2026-2/9",
+     "2026-2/11"
+    ]
+   },
+   {
+    "konu": "Risk, önemlilik, kanıt, muhakeme",
+    "sayi": 8,
+    "dersler": [
+     "04-denetim",
+     "04-b2-onemlilik-kanit"
+    ],
+    "ornek": [
+     "2026-1/1",
+     "2026-1/11",
+     "2026-1/18",
+     "2026-1/19",
+     "2026-2/3",
+     "2026-2/15",
+     "2026-2/17",
+     "2026-2/20"
+    ]
+   },
+   {
+    "konu": "Etik kurallar ve bağımsızlık",
+    "sayi": 5,
+    "dersler": [
+     "04-b3-rapor-bagimsizlik"
+    ],
+    "ornek": [
+     "2026-1/6",
+     "2026-1/7",
+     "2026-1/12",
+     "2026-2/13",
+     "2026-2/14"
+    ]
+   },
+   {
+    "konu": "Kalite yönetimi standartları",
+    "sayi": 4,
+    "dersler": [],
+    "ornek": [
+     "2026-1/5",
+     "2026-1/9",
+     "2026-1/10",
+     "2026-2/12"
+    ]
+   },
+   {
+    "konu": "Yönetimin sorumlulukları, yazılı beyan, hile",
+    "sayi": 4,
+    "dersler": [
+     "04-b2-onemlilik-kanit"
+    ],
+    "ornek": [
+     "2026-1/20",
+     "2026-2/16",
+     "2026-2/18",
+     "2026-2/19"
+    ]
+   },
+   {
+    "konu": "Denetim raporu ve görüş",
+    "sayi": 3,
+    "dersler": [
+     "04-denetim",
+     "04-b3-rapor-bagimsizlik"
+    ],
+    "ornek": [
+     "2026-1/3",
+     "2026-2/7",
+     "2026-2/10"
+    ]
+   }
+  ]
+ },
+ "Finansal Muhasebe": {
+  "toplam": 40,
+  "konular": [
+   {
+    "konu": "Duran varlıklar ve amortisman",
+    "sayi": 14,
+    "dersler": [
+     "01-b3-duran-varlik-amortisman"
+    ],
+    "ornek": [
+     "2026-1/2",
+     "2026-1/3",
+     "2026-1/4",
+     "2026-1/6",
+     "2026-1/13",
+     "2026-1/14",
+     "2026-1/15",
+     "2026-1/16",
+     "2026-2/1",
+     "2026-2/4",
+     "2026-2/5",
+     "2026-2/12",
+     "2026-2/13",
+     "2026-2/15"
+    ]
+   },
+   {
+    "konu": "TMS/TFRS uygulamaları",
+    "sayi": 6,
+    "dersler": [
+     "01-b9-tms-tfrs"
+    ],
+    "ornek": [
+     "2026-1/18",
+     "2026-1/19",
+     "2026-1/20",
+     "2026-2/18",
+     "2026-2/19",
+     "2026-2/20"
+    ]
+   },
+   {
+    "konu": "Özkaynaklar ve şirket işlemleri",
+    "sayi": 6,
+    "dersler": [
+     "01-b6-ozkaynaklar",
+     "01-b10-birlesme-tasfiye"
+    ],
+    "ornek": [
+     "2026-1/5",
+     "2026-1/9",
+     "2026-2/3",
+     "2026-2/7",
+     "2026-2/10",
+     "2026-2/11"
+    ]
+   },
+   {
+    "konu": "Dönem sonu, tahakkuklar, karşılıklar, kur farkı",
+    "sayi": 4,
+    "dersler": [
+     "01-b7-donem-sonu"
+    ],
+    "ornek": [
+     "2026-1/8",
+     "2026-1/11",
+     "2026-1/17",
+     "2026-2/9"
+    ]
+   },
+   {
+    "konu": "Borçlanma, bono ihracı, krediler",
+    "sayi": 3,
+    "dersler": [
+     "01-b5-yabanci-kaynaklar"
+    ],
+    "ornek": [
+     "2026-1/1",
+     "2026-1/10",
+     "2026-2/14"
+    ]
+   },
+   {
+    "konu": "Ticari alacak/borç, reeskont, şüpheli alacak",
+    "sayi": 3,
+    "dersler": [
+     "01-b2-alacaklar-reeskont",
+     "01-b5-yabanci-kaynaklar"
+    ],
+    "ornek": [
+     "2026-1/7",
+     "2026-2/6",
+     "2026-2/17"
+    ]
+   },
+   {
+    "konu": "Stoklar, satışlar ve KDV",
+    "sayi": 3,
+    "dersler": [
+     "01-finansal-muhasebe",
+     "01-b4-stoklar"
+    ],
+    "ornek": [
+     "2026-1/12",
+     "2026-2/8",
+     "2026-2/16"
+    ]
+   },
+   {
+    "konu": "Hazır değerler ve menkul kıymetler",
+    "sayi": 1,
+    "dersler": [
+     "01-b8-hazir-degerler"
+    ],
+    "ornek": [
+     "2026-2/2"
+    ]
+   }
+  ]
+ },
+ "Finansal Tablolar ve Analizi": {
+  "toplam": 40,
+  "konular": [
+   {
+    "konu": "İşletme sermayesi ve dönüş süreleri",
+    "sayi": 14,
+    "dersler": [
+     "02-b2-oranlar",
+     "02-b5-oran-seti"
+    ],
+    "ornek": [
+     "2026-1/1",
+     "2026-1/4",
+     "2026-1/5",
+     "2026-1/6",
+     "2026-1/14",
+     "2026-1/16",
+     "2026-2/3",
+     "2026-2/6",
+     "2026-2/8",
+     "2026-2/9",
+     "2026-2/10",
+     "2026-2/11",
+     "2026-2/12",
+     "2026-2/14"
+    ]
+   },
+   {
+    "konu": "Yatay, dikey ve trend analizi",
+    "sayi": 13,
+    "dersler": [
+     "02-finansal-tablolar"
+    ],
+    "ornek": [
+     "2026-1/10",
+     "2026-1/11",
+     "2026-1/12",
+     "2026-1/13",
+     "2026-1/15",
+     "2026-2/1",
+     "2026-2/2",
+     "2026-2/5",
+     "2026-2/16",
+     "2026-2/17",
+     "2026-2/18",
+     "2026-2/19",
+     "2026-2/20"
+    ]
+   },
+   {
+    "konu": "Oran analizi",
+    "sayi": 9,
+    "dersler": [
+     "02-finansal-tablolar",
+     "02-b2-oranlar",
+     "02-b5-oran-seti"
+    ],
+    "ornek": [
+     "2026-1/2",
+     "2026-1/3",
+     "2026-1/7",
+     "2026-1/8",
+     "2026-1/9",
+     "2026-1/17",
+     "2026-2/4",
+     "2026-2/7",
+     "2026-2/13"
+    ]
+   },
+   {
+    "konu": "Finansal tablolar ve TMS/TFRS",
+    "sayi": 2,
+    "dersler": [
+     "02-finansal-tablolar",
+     "01-b9-tms-tfrs"
+    ],
+    "ornek": [
+     "2026-1/19",
+     "2026-1/20"
+    ]
+   },
+   {
+    "konu": "Diğer",
+    "sayi": 2,
+    "dersler": [],
+    "ornek": [
+     "2026-1/18: Firmanın 2021 ve 2025 yılları arasında net satışlar ve satışların maliyet grafiği aşağıda ",
+     "2026-2/15: 2026 yılının 1. çeyrek sonunda brüt satışların kârlılığı yüzde (%) kaçtır?"
+    ]
+   }
+  ]
+ },
+ "Maliyet Muhasebesi": {
+  "toplam": 40,
+  "konular": [
+   {
+    "konu": "Genel üretim giderleri ve dağıtım",
+    "sayi": 14,
+    "dersler": [
+     "03-b2-stok-gug"
+    ],
+    "ornek": [
+     "2026-1/1",
+     "2026-1/2",
+     "2026-1/4",
+     "2026-1/8",
+     "2026-1/9",
+     "2026-1/11",
+     "2026-1/12",
+     "2026-1/16",
+     "2026-2/1",
+     "2026-2/7",
+     "2026-2/10",
+     "2026-2/11",
+     "2026-2/15",
+     "2026-2/17"
+    ]
+   },
+   {
+    "konu": "Stok değerleme ve maliyet kavramları",
+    "sayi": 9,
+    "dersler": [
+     "03-maliyet",
+     "03-b2-stok-gug"
+    ],
+    "ornek": [
+     "2026-1/6",
+     "2026-1/7",
+     "2026-1/10",
+     "2026-1/13",
+     "2026-1/14",
+     "2026-1/18",
+     "2026-1/19",
+     "2026-2/8",
+     "2026-2/9"
+    ]
+   },
+   {
+    "konu": "Safha maliyet ve eşdeğer birim",
+    "sayi": 8,
+    "dersler": [
+     "03-b3-safha-siparis"
+    ],
+    "ornek": [
+     "2026-1/3",
+     "2026-1/15",
+     "2026-2/5",
+     "2026-2/13",
+     "2026-2/14",
+     "2026-2/16",
+     "2026-2/18",
+     "2026-2/19"
+    ]
+   },
+   {
+    "konu": "Standart maliyet ve sapmalar",
+    "sayi": 3,
+    "dersler": [
+     "03-b4-standart-basabas"
+    ],
+    "ornek": [
+     "2026-2/3",
+     "2026-2/4",
+     "2026-2/20"
+    ]
+   },
+   {
+    "konu": "Birleşik ürün ve yan ürün",
+    "sayi": 3,
+    "dersler": [
+     "03-b5-birlesik-urun"
+    ],
+    "ornek": [
+     "2026-1/5",
+     "2026-1/17",
+     "2026-1/20"
+    ]
+   },
+   {
+    "konu": "Üretim kayıpları ve muhasebe bilgi sistemi",
+    "sayi": 2,
+    "dersler": [],
+    "ornek": [
+     "2026-2/2",
+     "2026-2/6"
+    ]
+   },
+   {
+    "konu": "Sipariş maliyet",
+    "sayi": 1,
+    "dersler": [
+     "03-b3-safha-siparis"
+    ],
+    "ornek": [
+     "2026-2/12"
+    ]
+   }
+  ]
+ }
+}

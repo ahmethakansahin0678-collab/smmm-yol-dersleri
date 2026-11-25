@@ -25,3 +25,6 @@
 ## Notlar
 - Çıkmış soru PDF'leri yalnızca bu konteynerde: /tmp/claude-0/cikmis/dosyalar (kamuya açık depoya KOYMA). Çıkarılmış hali: build/cikmis-sorular-2026.json.
 - Ses: Fahrettin (tr_TR-fahrettin-medium) + lessac (İngilizce), sherpa-onnx 1.12.40, /tmp/tts altında.
+
+## Ek (01:50)
+- [x] 2025/3 klasik sınav (5 ders) eklendi: cs-0X-2025-3, komisyon cevaplarıyla. Testler geçti, yayında (GitHub + artifact v28).

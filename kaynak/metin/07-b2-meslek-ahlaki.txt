@@ -2,11 +2,11 @@ BAŞLIK: Meslek Hukuku 2. Meslek ahlakı, reklam yasağı, sır saklama ve sorum
 
 Meslek Hukuku ikinci bölüme hoş geldin. Bugün mesleğin davranış kurallarını işleyeceğiz: Meslek ahlakının temel ilkeleri, reklam yasağı, haksız rekabet, sır saklama, sözleşme ve ücret ve meslek mensubunun sorumluluğu. Bu konu, sınavda neredeyse her yıl birkaç soruyla karşına çıkar ve mantıkla çözülebilir.
 
-Önce temel ilkeler. Meslek mensubu, mesleğini yaparken şu ilkelere uymak zorundadır: Dürüstlük, tarafsızlık, bağımsızlık, mesleki özen ve yeterlilik, sır saklama ve meslek onuruna uygun davranış.
+Önce temel ilkeler. Etik İlkeler Yönetmeliğine göre her meslek mensubunun uymak zorunda olduğu beş temel etik ilke şunlardır: Dürüstlük, tarafsızlık, mesleki yeterlilik ve özen, sır saklama ve mesleki davranış. Dikkat: Objektiflik bu beş ilkeden biri olarak sayılmaz; çıkmış soruda tuzak olarak kullanıldı. Bu ilkelere yönelik beş temel tehdit de vardır: kişisel çıkar, kendi kendini denetleme, taraf tutma, yakınlık ve yıldırma tehdidi. Gizlilik ya da kurumsal itibar bir tehdit türü değildir.
 
 Bir benzetme yap: Meslek mensubu, hem müşterisine hem de devlete ve topluma karşı bir güven köprüsüdür. Bu köprünün ayakları dürüstlük, tarafsızlık ve özendir.
 
-Şimdi reklam yasağı. Meslek mensupları reklam yapamaz. Bu, sınavın en sevdiği kurallardan biridir. Reklam yasağı şu anlama gelir: Meslek mensubu iş elde etmek amacıyla kendini öven, başkalarıyla kıyaslayan ya da müşteri çekmeye yönelik ilan, broşür, sosyal medya paylaşımı gibi faaliyetlerde bulunamaz. Kanunda ve yönetmelikte belirtilen sınırlar içinde tabela, kartvizit ve antetli kâğıt kullanılabilir. Bunlarda sadece ad, soyad, unvan ve iletişim bilgileri gibi izin verilen bilgiler yer alır.
+Şimdi reklam yasağı. Meslek mensupları iş elde etmek amacıyla reklam yapamaz. Ama her duyuru yasak değildir: Nesnel ve mesleğine ilişkin olduğu sürece işi ve kendisi hakkında açıklama yapabilir, seminer ve eğitim programları düzenleyebilir; bunları basın yoluyla üçüncü kişilere duyuramaz. Kitap ve makalelerinde mesleki ve akademik unvanlarını kullanabilir. Bu, sınavın en sevdiği kurallardan biridir. Reklam yasağı şu anlama gelir: Meslek mensubu iş elde etmek amacıyla kendini öven, başkalarıyla kıyaslayan ya da müşteri çekmeye yönelik ilan, broşür, sosyal medya paylaşımı gibi faaliyetlerde bulunamaz. Kanunda ve yönetmelikte belirtilen sınırlar içinde tabela, kartvizit ve antetli kâğıt kullanılabilir. Bunlarda sadece ad, soyad, unvan ve iletişim bilgileri gibi izin verilen bilgiler yer alır.
 
 Unvan kullanma da sınırlıdır. Meslek mensubu, sahip olmadığı bir unvanı ya da kanunda yer almayan bir sıfatı kullanamaz. Mesela uzman vergi danışmanı gibi kendi uydurduğu bir sıfatı tabelasına yazamaz.
 
@@ -24,7 +24,7 @@ Birincisi hukuki sorumluluk. Meslek mensubu, kusurlu davranışıyla müşterisi
 
 İkincisi vergisel sorumluluk. Meslek mensupları, imzaladıkları beyannamelerin ve tasdik ettikleri belgelerin doğruluğundan sorumludur. Kanunda belirtilen hallerde, bu beyanname ve belgelerden doğan vergi ziyaı ve cezalardan mükellefle birlikte sorumlu tutulabilirler. Yeminli Mali Müşavirler, tasdik ettikleri belgelerin gerçeğe aykırı olması halinde, bundan doğan vergi ve cezalardan mükellefle birlikte müştereken ve müteselsilen sorumludur.
 
-Üçüncüsü disiplin sorumluluğu. Meslek ahlakı kurallarına aykırı davranış, ilk bölümde öğrendiğimiz disiplin cezalarına yol açar: uyarma, kınama, geçici olarak meslekten men ve meslekten çıkarma.
+Üçüncüsü disiplin sorumluluğu. Meslek ahlakı kurallarına aykırı davranış, ilk bölümde öğrendiğimiz disiplin cezalarına yol açar: uyarma, kınama, geçici olarak mesleki faaliyetten alıkoyma, yeminli sıfatını kaldırma ve meslekten çıkarma.
 
 Son olarak staj. Serbest Muhasebeci Mali Müşavirlik stajı üç yıldır. Staja başlamak için Türmob'un yaptığı staja giriş sınavını başarmak gerekir. Staj, meslek mensubunun yanında ya da mevzuatta sayılan kamu kurumlarında yapılabilir. Stajyer, staj süresince stajyer unvanını kullanır ve tek başına meslek faaliyetinde bulunamaz. Staj bitince yeterlilik sınavına girilir.
 
@@ -61,9 +61,9 @@ Cevap: Evet, devam eder. Sır saklama yükümlülüğü ilişkinin bitmesiyle so
 
 Dersin özeti.
 
-Bir. Temel ilkeler: dürüstlük, tarafsızlık, bağımsızlık, mesleki özen, sır saklama ve meslek onuruna uygun davranış.
+Bir. Beş temel etik ilke: dürüstlük, tarafsızlık, mesleki yeterlilik ve özen, sır saklama, mesleki davranış. Beş tehdit: kişisel çıkar, kendi kendini denetleme, taraf tutma, yakınlık, yıldırma.
 
-İki. Reklam yasaktır. Tabela ve kartvizitte sadece izin verilen bilgiler yer alır.
+İki. İş elde etmek için reklam yasaktır; nesnel açıklama, seminer düzenleme ve yayınlarda unvan kullanma serbesttir.
 
 Üç. Uydurma unvan, aracı kullanmak ve asgari ücret tarifesinin altında iş almak yasaktır.
 

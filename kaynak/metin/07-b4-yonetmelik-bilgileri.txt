@@ -1,0 +1,133 @@
+BAŞLIK: Meslek Hukuku 4. Yönetmeliklerden sınavlık bilgiler (2026 çıkmış sorulardan)
+
+Meslek Hukuku dördüncü bölüme hoş geldin. Bu bölüm, iki bin yirmi altı yılının iki sınavında çıkan kırk Meslek Hukuku sorusunun doğru cevaplarından derlendi. Gördük ki sorular kanundan çok yönetmeliklerin ayrıntılarından geliyor: Oda ve Türmob yönetmelikleri, etik ilkeler, haksız rekabet ve reklam yasağı, çalışma usul ve esasları, staj, sınav ve sürekli eğitim. Bilgileri konu konu, kısa cümlelerle vereceğim. Her konunun sonunda bir hızlı soru var.
+
+Birinci konu: Oda ve Türmob örgütlenmesi.
+
+Bir il merkezinde oda kurulabilmesi için bölgede kendi mesleği konusunda en az iki yüz elli meslek mensubu bulunmalıdır.
+
+İlçelerde oda kurulabilmesi için o ilçedeki en az yüz meslek mensubunun yazılı başvurusu aranır.
+
+Odaların organları dörttür: genel kurul, yönetim kurulu, denetleme kurulu ve disiplin kurulu. Danışma kurulu odanın organı değildir.
+
+Oda genel kurulu üç yılda bir, mayıs ayı içinde toplanır.
+
+Odaya yazılacak adayların giriş ücretlerini ve üyelerin yıllık aidatlarını oda genel kurulu belirler.
+
+Üye sayısı bin ile beş bin arasında olan odalarda oda yönetim kurulu yedi asıl üyeden oluşur.
+
+Ruhsatname ücretleri odanın gelirlerinden değildir.
+
+Türmob Yönetim Kurulu dokuz asıl ve dokuz yedek üyeden oluşur.
+
+Uyulması zorunlu mesleki kararlar almak Türmob Genel Kurulunun görevidir.
+
+Haksız Rekabet Kurulu Türmob'un organlarından değildir.
+
+Odaların net gelirlerinin yüzde onunu geçmemek üzere alınacak paylar, sınav sorusunda Türmob'un gelirlerinden biri olarak sayılmamıştır; yönetmelikteki oran ve ifadeyi kendi kaynağından kontrol et.
+
+[[bip]]
+Hızlı soru: Bir ilçede oda kurulabilmesi için en az kaç meslek mensubunun yazılı başvurusu gerekir?
+[[5]]
+Yüz.
+
+İkinci konu: Etik ilkeler.
+
+Beş temel etik ilke: dürüstlük, tarafsızlık, mesleki yeterlilik ve özen, sır saklama ve mesleki davranış. Objektiflik bu beş ilkeden biri olarak sayılmaz.
+
+Tarafsızlık ilkesi: Yanlı veya önyargılı davranarak, üçüncü kişilerin haksız ve uygunsuz baskılarının meslek mensubunun mesleki kararlarını etkilememesi veya engellememesidir.
+
+Beş temel tehdit: kişisel çıkar, kendi kendini denetleme, taraf tutma, yakınlık ve yıldırma. Gizlilik ve kurumsal itibar tehdit türü değildir.
+
+Tehditleri azaltan önlemler iki gruptur: meslek, mevzuat veya düzenlemelerle oluşturulan önlemler ve iş ortamında alınan önlemler.
+
+Değeri önemsiz olanlar hariç, bir müşteriden hediye veya ayrıcalıklı hizmet alınması, çıkmış soruda bağımsız çalışan meslek mensubu için kişisel çıkar tehdidi örnekleri arasında sayılmamıştır.
+
+[[bip]]
+Hızlı soru: Objektiflik, beş temel etik ilkeden biri midir?
+[[5]]
+Hayır. Beş ilke dürüstlük, tarafsızlık, mesleki yeterlilik ve özen, sır saklama ve mesleki davranıştır.
+
+Üçüncü konu: Haksız rekabet ve reklam yasağı.
+
+Meslek mensubu, nesnel ve mesleğine ilişkin olduğu sürece işi ve kendisi hakkında açıklama yapabilir.
+
+Seminer ve eğitim programları düzenleyebilir, ancak bunları basın yayın yoluyla üçüncü kişilere duyuramaz.
+
+Mesleki kitap, makale ve benzeri bilimsel çalışmalarında mesleki ve akademik unvanlarını kullanabilir. Kullanamaz diyen ifade yanlıştır.
+
+Üçüncü şahısları yanıltacak şekilde gerçeğe aykırı belge düzenlemek, yönetmelikte "reklam yoluyla haksız rekabet" başlığı altında sayılan örneklerden biri değildir; çıkmış soruda tuzak şık olarak kullanıldı.
+
+[[bip]]
+Hızlı soru: Meslek mensubu yazdığı bir kitapta mesleki unvanını kullanabilir mi?
+[[5]]
+Evet, kullanabilir.
+
+Dördüncü konu: Çalışma usul ve esasları.
+
+Her meslek mensubu faaliyete başlamadan önce odanın bilgisi dahilinde iş yeri açar. İş yeri açılış ve kapanışları en geç otuz gün içinde odaya bildirilir.
+
+Stajını tamamlayıp ruhsat alan meslek mensubu, ruhsat tarihinden itibaren iki yıl geçmedikçe, yanında staj yaptığı meslek mensubunun rızası olmadan onun müşterilerine hizmet veremez.
+
+Sözleşme feshedilirse müşteriden alınmış defter ve belgeler bir ay içinde sahiplerine geri verilir.
+
+Önceki meslek mensubunun adresi, sözleşmede bulunması gereken asgari bilgilerden değildir.
+
+Meslek mensubu, komandit şirketlerde komanditer ortak olabilir. Olamaz diyen ifade yanlıştır.
+
+Yabancı firmalarla yapılan sözleşmelerin Türk lirası cinsinden düzenlenmesi şart değildir.
+
+[[bip]]
+Hızlı soru: İş yeri açılışı odaya en geç kaç gün içinde bildirilir?
+[[5]]
+Otuz gün.
+
+Beşinci konu: Meslek mensubu olma, sınav, staj ve sürekli eğitim.
+
+Serbest muhasebeci mali müşavirlik sınavını kazanmak genel şart değil, özel şarttır. Medeni hakları kullanma ehliyeti ise özel değil, genel şarttır.
+
+Sınavda başarılı sayılmak için her dersten yüz üzerinden en az elli almak ve tüm derslerin ortalamasının en az altmış olması gerekir. Staj tezkiye notu ayrı bir ders gibi ortalamaya dahil edilir.
+
+Sınavda başarılı olamayanlar ilk sınav tarihinden itibaren iki yıl içinde, yılda üç kez açılan sınavlara girebilir. Bu hakları kullanmayan veya başarılı olamayanlar altı ay süreyle meslek sınavlarına alınmaz.
+
+Sürekli mesleki geliştirme yükümlülüğü: yılda en az otuz kredi ve her üç yılda en az yüz yirmi kredi.
+
+Türmob tarafından akredite edilen yabancı dil eğitim programlarında geçen sürelerin bir yılının stajdan sayıldığını söyleyen ifade, çıkmış soruda yanlış olarak işaretlendi.
+
+[[bip]]
+Hızlı soru: Sınavda başarılı olmanın notu nedir?
+[[5]]
+Her dersten en az elli ve ortalama en az altmış.
+
+Altıncı konu: Disiplin.
+
+Beş disiplin cezası vardır: uyarma, kınama, geçici olarak mesleki faaliyetten alıkoyma, yeminli sıfatını kaldırma ve meslekten çıkarma.
+
+Geçici alıkoyma süresi altı aydan az, bir yıldan fazla olamaz.
+
+En az iki kez yazıyla istenmesine rağmen oda aidatını haklı gerekçe olmadan ödememek uyarma cezası gerektirir.
+
+Asgari ücret tarifesinin altında iş kabul etmek kınama cezası gerektirir.
+
+Geçici alıkoyma, yeminli sıfatını kaldırma ve meslekten çıkarma cezaları Hazine ve Maliye Bakanlığına ve ilgili kurumlara duyurulur. Kınama duyurulmaz.
+
+Oda disiplin kurulu kararlarına bildirim tarihinden itibaren otuz gün içinde itiraz edilir.
+
+[[bip]]
+Hızlı soru: Asgari ücret tarifesinin altında iş almanın disiplin cezası nedir?
+[[5]]
+Kınama.
+
+Dersin özeti.
+
+Bir. İl merkezinde oda için iki yüz elli, ilçede yüz meslek mensubu. Oda genel kurulu üç yılda bir mayısta. Türmob Yönetim Kurulu dokuz asıl, dokuz yedek.
+
+İki. Beş etik ilke ve beş tehdit. Objektiflik ilke değil, gizlilik tehdit değil.
+
+Üç. Nesnel açıklama, seminer ve yayınlarda unvan serbest; basın yoluyla seminer duyurusu yasak.
+
+Dört. İş yeri bildirimi otuz gün, eski işvereninin müşterisi için iki yıl bekleme, defterlerin iadesi bir ay.
+
+Beş. Başarı elli ve altmış; sınav hakkı iki yılda, yılda üç kez; sürekli eğitim yılda otuz, üç yılda yüz yirmi kredi.
+
+Altı. Beş disiplin cezası; tarifenin altında iş kınama, aidat ödememek uyarma; itiraz otuz gün.

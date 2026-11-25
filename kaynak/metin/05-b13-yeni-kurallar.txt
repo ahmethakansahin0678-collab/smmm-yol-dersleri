@@ -1,0 +1,113 @@
+BAŞLIK: Vergi Mevzuatı 13. Çıkmış sorulardan yeni kurallar ve hesap formülleri
+
+Vergi Mevzuatı on üçüncü bölüme hoş geldin. Bu bölüm iki bin yirmi altı yılının iki sınavında çıkan kırk vergi sorusundan derlendi. Özellikle son yıllarda gelen yeni düzenlemeler ve hesaplı sorulardaki formüller soruldu. Her formülü sınavdaki rakamlarla, komisyonun cevabını tutturarak anlatacağım. Rakamlar mevzuata göre değişebileceği için oranları sınavdan önce güncel mevzuattan kontrol et.
+
+Birinci konu: Yurt içi asgari kurumlar vergisi.
+
+İki bin yirmi beş hesap döneminden itibaren uygulanan bu kurala göre, hesaplanan kurumlar vergisi, indirim ve istisnalar düşülmeden önceki kurum kazancının yüzde onundan az olamaz. Bazı istisnalar bu hesapta düşülebilir; sınavdaki örnekte düşülmedi.
+
+Sınav örneği: Ticari bilanço kârı yüz kırk milyon, kanunen kabul edilmeyen gider on milyon, yurt dışı inşaat istisnası yüz yirmi milyon. Asgari vergi matrahı yüz kırk artı on, yüz elli milyon. Yüzde onu, on beş milyon lira. Komisyonun cevabı on beş milyon.
+
+[[bip]]
+Hızlı soru: Yurt içi asgari kurumlar vergisinin oranı nedir?
+[[5]]
+İndirim ve istisnalar düşülmeden önceki kazancın yüzde onu.
+
+İkinci konu: Finansman gider kısıtlaması.
+
+Yabancı kaynakları özkaynaklarını aşan işletmelerde, aşan kısma isabet eden finansman giderinin yüzde onu kanunen kabul edilmeyen giderdir.
+
+Sınav örneği: Özkaynak iki milyon, yabancı kaynaklar toplamı bir milyon artı üç milyon, dört milyon. Aşan kısım iki milyon, yani yabancı kaynakların yarısı. Finansman gideri beş yüz bin; yarısı iki yüz elli bin. Yüzde onu, yirmi beş bin lira kanunen kabul edilmeyen gider. Komisyonun cevabı yirmi beş bin.
+
+[[bip]]
+Hızlı soru: Finansman gider kısıtlamasında kanunen kabul edilmeyen oran nedir?
+[[5]]
+Özkaynağı aşan yabancı kaynağa isabet eden finansman giderinin yüzde onu.
+
+Üçüncü konu: Binek otomobil giderleri.
+
+Binek otomobillere ilişkin giderlerin yüzde otuzu kanunen kabul edilmeyen giderdir. Motorlu taşıtlar vergisi ise tamamen kanunen kabul edilmeyen giderdir.
+
+Sınav örneği: Akaryakıt beş yüz bin, sigorta elli bin, bakım onarım otuz bin, toplam beş yüz seksen bin. Yüzde otuzu yüz yetmiş dört bin. Motorlu taşıtlar vergisi yirmi binin tamamı eklenir. Toplam yüz doksan dört bin lira. Komisyonun cevabı yüz doksan dört bin.
+
+[[bip]]
+Hızlı soru: Binek otomobilin motorlu taşıtlar vergisi ne kadar oranda kanunen kabul edilmeyen giderdir?
+[[5]]
+Tamamı.
+
+Dördüncü konu: Örtülü sermaye ve sermaye azaltımı.
+
+Grup şirketlerinin bankalardan temin ederek aynı şartlarla kuruma kullandırdığı krediler örtülü sermayenin tespitinde dikkate alınmaz. Sınavda iştirakin bankadan alıp aynı şartlarla aktardığı kredi bu yüzden hesaba katılmadı.
+
+Sermaye azaltımında, azaltılan sermayenin öncelikle iç kaynaklardan eklenen kısımlardan karşılandığı kabul edilir. Sınav örneğinde azaltılan bir milyonun sekiz yüz bini enflasyon düzeltmesi olumlu farklarından, iki yüz bini geçmiş yıl kârlarından karşılanmış kabul edildi ve buna göre vergilendirildi.
+
+Beşinci konu: Katma değer vergisi ayrıntıları.
+
+İhraç kaydıyla teslimlerde tecil edilecek vergi: İhraç kaydıyla teslimler üzerinden hesaplanan vergi ile dönemde ödenmesi gereken vergiden küçük olanıdır.
+
+Sınav örneği: İhraç kaydıyla teslim dokuz milyon, vergisi bir milyon sekiz yüz bin; bu tecil edilebilir vergidir. Toplam hesaplanan vergi iki milyon, indirim bir milyon beş yüz bin; ödenmesi gereken beş yüz bin. İkisinden küçük olan beş yüz bin, tecil edilecek vergidir.
+
+İhraç kaydıyla teslimlerde mallar, ihracatçıya teslim tarihini izleyen ay başından itibaren üç ay içinde ihraç edilirse tecil edilen vergi terkin edilir. Altı ay diyen ifade yanlıştır.
+
+Spor Toto ve Milli Piyango dahil her türlü piyangoya katılma bedelleri katma değer vergisinden istisna değildir.
+
+Türkiye'deki bir firmanın, yurt dışındaki firmalara ait ürünlerin Türkiye'de satışı için verdiği pazarlama ve aracılık hizmetleri katma değer vergisinin konusuna girer, çünkü hizmetten Türkiye'de yararlanılır.
+
+Bir Türk şirketinin, yurt dışında inşa edilecek bir fabrikada kullanılmak üzere iş makinelerini yurt dışındaki bir firmaya kiralaması katma değer vergisinin konusuna girmez.
+
+[[bip]]
+Hızlı soru: Tecil edilecek vergi nasıl bulunur?
+[[5]]
+İhraç kaydıyla teslimin vergisi ile ödenmesi gereken vergiden küçük olanı.
+
+Altıncı konu: Vergi Usul Kanunu ve tahsil usulü.
+
+İzaha davet edilen mükellefin izahı yeterli bulunmasa bile, beyanlarını tamamlayıp vergiyi izah zammıyla öderse vergi ziyaı cezası yüzde yirmi oranında kesilir.
+
+Vergi ziyaı cezasında zamanaşımı, cezanın bağlı olduğu vergi alacağının doğduğu yılı izleyen yılın başından itibaren beş yıldır.
+
+Faturayı vermemek kaçakçılık suçu değil, özel usulsüzlüktür.
+
+Karşılaştırılabilir fiyat yöntemi, Vergi Usul Kanununda emsal bedel belirleme yöntemlerinden değildir; transfer fiyatlandırmasında kullanılır.
+
+Hisse senetleri alış bedeliyle değerlenir. Borsa rayici diyen ifade yanlıştır.
+
+Damga vergisinde, nispi vergiye tabi kâğıtların birden fazla nüshası düzenlenirse her nüshanın ayrı ayrı vergilendiğini söyleyen ifade yanlıştır.
+
+İhtiyati hacze karşı dava süresi, haczin uygulandığı tarihten itibaren on beş gün, gıyapta yapılan hacizlerde tebliğden itibaren on beş gündür.
+
+Borçlunun yabancı memlekette bulunması tahsil zamanaşımını kesen hallerden değildir.
+
+[[bip]]
+Hızlı soru: İzaha davette vergi ziyaı cezası yüzde kaç kesilir?
+[[5]]
+Yüzde yirmi.
+
+Yedinci konu: Diğer vergiler.
+
+Kurumlarda tasfiyenin sona erdiği döneme ait beyanname, tasfiyenin sonuçlandığı tarihten itibaren otuz gün içinde verilir.
+
+Geçici vergi artan oranlı tarifeyle hesaplanmaz.
+
+Yurt dışında ölen bir kişinin Türkiye'deki mirasçıları veraset ve intikal vergisi beyannamesini ölüm tarihini izleyen altı ay içinde verir.
+
+Bina vergisi mükellefiyeti, binanın inşaatının tamamlandığı yılı izleyen takvim yılı başından başlar. Sınavda iki bin yirmi beşte tamamlanan konut için cevap iki bin yirmi altı başı oldu.
+
+Kollektif şirketler kurumlar vergisi mükellefi değildir.
+
+[[bip]]
+Hızlı soru: Yurt dışında ölüm halinde Türkiye'deki mirasçılar veraset beyannamesini kaç ay içinde verir?
+[[5]]
+Altı ay.
+
+Dersin özeti.
+
+Bir. Yurt içi asgari kurumlar vergisi: indirim ve istisnalar öncesi kazancın yüzde onu.
+
+İki. Finansman gider kısıtlaması: aşan kısma düşen giderin yüzde onu. Binek oto giderlerinin yüzde otuzu ve motorlu taşıtlar vergisinin tamamı kanunen kabul edilmeyen gider.
+
+Üç. Tecil edilecek kadeve, ihraç kaydıyla teslimin vergisi ile ödenmesi gerekenden küçük olanı. İhracat süresi üç ay.
+
+Dört. İzaha davette ceza yüzde yirmi. Fatura vermemek özel usulsüzlük. Hisse senedi alış bedeliyle değerlenir.
+
+Beş. Tasfiye beyanı otuz gün. Yurt dışında ölümde veraset beyanı altı ay. Bina vergisi tamamlandığı yılı izleyen yıl başlar.

@@ -32,13 +32,14 @@ ek_js = r'''
   let idler = [];
   async function liste() {
     if (idler.length) return idler;
-    try { const d = await (await fetch('dersler.json')).json(); idler = d.dersler.filter(l => l.zaman).map(l => 'ses/' + l.id + '.mp3'); } catch {}
+    try { const d = await (await fetch('dersler.json')).json(); idler = d.dersler.filter(l => l.zaman).map(l => new URL('ses/' + l.id + '.mp3' + (l.v ? '?v=' + l.v : ''), location.href).href); } catch {}
     return idler;
   }
   async function durum() {
     if (!('caches' in window)) { $('offDurum').textContent = 'Bu tarayıcı internetsiz kullanımı desteklemiyor.'; return; }
     const L = await liste(); const c = await caches.open(SES); let n = 0;
-    for (const u of L) if (await c.match(new URL(u, location.href).href)) n++;
+    if (L.length) for (const k of await c.keys()) if (!L.includes(k.url)) await c.delete(k); // eski sürüm sesleri sil
+    for (const u of L) if (await c.match(u)) n++;
     $('offDurum').textContent = n === L.length && n ? 'Tüm dersler telefonda (' + n + '/' + L.length + '). İnternet olmadan çalışır.' : n + '/' + L.length + ' ders telefonda.';
     $('offBar').style.width = L.length ? Math.round(n / L.length * 100) + '%' : '0';
   }
@@ -48,7 +49,7 @@ ek_js = r'''
     try { if (navigator.storage && navigator.storage.persist) await navigator.storage.persist(); } catch {}
     const L = await liste(); const c = await caches.open(SES); let n = 0, hata = 0;
     for (const u of L) {
-      const tam = new URL(u, location.href).href;
+      const tam = u;
       if (!(await c.match(tam))) {
         try { const r = await fetch(tam, { cache: 'no-store' }); if (r.ok) await c.put(tam, r); else hata++; } catch { hata++; }
       }

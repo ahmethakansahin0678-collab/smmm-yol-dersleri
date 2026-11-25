@@ -141,5 +141,6 @@ const bno = id => { const m = id.match(/-b(\d+)-/); return m ? +m[1] : 1; };
 }
 const ids = new Set(all.map(l => l.id));
 for (const g of program.gunler) for (const x of [...g.sabah, ...g.aksam]) if (!ids.has(x.split('@')[0])) throw new Error('planda olmayan ders: ' + x);
-fs.writeFileSync(OUT, JSON.stringify({ surum: new Date().toISOString(), dersler: all, sorular: tablo, program }));
+let analiz = null; try { analiz = JSON.parse(fs.readFileSync(path.join(__dirname, 'analiz-2026.json'), 'utf8')); } catch (e) {}
+fs.writeFileSync(OUT, JSON.stringify({ surum: new Date().toISOString(), dersler: all, sorular: tablo, program, analiz }));
 console.log('ders:', lessons.length, 'soru bankası:', soruBanka.length, 'toplam dk:', [...lessons, ...soruBanka].reduce((a, l) => a + l.dk, 0), 'boyut KB:', Math.round(fs.statSync(OUT).size / 1024));

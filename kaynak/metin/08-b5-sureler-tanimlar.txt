@@ -1,0 +1,105 @@
+BAŞLIK: Sermaye Piyasası Mevzuatı 5. Çıkmış sorulardan süreler, tanımlar ve kurumlar
+
+Sermaye Piyasası Mevzuatı beşinci bölüme hoş geldin. Bu bölüm iki bin yirmi altı yılının iki sınavında çıkan kırk soru ile iki bin yirmi beş üçüncü dönem klasik sınavından derlendi. Bu derste sorular çoğunlukla bir süre, bir tanım ya da bir kurumun adını soruyor. Bilgileri kısa cümlelerle, gruplar halinde vereceğim.
+
+Birinci grup: Süreler.
+
+İzahnamede değişiklik yayımlanırsa, daha önce talepte bulunan yatırımcılar değişikliğin yayımından itibaren iki iş günü içinde taleplerini geri alabilir.
+
+Halka açık ortaklıklar ilişkili taraf işlemlerinin emsallere uygunluğunu gösteren belgeleri en az sekiz yıl saklar.
+
+Payları borsada işlem görmeyen ortaklıklar, halka açık ortaklık statüsünü kazandıktan sonra en geç iki yıl içinde borsaya başvurmak zorundadır.
+
+Halka açık ortaklıklar genel kurul çağrısını, ilan ve toplantı günleri hariç, toplantıdan en az üç hafta önce yapar.
+
+Kayıtlı sermaye tavanı yetkisi genel kurul tarafından en çok beş yıl için verilir.
+
+Yatırımcı Tazmin Merkezi, aracı kurumun yükümlülüklerini yerine getiremediğinin tespitinden itibaren üç ay içinde tazmin kararı alır.
+
+Yatırımcıların tazmin talebinde bulunma hakkı, tazmin kararının ilanından itibaren bir yılda zamanaşımına uğrar.
+
+Kamuyu aydınlatma belgelerinden doğan tazmin talebinin üç ayda zamanaşımına uğradığını söyleyen ifade yanlıştır.
+
+Para piyasası fonları, vadesine en fazla yüz seksen dört gün kalmış, likiditesi yüksek araçlardan oluşur; portföyün ağırlıklı ortalama vadesi en fazla kırk beş gündür.
+
+Hafıza cümlesi: İki iş günü, sekiz yıl, iki yıl, üç hafta, beş yıl, üç ay, bir yıl.
+
+[[bip]]
+Hızlı soru: Halka açık ortaklıklarda genel kurul çağrısı en az ne kadar önce yapılır?
+[[5]]
+Üç hafta.
+
+İkinci grup: Kurumlar ve mahkemeler.
+
+Borsa işlemlerinin takasını, bedellerin ödenmesini ve teminat yükümlülüklerini yürüten anonim ortaklık şeklindeki kurum Merkezi Takas Kuruluşudur.
+
+Sermaye Piyasası Kanunundaki suçlara, ihtisas mahkemesi olarak görevlendirilen asliye ceza mahkemeleri bakar.
+
+Kripto varlıklarla ilgili zimmet suçuna ait davalara ise ağır ceza mahkemesi bakar.
+
+Kurul, işlemlere ilişkin bilgilerin kendisine veya yetkilendireceği bir veri depolama kuruluşuna bildirilmesini isteyebilir.
+
+Adli para cezasına hükmetmek, Kurulun alabileceği tedbirlerden değildir; bu yetki mahkemenindir.
+
+Tedrici tasfiye kararı vermek de sınav sorusunda Kurulun tedbirleri arasında sayılmadı.
+
+[[bip]]
+Hızlı soru: Sermaye piyasası suçlarına hangi mahkeme bakar?
+[[5]]
+İhtisas mahkemesi olarak görevlendirilen asliye ceza mahkemeleri. Kripto varlık zimmet suçunda ağır ceza mahkemesi.
+
+Üçüncü grup: Araçlar, fonlar ve yatırım hizmetleri.
+
+Kira sertifikası, varlık kiralama şirketlerinin ihraç ettiği ve sahiplerine varlıklardan elde edilen gelirden pay hakkı veren sermaye piyasası aracıdır.
+
+Yatırım fonu portföyündeki taşınmazlar, portföy yönetim şirketi adına tapuya tescil edilmez; bunu söyleyen ifade yanlıştır.
+
+Fon mal varlığı, iç tüzükte hüküm varsa fon hesabına yapılacak kredi, türev ve açığa satış işlemleri için teminat gösterilebilir.
+
+Yatırım kararlarını vermek portföy saklama hizmetinin kapsamına girmez; bu portföy yönetimidir.
+
+Yatırım ortaklıklarının bir portföy yönetim şirketinden hizmet alabilmesi için yalnızca esas sözleşme hükmü yeterli değildir; Kurul onayı da gerekir.
+
+Değişken sermayeli yatırım ortaklıklarının kurucu paylarının kuruluştan sonra ihraç edilemeyeceğini söyleyen ifade yanlıştır.
+
+Yerindelik testi, bireysel portföy yöneticiliği ve yatırım danışmanlığında zorunludur.
+
+Tahsisli satış, halka arz yöntemlerinden biri değildir.
+
+Borçlanmaya dayalı kitle fonlamasına bankacılık mevzuatının uygulandığını söyleyen ifade yanlıştır.
+
+[[bip]]
+Hızlı soru: Yerindelik testi hangi hizmetlerde zorunludur?
+[[5]]
+Bireysel portföy yöneticiliği ve yatırım danışmanlığında.
+
+Dördüncü grup: Tanımlar ve suçlar.
+
+Halka arz: Sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel çağrı ve bu çağrı devamında gerçekleştirilen satış.
+
+Halka arz eden: Sahip olduğu araçları halka arz etmek üzere Kurula başvuran gerçek veya tüzel kişi.
+
+Ön talep toplama: İzahname onaylanmadan önce belirli bir fiyat aralığından, bağlayıcı olmaksızın yatırımcıların olası taleplerinin toplanması.
+
+Ek pay satışı: Talep fazlası olursa, önceden duyurulmuş azami tutara kadar ek payların dağıtıma eklenmesi.
+
+Yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım satım yapmak, emir vermek, iptal etmek veya değiştirmek piyasa dolandırıcılığı suçudur.
+
+Bölünen şirket sona ermeden, ortaklarının devredilen malvarlığı karşılığında devralan şirketin ortağı olduğu işlem, ortaklara pay devri modeliyle kısmi bölünmedir.
+
+İçsel bilginin açıklanması ertelenmiş ve olay gerçekleşmemişse, bunun kamuya açıklanmak zorunda olduğunu söyleyen ifade sınavda yanlış olarak işaretlendi.
+
+[[bip]]
+Hızlı soru: Emir verip iptal ederek yanıltıcı izlenim yaratmak hangi suçtur?
+[[5]]
+Piyasa dolandırıcılığı.
+
+Dersin özeti.
+
+Bir. Süreler: iki iş günü geri alma, sekiz yıl saklama, iki yıl borsaya başvuru, üç hafta genel kurul çağrısı, beş yıl kayıtlı sermaye, üç ay tazmin kararı, bir yıl tazmin talebi.
+
+İki. Takas için Merkezi Takas Kuruluşu. Suçlarda asliye ceza, kripto zimmetinde ağır ceza.
+
+Üç. Para piyasası fonu: yüz seksen dört gün ve kırk beş gün. Yerindelik testi bireysel portföy yöneticiliği ve yatırım danışmanlığında.
+
+Dört. Tahsisli satış halka arz yöntemi değil. Adli para cezası Kurulun değil mahkemenin işi.

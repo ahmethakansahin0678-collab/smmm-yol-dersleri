@@ -84,7 +84,7 @@ Defter tutmak ve muhasebe bürosu açmak.
 [[bip]]
 Disiplin cezaları, hafiften ağıra?
 [[5]]
-Uyarma, kınama, geçici olarak meslekten men, meslekten çıkarma.
+Uyarma, kınama, geçici olarak mesleki faaliyetten alıkoyma, yeminli sıfatını kaldırma, meslekten çıkarma.
 
 [[bip]]
 Odaların dört organı?
@@ -94,12 +94,12 @@ Genel kurul, yönetim kurulu, denetleme kurulu, disiplin kurulu.
 [[bip]]
 Oda disiplin kurulu kararına itiraz nereye yapılır?
 [[4]]
-Türmob Yüksek Disiplin Kuruluna.
+Bildirim tarihinden itibaren otuz gün içinde Türmob Yüksek Disiplin Kuruluna.
 
 [[bip]]
-Meslek mensubu reklam yapabilir mi?
+Meslek mensubu iş elde etmek için reklam yapabilir mi?
 [[4]]
-Hayır. Reklam yasaktır.
+Hayır. Ama nesnel açıklama yapabilir, seminer düzenleyebilir ve yayınlarında unvanını kullanabilir.
 
 [[bip]]
 Sır saklama yükümlülüğü müşteri ilişkisi bitince sona erer mi?
@@ -116,6 +116,6 @@ Bir. Altı bin üç yüz altmış iki, beş yüz pay sahibi, beş yıllık tavan
 
 Üç. Üç bin beş yüz altmış sekiz, iki unvan, üç yıl staj, on yıl fiili çalışma.
 
-Dört. Dört disiplin cezası, dört oda organı, itiraz yüksek disiplin kuruluna.
+Dört. Beş disiplin cezası, dört oda organı, otuz gün içinde yüksek disiplin kuruluna itiraz.
 
-Beş. Reklam yasak, sır saklama süresiz.
+Beş. İş elde etmek için reklam yasak, sır saklama süresiz.

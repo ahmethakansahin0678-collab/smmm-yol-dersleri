@@ -50,6 +50,8 @@ nav.tabs button:focus-visible, button:focus-visible, select:focus-visible { outl
 .controls .play { background: var(--accent); color: var(--accent-ink); min-height: 104px; font-size: 1.25rem; }
 .controls .play small { color: var(--accent-ink); opacity: .7; }
 .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+#qMark { grid-column: 1 / -1; }
+#qMark[aria-pressed="true"] { border-color: var(--accent, #c80); }
 .row2 button { border: 1px solid var(--line); background: transparent; color: var(--fg); border-radius: 14px; padding: 12px; font: 600 .95rem var(--body); cursor: pointer; }
 .drive-btn { border: 0; width: 100%; background: transparent; color: var(--muted); font: 600 .9rem var(--body); padding: 6px; cursor: pointer; text-decoration: underline; }
 
@@ -184,6 +186,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
       <div class="row2">
         <button id="qAns">Cevabı hemen duy</button>
         <button id="qPrev">⏮ Önceki soru</button>
+        <button id="qMark" aria-pressed="false">☆ Tekrar sor</button>
       </div>
     </div>
     <div class="leg"><h2>Kaynak</h2><span class="badge" id="qCount"></span></div>
@@ -204,6 +207,9 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
     </div>
     <div class="leg"><h2>Müfredat</h2><span class="badge" id="mfCount"></span></div>
     <div class="mf section" id="mf"></div>
+    <div class="leg"><h2>2026 sınav analizi</h2><span class="badge" id="anCount"></span></div>
+    <p class="min" style="margin:0 0 8px">İki 2026 sınavında her dersten hangi konudan kaç soru geldi. Çok soru gelen konuya daha çok zaman ayır.</p>
+    <div class="mf section" id="an"></div>
   </section>
 
   <!-- SORULAR -->
@@ -266,6 +272,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
 (() => {
   'use strict';
   const $ = id => document.getElementById(id);
+  const sesUrl = l => 'ses/' + l.id + '.mp3' + (l.v ? '?v=' + l.v : '');
   const store = {
     get(k, d) { try { const v = localStorage.getItem('smmm:' + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
     set(k, v) { try { localStorage.setItem('smmm:' + k, JSON.stringify(v)); } catch {} }
@@ -364,6 +371,26 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
       box.appendChild(d);
     });
     $('mfCount').innerHTML = '<b>' + r + '</b>/' + t + ' bölüm hazır';
+    renderAn();
+  }
+  function renderAn() {
+    const A = DATA.analiz, box = $('an'); if (!A || !box) return; box.innerHTML = ''; let top = 0;
+    Object.entries(A).forEach(([ders, v]) => {
+      top += v.toplam || 0;
+      const d = document.createElement('details');
+      d.innerHTML = '<summary><span></span><span class="min"></span></summary><ul></ul>';
+      d.querySelector('summary span').textContent = ders; d.querySelector('summary .min').textContent = (v.toplam || 0) + ' soru';
+      const mx = Math.max(1, ...(v.konular || []).map(k => k.sayi));
+      (v.konular || []).forEach(k => {
+        const li = document.createElement('li'); li.className = 'ready';
+        li.innerHTML = '<span></span> <b></b><div style="height:4px;border-radius:2px;background:var(--accent,#c80);opacity:.7;margin-top:4px"></div>';
+        li.querySelector('span').textContent = k.konu; li.querySelector('b').textContent = '· ' + k.sayi;
+        li.querySelector('div').style.width = Math.round(k.sayi / mx * 100) + '%';
+        d.querySelector('ul').appendChild(li);
+      });
+      box.appendChild(d);
+    });
+    $('anCount').innerHTML = '<b>' + top + '</b> soru';
   }
   let qf = 'hepsi';
   function renderQs() {
@@ -505,7 +532,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   }
   function playAudio() {
     const it = curItem(); if (!it) { finishLeg(); return; }
-    const src = 'ses/' + it.l.id + '.mp3';
+    const src = sesUrl(it.l);
     const t = st.seg > 0 ? (it.l.zaman[st.seg] || 0) : 0;
     const go = () => {
       try { au.currentTime = t; } catch {}
@@ -519,7 +546,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   }
   au.addEventListener('timeupdate', () => {
     if (Q.active) { qTick(); return; }
-    if (!st.playing) return; const it = curItem(); if (!hasAudio(it) || !au.src.endsWith('ses/' + it.l.id + '.mp3')) return;
+    if (!st.playing) return; const it = curItem(); if (!hasAudio(it) || !au.src.endsWith(sesUrl(it.l))) return;
     const s = segAt(it.l, au.currentTime);
     if (s !== st.seg) { st.seg = s; save(); const g = it.l.seg[s]; renderNow(g.s ? g.s : g.b ? '🔔' : '… düşünme süresi', g.l); }
   });
@@ -540,7 +567,8 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   } catch {}
 
   // ---------- soru-cevap modu ----------
-  const Q = { active: false, mode: false, list: [], all: [], i: 0, ders: store.get('qDers', 'Tümü'), kaynak: store.get('qKaynak', 'Çıkmış sorular'), shuffle: store.get('qShuf', false) };
+  const Q = { active: false, mode: false, list: [], all: [], i: 0, ders: store.get('qDers', 'Tümü'), kaynak: store.get('qKaynak', 'Çıkmış sorular'), shuffle: store.get('qShuf', false), mark: store.get('qTekrar', []) };
+  const qId = x => x.l.id + ':' + x.s;
   const QSKIP = /^(Bir soru daha|Şimdi sınav tarzında bir soru)\.?$/;
   function qBuild() {
     const out = [];
@@ -564,21 +592,22 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   }
   const tOf = (l, i) => i < l.seg.length ? l.zaman[i] : (l.sure || 1e9);
   function qFilter() {
-    let L = Q.all.filter(x => (Q.kaynak === 'Tümü' || x.kaynak === Q.kaynak) && (Q.ders === 'Tümü' || x.ders === Q.ders));
+    let L = Q.all.filter(x => (Q.kaynak === 'Tümü' || (Q.kaynak === 'Tekrar listem' ? Q.mark.includes(qId(x)) : x.kaynak === Q.kaynak)) && (Q.ders === 'Tümü' || x.ders === Q.ders));
     if (Q.shuffle) { for (let i = L.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [L[i], L[j]] = [L[j], L[i]]; } }
     Q.list = L; Q.i = Q.shuffle ? 0 : Math.min(store.get('qi:' + qKey(), 0), Math.max(0, L.length - 1));
   }
   const qKey = () => Q.kaynak + '|' + Q.ders;
   function qChips() {
-    const kaynaklar = ['Çıkmış sorular', 'Ders soruları', 'Soru bankası', 'Tümü'];
+    const kaynaklar = ['Çıkmış sorular', 'Ders soruları', 'Soru bankası', 'Tekrar listem', 'Tümü'];
+    const inK = (x, k) => k === 'Tekrar listem' ? Q.mark.includes(qId(x)) : x.kaynak === k;
     const kb = $('qKaynak'); kb.innerHTML = '';
     kaynaklar.forEach(k => {
-      const n = k === 'Tümü' ? Q.all.length : Q.all.filter(x => x.kaynak === k).length; if (!n) return;
+      const n = k === 'Tümü' ? Q.all.length : Q.all.filter(x => inK(x, k)).length; if (!n && k !== Q.kaynak) return;
       const b = document.createElement('button'); b.type = 'button'; b.textContent = k + ' (' + n + ')'; b.setAttribute('aria-pressed', k === Q.kaynak);
       b.onclick = () => { qStop(); Q.kaynak = k; store.set('qKaynak', k); Q.ders = 'Tümü'; store.set('qDers', 'Tümü'); qChips(); qFilter(); qShow(); };
       kb.appendChild(b);
     });
-    const havuz = Q.all.filter(x => Q.kaynak === 'Tümü' || x.kaynak === Q.kaynak);
+    const havuz = Q.all.filter(x => Q.kaynak === 'Tümü' || inK(x, Q.kaynak));
     const ders = ['Tümü', ...new Set(havuz.map(x => x.ders))];
     if (!ders.includes(Q.ders)) Q.ders = 'Tümü';
     const box = $('qDers'); box.innerHTML = '';
@@ -593,7 +622,8 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   function qInit() {
     if (!DATA || Q.all.length) return;
     Q.all = qBuild();
-    if (!Q.all.some(x => x.kaynak === Q.kaynak)) Q.kaynak = 'Tümü';
+    Q.mark = Q.mark.filter(id => Q.all.some(x => qId(x) === id));
+    if (Q.kaynak === 'Tekrar listem' ? !Q.mark.length : !Q.all.some(x => x.kaynak === Q.kaynak)) Q.kaynak = 'Tümü';
     $('qShuffle').setAttribute('aria-pressed', Q.shuffle);
     qChips(); qFilter(); qShow();
   }
@@ -607,13 +637,14 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
     else if (c && !Q.active) { $('qText').textContent = c.q; $('qText').classList.remove('en'); }
     $('qPlay').firstChild.textContent = Q.active ? '❚❚ Duraklat' : '▶ Başlat';
     $('qSub').textContent = Q.active ? 'çalıyor' : 'soru-cevap';
+    const mk = c && Q.mark.includes(qId(c)); $('qMark').setAttribute('aria-pressed', !!mk); $('qMark').textContent = mk ? '★ Listede (' + Q.mark.length + ')' : '☆ Tekrar sor';
   }
   function qPlay(fromT) {
     const c = Q.list[Q.i]; if (!c) return;
     Q.wait = false;
     if (st.playing) stop();
     Q.mode = true; Q.active = true; wake(true);
-    const src = 'ses/' + c.l.id + '.mp3';
+    const src = sesUrl(c.l);
     const t = fromT != null ? fromT : tOf(c.l, c.s);
     const go = () => { try { au.currentTime = t; } catch {} au.playbackRate = st.rate; const pr = au.play(); if (pr) pr.catch(e => { Q.active = false; qShow('Ses çalınamadı (' + (e.name || 'hata') + '). Başlat\'a tekrar bas.'); }); };
     if (!au.src || !au.src.endsWith(src)) { au.src = src; au.addEventListener('loadedmetadata', go, { once: true }); au.load(); } else go();
@@ -623,7 +654,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   }
   function qStop() { Q.active = false; au.pause(); wake(false); qShow(); }
   function qTick() {
-    const c = Q.list[Q.i]; if (Q.wait || !c || !au.src.endsWith('ses/' + c.l.id + '.mp3')) return;
+    const c = Q.list[Q.i]; if (Q.wait || !c || !au.src.endsWith(sesUrl(c.l))) return;
     if (au.currentTime >= tOf(c.l, c.e) - 0.05) { qNext(true); return; }
     const sg = segAt(c.l, au.currentTime), g = c.l.seg[sg];
     if (g && sg !== Q.lastSeg) { Q.lastSeg = sg; qShow(g.s ? g.s : g.b ? '🔔' : '… düşünme süresi', g.l); }
@@ -636,7 +667,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   function qGo(d) { Q.i = Math.max(0, Math.min(Q.list.length - 1, Q.i + d)); Q.lastSeg = -1; if (Q.active) qPlay(); else { store.set('qi:' + qKey(), Q.i); qShow(); } }
   function qBack5() {
     const c = Q.list[Q.i]; if (!c) return;
-    if (au.src && au.src.endsWith('ses/' + c.l.id + '.mp3')) { const t = Math.max(tOf(c.l, c.s), au.currentTime - 5); if (Q.active) { au.currentTime = t; Q.lastSeg = -1; } else qPlay(t); }
+    if (au.src && au.src.endsWith(sesUrl(c.l))) { const t = Math.max(tOf(c.l, c.s), au.currentTime - 5); if (Q.active) { au.currentTime = t; Q.lastSeg = -1; } else qPlay(t); }
     else qPlay();
   }
   $('qPlay').onclick = () => Q.active ? qStop() : qPlay();
@@ -644,6 +675,8 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   $('qPrev').onclick = () => qGo(-1);
   $('qBack').onclick = qBack5;
   $('qAns').onclick = () => { const c = Q.list[Q.i]; if (!c) return; const t = c.a != null ? tOf(c.l, c.a) : (() => { const pi = c.l.seg.findIndex((x, i) => i > c.s && i < c.e && x.p); return pi > 0 ? tOf(c.l, pi + 1) : tOf(c.l, c.s); })(); Q.lastSeg = -1; if (Q.active) au.currentTime = t; else qPlay(t); };
+  $('qMark').onclick = () => { const c = Q.list[Q.i]; if (!c) return; const id = qId(c); Q.mark = Q.mark.includes(id) ? Q.mark.filter(x => x !== id) : [...Q.mark, id]; store.set('qTekrar', Q.mark); qChipsKeep(); };
+  function qChipsKeep() { const i = Q.i, L = Q.list; qChips(); Q.list = L; Q.i = i; qShow(); }
   $('qShuffle').onclick = () => { qStop(); Q.shuffle = !Q.shuffle; store.set('qShuf', Q.shuffle); $('qShuffle').setAttribute('aria-pressed', Q.shuffle); qFilter(); qShow(); };
 
   function step() {
@@ -718,7 +751,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   $('bPlay').onclick = toggle; $('dBig').onclick = toggle;
   const back5 = () => {
     const it = curItem();
-    if (hasAudio(it) && au.src && au.src.endsWith('ses/' + it.l.id + '.mp3')) {
+    if (hasAudio(it) && au.src && au.src.endsWith(sesUrl(it.l))) {
       const min = it.l.zaman[it.from] || 0;
       au.currentTime = Math.max(min, au.currentTime - 5);
       const sg = segAt(it.l, au.currentTime); st.seg = sg; save(); const g = it.l.seg[sg]; renderNow(g.s || '', g.l);

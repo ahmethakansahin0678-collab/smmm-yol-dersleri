@@ -1,0 +1,137 @@
+BAŞLIK: Muhasebe Denetimi 5. KGK Bağımsız Denetim Yönetmeliği ve kalite yönetimi (2026 çıkmış sorulardan)
+
+Muhasebe Denetimi beşinci bölüme hoş geldin. Bu bölüm, iki bin yirmi altı yılının iki sınavında çıkan kırk denetim sorusunun doğru cevaplarından derlendi. Soruların neredeyse yarısı Kamu Gözetimi Kurumunun Bağımsız Denetim Yönetmeliğinden geldi. Kısaca bu yönetmeliğe be de ye, yani Bağımsız Denetim Yönetmeliği diyeceğim. Bilgileri konu konu ve kısa cümlelerle vereceğim.
+
+Birinci konu: Denetim kıstası, yani denetim konusunun neye göre değerlendirileceği.
+
+Finansal tablolar açısından kıstas Türkiye Muhasebe Standartlarıdır.
+
+Yıllık faaliyet raporları ile riskin erken saptanması ve yönetimine ilişkin sistem açısından kıstas Türk Ticaret Kanunu ve ilgili mevzuatın hükümleridir.
+
+Diğer mevzuatta denetim öngörülmüş ama kıstas belirtilmemişse, kıstası Kamu Gözetimi Kurumu belirler. İsteğe bağlı denetimlerde ise kıstası denetimi talep edenler belirler.
+
+Tuzak: Finansal tablolar için kıstası Türkiye Denetim Standartları, faaliyet raporu için Sermaye Piyasası Kanunu diyen ifade yanlıştır. Denetim standartları denetimin nasıl yapılacağını, muhasebe standartları ise neye göre değerlendirileceğini belirler.
+
+[[bip]]
+Hızlı soru: Finansal tablo denetiminde denetim kıstası nedir?
+[[5]]
+Türkiye Muhasebe Standartları.
+
+İkinci konu: Denetimin amacı, güvence ve kanıt.
+
+Denetim kullanıcılara makul veya sınırlı güvence sağlar. Sınırlı güvence sağlanacağı mevzuatta veya sözleşmede açıkça belirtilmemişse denetim makul güvence verecek şekilde yapılır. Tam güvence diyen ifade yanlıştır.
+
+Makul güvence, yüksek ancak mutlak olmayan güvence seviyesidir. Denetçi, denetim riskini kabul edilebilir düşük bir seviyeye indirecek yeterli ve uygun denetim kanıtı elde ettiğinde makul güvence sağlamış olur.
+
+Denetim kanıtı, belirlenen güvence seviyesi için yeterli ve uygun bilgi, belge ve beyanlardır.
+
+Önemli yanlışlık riski ne kadar yüksekse o kadar çok kanıt gerekir. Daha fazla kanıt toplamak, düşük kaliteli kanıtı telafi etmez.
+
+Denetçi, finansal tabloların bütünü açısından önemli olmayan yanlışlıkları tespit etmekten sorumlu değildir.
+
+Risklerin değerlendirilmesi kesin bir ölçümden çok mesleki muhakeme gerektiren bir konudur.
+
+Mesleki muhakeme, denetim sırasında bilgiye dayalı kararlar alınırken mevzuat ve standartlar çerçevesinde eğitim, bilgi ve deneyimin kullanılmasıdır.
+
+Kontrol riski, önemli olabilecek bir yanlışlığın işletmenin kontrolleri tarafından zamanında önlenememesi veya tespit edilip düzeltilememesi riskidir.
+
+Tespit edememe riskini azaltmaya yardım edenler: yeterli planlama, ekibe uygun personel atanması, mesleki şüphecilik ve çalışmanın yönlendirilmesi, gözetimi ve gözden geçirilmesi.
+
+İç kontrol eksikliği, bir kontrolün yanlışlıkları zamanında önleyemeyecek ya da tespit edip düzeltemeyecek şekilde tasarlanması veya uygulanması ya da gereken bir kontrolün hiç bulunmamasıdır.
+
+[[bip]]
+Hızlı soru: Risk yüksekse daha az mı, daha çok mu kanıt gerekir?
+[[5]]
+Daha çok. Ama miktar, düşük kaliteyi telafi etmez.
+
+Üçüncü konu: Kim denetler, yetkilendirme ve eğitim.
+
+Kamu yararını ilgilendiren kuruluşların ve kurumun belirlediği büyüklükteki işletmelerin denetimini yalnızca denetim kuruluşları yapar.
+
+Denetçi olmak isteyenler en az üç yıl süreyle bağımsız denetçi yanında veya denetim kuruluşunda uygulamalı mesleki eğitim almak zorundadır.
+
+Üç bin beş yüz altmış sekiz sayılı Kanun kapsamındaki tasdik ve vergi denetimi süreleri ile kamu kurumlarında denetim yetkisiyle geçen süreler bu eğitimden sayılır. En az on beş yıl mesleki tecrübesi olanlarda uygulamalı eğitim şartı aranmaz.
+
+Mesleki tecrübe bağımsız denetimde fiilen geçen süredir; ancak üç bin beş yüz altmış sekiz sayılı Kanun kapsamındaki faaliyetler ve staj süreleri de hesaba katılır.
+
+Kendi adına denetim üstlenmek isteyen denetçiler için "kıdemli denetçi olabilme şartlarını karşılamak" ya da "kadrosunda kendisi hariç en az iki sorumlu denetçi bulundurmak" şeklindeki ifadeler çıkmış sorularda yanlış olarak işaretlendi.
+
+Denetim ekiplerinde, yetkisi olmayan denetçiler, denetçi yardımcıları ve bilgi sistemleri uzmanları gibi kişiler, denetçi olarak görevlendirilmemek kaydıyla yer alabilir.
+
+Sorumlu denetçi olabilmek için en az kıdemli denetçi veya başdenetçi olmak gerektiğini söyleyen ifade yanlış olarak işaretlendi.
+
+[[bip]]
+Hızlı soru: Uygulamalı mesleki eğitim süresi kaç yıldır, kimlerde aranmaz?
+[[5]]
+Üç yıl. En az on beş yıl mesleki tecrübesi olanlarda aranmaz.
+
+Dördüncü konu: Etik ilkeler, bağımsızlık ve haksız rekabet.
+
+Denetçilerin uymak zorunda olduğu etik ilkeler: dürüstlük, tarafsızlık, mesleki yeterlik ve özen, sır saklama ve mesleğe uygun davranış.
+
+Dürüstlük, olumsuz sonuçlara yol açacak olsa ve baskı altında kalınsa bile doğru iş yapmayı ve güvenilir olmayı içerir.
+
+Mevzuat, etik kurallardan daha kısıtlayıcıysa denetçi mevzuata uymak zorundadır.
+
+Kurumsal tanıtıcı bilgiler içeren broşür hazırlamak bağımsızlığı bozan hallerden değildir.
+
+Denetim faaliyetinin niteliğini olumsuz etkileyecek veya meslektaşlara zarar verecek tarzda faaliyet göstermemek, haksız rekabette bulunmama kuralıdır.
+
+Kilit yönetici, yönetim organı üyeleri dahil, şirketin faaliyetlerini planlama, yönetme veya kontrol etme yetki ve sorumluluğuna doğrudan veya dolaylı olarak sahip kişilerdir.
+
+[[bip]]
+Hızlı soru: Mevzuat etik kurallardan daha sıkıysa denetçi neye uyar?
+[[5]]
+Mevzuata.
+
+Beşinci konu: Sözleşme, rapor, sicil ve şeffaflık.
+
+Yönetim, denetimin kapsamını sınırlayan şartlar teklif ederse ve bu sınırlama görüş vermekten kaçınmayı gerektirecekse, denetçi bu sözleşmeyi bağımsız denetim sözleşmesi olarak kabul etmez.
+
+Sözleşmenin süresinden önce ancak taraflarca karşılıklı anlaşarak feshedilebileceğine ilişkin hüküm, sözleşmede bulunması gereken asgari şartlardan değildir.
+
+Denetim raporu, denetçi görüşünü ve dikkat çekilen hususları kullanıcılara sunan, denetim kuruluşu veya denetçi tarafından imzalanarak sorumluluğu üstlenilen belgedir.
+
+Denetim konusunun genelini etkileyen önemli hususlarda yeterli kanıt elde edilemezse ya da görüş oluşturmayı engelleyen belirsizlikler sonradan çıkarsa, görüş bildirmekten kaçınılır.
+
+Şeffaflık raporu ve güncellenmiş halleri ayrı ayrı dört yıl süreyle kamuya açık tutulur.
+
+Faaliyet izni askıya alınanların sicilden silindiğini söyleyen ifade yanlış olarak işaretlendi.
+
+[[bip]]
+Hızlı soru: Şeffaflık raporu kaç yıl kamuya açık tutulur?
+[[5]]
+Dört yıl.
+
+Altıncı konu: Kalite yönetimi, yönetimin sorumlulukları ve hile.
+
+Denetim şirketi, kalite yönetim sistemi için nihai sorumluluğu icra kurulu başkanına veya yönetici ortağa, uygun hallerde yönetim kuruluna verir.
+
+Denetlenen şirketin iç kontrol sistemi, denetim şirketinin kalite yönetimi sisteminin unsurlarından biri değildir.
+
+Kalitenin gözden geçirilmesini denetim ekibi yapmaz; ekipten bağımsız bir gözden geçiren yapar.
+
+Yönetimin ön kabul sorumlulukları arasında, iç denetçilerin bağımsız denetçiye yardım etmesini sağlamak ya da denetçinin kontrol eksikliklerini raporlama sorumluluğu yoktur.
+
+Yazılı beyan, yönetimin denetçiye sunduğu yazılı bildirimdir ve denetim kanıtıdır, ama tek başına yeterli ve uygun kanıt sağlamaz.
+
+Hile konusunda denetçi, hataları ortaya çıkarmada etkili olan prosedürlerin hileyi ortaya çıkarmada etkili olmayabileceğini göz önünde bulundurarak, denetim boyunca mesleki şüpheciliğini sürdürür.
+
+[[bip]]
+Hızlı soru: Yazılı beyan tek başına yeterli kanıt mıdır?
+[[5]]
+Hayır. Kanıttır ama tek başına yeterli ve uygun kanıt sağlamaz.
+
+Dersin özeti.
+
+Bir. Kıstas: finansal tablolarda Türkiye Muhasebe Standartları, faaliyet raporunda Türk Ticaret Kanunu, belirtilmemişse Kamu Gözetimi Kurumu.
+
+İki. Makul ya da sınırlı güvence; belirtilmemişse makul. Makul güvence yüksek ama mutlak değil.
+
+Üç. Kamu yararını ilgilendiren kuruluşları yalnızca denetim kuruluşları denetler. Uygulamalı eğitim üç yıl, on beş yıl tecrübede aranmaz.
+
+Dört. Etik ilkeler: dürüstlük, tarafsızlık, mesleki yeterlik ve özen, sır saklama, mesleğe uygun davranış. Mevzuat daha sıkıysa mevzuat.
+
+Beş. Kapsam sınırlaması kaçınma gerektiriyorsa sözleşme kabul edilmez. Şeffaflık raporu dört yıl açık.
+
+Altı. Kalite gözden geçirmesini bağımsız bir gözden geçiren yapar. Yazılı beyan tek başına yeterli değil. Hileye karşı mesleki şüphecilik.

@@ -34,17 +34,21 @@ Odaların organları dörttür: Genel kurul, yönetim kurulu, denetleme kurulu v
 
 Meslek mensubunun bazı işlerle uğraşması yasaktır. Buna mesleki faaliyetle bağdaşmayan işler denir. En önemlileri: Aylıklı memurluk, ticari faaliyette bulunmak, yani tacir sıfatını gerektiren işler yapmak ve mesleğin itibarını zedeleyecek işler. Üniversitede öğretim elemanı olarak ders vermek ise bunun istisnasıdır.
 
-Şimdi disiplin cezaları. Kanunda dört disiplin cezası sayılmıştır. Hafifinden ağırına doğru sıralayalım.
+Şimdi disiplin cezaları. Disiplin Yönetmeliğinde beş disiplin cezası sayılmıştır. Hafifinden ağırına doğru sıralayalım.
 
 Bir: Uyarma. Meslek mensubuna görevinde daha dikkatli olması gerektiğinin yazı ile bildirilmesidir.
 
 İki: Kınama. Meslek mensubuna görevinde ve davranışlarında kusurlu sayıldığının yazı ile bildirilmesidir.
 
-Üç: Geçici olarak meslekten men. Belirli bir süre meslek faaliyetinde bulunamamaktır.
+Üç: Geçici olarak mesleki faaliyetten alıkoyma. Mesleki sıfat saklı kalmak üzere, altı aydan az ve bir yıldan fazla olmamak üzere meslek faaliyetinden alıkonulmaktır.
 
-Dört: Meslekten çıkarma. Bir daha meslek faaliyetinde bulunmamak üzere meslekten çıkarılmaktır.
+Dört: Yeminli sıfatını kaldırma. Yeminli mali müşavirlere özgüdür.
 
-Hafıza cümlesi: Uyar, kına, geçici durdur, tamamen çıkar.
+Beş: Meslekten çıkarma. Bir daha meslek faaliyetinde bulunmamak üzere meslekten çıkarılmaktır.
+
+Çıkmış sorulardan iki ayrıntı: Asgari ücret tarifesinin altında iş kabul etmenin cezası kınamadır. Geçici alıkoyma, yeminli sıfatını kaldırma ve meslekten çıkarma cezaları Hazine ve Maliye Bakanlığına ve ilgili kurumlara duyurulur.
+
+Hafıza cümlesi: Uyar, kına, geçici alıkoy, yeminliliği kaldır, tamamen çıkar.
 
 Şimdi sınav tarzında bir soru.
 
@@ -87,6 +91,6 @@ Bir. Yürürlükteki meslek unvanları ikidir: Serbest Muhasebeci Mali Müşavir
 
 Dört. Odaların organları: genel kurul, yönetim kurulu, denetleme kurulu ve disiplin kurulu. Üst kuruluş Türmob'dur.
 
-Beş. Dört disiplin cezası: uyarma, kınama, geçici olarak meslekten men ve meslekten çıkarma.
+Beş. Beş disiplin cezası: uyarma, kınama, geçici olarak mesleki faaliyetten alıkoyma, yeminli sıfatını kaldırma ve meslekten çıkarma. Geçici alıkoyma altı aydan az, bir yıldan fazla olamaz.
 
 Bir sonraki bölümde Meslek Ahlakı Yönetmeliği ve reklam yasağı konusuna geçeceğiz. Şimdi son dersimiz Sermaye Piyasası Mevzuatı.
