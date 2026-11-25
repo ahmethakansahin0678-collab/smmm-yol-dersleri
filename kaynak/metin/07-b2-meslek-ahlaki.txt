@@ -1,0 +1,72 @@
+BAŞLIK: Meslek Hukuku 2. Meslek ahlakı, reklam yasağı, sır saklama ve sorumluluk
+
+Meslek Hukuku ikinci bölüme hoş geldin. Bugün mesleğin davranış kurallarını işleyeceğiz: Meslek ahlakının temel ilkeleri, reklam yasağı, haksız rekabet, sır saklama, sözleşme ve ücret ve meslek mensubunun sorumluluğu. Bu konu, sınavda neredeyse her yıl birkaç soruyla karşına çıkar ve mantıkla çözülebilir.
+
+Önce temel ilkeler. Meslek mensubu, mesleğini yaparken şu ilkelere uymak zorundadır: Dürüstlük, tarafsızlık, bağımsızlık, mesleki özen ve yeterlilik, sır saklama ve meslek onuruna uygun davranış.
+
+Bir benzetme yap: Meslek mensubu, hem müşterisine hem de devlete ve topluma karşı bir güven köprüsüdür. Bu köprünün ayakları dürüstlük, tarafsızlık ve özendir.
+
+Şimdi reklam yasağı. Meslek mensupları reklam yapamaz. Bu, sınavın en sevdiği kurallardan biridir. Reklam yasağı şu anlama gelir: Meslek mensubu iş elde etmek amacıyla kendini öven, başkalarıyla kıyaslayan ya da müşteri çekmeye yönelik ilan, broşür, sosyal medya paylaşımı gibi faaliyetlerde bulunamaz. Kanunda ve yönetmelikte belirtilen sınırlar içinde tabela, kartvizit ve antetli kâğıt kullanılabilir. Bunlarda sadece ad, soyad, unvan ve iletişim bilgileri gibi izin verilen bilgiler yer alır.
+
+Unvan kullanma da sınırlıdır. Meslek mensubu, sahip olmadığı bir unvanı ya da kanunda yer almayan bir sıfatı kullanamaz. Mesela uzman vergi danışmanı gibi kendi uydurduğu bir sıfatı tabelasına yazamaz.
+
+Haksız rekabet. Meslek mensubu, başka bir meslektaşının müşterisini haksız yollarla elde etmeye çalışamaz. Aracı kullanarak iş toplayamaz. Belirlenen asgari ücret tarifesinin altında ücretle iş alamaz. Neden? Çünkü fiyat kırarak iş almak hem haksız rekabettir hem de hizmet kalitesini düşürür.
+
+Hafıza cümlesi: Reklam yok, uydurma unvan yok, aracı yok, tarifenin altında ücret yok.
+
+Şimdi sır saklama. Meslek mensubu, mesleki faaliyeti sırasında öğrendiği sırları açıklayamaz. Bu yükümlülük, müşteriyle ilişkisi bittikten sonra da devam eder. Ancak kanunun açıkça izin verdiği ya da zorunlu kıldığı hallerde, mesela yetkili makamların kanuna dayanan bilgi isteminde, bilgi verilir. Meslek mensubunun yanında çalışan personel ve stajyerler de aynı sır saklama yükümlülüğü altındadır.
+
+Şimdi sözleşme ve ücret. Meslek mensubu, iş sahibiyle yazılı sözleşme yapar. Sözleşmede işin kapsamı, ücret ve süre belirtilir. Ücret, meslek odalarınca belirlenip Bakanlıkça onaylanan asgari ücret tarifesinden düşük olamaz.
+
+Şimdi meslek mensubunun sorumluluğu. Burada üç farklı sorumluluk türünü ayırt et.
+
+Birincisi hukuki sorumluluk. Meslek mensubu, kusurlu davranışıyla müşterisine verdiği zarardan Borçlar Kanunu hükümlerine göre sorumludur.
+
+İkincisi vergisel sorumluluk. Meslek mensupları, imzaladıkları beyannamelerin ve tasdik ettikleri belgelerin doğruluğundan sorumludur. Kanunda belirtilen hallerde, bu beyanname ve belgelerden doğan vergi ziyaı ve cezalardan mükellefle birlikte sorumlu tutulabilirler. Yeminli Mali Müşavirler, tasdik ettikleri belgelerin gerçeğe aykırı olması halinde, bundan doğan vergi ve cezalardan mükellefle birlikte müştereken ve müteselsilen sorumludur.
+
+Üçüncüsü disiplin sorumluluğu. Meslek ahlakı kurallarına aykırı davranış, ilk bölümde öğrendiğimiz disiplin cezalarına yol açar: uyarma, kınama, geçici olarak meslekten men ve meslekten çıkarma.
+
+Son olarak staj. Serbest Muhasebeci Mali Müşavirlik stajı üç yıldır. Staja başlamak için Türmob'un yaptığı staja giriş sınavını başarmak gerekir. Staj, meslek mensubunun yanında ya da mevzuatta sayılan kamu kurumlarında yapılabilir. Stajyer, staj süresince stajyer unvanını kullanır ve tek başına meslek faaliyetinde bulunamaz. Staj bitince yeterlilik sınavına girilir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Aşağıdakilerden hangisi meslek ahlakı kurallarına göre meslek mensubunun yapabileceği bir davranıştır?
+A şıkkı: Sosyal medyada en ucuz muhasebeci benim diye ilan vermek.
+B şıkkı: Asgari ücret tarifesinin altında ücretle iş almak.
+C şıkkı: Tabelasında adı, soyadı ve meslek unvanını kullanmak.
+D şıkkı: Müşteri getiren kişilere komisyon ödemek.
+E şıkkı: Kendine kanunda olmayan bir uzmanlık sıfatı vermek.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı. Ad, soyad ve meslek unvanı tabelada kullanılabilir. Diğer şıkların hepsi yasaktır: A reklamdır, B tarifenin altında ücrettir, D aracı kullanmaktır, E uydurma unvandır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Meslek mensubunun sır saklama yükümlülüğü, müşteriyle sözleşmesi sona erdiğinde de devam eder mi?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Evet, devam eder. Sır saklama yükümlülüğü ilişkinin bitmesiyle sona ermez. Sadece kanunun izin verdiği veya zorunlu kıldığı hallerde bilgi verilebilir.
+
+Dersin özeti.
+
+Bir. Temel ilkeler: dürüstlük, tarafsızlık, bağımsızlık, mesleki özen, sır saklama ve meslek onuruna uygun davranış.
+
+İki. Reklam yasaktır. Tabela ve kartvizitte sadece izin verilen bilgiler yer alır.
+
+Üç. Uydurma unvan, aracı kullanmak ve asgari ücret tarifesinin altında iş almak yasaktır.
+
+Dört. Sır saklama yükümlülüğü ilişki bittikten sonra da sürer ve çalışanları da kapsar.
+
+Beş. Meslek mensubunun hukuki, vergisel ve disiplin sorumluluğu vardır. Yeminli Mali Müşavir, gerçeğe aykırı tasdikten mükellefle birlikte müteselsilen sorumludur.

@@ -1,0 +1,94 @@
+BAŞLIK: Maliyet Muhasebesi 3. Sipariş ve safha maliyet sistemleri, eşdeğer birim
+
+Maliyet Muhasebesi üçüncü bölüme hoş geldin. Bugün iki maliyet sistemini ve sınavın hesaplama sorularının merkezindeki eşdeğer birim kavramını öğreneceğiz.
+
+Önce iki sistem.
+
+Sipariş maliyet sistemi: Müşterinin siparişine göre, birbirinden farklı ürünler üretilir. Her sipariş için ayrı bir maliyet kartı açılır ve maliyetler siparişe göre toplanır. Mobilya atölyesi, matbaa, inşaat, gemi yapımı, makine imalatı gibi.
+
+Safha maliyet sistemi: Birbirinin aynısı ürünler, sürekli ve seri olarak, belirli aşamalardan geçerek üretilir. Maliyetler safhalara, yani üretim aşamalarına göre toplanır. Çimento, şeker, un, kâğıt, tekstil iplik üretimi gibi.
+
+Bir benzetme: Sipariş sistemi bir terzidir, her müşteriye ayrı elbise diker ve her elbisenin maliyeti ayrı hesaplanır. Safha sistemi ise bir konfeksiyon fabrikasıdır, aynı gömlekten binlerce üretir ve maliyet toplam üretime bölünür.
+
+Hafıza cümlesi: Farklı ürün, sipariş. Aynı ürün, seri üretim, safha.
+
+Şimdi safha sisteminin kalbi: Eşdeğer birim. Dönem sonunda bazı ürünler yarı mamul halinde kalır. Bunlar tam bitmemiştir ama maliyetin bir kısmını tüketmişlerdir. Yarım bitmiş iki ürün, maliyet açısından bir bitmiş ürüne eşdeğerdir. Eşdeğer birim, yarı mamulleri tamamlanmış ürün cinsinden ifade etmektir.
+
+Önemli bir ayrıntı: Direkt ilk madde genellikle üretimin başında tamamen kullanılır. Dönüştürme maliyetleri ise, yani direkt işçilik ve genel üretim giderleri, üretim boyunca yavaş yavaş oluşur. Bu yüzden eşdeğer birim, ilk madde ve dönüştürme maliyeti için ayrı ayrı hesaplanır.
+
+Şimdi bir örnek. Dönem başında yarı mamul yok, hesabı basit tutalım.
+
+Dönem içinde bin birim üretime başlanıyor.
+Bunların sekiz yüzü tamamlanıyor.
+Dönem sonunda iki yüz birim yarı mamul kalıyor. Bu yarı mamuller ilk madde açısından yüzde yüz, dönüştürme açısından yüzde elli tamamlanmış durumda.
+
+Dönemin maliyetleri: Direkt ilk madde elli bin lira. Dönüştürme maliyetleri yirmi yedi bin lira.
+
+Birinci adım, eşdeğer birimler.
+
+İlk madde için: Tamamlanan sekiz yüz, artı yarı mamul iki yüz çarpı yüzde yüz, iki yüz. Toplam bin eşdeğer birim.
+
+Dönüştürme için: Tamamlanan sekiz yüz, artı yarı mamul iki yüz çarpı yüzde elli, yüz. Toplam dokuz yüz eşdeğer birim.
+
+İkinci adım, birim maliyetler.
+
+İlk madde: Elli bin bölü bin, elli lira.
+Dönüştürme: Yirmi yedi bin bölü dokuz yüz, otuz lira.
+Toplam birim maliyet seksen lira.
+
+Üçüncü adım, maliyetlerin dağıtılması.
+
+Tamamlanan mamuller: Sekiz yüz çarpı seksen, altmış dört bin lira.
+
+Dönem sonu yarı mamuller: İlk madde için iki yüz çarpı elli, on bin lira. Dönüştürme için yüz eşdeğer birim çarpı otuz, üç bin lira. Toplam on üç bin lira.
+
+Sağlama: Altmış dört bin artı on üç bin, yetmiş yedi bin. Toplam maliyet de elli bin artı yirmi yedi bin, yetmiş yedi bin. Tutuyor.
+
+Dönem başında yarı mamul olduğunda iki yöntem vardır. Ortalama maliyet yönteminde dönem başı yarı mamulün maliyeti dönemin maliyetleriyle birleştirilir. İlk giren ilk çıkar yönteminde ise önce dönem başı yarı mamuller tamamlanmış sayılır ve sadece bu dönemde yapılan iş eşdeğer birime katılır. Sınav sorusu hangi yöntemi istediğini belirtir.
+
+Son olarak fire. Üretimde kaybolan ya da bozulan ürünlere fire denir. Normal fire, üretim sürecinin doğası gereği kaçınılmaz olan firedir ve sağlam ürünlerin maliyetine dahil edilir. Normal olmayan fire ise kaçınılabilir firedir, ürün maliyetine yüklenmez, dönem gideri olarak altı yüz seksen dokuz numaralı hesaba yazılır.
+
+Hafıza cümlesi: Normal fire ürüne, normal olmayan fire döneme.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Bir işletmede dönem içinde beş yüz birim tamamlanmış, dönem sonunda yüz birim yarı mamul kalmıştır. Yarı mamuller dönüştürme maliyetleri açısından yüzde kırk tamamlanmıştır. Dönüştürme maliyetleri için eşdeğer birim sayısı kaçtır?
+A şıkkı: Altı yüz.
+B şıkkı: Beş yüz.
+C şıkkı: Beş yüz kırk.
+D şıkkı: Beş yüz altmış.
+E şıkkı: Dört yüz kırk.
+
+Düşün.
+
+[[10]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, beş yüz kırk. Tamamlanan beş yüz, artı yüz çarpı yüzde kırk, kırk. Toplam beş yüz kırk.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Çimento fabrikası ile mobilya atölyesinden hangisi safha maliyet sistemini kullanır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Çimento fabrikası. Aynı ürün seri halde ve aşamalar halinde üretilir. Mobilya atölyesi ise siparişe göre farklı ürünler ürettiği için sipariş maliyet sistemini kullanır.
+
+Dersin özeti.
+
+Bir. Farklı ürünler siparişe göre üretiliyorsa sipariş maliyet sistemi, aynı ürünler seri üretiliyorsa safha maliyet sistemi kullanılır.
+
+İki. Eşdeğer birim, yarı mamulleri tamamlanmış ürün cinsinden ifade eder.
+
+Üç. Eşdeğer birim eşittir tamamlanan birimler artı yarı mamul çarpı tamamlanma yüzdesi. İlk madde ve dönüştürme için ayrı hesaplanır.
+
+Dört. Birim maliyet, maliyetin eşdeğer birime bölünmesiyle bulunur.
+
+Beş. Normal fire ürün maliyetine, normal olmayan fire dönem giderine yazılır.

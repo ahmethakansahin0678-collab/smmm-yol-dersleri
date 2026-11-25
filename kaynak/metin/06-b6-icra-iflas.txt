@@ -1,0 +1,95 @@
+BAŞLIK: Hukuk 6. İcra ve iflas hukuku: takip yolları, itiraz ve süreler
+
+Hukuk altıncı bölüme hoş geldin. Bugün iki bin dört sayılı İcra ve İflas Kanununun temel kavramlarını işleyeceğiz. Bir alacak ödenmediğinde devletin gücüyle nasıl tahsil edildiğini öğreneceğiz. Bu konu, ilk bölümde gördüğümüz şüpheli alacaklarla da doğrudan bağlantılı, çünkü icra takibine konu olan alacak, vergi açısından şüpheli alacak sayılır.
+
+Önce takip yolları. Alacaklı, borçluya karşı şu yollarla takip başlatabilir.
+
+İlamsız takip: Elinde mahkeme kararı olmayan alacaklının başvurduğu yoldur. En yaygın takip türüdür.
+
+İlamlı takip: Alacaklının elinde bir mahkeme kararı, yani ilam varsa kullanılır.
+
+Kambiyo senetlerine dayalı takip: Alacak bir çek, bono veya poliçeye dayanıyorsa kullanılan, daha hızlı bir yoldur.
+
+Rehnin paraya çevrilmesi yoluyla takip: Alacak rehinle, mesela ipotekle güvence altına alınmışsa kullanılır.
+
+İflas yoluyla takip: Sadece iflasa tabi borçlulara, yani kural olarak tacirlere karşı kullanılabilir.
+
+Hafıza cümlesi: Kararsız, kararlı, senetli, rehinli ve iflas.
+
+Şimdi en yaygın yol olan ilamsız takibin işleyişi.
+
+Birinci adım: Alacaklı icra dairesine takip talebinde bulunur.
+
+İkinci adım: İcra dairesi borçluya ödeme emri gönderir.
+
+Üçüncü adım: Borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde borcu öder ya da itiraz eder.
+
+Borçlu itiraz ederse takip durur. Alacaklı takibe devam etmek için iki yoldan birini seçer.
+
+İtirazın kaldırılması: İcra mahkemesine başvurulur. Alacaklının elinde imzası ikrar edilmiş bir borç senedi gibi güçlü bir belge varsa kullanılır. İtirazın tebliğinden itibaren altı ay içinde istenebilir.
+
+İtirazın iptali davası: Genel mahkemede açılan bir davadır. İtirazın tebliğinden itibaren bir yıl içinde açılır.
+
+Hafıza cümlesi: Yedi gün itiraz. Kaldırma altı ay, iptal davası bir yıl.
+
+Borçlu süresinde itiraz etmezse, takip kesinleşir ve alacaklı haciz isteyebilir.
+
+Şimdi kambiyo senetlerine dayalı takip. Burada süreler farklıdır ve sınavda karıştırılmak istenir.
+
+Borçluya ödeme emri değil, kambiyo senetlerine özgü bir ödeme emri gönderilir.
+Ödeme süresi on gündür.
+Borca itiraz ve imzaya itiraz süresi ise beş gündür.
+Borçlunun itirazı, kural olarak takibi kendiliğinden durdurmaz. İtirazı icra mahkemesi inceler.
+
+Hafıza cümlesi: Kambiyoda on gün öde, beş gün itiraz et.
+
+Şimdi haciz. Takip kesinleşince alacaklı, borçlunun mallarının haczini ister. Haciz, borçlunun mallarına el konulması ve bunların satılarak alacağın ödenmesidir. Ancak bazı mallar haczedilemez. Borçlunun ve ailesinin zorunlu ev eşyaları, mesleğini sürdürmek için gerekli araçlar ve ücretin belirli bir kısmı gibi. Ücretten haciz, kural olarak ücretin dörtte birinden az olamaz ve borçlunun ve ailesinin geçimi için zorunlu olan kısım haczedilemez.
+
+Şimdi iflas. İflas, borçlunun tüm malvarlığının, tüm alacaklılar için birlikte tasfiye edilmesidir. Bireysel takipte tek alacaklı kendi alacağını tahsil eder, iflasta ise bütün alacaklılar sıraya girer.
+
+İflasa kural olarak tacirler tabidir. Tacir olmayan borçlular iflas edemez, onlara karşı haciz yoluyla takip yapılır.
+
+Konkordato ise borçlunun, alacaklılarıyla anlaşarak borçlarını belirli bir vade ve indirimle ödemesini sağlayan, iflası önlemeye yönelik bir yoldur. Mahkeme tarafından tasdik edilmesi gerekir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: İlamsız takipte borçlu, ödeme emrine kaç gün içinde itiraz etmelidir?
+A şıkkı: Üç gün.
+B şıkkı: Beş gün.
+C şıkkı: Yedi gün.
+D şıkkı: On gün.
+E şıkkı: On beş gün.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, yedi gün. Kambiyo senetlerine dayalı takipte ise itiraz süresi beş gün, ödeme süresi on gündür.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Borçlunun itirazı üzerine alacaklı, genel mahkemede itirazın iptali davasını kaç süre içinde açmalıdır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: İtirazın tebliğinden itibaren bir yıl içinde. İcra mahkemesinden itirazın kaldırılmasını ise altı ay içinde isteyebilir.
+
+Dersin özeti.
+
+Bir. Takip yolları: ilamsız, ilamlı, kambiyo senetlerine dayalı, rehnin paraya çevrilmesi ve iflas yoluyla takip.
+
+İki. İlamsız takipte ödeme ve itiraz süresi yedi gündür. İtiraz takibi durdurur.
+
+Üç. İtirazın kaldırılması altı ay, itirazın iptali davası bir yıl içinde istenir.
+
+Dört. Kambiyo senetlerine dayalı takipte ödeme süresi on gün, itiraz süresi beş gündür.
+
+Beş. İflasa kural olarak tacirler tabidir. Konkordato, iflası önlemeye yönelik bir anlaşma yoludur.

@@ -1,0 +1,205 @@
+BAŞLIK: Çıkmış Sorular 2026-2. Maliyet Muhasebesi
+
+İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Maliyet Muhasebesi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+
+[[bip]]
+Soru bir. Aşağıdakilerden hangisinde genel üretim giderlerini oluşturan kalemler birlikte doğru bir şekilde verilmiştir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Elektrik gideri, amortisman gideri, sarf malzemesi gideri.
+
+[[1]]
+
+[[bip]]
+Soru iki. Aşağıdaki üretim kayıplarından hangisi ek bir işleme tabi tutularak birinci kalite mamul niteliğine dönüştürülebilir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Kusurlu mamuller.
+
+[[1]]
+
+[[bip]]
+Soru üç. Bir üretim işletmesinde çalışılan fiili süre iki bin beş yüz Direkt İşçilik Saati (direkt işçilik)'dir. Fiili ücret saat başına iki yüz liradır. İşletme ise dönemde iki bin dört yüz direkt işçilik çalışılacağını ve saat ücretinin iki yüz on lira olacağını planlamıştır. Bu bilgilere göre direkt işçilik zaman ve ücret sapması aşağıdakilerden hangisinde sırasıyla doğru olarak verilmiştir?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: yirmi bir bin lira olumsuz, yirmi beş bin lira olumlu.
+
+[[1]]
+
+[[bip]]
+Soru dört. Standart maliyet sistemiyle ilgili aşağıdakilerden hangisi yanlıştır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Standart maliyet sisteminin her işletmede kurulması ve uygulanması kolaydır.
+
+[[1]]
+
+[[bip]]
+Soru beş. X Endüstri İşletmesinde direkt ilk madde ve malzeme gideri yüz yirmi bin lira, genel üretim gideri yüz otuz bin lira, dönem başı yarı mamul stok yirmi bin lira, dönem sonu yarı mamul stok yüz bin liradır. Dönemde iki bin birim mamulün üretimi tamamlanmış olup üretilen mamulün birim maliyeti yüz liradır. İşletmede direkt işçilik gideri kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: otuz bin lira.
+
+[[1]]
+
+[[bip]]
+Soru altı. Muhasebe bilgi sistemi ile ilgili aşağıdakilerden hangisi yanlıştır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Finansal muhasebe sadece işletme içi bilgi kullanıcılarının bilgi ihtiyacını karşılar.
+
+[[1]]
+
+[[bip]]
+Soru yedi. Dönemde on bin birim (br) mamul üreten işletmede üretimle ilgili katlanılan giderler aşağıdaki gibidir: Endirekt madde yüz bin lira, direkt ilk madde ve malzeme bir milyon lira, endirekt işçilik elli bin lira, direkt işçilik beş yüz bin lira, elektrik su ve doğalgaz iki yüz bin lira, çeşitli genel üretim gideri elli bin lira, makine amortismanları yüz elli bin lira. Bu işletmede birim başına genel üretim gideri kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: elli beş lira.
+
+[[1]]
+
+[[bip]]
+Soru sekiz. Bir. Satılan Mamuller Maliyeti Iki. Satılan Ticari Mallar Maliyeti Üç. Satılan Hizmet Maliyeti Dört. Diğer Satışların Maliyeti Beş. Satıştan İndirimler Yukarıdakilerden hangileri satışların maliyeti tablosunda yer almaz?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap, yani yanlış olan ifade: Yalnız beş.
+
+[[1]]
+
+[[bip]]
+Soru dokuz. yedi bölü A Seçeneğine göre aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Gider yansıtma hesapları “fiili maliyetlerin” uygulandığı durumlarda gider hesaplarında toplanan giderlerin tümünün; önceden saptanmış maliyet yöntemlerinin kullanılması durumunda ise bunlara göre saptanan giderlerin ilgili hesaplara yansıtılmasını sağlamak amacıyla kullanılır.
+
+[[1]]
+
+[[bip]]
+Soru on. yedi bölü A Seçeneğine göre yedi yüz otuz iki Genel Üretim Giderleri Bütçe Farkları hesabına ilişkin aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Fiili üretim giderleri ile maliyetlere yüklenen önceden saptanmış giderler arasındaki olumlu ya da olumsuz bütçe farklarının izlendiği hesaptır. Olumsuz farklar hesabın borcuna, olumlu farklar ise alacağına kaydedilir. Dönem sonunda bu hesap ilgili stok ve satış maliyeti hesaplarına aktarılarak kapatılır.
+
+[[1]]
+
+[[bip]]
+Soru on bir. Muhasebe Sistemi Uygulama Genel Tebliğlerine göre gider yerleriyle ilgili aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Gider yeri, üretim ve hizmetlerin yapıldığı ve maliyetlerin oluştuğu örgütün bir birimini ya da birim içindeki bir yeri ifade eder.
+
+[[1]]
+
+[[bip]]
+Soru on iki. A X İşletmesi sipariş maliyeti sistemini kullanmaktadır. Üretim yapılan dönemde A ve X siparişleri alınmıştır. Sipariş Anın direkt ilk madde ve malzeme gideri yüz bin lira, direkt işçilik gideri iki yüz bin liradır. X siparişinin direkt ilk madde ve malzeme gideri üç yüz bin lira, direkt işçilik gideri dört yüz bin liradır. İşletmede genel üretim giderleri sekiz yüz bin lira olup siparişlere direkt ilk madde ve malzeme gideri esas alınarak yüklenmektedir. X siparişinin toplam maliyeti kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: bir milyon üç yüz bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on üç. A Y Üretim İşletmesinde ilgili maliyet döneminde üretimle ilgili olarak katlanılan maliyetler şöyledir: Memur ücret ve gideri yüz bin lira, amortisman giderleri seksen bin lira, dışarıdan sağlanan fayda ve hizmetler giderleri elli bin lira, enerji giderleri yüz elli bin lira, direkt ilk madde ve malzeme gideri iki yüz bin lira, işletme malzemesi gideri altmış bin lira, direkt işçilik giderleri dört yüz bin lira. Dönem başı ve dönem sonu mamul ve yarı mamul stoku bulunmayan işletmede yüz adet mamul üretimi tamamlandığına göre birim başına şekillendirme (dönüştürme) maliyeti kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: sekiz bin dört yüz lira.
+
+[[1]]
+
+[[bip]]
+Soru on dört. A B Üretim İşletmesinde tek mamulün üretimi yapılmaktadır. Üretim döneminde yüz bin birim (br) mamul üretimi tamamlanmış, seksen bin brlik kısmı satılmıştır. Dönem başı mamul stoku bulunmayan işletmenin döneme ilişkin maliyet verileri şöyledir: Direkt ilk madde ve malzeme gideri bir milyon lira, direkt işçilik gideri üç yüz bin lira, genel üretim gideri beş yüz bin lira, dönem başı yarı mamul maliyeti yüz bin lira, dönem sonu yarı mamul maliyeti dört yüz bin lira. Dönemin satılan mamuller maliyeti kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: bir milyon iki yüz bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on beş. X, Y ve Z olmak üzere üç ayrı mamulün üretimini yapan bir işletme üretim döneminde ve ayrılma noktasında yüz seksen bin lira ortak maliyete katlanarak X mamulünden beş yüz kg, Y mamulünden dört yüz kg, Z mamulünden üç yüz kg üretmiştir. Mamullerin döneme ait satış fiyatları X için otuz lira bölü kg, Y için altmış lira bölü kg, Z için yetmiş lira bölü kgdır. İşletme ortak maliyetin mamullere dağıtımında Satış Değeri Yöntemini kullandığında Z mamulünün ortak maliyetten kg başına alacağı pay kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: iki yüz on lira.
+
+[[1]]
+
+[[bip]]
+Soru on altı. A Z Üretim İşletmesinde iki bin yirmi altı yılı Mayıs ve Haziran aylarında dönem sonu yarı mamul stoku bulunmamaktadır. Bu aylara ait maliyet verileri aşağıdadır: Mayıs iki bin yirmi altı Haziran iki bin yirmi altı Direkt ilk madde ve beş yüz bin lira altı yüz bin lira malzeme gideri Direkt işçilik gideri yüz bin lira yüz otuz beş bin lira Genel üretim gideri iki yüz bin lira yüz yetmiş beş bin lira Dönem başı yarı yirmi beş bin lira sıfır lira mamul stoku Üretilen mamul sekiz yüz yirmi beş bin lira ? maliyeti Dönem başı mamul kırk bin lira ? stoku Dönem sonu mamul ? otuz bin lira stoku Satılan mamul sekiz yüz kırk beş bin lira ? maliyeti Haziran iki bin yirmi altı ayının satılan mamul maliyeti kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: dokuz yüz bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on yedi. A D Üretim İşletmesinde iki bin yirmi altı yılı Mart ve Nisan aylarına ait üretim maliyet bilgileri aşağıda verilmiştir: Mart iki bin yirmi altı Nisan iki bin yirmi altı Dönem başı direkt ilk madde ve malzeme dört yüz elli bin lira ? stokları Dönem içi direkt ilk madde ve malzeme bir milyon elli bin lira ? alımları Dönem sonu direkt ilk madde ve malzeme üç yüz bin lira dört yüz elli bin lira stokları Direkt ilk madde ve bir milyon iki yüz bin lira ? malzeme giderleri Direkt işçilik giderleri iki yüz elli bin lira yüz kırk beş bin lira Genel üretim giderleri yedi yüz elli bin lira yüz doksan beş bin lira Üretim giderleri iki milyon iki yüz bin lira iki milyon dört yüz bin lira toplamı Nisan iki bin yirmi altı döneminde direkt ilk madde ve malzeme alım tutarı kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: iki milyon iki yüz on bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on sekiz. Safha (Evre) maliyet sistemini uygulayan bir işletme İlk Giren İlk Çıkar yöntemini kullanarak aylık maliyetlerini hesaplamaktadır. İşletmede Haziran iki bin yirmi altı ayına ilişkin bilgiler şöyledir: Dönem başı yarı mamul miktarı dört bin birim (br), dönemde üretimine başlanan on bin br, dönemde tamamlanan on iki bin br, dönem sonu yarı mamul stok miktarı iki bin br. Dönem sonu yarı mamullerin genel üretim gideri açısından tamamlanma derecesi yüzde otuzdur. Dönemin genel üretim giderleri dört yüz kırk bin lira ve dönemde eşdeğer birim başına genel üretim gideri kırk liradır. Dönemde üretim kaybı yoktur. Bu bilgilere göre dönem başı yarı mamullerin genel üretim gideri açısından tamamlanma derecesi aşağıdakilerden hangisidir?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: yüzde kırk.
+
+[[1]]
+
+[[bip]]
+Soru on dokuz. Safha (Evre) maliyet sistemini uygulayan bir işletme İlk Giren İlk Çıkar yöntemini kullanarak aylık maliyetlerini hesaplamaktadır. Dönemde üretim kaybı yoktur. Dönem içindeki fiziki hareketler şöyledir: • Dönem başı yarı mamul stok iki bin br; tamamlanma dereceleri: Direkt ilk madde ve malzeme (direkt ilk madde ve malzeme) yüzde yetmiş, direkt işçilik (D İ) ve genel üretim gideri (genel üretim giderleri) yüzde elli beş. • Dönemde üretimine başlanan elli bin br • Dönem sonu yarı mamul stok beş bin br; tamamlanma dereceleri: Direkt ilk madde ve malzeme yüzde yirmi, direkt işçilik ve genel üretim gideri yüzde kırk. Üretim maliyeti unsurları açısından eşdeğer mamul miktarları aşağıdakilerden hangisidir?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: direkt ilk madde ve malzeme kırk altı bin altı yüz br, D İ kırk yedi bin dokuz yüz br, genel üretim giderleri kırk yedi bin dokuz yüz br.
+
+[[1]]
+
+[[bip]]
+Soru yirmi. yedi bölü A Seçeneğine göre yetmiş sekiz Finansman Giderleri hesap grubuyla ilgili aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Bu grupta, işletmenin borçlandığı tutarla ilgili olarak katlanılan ve varlıkların maliyetine eklenmemiş bulunan faiz ve benzeri giderler ile yansıtma ve fark hesapları yer alır.
+
+[[1]]
+
+Maliyet Muhasebesi çıkmış soruları bitti. Takıldığın soruların konusunu, ilgili ders bölümünden tekrar dinle.

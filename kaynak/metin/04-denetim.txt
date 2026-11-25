@@ -1,0 +1,108 @@
+BAŞLIK: Ders 4. Muhasebe Denetimi: Denetim türleri, denetim riski ve görüş türleri
+
+Muhasebe Denetimi dersine hoş geldin. Bu bölümde denetimin ne olduğunu, denetim türlerini, denetim riski modelini ve denetçi görüş türlerini öğreneceğiz. Bu dört konu, denetim sorularının büyük bölümünü oluşturur.
+
+Denetim nedir? Denetim, ekonomik faaliyet ve olaylara ilişkin iddiaların, önceden belirlenmiş ölçütlere uygunluk derecesini araştırmak amacıyla, tarafsız olarak kanıt toplayan ve bu kanıtları değerlendirip sonuçları ilgililere bildiren sistematik bir süreçtir.
+
+Bu tanımda dört anahtar kelime var: iddia, ölçüt, kanıt ve rapor. Bir benzetme yapalım. Bir öğrenci sınav kâğıdında bir şey iddia eder. Öğretmenin elinde bir cevap anahtarı, yani ölçüt vardır. Öğretmen kâğıdı inceler, yani kanıt toplar. Sonunda bir not verir, yani rapor eder. Denetçi de aynısını işletmenin finansal tabloları için yapar.
+
+Şimdi denetim türleri. İki farklı sınıflandırma var.
+
+Amaçlarına göre üç tür denetim vardır.
+
+Birincisi finansal tablo denetimi. Finansal tabloların genel kabul görmüş muhasebe ilkelerine, ülkemizde Türkiye Finansal Raporlama Standartlarına uygun olup olmadığı denetlenir.
+
+İkincisi uygunluk denetimi. İşletmenin faaliyetlerinin yasalara, yönetmeliklere ya da yönetimin koyduğu kurallara uyup uymadığı denetlenir. Vergi denetimi buna güzel bir örnektir.
+
+Üçüncüsü faaliyet denetimi. Buna performans denetimi de denir. İşletmenin faaliyetlerinin etkinlik ve verimliliği değerlendirilir.
+
+Denetimi yapanlara göre de üç tür vardır.
+
+Bağımsız denetim: İşletmeyle bağı olmayan, dışarıdan bağımsız denetçilerin yaptığı denetimdir. Ülkemizde bağımsız denetçileri Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumu yetkilendirir. Kısaca Kamu Gözetim Kurumu deriz. Bu kurum aynı zamanda Bağımsız Denetim Standartlarını yayımlar.
+
+İç denetim: İşletmenin kendi bünyesindeki denetçilerin yaptığı denetimdir. İç denetçi işletmenin çalışanıdır.
+
+Kamu denetimi: Devlet adına yapılan denetimdir. Vergi müfettişleri ve Sayıştay denetçileri gibi.
+
+Şimdi sınavın en sevdiği konulardan birine geçelim: Denetim riski.
+
+Denetim riski, finansal tablolar önemli bir yanlışlık içerdiği halde, denetçinin uygun olmayan bir görüş verme riskidir. Yani yanlış bir tabloya temiz demek.
+
+Denetim riskinin üç bileşeni vardır. Bunu ezberle.
+
+Birincisi doğal risk. Buna yapısal risk de denir. Kontroller hiç yokmuş gibi düşünüldüğünde, bir hesabın doğası gereği yanlışlık içerme olasılığıdır. Mesela kasa hesabı, nakit kolay çalınabildiği için doğası gereği risklidir.
+
+İkincisi kontrol riski. Bir yanlışlığın işletmenin iç kontrol sistemi tarafından önlenememesi ya da tespit edilememesi riskidir.
+
+Üçüncüsü tespit riski. Buna bulgu riski de denir. Denetçinin uyguladığı denetim prosedürlerinin, var olan bir yanlışlığı ortaya çıkaramaması riskidir.
+
+Formül şudur: Denetim riski eşittir doğal risk çarpı kontrol riski çarpı tespit riski.
+
+İlk iki risk, yani doğal risk ve kontrol riski, işletmeye aittir. Denetçi bunları değiştiremez, sadece değerlendirir. Ama tespit riskini denetçi kontrol eder. Daha fazla kanıt toplayarak tespit riskini düşürebilir.
+
+Kural şu: Doğal risk ve kontrol riski yüksekse, denetçi tespit riskini düşük tutmalı, yani daha çok ve daha güçlü kanıt toplamalıdır. Ters orantı vardır.
+
+Bir örnek çözelim. Denetçi, kabul edilebilir denetim riskini yüzde beş olarak belirliyor. Doğal riski yüzde elli, kontrol riskini yüzde kırk olarak değerlendiriyor. Kabul edilebilir tespit riski nedir?
+
+Formülü ters çeviririz: Tespit riski eşittir denetim riski bölü doğal risk çarpı kontrol riski.
+
+Doğal risk çarpı kontrol riski: Sıfır virgül elli çarpı sıfır virgül kırk, sıfır virgül yirmi.
+
+Sıfır virgül sıfır beş bölü sıfır virgül yirmi, sıfır virgül yirmi beş. Yani tespit riski yüzde yirmi beş.
+
+Şimdi denetçi görüş türleri. Dört görüş vardır.
+
+Birincisi olumlu görüş. Eskiden temiz görüş denirdi. Finansal tablolar, tüm önemli yönleriyle gerçeğe uygun sunulmuştur.
+
+İkincisi şartlı görüş. Önemli bir yanlışlık var ama yaygın değil. Yani sorun belirli bir kalemle sınırlı.
+
+Üçüncüsü olumsuz görüş. Önemli ve yaygın yanlışlık var. Finansal tablolar bir bütün olarak gerçeği yansıtmıyor.
+
+Dördüncüsü görüş bildirmekten kaçınma. Denetçi yeterli ve uygun denetim kanıtı elde edemedi ve bunun olası etkileri hem önemli hem yaygın olabilir.
+
+Hafıza cümlesi: Sorun var ama sınırlı ise şartlı. Sorun yaygın ise olumsuz. Kanıt yok ve etkisi yaygın ise kaçınma.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Denetçi, işletmenin stok kalemlerinde önemli bir yanlışlık tespit ediyor. Bu yanlışlık finansal tabloların geri kalanını etkilemiyor, yani yaygın değil. Denetçi hangi görüşü vermelidir?
+A şıkkı: Olumlu görüş.
+B şıkkı: Olumsuz görüş.
+C şıkkı: Şartlı görüş.
+D şıkkı: Görüş bildirmekten kaçınma.
+E şıkkı: Belirsiz görüş.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, şartlı görüş. Yanlışlık önemli ama yaygın değil. Yaygın olsaydı olumsuz görüş verilirdi. E şıkkındaki belirsiz görüş diye bir görüş türü yoktur. Bu, senin soru bankanda da sorulan bir tuzaktır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Denetim riskinin üç bileşeninden hangisi denetçinin doğrudan kontrolündedir?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Tespit riski. Doğal risk ve kontrol riski işletmeye aittir, denetçi sadece değerlendirir. Tespit riskini ise topladığı kanıtın miktarı ve niteliği ile denetçi belirler.
+
+Dersin özeti.
+
+Bir. Denetimin dört anahtar kelimesi: iddia, ölçüt, kanıt ve rapor.
+
+İki. Amaçlarına göre denetim türleri: finansal tablo denetimi, uygunluk denetimi ve faaliyet denetimi.
+
+Üç. Denetim riski eşittir doğal risk çarpı kontrol riski çarpı tespit riski.
+
+Dört. Denetçi sadece tespit riskini kontrol eder. Doğal ve kontrol riski yüksekse tespit riski düşük tutulur.
+
+Beş. Dört görüş türü: olumlu, şartlı, olumsuz ve görüş bildirmekten kaçınma. Belirsiz görüş diye bir şey yoktur.
+
+Bir sonraki bölümde önemlilik kavramına ve denetim kanıtı türlerine geçeceğiz. Şimdi sıradaki dersimiz Vergi Mevzuatı.

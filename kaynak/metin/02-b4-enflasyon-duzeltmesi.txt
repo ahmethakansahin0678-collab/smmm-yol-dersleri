@@ -1,0 +1,82 @@
+BAŞLIK: Finansal Tablolar ve Analizi 4. Enflasyon düzeltmesi: parasal ve parasal olmayan kalemler
+
+Finansal Tablolar dördüncü bölüme hoş geldin. Bugün son yıllarda Türkiye'de muhasebenin en çok konuşulan konusunu işleyeceğiz: Enflasyon düzeltmesi.
+
+Neden enflasyon düzeltmesi gerekir? On yıl önce yüz bin liraya aldığın bir arsa, bugün bilançoda hâlâ yüz bin lira görünüyorsa, bilanço gerçeği yansıtmaz. Paranın satın alma gücü değiştiği için, farklı yıllarda yazılmış tutarlar aynı birimle ölçülmüş sayılmaz. Bir metre ile bir ayağı toplamak gibi. Enflasyon düzeltmesi, tüm tutarları bilanço tarihindeki paranın satın alma gücüne çevirir.
+
+İki düzenleme vardır. Vergi açısından Vergi Usul Kanununun mükerrer iki yüz doksan sekizinci maddesi. Finansal raporlama açısından ise TMS yirmi dokuz, Yüksek Enflasyonlu Ekonomilerde Finansal Raporlama standardı. Hangi hesap dönemlerinde düzeltme yapılacağı kanunla değişebildiği için, sınavdan önce güncel durumu mutlaka kontrol et.
+
+Şimdi en önemli ayrım: Parasal ve parasal olmayan kalemler.
+
+Parasal kalemler, değeri para birimi olarak sabit olan kalemlerdir. Kasa, banka, alacaklar ve borçlar. Bunlar düzeltilmez. Çünkü yüz bin lira alacak, yıl sonunda da yüz bin lira alacaktır. Enflasyon onu değiştirmez, ama satın alma gücünü eritir.
+
+Parasal olmayan kalemler ise stoklar, duran varlıklar ve özkaynaklardır. Bunlar düzeltilir.
+
+Hafıza cümlesi: Para, alacak ve borç parasaldır, düzeltilmez. Mal, varlık ve sermaye parasal değildir, düzeltilir.
+
+Düzeltme nasıl yapılır? Her parasal olmayan kalem, bir düzeltme katsayısıyla çarpılır. Düzeltme katsayısı, bilanço tarihindeki fiyat endeksinin, o kalemin ilk kayda alındığı tarihteki endekse bölünmesiyle bulunur. Vergi Usul Kanunu uygulamasında Yurt İçi Üretici Fiyat Endeksi kullanılır.
+
+Örnek. Bir arsa, endeksin bin olduğu bir tarihte yüz bin liraya alınmış. Bilanço tarihinde endeks bin beş yüz.
+
+Düzeltme katsayısı: Bin beş yüz bölü bin, bir virgül beş.
+
+Düzeltilmiş tutar: Yüz bin çarpı bir virgül beş, yüz elli bin lira.
+
+Düzeltme farkı: Elli bin lira.
+
+Kayıt: İki yüz elli Arazi ve Arsalar elli bin lira borç, altı yüz doksan sekiz Enflasyon Düzeltmesi Hesabı elli bin lira alacak.
+
+Şimdi aynı dönemde, endeksin bin olduğu tarihte koyulmuş iki yüz bin lira sermaye olduğunu düşün.
+
+Düzeltilmiş sermaye: İki yüz bin çarpı bir virgül beş, üç yüz bin lira. Düzeltme farkı yüz bin lira.
+
+Kayıt: Altı yüz doksan sekiz Enflasyon Düzeltmesi Hesabı yüz bin lira borç, beş yüz iki Sermaye Düzeltmesi Olumlu Farkları yüz bin lira alacak.
+
+Dikkat: Sermayenin kendisi, yani beş yüz numaralı hesap değişmez. Fark, beş yüz iki numaralı ayrı bir hesapta gösterilir.
+
+Şimdi altı yüz doksan sekizin anlamı. Varlıkların düzeltmesi bu hesaba alacak, özkaynakların düzeltmesi borç yazılır. Dönem sonunda bu hesabın bakiyesi, işletmenin parasal pozisyonundan doğan kazanç ya da kaybı gösterir.
+
+Bunu sezgiyle anla: Enflasyonda nakit ve alacak tutan taraf kaybeder, çünkü paranın değeri erir. Borçlu olan taraf kazanır, çünkü borcunu değeri düşmüş parayla öder. Yukarıdaki örnekte varlık düzeltmesi elli bin, sermaye düzeltmesi yüz bin. Altı yüz doksan sekiz, elli bin borç bakiye verir. Bu, işletmenin elli bin lira parasal kaybı olduğunu gösterir. Çünkü sermayenin bir kısmı, değeri eriyen parasal kalemlerle tutulmuştur.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Enflasyon düzeltmesinde aşağıdaki kalemlerden hangisi düzeltmeye tabi tutulmaz?
+A şıkkı: Ticari mallar.
+B şıkkı: Binalar.
+C şıkkı: Ticari alacaklar.
+D şıkkı: Sermaye.
+E şıkkı: Arsalar.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, ticari alacaklar. Alacaklar parasal kalemdir ve düzeltilmez. Stoklar, duran varlıklar ve özkaynaklar parasal olmayan kalemlerdir ve düzeltilir.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: İlk kayıt tarihindeki endeks iki bin, bilanço tarihindeki endeks üç bin ise, kırk bin liralık bir makinenin düzeltilmiş tutarı nedir?
+
+[[8]]
+
+[[bip]]
+
+Cevap: Altmış bin lira. Katsayı üç bin bölü iki bin, bir virgül beş. Kırk bin çarpı bir virgül beş, altmış bin. Düzeltme farkı yirmi bin lira.
+
+Dersin özeti.
+
+Bir. Enflasyon düzeltmesi, tüm tutarları bilanço tarihindeki satın alma gücüne çevirir.
+
+İki. Parasal kalemler, yani nakit, alacak ve borçlar düzeltilmez. Stoklar, duran varlıklar ve özkaynaklar düzeltilir.
+
+Üç. Düzeltme katsayısı eşittir bilanço tarihi endeksi bölü ilk kayıt tarihi endeksi.
+
+Dört. Varlık düzeltmeleri altı yüz doksan sekize alacak, özkaynak düzeltmeleri borç yazılır. Sermaye farkı beş yüz ikide gösterilir.
+
+Beş. Enflasyonda parasal varlık tutan kaybeder, parasal borç tutan kazanır.

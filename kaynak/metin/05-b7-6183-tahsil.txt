@@ -1,0 +1,82 @@
+BAŞLIK: Vergi Mevzuatı 7. Altı bin yüz seksen üç sayılı Kanun: amme alacaklarının tahsili
+
+Vergi Mevzuatı yedinci bölüme hoş geldin. Bugün vergi ve diğer kamu alacaklarının nasıl tahsil edildiğini düzenleyen altı bin yüz seksen üç sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunu işleyeceğiz. İcra İflas Kanununun devlet için olan versiyonu gibi düşünebilirsin.
+
+Önce amme alacağı. Devlete, il özel idarelerine ve belediyelere ait vergi, resim, harç, ceza, gecikme zammı ve faiz gibi alacaklara amme alacağı denir.
+
+Vade. Amme alacağının ödenmesi gereken son gündür. Vergi kanunlarında, her vergi için ödeme süresi ayrıca belirtilmiştir.
+
+Gecikme zammı. Amme alacağı vadesinde ödenmezse, vadenin bitiminden itibaren her ay için gecikme zammı uygulanır. Oranı Cumhurbaşkanı belirler. Ay kesirleri için gün hesabıyla uygulanır.
+
+Gecikme zammını, Vergi Usul Kanunundaki gecikme faiziyle karıştırma. Gecikme faizi, vergi incelemesi sonucunda sonradan tarh edilen vergiler için, normal vadeden tahakkuka kadar geçen süre için uygulanır. Gecikme zammı ise tahakkuk etmiş bir verginin vadesinde ödenmemesinin sonucudur.
+
+Hafıza cümlesi: Tahakkuktan önceki gecikme faiz, vadeden sonraki gecikme zam.
+
+Şimdi ödeme emri. Amme alacağı vadesinde ödenmezse, tahsil dairesi borçluya bir ödeme emri gönderir. Ödeme emrinde, borcun yedi gün içinde ödenmesi ya da mal bildiriminde bulunulması istenir.
+
+Borçlu, ödeme emrine karşı, tebliğinden itibaren on beş gün içinde vergi mahkemesinde dava açabilir. Dava açma sebepleri sınırlıdır: Böyle bir borcun olmadığı, borcun kısmen ödendiği veya zamanaşımına uğradığı ileri sürülebilir.
+
+Hafıza cümlesi: Yedi gün içinde öde ya da mal bildir. On beş gün içinde dava aç.
+
+Ödeme emrine rağmen borç ödenmezse veya mal bildirilmezse, tahsil dairesi borçlunun mallarını haczeder.
+
+Şimdi teminat ve ihtiyati tedbirler.
+
+İhtiyati haciz: Borçlunun mal kaçırma ihtimali gibi durumlarda, amme alacağı henüz kesinleşmeden önce, borçlunun mallarına haciz konulmasıdır.
+
+İhtiyati tahakkuk: Vergi henüz tahakkuk etmeden, belirli hallerde vergi alacağının önceden tahakkuk ettirilmesidir.
+
+Şimdi sorumluluk. Bu konu, bir mali müşavirin müşterilerine mutlaka anlatması gereken bir konu.
+
+Kanuni temsilcilerin sorumluluğu: Tüzel kişilerin, yani şirketlerin, amme borçları şirketin varlığından tahsil edilemezse, kanuni temsilcilerin, yani müdürlerin ve yönetim kurulu üyelerinin şahsi mallarından tahsil edilir. Bu, kanunun mükerrer otuz beşinci maddesinde düzenlenir.
+
+Limited şirket ortaklarının sorumluluğu: Limited şirket ortakları, şirketten tahsil edilemeyen amme alacaklarından, sermaye payları oranında sorumludur. Bu, otuz beşinci maddede düzenlenir. Hukuk dersinde limited şirketi anlatırken bu kurala değinmiştik.
+
+Şimdi zamanaşımı. Amme alacağı, vadesinin rastladığı takvim yılını takip eden yılın başından itibaren beş yıl içinde tahsil edilmezse zamanaşımına uğrar. Bazı işlemler, örneğin ödeme emri tebliği veya haciz, zamanaşımını keser ve süre yeniden başlar.
+
+Vergi Usul Kanunundaki tarh zamanaşımıyla karıştırma: O, verginin tarh edilip tebliğ edilmesi içindir. Buradaki ise tahakkuk etmiş verginin tahsili içindir.
+
+Taksitlendirme. Borçlunun, amme alacağını vadesinde ödemesi veya haciz yoluyla tahsil edilmesi durumunda çok zor duruma düşecek olması halinde, teminat göstermesi şartıyla borcu otuz altı aya kadar tecil edilip taksitlendirilebilir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Altı bin yüz seksen üç sayılı Kanuna göre ödeme emrine karşı vergi mahkemesinde dava açma süresi kaç gündür?
+A şıkkı: Yedi gün.
+B şıkkı: On gün.
+C şıkkı: On beş gün.
+D şıkkı: Otuz gün.
+E şıkkı: Altmış gün.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, on beş gün. Yedi gün ise ödeme emrinde istenen ödeme veya mal bildirimi süresidir. İkisini karıştırma.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bir anonim şirketin vergi borcu şirketin varlığından tahsil edilemezse kimin şahsi mallarına başvurulur?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Kanuni temsilcilerin, yani yönetim kurulu üyelerinin veya şirketi temsile yetkili kişilerin.
+
+Dersin özeti.
+
+Bir. Vadesinde ödenmeyen amme alacağına her ay için gecikme zammı uygulanır.
+
+İki. Gecikme faizi tahakkuktan önceki dönem için, gecikme zammı vadeden sonraki dönem için uygulanır.
+
+Üç. Ödeme emri: yedi gün içinde öde ya da mal bildir. Dava açma süresi on beş gün.
+
+Dört. Kanuni temsilciler ve limited şirket ortakları, tahsil edilemeyen amme alacaklarından sorumlu tutulabilir.
+
+Beş. Tahsil zamanaşımı beş yıldır. Tecil ve taksitlendirme otuz altı aya kadar yapılabilir.

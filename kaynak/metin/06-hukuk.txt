@@ -1,0 +1,92 @@
+BAŞLIK: Ders 6. Hukuk: Tacir, ticari işletme ve şirket türleri
+
+Hukuk dersine hoş geldin. Hukuk dersi sınavda dört alanı kapsar: Ticaret Hukuku, Borçlar Hukuku, İş ve Sosyal Güvenlik Hukuku ve İcra İflas Hukuku. Bu ilk bölümde Ticaret Hukukunun temeli olan tacir ve ticari işletme kavramlarını, şirket türlerini ve sınavda sık karşına çıkacak birkaç borçlar hukuku kuralını öğreneceğiz.
+
+Önce ticari işletme. Türk Ticaret Kanununun on birinci maddesine göre ticari işletme, esnaf işletmesi için öngörülen sınırı aşan düzeyde gelir sağlamayı hedef tutan faaliyetlerin, devamlı ve bağımsız şekilde yürütüldüğü işletmedir.
+
+Bu tanımda üç unsur var. Esnaf sınırını aşmak, devamlılık ve bağımsızlık.
+
+Şimdi tacir. Türk Ticaret Kanununun on ikinci maddesine göre, bir ticari işletmeyi kısmen de olsa kendi adına işleten kişiye tacir denir.
+
+Burada dikkat. Senin soru bankanda tacir tanımı, kanunun ikinci maddesine bağlanmış. Bu yanlış. Tacir tanımı on ikinci maddededir. Ayrıca anahtar ifade, ticari işletmeyi kendi adına işletmektir.
+
+Bir benzetme. Bir restoranın sahibi, restoranı kendi adına işletiyorsa tacirdir. Restoranın müdürü ise restoranı işletir ama kendi adına değil, sahibi adına işletir. Bu yüzden müdür tacir değildir.
+
+Tüzel kişiler de tacir olabilir. Ticaret şirketleri, yani kollektif, komandit, anonim, limited şirketler ve kooperatifler tacir sayılır.
+
+Şimdi çok sorulan bir kural: Ticari iş karinesi. Türk Ticaret Kanununun on dokuzuncu maddesine göre, bir tacirin borçlarının ticari olması asıldır. Yani bir tacir borçlandığında, o borcun ticari işletmesiyle ilgili olduğu varsayılır. Gerçek kişi tacir, işlemi yaparken bunun ticari olmadığını karşı tarafa açıkça bildirmişse ya da durum bunu gösteriyorsa, borç adi borç sayılır.
+
+Şimdi şirket türlerine geçelim. Ticaret şirketleri beş tanedir: Kollektif şirket, komandit şirket, anonim şirket, limited şirket ve kooperatif.
+
+Bunlar iki gruba ayrılır.
+
+Şahıs şirketleri: Kollektif ve komandit şirket. Burada ortakların kişiliği önemlidir ve ortaklar şirket borçlarından şahsen sorumludur.
+
+Sermaye şirketleri: Anonim şirket, limited şirket ve sermayesi paylara bölünmüş komandit şirket. Burada sermaye ön plandadır.
+
+Kooperatif ise ayrı bir türdür.
+
+Adi ortaklık ise bir ticaret şirketi değildir. Tüzel kişiliği yoktur ve Türk Borçlar Kanununa tabidir. Kanuni bir asgari sermaye şartı da yoktur.
+
+Şimdi en çok sorulan iki şirket türünü karşılaştıralım.
+
+Anonim şirket. Tek bir ortakla kurulabilir. Esas sermaye sisteminde asgari sermaye iki yüz elli bin liradır. Kayıtlı sermaye sistemini kabul eden halka açık olmayan anonim şirketlerde başlangıç sermayesi en az beş yüz bin liradır. Pay sahipleri, şirket borçlarından değil, sadece taahhüt ettikleri sermaye payıyla şirkete karşı sorumludur.
+
+Limited şirket. Tek bir ortakla kurulabilir, en fazla elli ortağı olabilir. Asgari sermayesi elli bin liradır. Ortaklar da kural olarak taahhüt ettikleri sermaye ile sorumludur. Ancak önemli bir istisna var: Limited şirket ortakları, şirketten tahsil edilemeyen amme alacaklarından, yani vergi ve sosyal güvenlik borçlarından, sermaye payları oranında sorumludur.
+
+Bu asgari sermaye tutarları, Cumhurbaşkanı kararıyla iki bin yirmi dört yılı başından itibaren uygulanmaktadır. Sınava girmeden önce güncelliğini kontrol et.
+
+Hafıza cümlesi: Anonimde iki yüz elli bin, limitedde elli bin, limitedde en fazla elli ortak.
+
+Şimdi borçlar hukukundan bir kural: Zamanaşımı. Türk Borçlar Kanununa göre genel zamanaşımı süresi on yıldır. Kira, faiz, ücret gibi dönemsel edimlerde ve bazı özel alacaklarda ise süre beş yıldır.
+
+Burada da dikkat. Senin soru bankanda genel zamanaşımı üç yıl olarak işaretlenmiş. Bu yanlış. Doğrusu on yıldır.
+
+Bir de çek konusunda bir düzeltme. Çeki düzenleyen kişiye keşideci denir. Çek, keşidecinin imzasıyla düzenlenir, yani keşide edilir. Hamil, yani çeki elinde tutan kişi, çeki imzalamaz. Soru bankandaki çek sorusunda verilen cevap da bu nedenle hatalı.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Türk Ticaret Kanununa göre aşağıdakilerden hangisi tacir sıfatını kazanmaz?
+A şıkkı: Bir ticari işletmeyi kendi adına işleten gerçek kişi.
+B şıkkı: Anonim şirket.
+C şıkkı: Limited şirket.
+D şıkkı: Kooperatif.
+E şıkkı: Bir ticari işletmeyi başkası adına işleten müdür.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap E şıkkı. Müdür işletmeyi işletir ama kendi adına değil, işletme sahibi adına işletir. Tacir olmanın anahtarı, işletmeyi kendi adına işletmektir. Ticaret şirketleri ve kooperatifler ise kanun gereği tacirdir.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Limited şirket en fazla kaç ortaklı olabilir ve ortaklar amme alacaklarından nasıl sorumludur?
+
+[[6]]
+
+[[bip]]
+
+Cevap: En fazla elli ortak. Ortaklar, şirketten tahsil edilemeyen amme alacaklarından sermaye payları oranında sorumludur.
+
+Dersin özeti.
+
+Bir. Ticari işletmenin üç unsuru: esnaf sınırını aşmak, devamlılık ve bağımsızlık.
+
+İki. Tacir, ticari işletmeyi kısmen de olsa kendi adına işleten kişidir. Bu, Türk Ticaret Kanununun on ikinci maddesidir.
+
+Üç. Bir tacirin borçlarının ticari olması asıldır. Bu, on dokuzuncu maddedir.
+
+Dört. Ticaret şirketleri beştir: kollektif, komandit, anonim, limited ve kooperatif. Adi ortaklık ticaret şirketi değildir.
+
+Beş. Anonim şirkette asgari sermaye iki yüz elli bin, limited şirkette elli bin liradır. Limitedde en fazla elli ortak olur.
+
+Altı. Türk Borçlar Kanununda genel zamanaşımı on yıldır.
+
+Bir sonraki Hukuk bölümünde İş Kanununa, kıdem ve ihbar tazminatına geçeceğiz. Şimdi sıradaki dersimiz Meslek Hukuku.

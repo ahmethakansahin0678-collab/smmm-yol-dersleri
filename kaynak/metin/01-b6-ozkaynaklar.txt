@@ -1,0 +1,96 @@
+BAŞLIK: Finansal Muhasebe 6. Özkaynaklar: kuruluş, sermaye artırımı ve kâr dağıtımı kayıtları
+
+Finansal Muhasebe altıncı bölüme hoş geldin. Bugün beş numaralı Özkaynaklar sınıfını işleyeceğiz. Şirketin kuruluşu, sermaye artırımı ve kâr dağıtımının muhasebe kayıtları. Hukuk dersinde öğrendiğin yedek akçeler burada kayda dönüşecek.
+
+Önce gruplar.
+
+Elli Ödenmiş Sermaye. Beş yüz Sermaye ve beş yüz bir Ödenmemiş Sermaye. Beş yüz bir eksi karakterlidir.
+Elli iki Sermaye Yedekleri. Beş yüz yirmi Hisse Senedi İhraç Primleri.
+Elli dört Kâr Yedekleri. Beş yüz kırk Yasal Yedekler, beş yüz kırk bir Statü Yedekleri, beş yüz kırk iki Olağanüstü Yedekler.
+Elli yedi Geçmiş Yıllar Kârları. Beş yüz yetmiş.
+Elli sekiz Geçmiş Yıllar Zararları. Beş yüz seksen, eksi karakterli.
+Elli dokuz Dönem Net Kârı veya Zararı. Beş yüz doksan Dönem Net Kârı, beş yüz doksan bir Dönem Net Zararı.
+
+Şimdi anonim şirketin kuruluşu. İki aşama var: Taahhüt ve ödeme.
+
+Örnek: Bir milyon lira sermayeli bir anonim şirket kuruluyor. Türk Ticaret Kanununa göre nakdi sermayenin en az dörtte biri tescilden önce ödenir, kalanı tescilden sonra yirmi dört ay içinde ödenir.
+
+Taahhüt kaydı: Beş yüz bir Ödenmemiş Sermaye bir milyon lira borç, beş yüz Sermaye bir milyon lira alacak.
+
+Dörtte birin ödenmesi: Yüz iki Bankalar iki yüz elli bin lira borç, beş yüz bir Ödenmemiş Sermaye iki yüz elli bin lira alacak.
+
+Bu durumda bilançoda sermaye bir milyon görünür, ama altında eksi yedi yüz elli bin ödenmemiş sermaye yer alır. Ödenmiş sermaye iki yüz elli bindir.
+
+Şimdi sermaye artırımı. İki yol var.
+
+Dış kaynaklardan, yani bedelli artırım: Ortaklar yeni para koyar. Taahhüt ve ödeme kayıtları kuruluştaki gibidir.
+
+İç kaynaklardan, yani bedelsiz artırım: Şirketin kendi yedekleri sermayeye eklenir. Ortaklar para koymaz, ama ellerindeki pay sayısı artar. Kayıt: Olağanüstü yedekler veya geçmiş yıllar kârları borç, beş yüz Sermaye alacak. Özkaynak toplamı değişmez, sadece özkaynak içinde yer değiştirme olur.
+
+Primli pay ihracı: Paylar nominal değerinin üzerinde satılırsa, aradaki fark beş yüz yirmi Hisse Senedi İhraç Primleri hesabına alacak yazılır. Örnek: Nominali yüz bin lira olan paylar yüz yirmi bin liraya satılıyor. Yüz iki Bankalar yüz yirmi bin borç, beş yüz bir Ödenmemiş Sermaye yüz bin alacak, beş yüz yirmi Hisse Senedi İhraç Primleri yirmi bin alacak.
+
+Şimdi kâr dağıtımı. Önce dönem net kârı, genel kurul kararından önce geçmiş yıllar kârlarına aktarılır. Beş yüz doksan borç, beş yüz yetmiş alacak.
+
+Sonra genel kurul kararıyla dağıtım yapılır. Bir örnekle gidelim.
+
+Ödenmiş sermaye bir milyon lira. Vergi sonrası dönem net kârı iki yüz bin lira. Genel kurul, ortaklara yüz bin lira kâr payı dağıtılmasına karar veriyor.
+
+Birinci tertip yasal yedek: Kârın yüzde beşi, on bin lira.
+
+Birinci kâr payı: Sermayenin yüzde beşi, elli bin lira. Bu, ikinci tertibin hesabında eşik olarak kullanılır.
+
+İkinci tertip yasal yedek: Ortaklara dağıtılacak yüz binin, birinci yüzde beşlik kâr payını aşan kısmının yüzde onu. Yüz bin eksi elli bin, elli bin. Yüzde onu, beş bin lira.
+
+Kalan, olağanüstü yedek: İki yüz bin eksi on bin, eksi yüz bin, eksi beş bin. Seksen beş bin lira.
+
+Kayıt: Beş yüz yetmiş Geçmiş Yıllar Kârları iki yüz bin lira borç.
+Beş yüz kırk Yasal Yedekler on beş bin lira alacak. Birinci ve ikinci tertip toplamı.
+Üç yüz otuz bir Ortaklara Borçlar yüz bin lira alacak.
+Beş yüz kırk iki Olağanüstü Yedekler seksen beş bin lira alacak.
+
+Kâr payı ödendiğinde: Üç yüz otuz bir borç, banka alacak. Ayrıca kâr payı ödemelerinde, kanunda belirtilen hallerde vergi kesintisi yapılır.
+
+Hafıza cümlesi: Önce beş yüz doksandan beş yüz yetmişe. Sonra yasal yedek beş yüz kırka, ortak payı üç yüz otuz bire, kalan olağanüstü yedek beş yüz kırk ikiye.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Olağanüstü yedeklerden karşılanan bedelsiz sermaye artırımının özkaynak toplamına etkisi nedir?
+A şıkkı: Özkaynak toplamı artar.
+B şıkkı: Özkaynak toplamı azalır.
+C şıkkı: Özkaynak toplamı değişmez.
+D şıkkı: Yabancı kaynaklar artar.
+E şıkkı: Dönen varlıklar artar.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı. Beş yüz kırk iki borç, beş yüz alacak. İki hesap da özkaynak içinde olduğu için toplam değişmez.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Nominal değeri elli bin lira olan paylar altmış beş bin liraya satılırsa, ihraç primi kaç liradır ve hangi hesaba yazılır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: On beş bin lira. Beş yüz yirmi Hisse Senedi İhraç Primleri hesabına alacak yazılır.
+
+Dersin özeti.
+
+Bir. Taahhütte beş yüz bir borç, beş yüz alacak. Ödemede banka borç, beş yüz bir alacak.
+
+İki. Nakdi sermayenin en az dörtte biri tescilden önce ödenir.
+
+Üç. Bedelsiz sermaye artırımı özkaynak toplamını değiştirmez.
+
+Dört. Nominal değerin üzerindeki satış farkı beş yüz yirmi ihraç primleri hesabına yazılır.
+
+Beş. Kâr dağıtımında yasal yedek beş yüz kırk, ortaklara kâr payı üç yüz otuz bir, kalan olağanüstü yedek beş yüz kırk iki numaralı hesaba alacak yazılır.

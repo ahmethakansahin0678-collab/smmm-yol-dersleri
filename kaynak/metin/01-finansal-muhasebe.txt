@@ -1,0 +1,116 @@
+BAŞLIK: Ders 1. Finansal Muhasebe: Temel denklem, hesap planı ve ilk kayıtlar
+
+Finansal Muhasebe dersine hoş geldin. Bu bölümde üç şey öğreneceğiz. Birincisi muhasebenin temel denklemi. İkincisi Tekdüzen Hesap Planının yapısı. Üçüncüsü de ilk yevmiye kayıtlarımız. Bu üç konu, sınavdaki muhasebe sorularının neredeyse tamamının temelidir.
+
+Temel denklemle başlayalım.
+
+Bir işletmeyi bir ev gibi düşün. Evin içinde eşyalar var: para, araba, mal, alacaklar. Bunlara varlık diyoruz. Peki bu eşyalar nereden geldi? Ya ev sahibi kendi cebinden koydu, ya da birinden borç alındı. Ev sahibinin koyduğuna özkaynak, borç alınana yabancı kaynak diyoruz.
+
+Bu yüzden muhasebenin temel denklemi şudur: Varlıklar eşittir Kaynaklar. Daha açık söylersek: Varlıklar eşittir yabancı kaynaklar artı özkaynaklar.
+
+Bir kez daha tekrar edelim: Varlıklar eşittir yabancı kaynaklar artı özkaynaklar.
+
+Bu denklem her zaman, her kayıttan sonra dengede kalmak zorundadır. Bilançonun sol tarafına aktif, sağ tarafına pasif denir. Aktifte varlıklar, pasifte kaynaklar yer alır.
+
+Şimdi Tekdüzen Hesap Planına geçelim. Hesap planında her hesabın üç haneli bir numarası var. İlk rakam hesabın hangi gruba ait olduğunu söyler. Bunu ezberlemen çok işine yarayacak.
+
+Bir ile başlayan hesaplar dönen varlıklardır. Yani bir yıl içinde paraya çevrilecek varlıklar. Kasa, banka, alıcılar, stoklar gibi.
+
+İki ile başlayan hesaplar duran varlıklardır. Bir yıldan uzun süre işletmede kalacak varlıklar. Binalar, makineler, taşıtlar gibi.
+
+Üç ile başlayan hesaplar kısa vadeli yabancı kaynaklardır. Bir yıl içinde ödenecek borçlar. Satıcılar, banka kredileri, ödenecek vergiler gibi.
+
+Dört ile başlayan hesaplar uzun vadeli yabancı kaynaklardır. Bir yıldan uzun vadeli borçlar.
+
+Beş ile başlayan hesaplar özkaynaklardır. Sermaye, yedekler ve dönem kârı gibi.
+
+Altı ile başlayan hesaplar gelir tablosu hesaplarıdır. Satışlar, satışların maliyeti, faaliyet giderleri.
+
+Yedi ile başlayan hesaplar maliyet hesaplarıdır. Bunu Maliyet Muhasebesi dersinde ayrıntılı göreceğiz.
+
+Sekiz serbest bırakılmıştır, dokuz ise nazım hesaplardır.
+
+Kolay hatırlaman için bir hafıza cümlesi: Bir ve iki varlık, üç dört beş kaynak, altı gelir tablosu, yedi maliyet.
+
+Şimdi en kritik konu: Hesaplar nasıl işler? Her hesabın iki tarafı var. Sol tarafa borç, sağ tarafa alacak denir. Buradaki borç ve alacak kelimeleri günlük hayattaki anlamıyla karıştırılmamalı. Sadece sol ve sağ demek.
+
+Kural şu: Aktif hesaplar, yani varlıklar, borç tarafında artar, alacak tarafında azalır. Pasif hesaplar, yani kaynaklar, alacak tarafında artar, borç tarafında azalır.
+
+Bunu bir benzetmeyle aklında tut. Varlıklar bilançonun solunda durur, artınca da sola, yani borca yazılır. Kaynaklar bilançonun sağında durur, artınca da sağa, yani alacağa yazılır. Hesap, bilançoda durduğu tarafta büyür.
+
+Gider hesapları varlık gibi davranır, borçta artar. Gelir hesapları kaynak gibi davranır, alacakta artar.
+
+Şimdi örneklere geçelim. Üç işlem yapacağız. Sayıları takip et.
+
+Birinci işlem. Ahmet Bey, yüz bin lira nakit sermaye koyarak bir işletme kuruyor.
+
+Düşünelim. Kasaya para girdi. Kasa bir varlık, yani artınca borca yazılır. Para nereden geldi? Ortağın koyduğu sermayeden. Sermaye bir özkaynak, artınca alacağa yazılır.
+
+Kayıt şöyle: Yüz numaralı Kasa hesabı, yüz bin lira borç. Beş yüz numaralı Sermaye hesabı, yüz bin lira alacak. Borç ve alacak eşit, denklem dengede.
+
+İkinci işlem. İşletme, elli bin liralık ticari malı peşin para ile satın alıyor. Üzerine yüzde yirmi kadeve ekleniyor.
+
+Önce kadeveyi hesaplayalım. Elli binin yüzde yirmisi on bin lira. Toplam ödenen para altmış bin lira.
+
+Kayıt şöyle: Yüz elli üç numaralı Ticari Mallar hesabı, elli bin lira borç. Çünkü stok bir varlık ve arttı. Yüz doksan bir numaralı İndirilecek kadeve hesabı, on bin lira borç. Çünkü alışta ödenen kadeve, ileride devletten mahsup edilecek bir hak, yani bir varlık. Karşılığında Yüz numaralı Kasa hesabı, altmış bin lira alacak. Çünkü kasadan para çıktı, varlık azaldı.
+
+Borç tarafı elli bin artı on bin, altmış bin. Alacak tarafı altmış bin. Denge tamam.
+
+Üçüncü işlem. İşletme, malların tamamını seksen bin lira artı yüzde yirmi kadeve ile veresiye, yani kredili olarak satıyor.
+
+Seksen binin yüzde yirmisi on altı bin lira. Müşteriden alacağımız toplam tutar doksan altı bin lira.
+
+Kayıt şöyle: Yüz yirmi numaralı Alıcılar hesabı, doksan altı bin lira borç. Çünkü müşteriden alacağımız arttı. Altı yüz numaralı Yurt İçi Satışlar hesabı, seksen bin lira alacak. Çünkü gelir oluştu. Üç yüz doksan bir numaralı Hesaplanan kadeve hesabı, on altı bin lira alacak. Çünkü müşteriden tahsil edip devlete ödeyeceğimiz bir borç oluştu.
+
+Dikkat et: Satılan malların maliyetini de kayda alırız. Sürekli envanter yönteminde, satılan malın maliyeti olan elli bin lira için Altı yüz yirmi bir numaralı Satılan Ticari Mallar Maliyeti hesabı borçlanır, Yüz elli üç numaralı Ticari Mallar hesabı alacaklanır.
+
+Böylece brüt satış kârımız seksen bin eksi elli bin, otuz bin lira olur.
+
+Bir de kadeve durumuna bakalım. Alışta on bin lira indirilecek kadeve, satışta on altı bin lira hesaplanan kadeve var. Ay sonunda ikisi mahsup edilir. On altı binden on bin düşülür, altı bin lira ödenecek kadeve kalır. Bu konuyu Vergi dersinde tekrar göreceğiz.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Bir işletme, ticari mal satışı yapıyor ve satış bedeli üzerinden kadeve hesaplıyor. Hesaplanan kadeve tutarı hangi hesaba, hangi tarafa kaydedilir?
+A şıkkı: Yüz doksan bir İndirilecek kadeve, borç.
+B şıkkı: Üç yüz doksan bir Hesaplanan kadeve, alacak.
+C şıkkı: Üç yüz altmış Ödenecek Vergi ve Fonlar, borç.
+D şıkkı: Altı yüz Yurt İçi Satışlar, alacak.
+E şıkkı: Üç yüz doksan bir Hesaplanan kadeve, borç.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı. Üç yüz doksan bir Hesaplanan kadeve hesabı, alacak.
+
+Neden? Satışta tahsil ettiğimiz kadeve aslında bize ait değil, devlete ödeyeceğimiz bir borçtur. Üç ile başlayan bir hesap, yani kısa vadeli yabancı kaynaktır. Kaynaklar alacakta artar. E şıkkındaki borç tarafı ise bu hesabın azaldığını gösterirdi. A şıkkındaki indirilecek kadeve ise alışlarda kullanılır, satışta değil.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bir işletmenin varlıkları beş yüz bin lira, yabancı kaynakları üç yüz bin liradır. Özkaynakları ne kadardır?
+
+[[6]]
+
+[[bip]]
+
+Cevap iki yüz bin lira. Temel denklem: Varlıklar eşittir yabancı kaynaklar artı özkaynaklar. Beş yüz bin eşittir üç yüz bin artı özkaynak. Özkaynak iki yüz bin lira.
+
+Şimdi dersin özetine geçelim. Bu cümleleri aklında tut.
+
+Bir. Varlıklar eşittir yabancı kaynaklar artı özkaynaklar.
+
+İki. Bir ve iki ile başlayan hesaplar varlık, üç, dört ve beş ile başlayanlar kaynak, altı gelir tablosu, yedi maliyet hesaplarıdır.
+
+Üç. Varlıklar borçta artar, kaynaklar alacakta artar. Giderler borçta, gelirler alacakta artar.
+
+Dört. Alışta ödenen kadeve, yüz doksan bir İndirilecek kadeve hesabına borç yazılır. Satışta hesaplanan kadeve, üç yüz doksan bir Hesaplanan kadeve hesabına alacak yazılır.
+
+Beş. Her yevmiye kaydında borç toplamı alacak toplamına eşit olmak zorundadır.
+
+Bir sonraki Finansal Muhasebe bölümünde dönem sonu işlemlerine, amortismana ve reeskont konusuna geçeceğiz. Şimdi sıradaki dersimiz Finansal Tablolar ve Analizi.

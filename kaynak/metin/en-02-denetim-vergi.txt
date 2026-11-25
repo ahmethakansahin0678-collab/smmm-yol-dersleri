@@ -1,0 +1,219 @@
+BAŞLIK: Mesleki İngilizce 2. Denetim ve vergi terimleri
+
+Mesleki İngilizce ikinci bölüme hoş geldin. Bugün denetim ve vergi terimlerini çalışacağız. Düzen aynı: İngilizce terim, Türkçe anlamı, İngilizce örnek cümle ve cümlenin Türkçesi. Duyduğun terimi yüksek sesle tekrar et.
+
+Önce denetim.
+
+EN: Audit.
+Denetim.
+EN: The annual audit starts in January.
+Yıllık denetim ocak ayında başlar.
+
+EN: Auditor.
+Denetçi.
+
+EN: External auditor.
+Bağımsız denetçi. Independent auditor da denir.
+
+EN: Internal auditor.
+İç denetçi.
+
+EN: Auditor's report.
+Denetçi raporu.
+EN: The auditor's report is addressed to the shareholders.
+Denetçi raporu pay sahiplerine hitaben yazılır.
+
+Şimdi görüş türleri. Türkçe dersimizde öğrendiğimiz dört görüşün İngilizcesi.
+
+EN: Unmodified opinion.
+Olumlu görüş. Günlük dilde clean opinion, yani temiz görüş de denir.
+
+EN: Qualified opinion.
+Şartlı görüş.
+EN: The auditor issued a qualified opinion because of an inventory misstatement.
+Denetçi, stoklardaki bir yanlışlık nedeniyle şartlı görüş verdi.
+
+EN: Adverse opinion.
+Olumsuz görüş.
+
+EN: Disclaimer of opinion.
+Görüş bildirmekten kaçınma.
+
+Şimdi denetim riski modeli. Bu üçü uluslararası sınavlarda da çok sorulur.
+
+EN: Audit risk.
+Denetim riski.
+
+EN: Inherent risk.
+Doğal risk.
+
+EN: Control risk.
+Kontrol riski.
+
+EN: Detection risk.
+Tespit riski.
+
+EN: Audit risk equals inherent risk times control risk times detection risk.
+Denetim riski, doğal risk çarpı kontrol riski çarpı tespit riskine eşittir.
+
+EN: Materiality.
+Önemlilik.
+EN: A misstatement is material if it could influence the decisions of users.
+Bir yanlışlık, kullanıcıların kararlarını etkileyebilecekse önemlidir.
+
+EN: Misstatement.
+Yanlışlık.
+
+EN: Fraud.
+Hile.
+
+EN: Error.
+Hata. Kasıtsız yanlışlık.
+
+EN: Professional skepticism.
+Mesleki şüphecilik.
+
+EN: Audit evidence.
+Denetim kanıtı.
+EN: The auditor must obtain sufficient appropriate audit evidence.
+Denetçi yeterli ve uygun denetim kanıtı elde etmelidir.
+
+Bu cümle denetim standartlarının kalbidir: Yeterli ve uygun denetim kanıtı.
+
+EN: Internal control.
+İç kontrol.
+
+EN: Sampling.
+Örnekleme.
+
+EN: Going concern.
+İşletmenin sürekliliği.
+EN: There is a material uncertainty related to going concern.
+İşletmenin sürekliliğiyle ilgili önemli bir belirsizlik var.
+
+Şimdi vergi terimleri.
+
+EN: Tax.
+Vergi.
+
+EN: Taxpayer.
+Vergi mükellefi.
+
+EN: Tax return.
+Vergi beyannamesi.
+EN: The corporate tax return is filed once a year.
+Kurumlar vergisi beyannamesi yılda bir kez verilir.
+
+EN: Corporate income tax.
+Kurumlar vergisi.
+
+EN: Personal income tax.
+Gelir vergisi.
+
+EN: Value added tax.
+Katma değer vergisi. Kısaca V A T.
+
+EN: Input VAT.
+İndirilecek kadeve.
+
+EN: Output VAT.
+Hesaplanan kadeve.
+EN: VAT payable equals output VAT minus input VAT.
+Ödenecek kadeve, hesaplanan kadeveden indirilecek kadevenin düşülmesiyle bulunur.
+
+EN: Withholding tax.
+Stopaj, yani kaynakta kesilen vergi.
+EN: The employer deducts withholding tax from salaries.
+İşveren maaşlardan stopaj keser.
+
+EN: Tax base.
+Vergi matrahı.
+
+EN: Tax rate.
+Vergi oranı.
+
+EN: Deferred tax.
+Ertelenmiş vergi.
+
+EN: Tax audit.
+Vergi incelemesi.
+
+EN: Tax penalty.
+Vergi cezası.
+
+EN: Statute of limitations.
+Zamanaşımı.
+
+Şimdi maliyet muhasebesinden birkaç terim.
+
+EN: Direct materials.
+Direkt ilk madde ve malzeme.
+
+EN: Direct labor.
+Direkt işçilik.
+
+EN: Manufacturing overhead.
+Genel üretim giderleri.
+
+EN: Prime cost.
+Asal maliyet.
+
+EN: Conversion cost.
+Dönüştürme maliyeti.
+
+EN: Break-even point.
+Başabaş noktası.
+
+EN: Contribution margin.
+Katkı payı.
+
+Şimdi test zamanı. Türkçesini söylüyorum, sen İngilizcesini söyle.
+
+[[bip]]
+
+Şartlı görüş.
+
+[[5]]
+
+EN: Qualified opinion.
+
+[[bip]]
+
+Tespit riski.
+
+[[5]]
+
+EN: Detection risk.
+
+[[bip]]
+
+Stopaj.
+
+[[5]]
+
+EN: Withholding tax.
+
+[[bip]]
+
+İşletmenin sürekliliği.
+
+[[5]]
+
+EN: Going concern.
+
+[[bip]]
+
+Dönüştürme maliyeti.
+
+[[5]]
+
+EN: Conversion cost.
+
+Harika. Bugünkü özet:
+
+EN: Unmodified, qualified, adverse, disclaimer.
+EN: Inherent risk, control risk, detection risk, materiality.
+EN: Tax return, withholding tax, input VAT, output VAT.
+EN: Direct materials, direct labor, manufacturing overhead.
+
+Bir sonraki İngilizce bölümünde uluslararası finansal raporlama standartları ve şirketler hukuku terimlerine geçeceğiz.

@@ -1,0 +1,80 @@
+BAŞLIK: Vergi Mevzuatı 5. Kadeve: konu, vergiyi doğuran olay, istisnalar ve tevkifat
+
+Vergi Mevzuatı beşinci bölüme hoş geldin. Bugün üç bin altmış beş sayılı Katma Değer Vergisi Kanununu işleyeceğiz. Kadevenin konusunu, vergiyi doğuran olayı, istisnaları ve tevkifatı öğreneceğiz.
+
+Kadevenin konusu. Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan mal teslimleri ve hizmet ifaları kadeveye tabidir. Ayrıca her türlü mal ve hizmet ithalatı da kadeveye tabidir.
+
+Burada kilit nokta, işlemin bir ticari, sınai, zirai ya da serbest meslek faaliyeti çerçevesinde yapılmasıdır. Mesela bir kişi kendi kullandığı eski arabasını bir kez satarsa, bu bir ticari faaliyet değildir ve kadeveye tabi olmaz.
+
+Vergiyi doğuran olay. Mal teslimlerinde malın teslimi, hizmetlerde hizmetin yapılmasıyla vergiyi doğuran olay meydana gelir. Ancak teslimden veya hizmetten önce fatura düzenlenirse, faturada gösterilen tutarla sınırlı olarak vergiyi doğuran olay fatura tarihinde meydana gelir.
+
+Hafıza cümlesi: Teslim ya da hizmet anı, ama fatura önce kesilirse fatura anı.
+
+Vergilendirme dönemi ve beyan. Kadevede vergilendirme dönemi kural olarak aylıktır. Beyanname, dönemi izleyen ayın yirmi sekizinci günü akşamına kadar verilir ve vergi aynı gün ödenir.
+
+İndirim hakkı. Alışlarda ödenen kadeve, ilgili faturanın düzenlendiği takvim yılı aşılmamak şartıyla indirim konusu yapılabilir. Yani bir yılın faturasındaki kadeveyi, o yılın sonuna kadar indirmen gerekir.
+
+Şimdi istisnalar. Kadevede iki tür istisna vardır ve aralarındaki fark sınavın klasiğidir.
+
+Tam istisna: İşlem kadeveden istisnadır ve bu işlem için yapılan alışlarda ödenen kadeve indirilebilir. İndirilemeyen kısım iade edilebilir. En önemli örnek ihracat istisnasıdır. İhracatçı yurt dışına sattığı mal için kadeve hesaplamaz, ama malı üretirken ödediği kadeveyi devletten geri alabilir.
+
+Kısmi istisna: İşlem kadeveden istisnadır, ama bu işlem için yapılan alışlarda ödenen kadeve indirilemez. Bu kadeve maliyete eklenir ya da gider yazılır. İade de söz konusu değildir.
+
+Bir benzetme: Tam istisnada devlet hem satıştan vergi almaz hem de senin ödediğini geri verir. Kısmi istisnada satıştan vergi almaz ama senin ödediğini de geri vermez.
+
+Hafıza cümlesi: Tam istisna iade var, kısmi istisna iade yok.
+
+Şimdi tevkifat. Tevkifat, kadevenin satıcı yerine alıcı tarafından, sorumlu sıfatıyla beyan edilip ödenmesidir. Neden böyle bir sistem var? Bazı sektörlerde satıcıların tahsil ettiği kadeveyi devlete ödememe riski yüksektir. Devlet, vergiyi güvenceye almak için alıcıyı sorumlu tutar.
+
+Tevkifat iki türlüdür. Tam tevkifatta kadevenin tamamını alıcı öder. Kısmi tevkifatta ise kadevenin belirli bir oranını, mesela onda dokuzunu, alıcı öder, kalanını satıcıya öder.
+
+Örnek. Bir şirket, temizlik hizmeti alıyor. Hizmet bedeli yüz bin lira, kadeve oranı yüzde yirmi. Hesaplanan kadeve yirmi bin lira. Tevkifat oranı onda dokuz olsun.
+
+Alıcının tevkif edeceği kadeve: Yirmi binin onda dokuzu, on sekiz bin lira. Bunu alıcı, sorumlu sıfatıyla iki numaralı kadeve beyannamesiyle beyan edip öder.
+
+Satıcıya ödenecek kadeve: Yirmi bin eksi on sekiz bin, iki bin lira.
+
+Satıcı faturasında yüz bin lira bedel ve iki bin lira kadeve tahsil eder. Alıcı ise toplam yirmi bin lira kadevenin tamamını, yani hem satıcıya ödediği iki bini hem de kendi beyan ettiği on sekiz bini, kendi bir numaralı beyannamesinde indirim konusu yapabilir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Bir işletme, tam istisna kapsamındaki bir işlem için yaptığı alışlarda ödediği kadeveyi ne yapabilir?
+A şıkkı: Hiçbir şekilde indiremez.
+B şıkkı: Maliyete eklemek zorundadır.
+C şıkkı: İndirim konusu yapabilir, indirilemeyen kısmı iade alabilir.
+D şıkkı: Sadece gelecek yıl indirebilir.
+E şıkkı: Sadece gider olarak yazabilir.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı. Tam istisnada yüklenilen kadeve indirilebilir, indirilemeyen kısım iade edilir. A, B ve E şıkları kısmi istisnanın sonuçlarını anlatır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Kadeve beyannamesi hangi tarihe kadar verilir?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Vergilendirme dönemini izleyen ayın yirmi sekizinci günü akşamına kadar. Vergi de aynı gün ödenir.
+
+Dersin özeti.
+
+Bir. Kadevenin konusu: ticari, sınai, zirai ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetler ile her türlü ithalat.
+
+İki. Vergiyi doğuran olay teslim veya hizmet anıdır. Fatura önce düzenlenirse fatura tarihidir.
+
+Üç. Beyan, izleyen ayın yirmi sekizinde yapılır. İndirim hakkı, fatura yılı aşılmadan kullanılır.
+
+Dört. Tam istisnada yüklenilen kadeve indirilir ve iade edilir. Kısmi istisnada indirilemez ve iade edilmez.
+
+Beş. Tevkifatta kadevenin tamamını ya da bir kısmını alıcı, sorumlu sıfatıyla iki numaralı beyannameyle öder.

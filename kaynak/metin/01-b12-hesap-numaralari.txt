@@ -1,0 +1,221 @@
+BAŞLIK: Finansal Muhasebe 12. Hesap numarası testi: kırk hesap
+
+Hesap numarası testine hoş geldin. Sınavda kayıt sorularını hızlı çözmenin yolu, hesap numaralarını düşünmeden söyleyebilmektir. Bu bölümde iki tur var. Birinci turda hesabın adını söyleyeceğim, sen numarasını söyle. İkinci turda numarayı söyleyeceğim, sen adını söyle. Her sorudan sonra üç saniye var.
+
+Birinci tur. Adı duy, numarayı söyle.
+
+[[bip]]
+Kasa.
+[[3]]
+Yüz.
+
+[[bip]]
+Alınan Çekler.
+[[3]]
+Yüz bir.
+
+[[bip]]
+Bankalar.
+[[3]]
+Yüz iki.
+
+[[bip]]
+Verilen Çekler ve Ödeme Emirleri.
+[[3]]
+Yüz üç.
+
+[[bip]]
+Hisse Senetleri.
+[[3]]
+Yüz on.
+
+[[bip]]
+Alıcılar.
+[[3]]
+Yüz yirmi.
+
+[[bip]]
+Alacak Senetleri.
+[[3]]
+Yüz yirmi bir.
+
+[[bip]]
+Alacak Senetleri Reeskontu.
+[[3]]
+Yüz yirmi iki.
+
+[[bip]]
+Şüpheli Ticari Alacaklar.
+[[3]]
+Yüz yirmi sekiz.
+
+[[bip]]
+Şüpheli Ticari Alacaklar Karşılığı.
+[[3]]
+Yüz yirmi dokuz.
+
+[[bip]]
+İlk Madde ve Malzeme.
+[[3]]
+Yüz elli.
+
+[[bip]]
+Mamuller.
+[[3]]
+Yüz elli iki.
+
+[[bip]]
+Ticari Mallar.
+[[3]]
+Yüz elli üç.
+
+[[bip]]
+Gelecek Aylara Ait Giderler.
+[[3]]
+Yüz seksen.
+
+[[bip]]
+Devreden kadeve.
+[[3]]
+Yüz doksan.
+
+[[bip]]
+İndirilecek kadeve.
+[[3]]
+Yüz doksan bir.
+
+[[bip]]
+Binalar.
+[[3]]
+İki yüz elli iki.
+
+[[bip]]
+Taşıtlar.
+[[3]]
+İki yüz elli dört.
+
+[[bip]]
+Demirbaşlar.
+[[3]]
+İki yüz elli beş.
+
+[[bip]]
+Birikmiş Amortismanlar.
+[[3]]
+İki yüz elli yedi.
+
+İkinci tur. Numarayı duy, adını söyle.
+
+[[bip]]
+Üç yüz.
+[[3]]
+Banka Kredileri.
+
+[[bip]]
+Üç yüz yirmi.
+[[3]]
+Satıcılar.
+
+[[bip]]
+Üç yüz yirmi bir.
+[[3]]
+Borç Senetleri.
+
+[[bip]]
+Üç yüz otuz bir.
+[[3]]
+Ortaklara Borçlar.
+
+[[bip]]
+Üç yüz otuz beş.
+[[3]]
+Personele Borçlar.
+
+[[bip]]
+Üç yüz kırk.
+[[3]]
+Alınan Sipariş Avansları.
+
+[[bip]]
+Üç yüz altmış.
+[[3]]
+Ödenecek Vergi ve Fonlar.
+
+[[bip]]
+Üç yüz altmış bir.
+[[3]]
+Ödenecek Sosyal Güvenlik Kesintileri.
+
+[[bip]]
+Üç yüz yetmiş.
+[[3]]
+Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları.
+
+[[bip]]
+Üç yüz seksen bir.
+[[3]]
+Gider Tahakkukları.
+
+[[bip]]
+Üç yüz doksan bir.
+[[3]]
+Hesaplanan kadeve.
+
+[[bip]]
+Beş yüz.
+[[3]]
+Sermaye.
+
+[[bip]]
+Beş yüz bir.
+[[3]]
+Ödenmemiş Sermaye.
+
+[[bip]]
+Beş yüz kırk.
+[[3]]
+Yasal Yedekler.
+
+[[bip]]
+Beş yüz yetmiş.
+[[3]]
+Geçmiş Yıllar Kârları.
+
+[[bip]]
+Beş yüz doksan.
+[[3]]
+Dönem Net Kârı.
+
+[[bip]]
+Altı yüz.
+[[3]]
+Yurt İçi Satışlar.
+
+[[bip]]
+Altı yüz yirmi bir.
+[[3]]
+Satılan Ticari Mallar Maliyeti.
+
+[[bip]]
+Altı yüz elli dört.
+[[3]]
+Karşılık Giderleri.
+
+[[bip]]
+Altı yüz seksen dokuz.
+[[3]]
+Diğer Olağandışı Gider ve Zararlar.
+
+Test bitti. Kırk hesaptan otuz beşi bildiysen kayıt sorularında çok hızlı olacaksın.
+
+Dersin özeti.
+
+Bir. On grubu hazır değerler: yüz kasa, yüz bir alınan çek, yüz iki banka, yüz üç verilen çek.
+
+İki. On iki grubu ticari alacaklar: yüz yirmi alıcılar, yüz yirmi bir senet, yüz yirmi sekiz ve yüz yirmi dokuz şüpheli alacak ve karşılığı.
+
+Üç. Stoklar yüz elli ile başlar, ticari mallar yüz elli üç. Kadeve: yüz doksan bir indirilecek, üç yüz doksan bir hesaplanan, yüz doksan devreden.
+
+Dört. Borçlar: üç yüz kredi, üç yüz yirmi satıcı, üç yüz altmış vergi, üç yüz altmış bir sigorta.
+
+Beş. Özkaynak: beş yüz sermaye, beş yüz kırk yasal yedek, beş yüz yetmiş geçmiş yıl kârı, beş yüz doksan dönem kârı.

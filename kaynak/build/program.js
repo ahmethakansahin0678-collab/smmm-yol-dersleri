@@ -1,0 +1,100 @@
+// Günlük dinleme planı ve müfredat. Yeni ders eklendikçe burası güncellenir.
+// Plan öğesi: "id" (dersin tamamı) veya "id@tekrar" (sadece soru + özet kısmı)
+module.exports = {
+  gunler: [
+    { ad: 'Gün 1', not: 'Başlangıç paketi: sekiz dersin giriş bölümleri',
+      sabah: ['00-baslarken', '01-finansal-muhasebe', '02-finansal-tablolar', '03-maliyet', '04-denetim'],
+      aksam: ['05-vergi', '06-hukuk', '07-meslek-hukuku', '08-sermaye-piyasasi', 'en-01-temel-muhasebe'] },
+    { ad: 'Gün 2', not: 'Drive soru bankan, düzeltmeleriyle',
+      sabah: ['sb-finansal', 'sb-vergi', 'sb-maliye', 'en-02-denetim-vergi'],
+      aksam: ['sb-denetim', 'sb-hukuk', 'sb-spk', '01-finansal-muhasebe@tekrar', '05-vergi@tekrar', 'en-01-temel-muhasebe@tekrar'] },
+    { ad: 'Gün 3', not: 'Pekiştirme: sekiz dersin soru ve özet kısımları',
+      sabah: ['01-finansal-muhasebe@tekrar', '02-finansal-tablolar@tekrar', '03-maliyet@tekrar', '04-denetim@tekrar', 'en-02-denetim-vergi@tekrar'],
+      aksam: ['05-vergi@tekrar', '06-hukuk@tekrar', '07-meslek-hukuku@tekrar', '08-sermaye-piyasasi@tekrar', 'sb-finansal'] },
+    { ad: 'Gün 4', not: 'Yeni konular: Finansal Muhasebe ve Vergi ikinci bölümler',
+      sabah: ['01-b2-alacaklar-reeskont', '05-b2-vuk-defter-ceza', 'en-01-temel-muhasebe@tekrar'],
+      aksam: ['01-b2-alacaklar-reeskont@tekrar', '05-b2-vuk-defter-ceza@tekrar', 'sb-vergi', 'en-02-denetim-vergi@tekrar'] },
+    { ad: 'Gün 5', not: 'Yeni konular: Maliyet, İş Hukuku, IFRS İngilizcesi',
+      sabah: ['03-b2-stok-gug', '06-b2-is-hukuku', 'en-03-ifrs-sirketler'],
+      aksam: ['03-b2-stok-gug@tekrar', '06-b2-is-hukuku@tekrar', 'sb-maliye', 'sb-hukuk', 'en-03-ifrs-sirketler@tekrar'] },
+    { ad: 'Gün 6', not: 'Yeni konular: oranlar, denetim kanıtı, amortisman, kurumlar vergisi',
+      sabah: ['02-b2-oranlar', '04-b2-onemlilik-kanit', '01-b3-duran-varlik-amortisman'],
+      aksam: ['05-b3-kurumlar-vergisi', '02-b2-oranlar@tekrar', '04-b2-onemlilik-kanit@tekrar', '01-b3-duran-varlik-amortisman@tekrar', 'sb-denetim'] },
+    { ad: 'Gün 7', not: 'Yeni konular: meslek ahlakı, kurumsal yönetim, iş İngilizcesi',
+      sabah: ['07-b2-meslek-ahlaki', '08-b2-izahname-kurumsal-yonetim', 'en-04-analiz-yazisma', '05-b3-kurumlar-vergisi@tekrar'],
+      aksam: ['07-b2-meslek-ahlaki@tekrar', '08-b2-izahname-kurumsal-yonetim@tekrar', 'sb-spk', 'en-04-analiz-yazisma@tekrar', 'en-03-ifrs-sirketler@tekrar'] },
+    { ad: 'Gün 8', not: 'Yeni konular: stoklar, gelir vergisi, kıymetli evrak',
+      sabah: ['01-b4-stoklar', '05-b4-gelir-vergisi', '06-b3-kiymetli-evrak'],
+      aksam: ['01-b4-stoklar@tekrar', '05-b4-gelir-vergisi@tekrar', '06-b3-kiymetli-evrak@tekrar', 'en-01-temel-muhasebe@tekrar', 'en-04-analiz-yazisma@tekrar', '03-b2-stok-gug@tekrar'] },
+    { ad: 'Gün 9', not: 'Yeni konular: safha maliyet, kadeve istisna ve tevkifat, anonim şirket',
+      sabah: ['03-b3-safha-siparis', '05-b5-kadeve-istisna-tevkifat', '06-b4-anonim-sirket'],
+      aksam: ['03-b3-safha-siparis@tekrar', '05-b5-kadeve-istisna-tevkifat@tekrar', '06-b4-anonim-sirket@tekrar', 'sb-vergi', 'en-02-denetim-vergi@tekrar'] },
+    { ad: 'Gün 10', not: 'Yeni konular: nakit akış, denetçi raporu, piyasa suçları',
+      sabah: ['02-b3-nakit-akis', '04-b3-rapor-bagimsizlik', '08-b3-piyasa-suclari', '01-b4-stoklar@tekrar'],
+      aksam: ['02-b3-nakit-akis@tekrar', '04-b3-rapor-bagimsizlik@tekrar', '08-b3-piyasa-suclari@tekrar', 'sb-finansal', 'en-03-ifrs-sirketler@tekrar'] },
+    { ad: 'Gün 11', not: 'Yeni konular: standart maliyet ve başabaş, sosyal güvenlik, İngilizce test',
+      sabah: ['03-b4-standart-basabas', '06-b5-sosyal-guvenlik', 'en-05-kelime-testi', '03-b3-safha-siparis@tekrar'],
+      aksam: ['03-b4-standart-basabas@tekrar', '06-b5-sosyal-guvenlik@tekrar', 'sb-maliye', '06-b2-is-hukuku@tekrar', 'en-04-analiz-yazisma@tekrar'] },
+    { ad: 'Gün 12', not: 'Yeni konu: icra ve iflas. Haftalık büyük tekrar',
+      sabah: ['06-b6-icra-iflas', '01-b2-alacaklar-reeskont@tekrar', '01-b3-duran-varlik-amortisman@tekrar', '05-b3-kurumlar-vergisi@tekrar', '05-b5-kadeve-istisna-tevkifat@tekrar'],
+      aksam: ['06-b6-icra-iflas@tekrar', '02-b2-oranlar@tekrar', '04-b2-onemlilik-kanit@tekrar', '06-b3-kiymetli-evrak@tekrar', 'sb-hukuk', 'en-05-kelime-testi'] },
+    { ad: 'Gün 13', not: 'Finansal Muhasebe yoğun gün: borçlar, özkaynaklar, dönem sonu',
+      sabah: ['01-b5-yabanci-kaynaklar', '01-b6-ozkaynaklar', '01-b7-donem-sonu'],
+      aksam: ['01-b5-yabanci-kaynaklar@tekrar', '01-b6-ozkaynaklar@tekrar', '01-b7-donem-sonu@tekrar', '06-b4-anonim-sirket@tekrar', 'sb-finansal', 'en-01-temel-muhasebe@tekrar'] },
+    { ad: 'Gün 14', not: 'Vergi yoğun gün: ÖTV, damga, harç, tahsil usulü; enflasyon düzeltmesi',
+      sabah: ['05-b6-otv-damga-harc', '05-b7-6183-tahsil', '02-b4-enflasyon-duzeltmesi'],
+      aksam: ['05-b6-otv-damga-harc@tekrar', '05-b7-6183-tahsil@tekrar', '02-b4-enflasyon-duzeltmesi@tekrar', '05-b2-vuk-defter-ceza@tekrar', 'sb-vergi', 'en-02-denetim-vergi@tekrar'] },
+    { ad: 'Gün 15', not: 'Değerleme, hazır değerler, uzlaşma ve dava',
+      sabah: ['05-b8-degerleme', '01-b8-hazir-degerler', '05-b9-uzlasma-dava'],
+      aksam: ['05-b8-degerleme@tekrar', '01-b8-hazir-degerler@tekrar', '05-b9-uzlasma-dava@tekrar', '01-b2-alacaklar-reeskont@tekrar', 'en-05-kelime-testi'] },
+    { ad: 'Gün 16', not: 'Kira ve menkul sermaye iradı, borçlar hukuku, birleşik ürün',
+      sabah: ['05-b10-gmsi-msi', '06-b7-borclar-genel', '03-b5-birlesik-urun'],
+      aksam: ['05-b10-gmsi-msi@tekrar', '06-b7-borclar-genel@tekrar', '03-b5-birlesik-urun@tekrar', '05-b4-gelir-vergisi@tekrar', 'sb-hukuk', 'en-03-ifrs-sirketler@tekrar'] },
+    { ad: 'Gün 17', not: 'Ticaret unvanı ve sicil; meslek ve SPK tekrarı',
+      sabah: ['06-b8-ticaret-unvani-sicil', '07-meslek-hukuku@tekrar', '07-b2-meslek-ahlaki@tekrar', '08-sermaye-piyasasi@tekrar', '08-b2-izahname-kurumsal-yonetim@tekrar'],
+      aksam: ['06-b8-ticaret-unvani-sicil@tekrar', '08-b3-piyasa-suclari@tekrar', '04-b3-rapor-bagimsizlik@tekrar', 'sb-spk', 'sb-denetim', 'en-04-analiz-yazisma@tekrar'] },
+    { ad: 'Gün 18', not: 'Standartlar, meslek örgütü, İngilizce diyaloglar. İlk tur tamamlanıyor',
+      sabah: ['01-b9-tms-tfrs', '01-b10-birlesme-tasfiye', '07-b3-turmob-disiplin', 'en-06-diyaloglar'],
+      aksam: ['01-b9-tms-tfrs@tekrar', '01-b10-birlesme-tasfiye@tekrar', '07-b3-turmob-disiplin@tekrar', 'en-06-diyaloglar', '03-b4-standart-basabas@tekrar', '02-b3-nakit-akis@tekrar'] },
+    { ad: 'Gün 19', not: 'İkinci tur başlıyor: çözümlü problem setleri',
+      sabah: ['01-b11-problem-seti', '03-b6-problem-seti', '05-b11-problem-seti'],
+      aksam: ['01-b11-problem-seti', '03-b6-problem-seti', '05-b11-problem-seti', 'en-05-kelime-testi'] },
+    { ad: 'Gün 20', not: 'Hızlı setler: hukuk sayıları, denetim senaryoları, İngilizce kısaltmalar',
+      sabah: ['06-b9-sayilar-seti', '04-b4-senaryo-seti', 'en-07-kisaltma-sayilar', '06-b4-anonim-sirket@tekrar'],
+      aksam: ['06-b9-sayilar-seti', '04-b4-senaryo-seti', 'en-07-kisaltma-sayilar@tekrar', '04-denetim@tekrar', '04-b2-onemlilik-kanit@tekrar', 'sb-denetim'] },
+    { ad: 'Gün 21', not: 'Hızlı setler: oranlar, SPK ve Meslek Hukuku; sonra Deneme gününe geç',
+      sabah: ['02-b5-oran-seti', '08-b4-spk-meslek-seti', '02-b2-oranlar@tekrar', '08-b2-izahname-kurumsal-yonetim@tekrar'],
+      aksam: ['02-b5-oran-seti', '08-b4-spk-meslek-seti', 'sb-spk', 'en-07-kisaltma-sayilar@tekrar', 'en-06-diyaloglar@tekrar'] },
+    { ad: 'Gün 22', not: 'Hızlı setler: hesap numaraları, vergi sayıları, telefon İngilizcesi',
+      sabah: ['01-b12-hesap-numaralari', '05-b12-vergi-hizli-set', 'en-08-telefon-toplanti', '06-b9-sayilar-seti'],
+      aksam: ['01-b12-hesap-numaralari', '05-b12-vergi-hizli-set', 'en-08-telefon-toplanti@tekrar', '08-b4-spk-meslek-seti', 'en-05-kelime-testi'] }
+  ],
+  // Müfredat: her dersin bölümleri. id varsa hazır, yoksa hazırlanıyor.
+  mufredat: [
+    { ders: 'Finansal Muhasebe', bolumler: [
+      ['Temel denklem, hesap planı, ilk kayıtlar', '01-finansal-muhasebe'], ['Hazır değerler ve menkul kıymetler', '01-b8-hazir-degerler'], ['Ticari alacaklar, şüpheli alacak, reeskont', '01-b2-alacaklar-reeskont'],
+      ['Stoklar, envanter yöntemleri, sayım farkları', '01-b4-stoklar'], ['Maddi duran varlıklar ve amortisman', '01-b3-duran-varlik-amortisman'], ['Yabancı kaynaklar, krediler ve bordro kaydı', '01-b5-yabanci-kaynaklar'], ['Özkaynaklar, sermaye artırımı, kâr dağıtımı', '01-b6-ozkaynaklar'],
+      ['Dönem sonu işlemleri ve gelir tablosu', '01-b7-donem-sonu'], ['Şirketler: birleşme, tür değiştirme, tasfiye', '01-b10-birlesme-tasfiye'], ['TMS ve TFRS: çerçeve ve temel standartlar', '01-b9-tms-tfrs'], ['Çözümlü problem seti: on kayıt', '01-b11-problem-seti'], ['Hesap numarası testi', '01-b12-hesap-numaralari'] ] },
+    { ders: 'Finansal Tablolar ve Analizi', bolumler: [
+      ['Analiz yöntemleri ve likidite oranları', '02-finansal-tablolar'], ['Mali yapı, faaliyet, kârlılık oranları ve DuPont', '02-b2-oranlar'], ['Nakit akış ve fon akım tabloları', '02-b3-nakit-akis'], ['Enflasyon düzeltmesi', '02-b4-enflasyon-duzeltmesi'], ['Oran problem seti', '02-b5-oran-seti'] ] },
+    { ders: 'Maliyet Muhasebesi', bolumler: [
+      ['Temel kavramlar ve üretim maliyeti', '03-maliyet'], ['Stok çıkış yöntemleri ve genel üretim giderlerinin dağıtımı', '03-b2-stok-gug'],
+      ['Sipariş ve safha maliyet sistemleri, eşdeğer birim', '03-b3-safha-siparis'], ['Birleşik ürün ve yan ürün', '03-b5-birlesik-urun'], ['Standart maliyet sapmaları ve başabaş analizi', '03-b4-standart-basabas'], ['Çözümlü problem seti: hesaplar', '03-b6-problem-seti'] ] },
+    { ders: 'Muhasebe Denetimi', bolumler: [
+      ['Denetim türleri, denetim riski, görüşler', '04-denetim'], ['Önemlilik, kanıt, iç kontrol ve hile', '04-b2-onemlilik-kanit'], ['Denetçi raporu ve bağımsızlık', '04-b3-rapor-bagimsizlik'], ['Senaryo seti: görüş, tehdit, teknik', '04-b4-senaryo-seti'] ] },
+    { ders: 'Vergi Mevzuatı', bolumler: [
+      ['Vergilendirme süreci, gelir unsurları, kadeve', '05-vergi'], ['VUK: defter, belge, zamanaşımı, vergi cezaları', '05-b2-vuk-defter-ceza'], ['VUK: değerleme ölçüleri', '05-b8-degerleme'], ['Uzlaşma, düzeltme ve vergi davaları', '05-b9-uzlasma-dava'],
+      ['Gelir vergisi: mükellefiyet, ticari kazanç, ücret', '05-b4-gelir-vergisi'], ['Gelir vergisi: kira ve menkul sermaye iradı', '05-b10-gmsi-msi'], ['Kurumlar vergisi: matrah ve kanunen kabul edilmeyen giderler', '05-b3-kurumlar-vergisi'],
+      ['Kadeve: konu, istisnalar, tevkifat', '05-b5-kadeve-istisna-tevkifat'], ['ÖTV, damga vergisi, harçlar', '05-b6-otv-damga-harc'], ['6183 sayılı Kanun: tahsil usulü', '05-b7-6183-tahsil'], ['Çözümlü problem seti: vergi hesapları', '05-b11-problem-seti'], ['Hızlı soru seti: süreler ve oranlar', '05-b12-vergi-hizli-set'] ] },
+    { ders: 'Hukuk', bolumler: [
+      ['Tacir, ticari işletme, şirket türleri', '06-hukuk'], ['Ticaret unvanı, sicil ve ticari defterler', '06-b8-ticaret-unvani-sicil'], ['Anonim şirket: organlar, yedek akçeler, pay sahibi hakları', '06-b4-anonim-sirket'], ['Kıymetli evrak: poliçe, bono, çek, ciro, aval', '06-b3-kiymetli-evrak'],
+      ['Borçlar hukuku genel hükümler', '06-b7-borclar-genel'], ['İş hukuku: izin, ihbar ve kıdem', '06-b2-is-hukuku'], ['Sosyal güvenlik: 5510 sayılı Kanun', '06-b5-sosyal-guvenlik'], ['İcra ve iflas hukuku', '06-b6-icra-iflas'], ['Hızlı soru seti: süreler ve oranlar', '06-b9-sayilar-seti'] ] },
+    { ders: 'Meslek Hukuku', bolumler: [
+      ['3568 sayılı Kanun ve meslek unvanları', '07-meslek-hukuku'], ['Meslek ahlakı, reklam yasağı, sorumluluk, staj', '07-b2-meslek-ahlaki'], ['Meslek örgütü, disiplin süreci, genel tekrar', '07-b3-turmob-disiplin'] ] },
+    { ders: 'Sermaye Piyasası Mevzuatı', bolumler: [
+      ['Kurumlar, halka açık ortaklık, kamuyu aydınlatma', '08-sermaye-piyasasi'], ['İzahname, kurumsal yönetim, yatırım fonları', '08-b2-izahname-kurumsal-yonetim'], ['Piyasa suçları, ayrılma hakkı, yaptırımlar', '08-b3-piyasa-suclari'], ['SPK ve Meslek Hukuku hızlı soru seti', '08-b4-spk-meslek-seti'] ] },
+    { ders: 'Mesleki İngilizce', bolumler: [
+      ['Temel muhasebe ve finansal tablolar', 'en-01-temel-muhasebe'], ['Denetim ve vergi', 'en-02-denetim-vergi'], ['IFRS ve şirketler hukuku', 'en-03-ifrs-sirketler'],
+      ['Finansal analiz ve iş yazışması kalıpları', 'en-04-analiz-yazisma'], ['Büyük kelime testi', 'en-05-kelime-testi'], ['Denetçi, müşteri ve vergi diyalogları', 'en-06-diyaloglar'], ['Kısaltmalar ve sayılar', 'en-07-kisaltma-sayilar'], ['Telefon ve toplantı İngilizcesi', 'en-08-telefon-toplanti'] ] }
+  ]
+};

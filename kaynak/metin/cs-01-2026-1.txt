@@ -1,0 +1,205 @@
+BAŞLIK: Çıkmış Sorular 2026-1. Finansal Muhasebe
+
+İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Finansal Muhasebe soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+
+[[bip]]
+Soru bir. İşletme, kredili olarak satın aldığı ticari mallarla ilgili dört bin lira + kadeve(yüzde yirmi) tutarındaki taşıma gideri için nakliye şirketine satıcı adına nakit ödeme yapmıştır. Bu işleme ilişkin günlük defter kaydı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Doğru kayıt: üç yüz yirmi Satıcılar, dört bin sekiz yüz borç. yüz Kasa, dört bin sekiz yüz alacak.
+
+[[1]]
+
+[[bip]]
+Soru iki. İşletmenin üç bin liralık alacak senedinin üç bin iki yüz liralık bir senetle yenilenmesi durumunda yapılacak günlük defter kaydı için aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Faiz Gelirleri hesabına iki yüz lira alacak kayıt yapılır.
+
+[[1]]
+
+[[bip]]
+Soru üç. İşletme, pazarlama faaliyetlerinde kullandığı kamyoneti yenilemek amacıyla satmış ve satıştan elde ettiği yedi bin lira kârı yedek olarak kaydetmiştir. Daha sonra elli bin lira maliyetle yeni bir kamyonet satın alınmış ve bu kamyonet için beş yıllık faydalı ömür belirlenmiştir. Yeni alınan kamyonet için dönem sonunda eşit tutarlar yöntemi kullanılarak hesaplanan amortisman için yapılacak günlük defter kaydı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Doğru kayıt: yedi yüz altmış Pazarlama, Satış Ve Dağıtım Giderleri, üç bin borç. beş yüz kırk dokuz Özel Fonlar, yedi bin borç. iki yüz elli yedi Birikmiş Amortismanlar, on bin alacak.
+
+[[1]]
+
+[[bip]]
+Soru dört. Bir ticaret işletmesinin yüzde yirmi sermaye payıyla ortak olduğu şirket kâr dağıtım kararı almıştır. Dağıtılan kârdan işletmeye düşen pay on üç bin liradır. Bu işleme ilişkin işletmenin yapacağı günlük defter kaydı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Doğru kayıt: yüz otuz iki İştiraklerden Alacaklar, on üç bin borç. altı yüz kırk İştiraklerden Temettü Gelirleri, on üç bin alacak.
+
+[[1]]
+
+[[bip]]
+Soru beş. İşletme daha önce on iki bin beş yüz lira karşılık ayırdığı, nominal değeri otuz beş bin lira ve alış değeri altmış bin lira olan hisse senetlerini elli bin lira bedelle banka aracılığıyla satmıştır. Bu işleme ilişkin günlük defter kaydı için aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: Konusu Kalmayan Karşılıklar hesabının alacak tarafına iki bin beş yüz lira kaydedilir.
+
+[[1]]
+
+[[bip]]
+Soru altı. İşletme bir Şubatta altı ay vadeli ve nominal değeri yüz bin lira olarak ihraç ettiği borçlanma senedini banka aracılığıyla doksan üç bin altı yüz liraya satmıştır. Banka bu işlemle ilgili bin lira tutarındaki işlem masrafını keserek kalan tutarı işletmenin cari hesabına yatırmıştır. Bu işlemler için tek bir günlük defter kaydı yapılmışsa yapılan kayıt aşağıdakilerden hangisidir?
+
+Düşün.
+[[14]]
+[[bip]]
+Doğru kayıt: yüz iki Bankalar, doksan iki bin altı yüz borç. yedi yüz seksen Finansman Giderleri, bin borç. üç yüz sekiz Menkul Kıymet İhraç Farkları, altı bin dört yüz borç. üç yüz beş Çıkarılmış Bonolar Ve Senetler, yüz bin alacak.
+
+[[1]]
+
+[[bip]]
+Soru yedi. İşletme cari dönemde daha önce yedi bin lira karşılık ayırdığı on iki bin liralık şüpheli ticari alacağının tahsilinin mümkün olmadığını saptamıştır. Bu durumda yapılacak günlük defter kaydı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Doğru kayıt: yüz yirmi dokuz Şüpheli Ticari Alacaklar Karşılığı, yedi bin borç. altı yüz seksen dokuz Diğer Olağandışı Gider Ve Zararlar, beş bin borç. yüz yirmi sekiz Şüpheli Ticari Alacaklar, on iki bin alacak.
+
+[[1]]
+
+[[bip]]
+Soru sekiz. İşletme, ay sonu itibariyle ödediği kadevenin tahsil ettiği kadeveden daha az olduğunu saptamıştır. Buna göre işletmenin ödediği kadeve ile tahsil ettiği kadeve arasındaki fark aşağıdaki hesapların hangisinde muhasebeleştirilir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Ödenecek Vergi ve Fonlar.
+
+[[1]]
+
+[[bip]]
+Soru dokuz. Sermayesini seksen bin lira artırma kararı alarak bunu muhasebeleştirmiş olan işletme, bir lira nominal değerle ihraç ettiği hisse senetlerini beş liralık birim fiyatla banka aracılığıyla satmıştır. Bu satış işlemine ilişkin günlük defter kaydı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Doğru kayıt: yüz iki Bankalar, dört yüz bin borç. beş yüz bir Ödenmemiş Sermaye, seksen bin alacak. beş yüz yirmi Hisse Senetleri İhraç Primleri, üç yüz yirmi bin alacak.
+
+[[1]]
+
+[[bip]]
+Soru on. İşletme, kredili olarak satmış olduğu ticari malların taşınması amacıyla kullanılan dayanıklı ambalaj malzemeleri için müşteriden on beş bin lira depozito almış ve bu tutarı da alacağına eklemiştir. Bir süre sonra müşteri dayanıklı ambalaj malzemelerini işletmeye hasarsız bir şekilde iade etmiştir. İlgili tutar alacaktan düşülmüştür. Buna göre malzemeler geri alındığında işletmenin yapacağı günlük defter kaydı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Doğru kayıt: üç yüz yirmi altı Alınan Depozito Ve Teminatlar, on beş bin borç. yüz yirmi Alıcılar, on beş bin alacak.
+
+[[1]]
+
+[[bip]]
+Soru on bir. Dönem sonu itibariyle işletmenin bankadaki vadeli mevduat hesabının vadesi on dört gün sonra dolacaktır. İşletme, hesabın açıldığı tarihten bilanço gününe kadar geçen süre için hak ettiği faizi hesaplamış ve ilgili kaydı yapmıştır. Bu kayıtta borçlandırılacak hesap aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Gelir Tahakkukları.
+
+[[1]]
+
+[[bip]]
+Soru on iki. İşletmenin mart ayına ilişkin ticari mal hareketleri şu şekildedir: Miktar Birim Maliyet Tutar Dönem Başı Stok beş yüz yirmi lira on bin lira beş Mart – Satış üç yüz on Mart – Alış sekiz yüz yirmi beş lira yirmi bin lira on beş Mart – Satış altı yüz yirmi Mart – Alış bin otuz lira otuz bin lira yirmi beş Mart – Satış sekiz yüz Maliyet hesaplamada İlk Giren İlk Çıkar yöntemini kullanan bu işletmede mart ayına ilişkin satılan ticari mallar maliyeti kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: kırk iki bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on üç. İşletme ticari mal satmış, satış tutarı ve kadeve için ileri tarihli bir çek almıştır. Çek, Alınan Çekler hesabına kaydedilmiştir. Bilanço tarihinde vadesi gelmemiş bu çekle ilgili olarak muhasebenin temel kavramları gereği yapılacak muhasebe kaydıyla ilgili aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Çek tutarı, Alacak Senetleri hesabının borç tarafına kaydedilir.
+
+[[1]]
+
+[[bip]]
+Soru on dört. İşletme, yaptığı kasa sayımı sonucunda kasada on iki bin lira bulunduğunu saptamıştır. Aynı anda Kasa hesabının borç kalanı on üç bin liradır. Aradaki farkın, satıcılara ödendiği halde kayıtlara geçirilmeyen bir ödemeden kaynaklandığı saptanmıştır. Buna göre yapılacak günlük defter kaydıyla ilgili aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Satıcılar hesabına bin lira borç kayıt yapılır.
+
+[[1]]
+
+[[bip]]
+Soru on beş. Banka aracılığıyla nominal değeri üç lira olan hisse senetlerinden iki bin adet satın alan işletme, her hisse senedi için beş lira ödemiştir. Buna göre yapılacak günlük defter kaydıyla ilgili aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Hisse Senetleri hesabına on bin lira borç kayıt yapılır.
+
+[[1]]
+
+[[bip]]
+Soru on altı. Ticari mal hareketlerini aralıksız sayım (sürekli envanter) yöntemine göre muhasebeleştiren işletmede dönem sonunda Ticari Mallar hesabının borç kalanı otuz sekiz bin liradır. Yapılan sayımda işletmede otuz altı bin liralık ticari mal bulunduğu, aradaki farkın normal fireden kaynaklandığı saptanmıştır. Buna göre yapılması gereken günlük defter kaydıyla ilgili aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Satılan Ticari Mallar Maliyeti hesabına iki bin lira borç kayıt yapılır.
+
+[[1]]
+
+[[bip]]
+Soru on yedi. İşletmenin satış mağazası için daha önce peşin olarak ödediği kira giderinin izlendiği Gelecek Aylara Ait Giderler hesabının dönem sonu itibariyle kalanı seksen bin liradır. Bu tutarın yirmi bin liralık kısmının izleyen dönemi ilgilendirdiği saptanmıştır. Dönem sonunda yapılması gerekenlerle ilgili aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Gelecek Aylara Ait Giderler hesabının yirmi bin lira kalan vermesi sağlanmalıdır.
+
+[[1]]
+
+[[bip]]
+Soru on sekiz. Muhasebe standartlarına göre raporlama yapan bir işletme maddi duran varlıklarını yeniden değerleme modeliyle ölçmektedir. Cari dönem sonunda taşıtlarını yeniden değerlemeye tabi tutmuştur. Değerleme çalışmaları sonucunda kayıtlı değeri yirmi beş bin lira olan Taşıtlar hesabının yeniden değerlenmiş tutarının elli bin lira, kayıtlı değeri yirmi bin lira olan Birikmiş Amortismanlar hesabının yeniden değerlenmiş tutarının otuz bin lira olduğu belirlenmiştir. te me se on altı Maddi Duran Varlıklar dikkate alınarak yapılacak günlük defter kaydıyla ilgili aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: Maddi Duran Varlıklar Yeniden Değerleme Artışları hesabına on beş bin lira alacak kayıt yapılır.
+
+[[1]]
+
+[[bip]]
+Soru on dokuz. Dönem sonu itibariyle işletme stoklarında otuz bin liralık ticari mal stoku bulunmaktadır. Bu stokların piyasada otuz beş bin liraya satılabileceği, bunları satabilmek için tahmini olarak altı bin liralık satış giderine katlanılması gerektiği değerlendirilmektedir. te me se iki Stoklara göre, ticari mallarda değer düşüklüğü olup olmadığına ve varsa buna göre yapılması gereken işlemin ne olduğuna ilişkin aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: bin lira değer düşüklüğü vardır ve karşılık ayrılmalıdır.
+
+[[1]]
+
+[[bip]]
+Soru yirmi. te me se otuz altı Maddi Olmayan Duran Varlıklara göre, araştırma ve geliştirme giderlerinin muhasebeleştirilmesiyle ilgili aşağıdakilerden hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Geliştirme giderleri aktifleştirilir.
+
+[[1]]
+
+Finansal Muhasebe çıkmış soruları bitti. Takıldığın soruların konusunu, ilgili ders bölümünden tekrar dinle.

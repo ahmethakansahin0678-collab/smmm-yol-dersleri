@@ -1,0 +1,94 @@
+BAŞLIK: Finansal Tablolar ve Analizi 5. Oran problem seti: tek bilanço, on oran
+
+Finansal Tablolar oran setine hoş geldin. Bu bölümde tek bir şirketin rakamlarını vereceğim ve bu rakamlarla on oran hesaplayacağız. Rakamları iki kez söyleyeceğim. Araç kullanırken not alamazsın, bu yüzden rakamlar bilerek yuvarlak seçildi. Her oranı duyunca kafanda hesapla, sonra çözümü dinle.
+
+Şirketin rakamları şöyle. Dikkatle dinle.
+
+Hazır değerler elli bin.
+Ticari alacaklar yüz bin.
+Stoklar yüz elli bin.
+Dönen varlıklar toplamı üç yüz bin.
+Duran varlıklar iki yüz bin.
+Aktif toplamı beş yüz bin.
+
+Kısa vadeli yabancı kaynaklar yüz elli bin.
+Uzun vadeli yabancı kaynaklar yüz bin.
+Özkaynaklar iki yüz elli bin.
+
+Net satışlar bir milyon.
+Satışların maliyeti altı yüz bin.
+Net kâr elli bin.
+Ortalama stok yüz elli bin, ortalama ticari alacak yüz bin kabul edelim.
+
+Bir kez daha, kısaca: Hazır değer elli, alacak yüz, stok yüz elli, dönen üç yüz, duran iki yüz, aktif beş yüz. Kısa vadeli borç yüz elli, uzun vadeli yüz, özkaynak iki yüz elli. Satış bir milyon, maliyet altı yüz bin, net kâr elli bin. Hepsi bin lira cinsinden.
+
+[[bip]]
+Birinci oran. Cari oran?
+[[8]]
+Üç yüz bölü yüz elli, iki.
+
+[[bip]]
+İkinci oran. Asit test oranı?
+[[8]]
+Üç yüz eksi yüz elli stok, yüz elli. Bölü yüz elli, bir.
+
+[[bip]]
+Üçüncü oran. Nakit oran?
+[[8]]
+Elli bölü yüz elli, yaklaşık sıfır virgül otuz üç.
+
+[[bip]]
+Dördüncü oran. Kaldıraç oranı, yani toplam yabancı kaynakların aktife oranı?
+[[8]]
+Yüz elli artı yüz, iki yüz elli. Bölü beş yüz, yüzde elli.
+
+[[bip]]
+Beşinci oran. Özkaynakların yabancı kaynaklara oranı?
+[[8]]
+İki yüz elli bölü iki yüz elli, bir.
+
+[[bip]]
+Altıncı oran. Stok devir hızı?
+[[8]]
+Satışların maliyeti altı yüz bölü ortalama stok yüz elli, dört.
+
+[[bip]]
+Yedinci oran. Üç yüz altmış gün üzerinden stokta kalma süresi?
+[[8]]
+Üç yüz altmış bölü dört, doksan gün.
+
+[[bip]]
+Sekizinci oran. Alacak devir hızı ve tahsil süresi?
+[[10]]
+Net satış bin bölü ortalama alacak yüz, on. Tahsil süresi üç yüz altmış bölü on, otuz altı gün.
+
+[[bip]]
+Dokuzuncu oran. Net kâr marjı ve aktif devir hızı?
+[[10]]
+Net kâr marjı elli bölü bin, yüzde beş. Aktif devir hızı bin bölü beş yüz, iki.
+
+[[bip]]
+Onuncu oran. Aktif kârlılığı ve özkaynak kârlılığı?
+[[10]]
+Aktif kârlılığı, yüzde beş çarpı iki, yüzde on. Özkaynak kârlılığı, elli bölü iki yüz elli, yüzde yirmi. Özkaynak çarpanı beş yüz bölü iki yüz elli, iki. Yüzde on çarpı iki, yüzde yirmi. DuPont tutuyor.
+
+Bonus yorum sorusu.
+
+[[bip]]
+Bu şirketin likiditesi ve mali yapısı hakkında tek cümlelik yorumun ne?
+[[8]]
+Cari oran iki ve asit test bir ile likidite genel ölçülerde, kaldıraç yüzde elli ile mali yapı dengeli. Stoklar doksan günde dönüyor, alacaklar otuz altı günde tahsil ediliyor.
+
+Set bitti.
+
+Dersin özeti.
+
+Bir. Cari oran dönen varlık bölü kısa vadeli borç. Asit testte stok çıkarılır. Nakit oranda sadece hazır değerler ve menkul kıymetler.
+
+İki. Kaldıraç toplam borç bölü aktif. Özkaynak bölü borç oranının genel ölçüsü bir.
+
+Üç. Stok devir hızında satışların maliyeti, alacak devir hızında net satışlar kullanılır.
+
+Dört. Gün sayısı bölü devir hızı, kalma veya tahsil süresini verir.
+
+Beş. Aktif kârlılığı eşittir net kâr marjı çarpı aktif devir hızı. Özkaynak kârlılığı eşittir aktif kârlılığı çarpı özkaynak çarpanı.

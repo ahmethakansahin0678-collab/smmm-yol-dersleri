@@ -1,0 +1,95 @@
+BAŞLIK: Hukuk 3. Kıymetli evrak: poliçe, bono, çek, ciro ve aval
+
+Hukuk üçüncü bölüme hoş geldin. Bugün kıymetli evrakı, özellikle de kambiyo senetlerini işleyeceğiz. Bir muhasebecinin her gün elinden geçen çek ve senetlerin hukuku bu.
+
+Kıymetli evrak, öyle senetlerdir ki, onlarda yazılı hak, senetten ayrı olarak ileri sürülemez ve başkalarına devredilemez. Yani hak, kâğıda bağlıdır. Kâğıt kimdeyse hak ondadır.
+
+Kambiyo senetleri üç tanedir: Poliçe, bono ve çek. Bunların ortak özelliği, kanunda sayılan zorunlu unsurları taşımak zorunda olmalarıdır. Bir zorunlu unsur eksikse, senet kambiyo senedi niteliğini kaybeder.
+
+Önce üçünün farkını bir benzetmeyle görelim.
+
+Poliçe: Üç taraflıdır. Düzenleyen, yani keşideci, bir başkasına, yani muhataba, belirli bir parayı lehtara ödemesi için emir verir. Bir babanın, oğluna parayı vermesi için kasadaki kardeşine not yazması gibi.
+
+Bono: İki taraflıdır. Buna emre muharrer senet de denir. Düzenleyen, belirli bir parayı belirli bir vadede lehtara kendisi ödeyeceğini vaat eder. Bir borç senedi gibi düşün: Ben ödeyeceğim, diyor.
+
+Çek: Üç taraflıdır ama muhatap mutlaka bir bankadır. Düzenleyen, bankaya, hesabındaki paradan hamile ödeme yapması için emir verir. Çek bir kredi aracı değil, bir ödeme aracıdır ve görüldüğünde ödenir.
+
+Hafıza cümlesi: Poliçe emir verir, bono söz verir, çek bankaya emir verir.
+
+Soru bankandaki bir hatayı burada tekrar düzeltelim: Çeki düzenleyene keşideci denir ve çek keşidecinin imzasıyla düzenlenir. Hamilin imzası gerekmez.
+
+Çekin ibraz süreleri. Çek, bankaya belirli süreler içinde ibraz edilmelidir. Bu süreler sınavda çok sorulur.
+
+Düzenlendiği yerde ödenecek çekler için on gün.
+Düzenlendiği yer ile ödeneceği yer farklı ise bir ay.
+Düzenlendiği yer ile ödeneceği yer farklı kıtalarda ise üç ay.
+
+Bu süreler, çekte düzenleme tarihi olarak gösterilen günden itibaren işler.
+
+Hafıza cümlesi: On gün, bir ay, üç ay. Aynı yer, farklı yer, farklı kıta.
+
+Şimdi ciro. Ciro, kambiyo senedinin arkasına yazılan bir beyan ve imza ile senedin devredilmesidir. Ciro eden kişiye ciranta, devralan kişiye hamil denir. Cironun üç işlevi vardır: Devir işlevi, yani hakkın devredilmesi. Teminat işlevi, yani ciranta da ödemeden sorumlu olur. Ve meşruiyet işlevi, yani kesintisiz ciro zinciriyle senedi elinde bulunduran kişi hak sahibi kabul edilir.
+
+Ciro türleri şunlardır:
+
+Tam ciro: Kime devredildiği yazılı olan cirodur.
+Beyaz ciro: Sadece cirantanın imzasından oluşan cirodur. Kimin adına devredildiği yazmaz.
+Tahsil cirosu: Senedin sadece tahsil için, mesela bankaya verilmesidir. Hak devredilmez.
+Rehin cirosu: Senedin bir borca teminat olarak verilmesidir.
+
+Şimdi aval. Aval, kambiyo senetlerine özgü bir kefalettir. Avalist, senetteki bir borçlunun ödemesini garanti eder. Aval, senedin üzerine veya alonj denen ek kâğıda, aval içindir ya da buna benzer bir ifade ve imza ile verilir. Senedin ön yüzüne atılan, keşideci ve muhatap dışındaki birinin imzası da aval sayılır.
+
+Protesto. Poliçe veya bono vadesinde ödenmezse, hamilin cirantalara başvurabilmesi için kural olarak ödememe protestosu çekmesi gerekir. Protesto noter aracılığıyla yapılır. Çekte ise banka, karşılığı olmadığını çekin üzerine yazarak bu işlevi görür.
+
+Son olarak zamanaşımı. Kambiyo senetlerinde süreler kısadır.
+
+Poliçede kabul eden muhataba, bonoda düzenleyene karşı açılacak davalar vadeden itibaren üç yılda zamanaşımına uğrar.
+Hamilin cirantalara ve keşideciye karşı açacağı davalar bir yılda zamanaşımına uğrar.
+Çekte ise hamilin müracaat hakları, ibraz süresinin bitiminden itibaren altı ayda zamanaşımına uğrar.
+
+Hafıza cümlesi: Asıl borçluya üç yıl, cirantaya bir yıl, çekte altı ay.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: İstanbul'da düzenlenip Ankara'da ödenecek bir çekin ibraz süresi ne kadardır?
+A şıkkı: On gün.
+B şıkkı: On beş gün.
+C şıkkı: Bir ay.
+D şıkkı: Üç ay.
+E şıkkı: Altı ay.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, bir ay. Düzenleme yeri ile ödeme yeri farklı olduğu için süre bir aydır. Aynı yerde olsaydı on gün, farklı kıtada olsaydı üç ay olurdu.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Sadece cirantanın imzasından oluşan, kime devredildiği yazmayan ciroya ne denir?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Beyaz ciro.
+
+Dersin özeti.
+
+Bir. Kambiyo senetleri üçtür: poliçe, bono ve çek.
+
+İki. Poliçe ödeme emri, bono ödeme vaadi, çek ise bankaya verilen ödeme emridir. Çek görüldüğünde ödenir.
+
+Üç. Çekin ibraz süreleri: aynı yerde on gün, farklı yerde bir ay, farklı kıtada üç ay.
+
+Dört. Cironun üç işlevi: devir, teminat ve meşruiyet. Sadece imzadan oluşan ciro beyaz cirodur.
+
+Beş. Aval, kambiyo senetlerine özgü kefalettir.
+
+Altı. Zamanaşımı: asıl borçluya üç yıl, cirantalara bir yıl, çekte altı ay.

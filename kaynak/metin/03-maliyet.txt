@@ -1,0 +1,108 @@
+BAŞLIK: Ders 3. Maliyet Muhasebesi: Temel kavramlar ve üretim maliyeti hesabı
+
+Maliyet Muhasebesi dersine hoş geldin. Bu bölümde dört kavramı birbirinden ayırmayı, yedi numaralı hesap grubunun iki seçeneğini ve sınavda neredeyse her yıl çıkan üretim maliyeti hesabını öğreneceğiz.
+
+Önce dört kavram: Harcama, gider, maliyet ve zarar.
+
+Harcama, bir mal ya da hizmet için para ödenmesi veya borçlanılmasıdır. Mesela bir makine satın aldın, bu bir harcamadır.
+
+Gider, bir dönemde gelir elde etmek için tüketilen kaynaklardır. Mesela o makinenin bu yılki amortismanı bir giderdir.
+
+Maliyet ise bir mamulü ya da hizmeti üretmek için katlanılan fedakârlıkların toplamıdır. Giderler, mamule yüklendiği anda maliyete dönüşür.
+
+Zarar ise karşılığında hiçbir fayda elde edilmeyen kayıptır. Mesela bir yangında stokların yanması.
+
+Bir benzetme: Harcama cüzdandan çıkan paradır. Gider, o paranın bu dönemde kullanılan kısmıdır. Maliyet, ürünün üzerine yapışan kısmıdır. Zarar ise boşa giden kısımdır.
+
+Şimdi üretim maliyetinin üç unsuruna geçelim. Bunu kesinlikle ezberle.
+
+Birincisi direkt ilk madde ve malzeme. Ürünün içine doğrudan giren ve ürüne kolayca yüklenebilen hammaddedir. Bir mobilya atölyesinde tahta gibi.
+
+İkincisi direkt işçilik. Ürünü doğrudan üreten işçilerin ücretleridir. Tahtayı kesen ve birleştiren usta gibi.
+
+Üçüncüsü genel üretim giderleri. Üretimle ilgili olan ama ürüne doğrudan yüklenemeyen giderlerdir. Fabrika elektriği, makine amortismanı, ustabaşı maaşı, endirekt malzeme gibi.
+
+Bu üç unsurdan iki önemli kavram türetilir.
+
+Asal maliyet: Direkt ilk madde artı direkt işçilik.
+
+Dönüştürme maliyeti: Direkt işçilik artı genel üretim giderleri. Yani hammaddeyi mamule dönüştürmek için katlanılan maliyet.
+
+Hafıza cümlesi: Asal maliyette işçilik ile madde var, dönüştürmede işçilik ile genel gider var. İşçilik ikisinde de ortak.
+
+Şimdi yedi numaralı hesap grubuna geçelim. Tekdüzen Hesap Planında maliyet hesapları için iki seçenek var.
+
+Yedi A seçeneği fonksiyon esasına göredir. Giderler işlevlerine göre toplanır. Yedi yüz on Direkt İlk Madde ve Malzeme Giderleri. Yedi yüz yirmi Direkt İşçilik Giderleri. Yedi yüz otuz Genel Üretim Giderleri. Yedi yüz kırk Hizmet Üretim Maliyeti. Yedi yüz elli Araştırma ve Geliştirme Giderleri. Yedi yüz altmış Pazarlama Satış ve Dağıtım Giderleri. Yedi yüz yetmiş Genel Yönetim Giderleri. Yedi yüz seksen Finansman Giderleri.
+
+Yedi B seçeneği ise çeşit esasına göredir. Giderler türlerine göre izlenir: ilk madde, işçi ücretleri, memur ücretleri, dışarıdan sağlanan hizmetler, çeşitli giderler, vergi resim harçlar, amortismanlar ve finansman giderleri. Bunlar yedi yüz doksan ile yedi yüz doksan sekiz arasındaki hesaplarda izlenir. Yedi B, genellikle daha küçük işletmelerin tercih ettiği seçenektir.
+
+Şimdi sınavın klasik sorusu: Satılan mamul maliyetinin hesaplanması. Bunu bir merdiven gibi düşün, üç basamağı var.
+
+Birinci basamak: Dönemin üretim maliyeti. Direkt ilk madde, artı direkt işçilik, artı genel üretim giderleri.
+
+İkinci basamak: Tamamlanan mamul maliyeti. Dönemin üretim maliyetine dönem başı yarı mamul eklenir, dönem sonu yarı mamul çıkarılır.
+
+Üçüncü basamak: Satılan mamul maliyeti. Tamamlanan mamul maliyetine dönem başı mamul stoku eklenir, dönem sonu mamul stoku çıkarılır.
+
+Kural şu: Her basamakta dönem başı stok eklenir, dönem sonu stok çıkarılır.
+
+Şimdi bir örnek. Sayıları dikkatle takip et.
+
+Direkt ilk madde kırk bin lira. Direkt işçilik yirmi beş bin lira. Genel üretim giderleri on beş bin lira.
+
+Birinci basamak. Kırk bin artı yirmi beş bin artı on beş bin, seksen bin lira. Dönemin üretim maliyeti seksen bin lira.
+
+Dönem başı yarı mamul on bin lira, dönem sonu yarı mamul yirmi bin lira.
+
+İkinci basamak. Seksen bin artı on bin, doksan bin. Eksi yirmi bin, yetmiş bin lira. Tamamlanan mamul maliyeti yetmiş bin lira.
+
+Dönem başı mamul beş bin lira, dönem sonu mamul on beş bin lira.
+
+Üçüncü basamak. Yetmiş bin artı beş bin, yetmiş beş bin. Eksi on beş bin, altmış bin lira. Satılan mamul maliyeti altmış bin lira.
+
+Bu örnekte asal maliyet kırk bin artı yirmi beş bin, yani altmış beş bin lira. Dönüştürme maliyeti yirmi beş bin artı on beş bin, yani kırk bin lira.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Bir işletmede direkt ilk madde otuz bin, direkt işçilik yirmi bin, genel üretim giderleri on bin liradır. Dönüştürme maliyeti kaç liradır?
+A şıkkı: Elli bin.
+B şıkkı: Otuz bin.
+C şıkkı: Altmış bin.
+D şıkkı: Kırk bin.
+E şıkkı: Yirmi bin.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, otuz bin lira. Dönüştürme maliyeti direkt işçilik artı genel üretim giderleridir. Yirmi bin artı on bin, otuz bin. Eğer asal maliyet sorulsaydı cevap otuz bin artı yirmi bin, yani elli bin olurdu. Sınavda bu iki şık genellikle birlikte verilir, tuzağa düşme.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Dönemin üretim maliyeti yüz bin lira, dönem başı yarı mamul yok, dönem sonu yarı mamul yirmi bin lira. Tamamlanan mamul maliyeti kaç liradır?
+
+[[6]]
+
+[[bip]]
+
+Cevap seksen bin lira. Yüz bin artı sıfır, eksi yirmi bin. Dönem sonu stok her zaman çıkarılır.
+
+Dersin özeti.
+
+Bir. Üretim maliyetinin üç unsuru: direkt ilk madde, direkt işçilik ve genel üretim giderleri.
+
+İki. Asal maliyet eşittir direkt ilk madde artı direkt işçilik.
+
+Üç. Dönüştürme maliyeti eşittir direkt işçilik artı genel üretim giderleri.
+
+Dört. Yedi A fonksiyon esası, yedi B çeşit esasıdır.
+
+Beş. Maliyet merdiveninde her basamakta dönem başı stok eklenir, dönem sonu stok çıkarılır.
+
+Bir sonraki bölümde genel üretim giderlerinin dağıtımına ve sabit değişken maliyet ayrımına geçeceğiz. Şimdi sıradaki dersimiz Muhasebe Denetimi.

@@ -1,0 +1,100 @@
+BAŞLIK: Finansal Tablolar ve Analizi 3. Nakit akış tablosu ve fon akım tablosu
+
+Finansal Tablolar üçüncü bölüme hoş geldin. Bugün kârın neden her zaman kasaya yansımadığını anlayacağız. Konumuz nakit akış tablosu ve kısaca fon akım tablosu.
+
+Önce temel soru: Bir şirket kâr ettiği halde nasıl nakit sıkıntısı çekebilir? Çünkü kâr tahakkuk esasına göre hesaplanır. Veresiye satış yaptığında gelir yazarsın ama para henüz kasaya girmemiştir. Amortisman gider yazılır ama kasadan para çıkmaz. Nakit akış tablosu, bu farkı kapatır ve paranın gerçekte nereden gelip nereye gittiğini gösterir.
+
+Türkiye Muhasebe Standartlarında bu konu TMS yedi numaralı Nakit Akış Tabloları standardında düzenlenir. Nakit akışları üç faaliyete ayrılır. Bunu ezberle.
+
+Bir: İşletme faaliyetleri. Şirketin asıl işinden doğan nakit akışları. Müşterilerden tahsilat, satıcılara ve çalışanlara ödemeler, vergi ödemeleri.
+
+İki: Yatırım faaliyetleri. Duran varlık alım satımları. Makine, bina, arsa alımı ya da satışı, başka şirketlere ortak olmak.
+
+Üç: Finansman faaliyetleri. Şirketin kaynak yapısını değiştiren işlemler. Kredi kullanma ve geri ödeme, sermaye artırımı, ortaklara kâr payı ödemesi.
+
+Hafıza cümlesi: İş yaparsın, yatırım yaparsın, para bulursun.
+
+Bir sınıflandırma alıştırması yapalım. Ben işlemi söyleyeyim, sen faaliyeti düşün.
+
+Yeni bir makine satın alındı. Yatırım faaliyeti.
+Bankadan kredi kullanıldı. Finansman faaliyeti.
+Müşteriden alacak tahsil edildi. İşletme faaliyeti.
+Ortaklar sermaye artırımı için para koydu. Finansman faaliyeti.
+Eski bir taşıt satıldı. Yatırım faaliyeti.
+
+İşletme faaliyetlerinden sağlanan nakit iki yöntemle gösterilebilir.
+
+Doğrudan yöntem: Tahsilatlar ve ödemeler tek tek gösterilir. Müşterilerden şu kadar tahsilat, satıcılara şu kadar ödeme gibi.
+
+Dolaylı yöntem: Net kârdan başlanır ve nakit etkisi olmayan kalemler düzeltilir. Uygulamada en çok bu yöntem kullanılır ve sınavda da en çok bu sorulur.
+
+Dolaylı yöntemin kuralları şunlardır.
+
+Birinci kural: Amortisman gibi nakit çıkışı gerektirmeyen giderler net kâra eklenir. Çünkü bunlar kârı düşürmüş ama kasadan para çıkmamıştır.
+
+İkinci kural: Dönen varlıklardaki artışlar düşülür, azalışlar eklenir. Mesela ticari alacaklar arttıysa, satış yapılmış ama para tahsil edilmemiştir, bu yüzden düşülür. Stoklar arttıysa, stoka para bağlanmıştır, düşülür.
+
+Üçüncü kural: Kısa vadeli ticari borçlardaki artışlar eklenir, azalışlar düşülür. Mesela satıcılara borç arttıysa, mal alınmış ama parası ödenmemiştir, kasada para kalmıştır, eklenir.
+
+Hafıza cümlesi: Varlık artışı nakdi azaltır, borç artışı nakdi artırır.
+
+Şimdi bir örnek.
+
+Net kâr yüz bin lira.
+Amortisman gideri yirmi bin lira.
+Ticari alacaklar otuz bin lira arttı.
+Stoklar on bin lira azaldı.
+Ticari borçlar on beş bin lira arttı.
+
+Hesap: Yüz bin, artı yirmi bin amortisman, yüz yirmi bin. Eksi otuz bin alacak artışı, doksan bin. Artı on bin stok azalışı, yüz bin. Artı on beş bin borç artışı, yüz on beş bin.
+
+İşletme faaliyetlerinden sağlanan net nakit yüz on beş bin lira.
+
+Şimdi kısaca fon akım tablosu. Bu tablo, Tekdüzen Muhasebe Sistemindeki ek mali tablolardandır. Burada fon, net işletme sermayesi anlamında kullanılır, yani dönen varlıklar eksi kısa vadeli yabancı kaynaklar. Fon akım tablosu, bir dönemde fonların hangi kaynaklardan sağlandığını ve nerelerde kullanıldığını gösterir.
+
+Fon kaynakları: Dönem kârı ve amortismanlar, duran varlık satışları, uzun vadeli borçlanma ve sermaye artırımı.
+
+Fon kullanımları: Dönem zararı, duran varlık alımları, uzun vadeli borç ödemeleri ve kâr payı ödemeleri.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Nakit akış tablosunda ortaklara ödenen kâr payı genellikle hangi faaliyet içinde gösterilir?
+A şıkkı: İşletme faaliyetleri.
+B şıkkı: Yatırım faaliyetleri.
+C şıkkı: Finansman faaliyetleri.
+D şıkkı: Olağandışı faaliyetler.
+E şıkkı: Hiçbiri, tabloda gösterilmez.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, finansman faaliyetleri. Kâr payı ödemesi, şirketin ortaklarıyla olan kaynak ilişkisidir. Standart, ödenen kâr paylarının işletme faaliyetlerinde gösterilmesine de izin verir, ama sınavda ve uygulamada yaygın sınıflandırma finansmandır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Dolaylı yöntemde, net kâr elli bin, amortisman on bin lira, ticari alacaklar yirmi bin lira artmış, başka değişiklik yoktur. İşletme faaliyetlerinden sağlanan nakit nedir?
+
+[[8]]
+
+[[bip]]
+
+Cevap: Kırk bin lira. Elli bin artı on bin amortisman, altmış bin. Eksi yirmi bin alacak artışı, kırk bin.
+
+Dersin özeti.
+
+Bir. Nakit akışları üç faaliyete ayrılır: işletme, yatırım ve finansman.
+
+İki. Duran varlık alım satımı yatırım, kredi ve sermaye işlemleri finansman faaliyetidir.
+
+Üç. Dolaylı yöntemde net kârdan başlanır, amortisman eklenir.
+
+Dört. Dönen varlık artışları düşülür, azalışları eklenir. Ticari borç artışları eklenir, azalışları düşülür.
+
+Beş. Fon akım tablosunda fon, net işletme sermayesidir.

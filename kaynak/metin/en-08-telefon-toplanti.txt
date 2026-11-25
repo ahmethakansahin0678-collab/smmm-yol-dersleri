@@ -1,0 +1,106 @@
+BAŞLIK: Mesleki İngilizce 8. Telefon ve toplantı İngilizcesi
+
+Mesleki İngilizce sekizinci bölüme hoş geldin. Bugün yabancı bir müşteri ya da denetçiyle telefonda veya toplantıda kullanacağın kalıp cümleleri çalışacağız: Kendini tanıtmak, rica etmek, netleştirmek, toplantı ayarlamak ve ertelemek. Her cümleyi duyduktan sonra yüksek sesle tekrar et.
+
+Önce telefonu açmak ve kendini tanıtmak.
+
+EN: Good morning, this is Ahmet from the accounting office.
+Günaydın, ben muhasebe bürosundan Ahmet.
+
+EN: I'm calling about your VAT return for October.
+Ekim ayı kadeve beyannameniz hakkında arıyorum.
+
+EN: Is this a good time to talk?
+Konuşmak için uygun bir zaman mı?
+
+Şimdi rica etmek.
+
+EN: Could you send me the invoices by Wednesday?
+Faturaları çarşambaya kadar gönderebilir misiniz?
+
+EN: Would it be possible to extend the deadline?
+Son tarihi uzatmak mümkün olur mu?
+
+EN: I'd appreciate it if you could confirm the bank balance.
+Banka bakiyesini teyit ederseniz memnun olurum.
+
+Şimdi netleştirmek. Anlamadığında bunları kullan.
+
+EN: Sorry, could you repeat that, please?
+Pardon, tekrar eder misiniz?
+
+EN: Could you speak a little more slowly?
+Biraz daha yavaş konuşabilir misiniz?
+
+EN: Just to clarify, do you mean the net or the gross amount?
+Netleştirmek için soruyorum, net tutarı mı brüt tutarı mı kastediyorsunuz?
+
+EN: So, if I understand correctly, the payment is due on the twenty-eighth.
+Doğru anladıysam ödeme ayın yirmi sekizinde.
+
+Şimdi toplantı ayarlamak.
+
+EN: Are you available on Thursday afternoon?
+Perşembe öğleden sonra müsait misiniz?
+
+EN: Let's schedule a meeting to go over the financial statements.
+Finansal tabloların üzerinden geçmek için bir toplantı ayarlayalım.
+
+EN: I'll send you a calendar invitation.
+Size bir takvim daveti göndereceğim.
+
+Şimdi ertelemek ve özür dilemek.
+
+EN: I'm afraid I need to reschedule our meeting.
+Korkarım toplantımızı ertelemem gerekiyor.
+
+EN: Would next Monday work for you instead?
+Bunun yerine gelecek pazartesi size uyar mı?
+
+EN: Sorry for the inconvenience.
+Verdiğim rahatsızlık için özür dilerim.
+
+Şimdi kapanış.
+
+EN: Thank you for your time.
+Zaman ayırdığınız için teşekkürler.
+
+EN: I'll follow up by email.
+E-postayla devamını getireceğim.
+
+EN: Have a great day.
+İyi günler.
+
+Şimdi test. Türkçesini söylüyorum, İngilizcesini söyle.
+
+[[bip]]
+Tekrar eder misiniz?
+[[5]]
+EN: Could you repeat that, please?
+
+[[bip]]
+Perşembe öğleden sonra müsait misiniz?
+[[5]]
+EN: Are you available on Thursday afternoon?
+
+[[bip]]
+Toplantımızı ertelemem gerekiyor.
+[[5]]
+EN: I need to reschedule our meeting.
+
+[[bip]]
+Son tarihi uzatmak mümkün olur mu?
+[[5]]
+EN: Would it be possible to extend the deadline?
+
+[[bip]]
+E-postayla devamını getireceğim.
+[[5]]
+EN: I'll follow up by email.
+
+Harika. Bugünkü özet:
+
+EN: Could you send me. Would it be possible. I'd appreciate it if.
+EN: Could you repeat that. Just to clarify. If I understand correctly.
+EN: Are you available. Let's schedule a meeting. I need to reschedule.
+EN: Thank you for your time. I'll follow up by email.

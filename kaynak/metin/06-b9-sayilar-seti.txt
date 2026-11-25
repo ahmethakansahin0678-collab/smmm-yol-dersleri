@@ -1,0 +1,117 @@
+BAŞLIK: Hukuk 9. Hızlı soru seti: süreler, oranlar ve sınırlar
+
+Hukuk hızlı soru setine hoş geldin. Hukuk sorularının büyük kısmı bir sayıyı bilmeye dayanır: Bir süre, bir oran ya da bir sınır. Bu bölümde yirmi kısa soru soracağım. Her sorudan sonra kısa bir zil ve birkaç saniye var. Cevabı yüksek sesle söyle, sonra doğrusunu duy. Hızlı gideceğiz.
+
+[[bip]]
+Anonim şirketin asgari esas sermayesi?
+[[4]]
+İki yüz elli bin lira.
+
+[[bip]]
+Limited şirketin asgari sermayesi?
+[[4]]
+Elli bin lira.
+
+[[bip]]
+Limited şirkette en fazla ortak sayısı?
+[[4]]
+Elli.
+
+[[bip]]
+Nakdi sermayenin tescilden önce ödenmesi gereken asgari kısmı?
+[[4]]
+Dörtte biri. Kalanı yirmi dört ay içinde.
+
+[[bip]]
+Olağan genel kurul, faaliyet dönemi sonundan itibaren kaç ay içinde toplanır?
+[[4]]
+Üç ay.
+
+[[bip]]
+Yönetim kurulu üyeleri en fazla kaç yıl için seçilir?
+[[4]]
+Üç yıl.
+
+[[bip]]
+Birinci tertip yedek akçe hangi orandan, hangi sınıra kadar ayrılır?
+[[5]]
+Kârın yüzde beşi, ödenmiş sermayenin yüzde yirmisine kadar.
+
+[[bip]]
+Ticaret unvanı, işletmenin açılışından itibaren kaç gün içinde tescil edilir?
+[[4]]
+On beş gün.
+
+[[bip]]
+Aynı yerde ödenecek bir çekin ibraz süresi?
+[[4]]
+On gün. Farklı yerde bir ay, farklı kıtada üç ay.
+
+[[bip]]
+Bonoda düzenleyene karşı zamanaşımı?
+[[4]]
+Vadeden itibaren üç yıl.
+
+[[bip]]
+Çekte hamilin müracaat hakları zamanaşımı?
+[[4]]
+İbraz süresinin bitiminden itibaren altı ay.
+
+[[bip]]
+Türk Borçlar Kanununda genel zamanaşımı?
+[[4]]
+On yıl. Kira, faiz, ücret gibi dönemsel edimlerde beş yıl.
+
+[[bip]]
+Haksız fiilde zamanaşımı?
+[[4]]
+Öğrenmeden itibaren iki yıl, her halde on yıl.
+
+[[bip]]
+İrade sakatlığında sözleşmeyle bağlı olmadığını bildirme süresi?
+[[4]]
+Bir yıl.
+
+[[bip]]
+İş Kanununda deneme süresi en çok?
+[[4]]
+İki ay. Toplu iş sözleşmesiyle dört ay.
+
+[[bip]]
+Üç yıldan fazla çalışmış işçinin bildirim süresi?
+[[4]]
+Sekiz hafta.
+
+[[bip]]
+On beş yıl kıdemli işçinin yıllık izni?
+[[4]]
+Yirmi altı gün.
+
+[[bip]]
+İş güvencesi için işyerinde en az kaç işçi, işçinin en az ne kadar kıdemi olmalı?
+[[5]]
+Otuz işçi, altı ay kıdem.
+
+[[bip]]
+İş kazası kaç iş günü içinde bildirilir?
+[[4]]
+Üç iş günü.
+
+[[bip]]
+İlamsız takipte itiraz süresi, kambiyo senetlerine dayalı takipte itiraz süresi?
+[[5]]
+İlamsızda yedi gün. Kambiyoda beş gün, ödeme süresi on gün.
+
+Set bitti. Yirmi sorudan on altı ve üzerini bildiysen Hukuk sayılarında iyisin. Bilemediklerini kafanda not et ve o konunun bölümünü akşam tekrar dinle.
+
+Dersin özeti.
+
+Bir. Şirketler: iki yüz elli bin, elli bin, elli ortak, dörtte bir peşin, üç ay genel kurul, üç yıl yönetim kurulu.
+
+İki. Kıymetli evrak: on gün, bir ay, üç ay ibraz. Üç yıl, bir yıl, altı ay zamanaşımı.
+
+Üç. Borçlar: on yıl genel, beş yıl dönemsel, iki ve on yıl haksız fiil, bir yıl irade sakatlığı.
+
+Dört. İş: iki ay deneme, iki dört altı sekiz hafta bildirim, on dört yirmi yirmi altı gün izin, otuz işçi altı ay güvence.
+
+Beş. Takip: yedi gün ilamsız, beş ve on gün kambiyo. İş kazası üç iş günü.

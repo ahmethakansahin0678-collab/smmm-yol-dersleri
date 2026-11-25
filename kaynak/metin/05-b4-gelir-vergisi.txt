@@ -1,0 +1,82 @@
+BAŞLIK: Vergi Mevzuatı 4. Gelir vergisi: mükellefiyet, ticari kazanç ve ücret
+
+Vergi Mevzuatı dördüncü bölüme hoş geldin. Bugün yüz doksan üç sayılı Gelir Vergisi Kanununun temel yapısını, ticari kazancı ve ücreti işleyeceğiz.
+
+Önce gelirin tanımı. Gelir, bir gerçek kişinin bir takvim yılı içinde elde ettiği kazanç ve iratların safi tutarıdır. Bu tanımda üç anahtar var: Gerçek kişi, takvim yılı ve safi, yani net tutar. Gelir vergisinin dönemi takvim yılıdır.
+
+Mükellefiyet. Türkiye'de yerleşmiş olan gerçek kişiler tam mükelleftir ve Türkiye içinde ve dışında elde ettikleri kazançların tamamı üzerinden vergilendirilir. Türkiye'de yerleşmiş sayılmanın iki yolu vardır: İkametgâhı Türkiye'de olmak, ya da bir takvim yılı içinde Türkiye'de sürekli olarak altı aydan fazla oturmak. Türkiye'de yerleşmiş olmayanlar ise dar mükelleftir ve sadece Türkiye'de elde ettikleri kazançlar üzerinden vergilendirilir.
+
+Hafıza cümlesi: İkametgâh ya da altı aydan fazla oturma, tam mükellefiyet.
+
+Gelir vergisi artan oranlı bir tarifeyle hesaplanır. Yani gelir yükseldikçe, üst dilimlere daha yüksek oran uygulanır. Oranlar yüzde on beşten başlar, yüzde kırka kadar çıkar. Dilim tutarları her yıl güncellenir.
+
+Yıllık gelir vergisi beyannamesi, izleyen yılın mart ayının başından sonuna kadar verilir. Vergi, mart ve temmuz aylarında olmak üzere iki eşit taksitte ödenir.
+
+Şimdi ticari kazanç. Her türlü ticari ve sınai faaliyetten doğan kazançlar ticari kazançtır. Ancak esnaf muaflığı denen bir istisna vardır. Kanunda belirtilen şartları taşıyan küçük esnaf, mesela belirli sınırların altında kalan seyyar satıcılar veya ev hanımlarının evde ürettikleri ürünleri satması gibi durumlar, gelir vergisinden muaftır.
+
+Ticari kazancın tespitinde iki esas var.
+
+Bilanço esası: Ticari kazanç, dönem sonu öz sermaye ile dönem başı öz sermaye arasındaki farktır. Bu farka, dönem içinde işletmeden çekilen değerler eklenir, işletmeye eklenen değerler düşülür.
+
+Örnek. Dönem başı öz sermaye yüz bin, dönem sonu öz sermaye yüz elli bin lira. İşletme sahibi dönem içinde kendi için yirmi bin lira çekmiş, işletmeye de on bin lira eklemiş.
+
+Ticari kazanç: Yüz elli bin eksi yüz bin, elli bin. Artı çekilen yirmi bin, yetmiş bin. Eksi eklenen on bin, altmış bin lira.
+
+İşletme hesabı esası: Dönem içinde elde edilen hasılat ile giderler arasındaki farktır. İkinci sınıf tüccarlar bu esasa göre kazanç tespit eder.
+
+İndirilecek giderler. Ticari kazancın elde edilmesi ve devam ettirilmesi için yapılan genel giderler, personel giderleri, kira, amortisman, işle ilgili seyahat giderleri, işle ilgili vergi ve harçlar indirilebilir.
+
+İndirilemeyen giderler. Bunlardan sınavda en çok sorulanı: Teşebbüs sahibinin kendisine, eşine ve küçük çocuklarına işletmeden ödenen aylık ve ücretler gider yazılamaz. Ayrıca işletme sahibinin işletmeye koyduğu sermaye için hesaplanan faizler, her türlü para ve vergi cezaları da indirilemez.
+
+Şimdi ücret. Ücret, işverene tabi ve belirli bir işyerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve ayınlar ile sağlanan ve para ile temsil edilebilen menfaatlerdir. Ayın, para dışındaki mal ve hizmet demektir.
+
+Tanımdaki iki unsur önemlidir: İşverene tabi olmak, yani onun emri altında çalışmak, ve belirli bir işyerine bağlı olmak.
+
+Ücretler kural olarak işveren tarafından kaynakta kesilir, yani stopaja tabidir. Tek işverenden alınan ve kanundaki sınırı aşmayan ücretler için yıllık beyanname verilmez. Kesilen vergi nihai vergidir.
+
+Önemli bir kural: Asgari ücret istisnası. İki bin yirmi iki yılından itibaren, ücretin asgari ücrete isabet eden kısmı gelir vergisinden ve damga vergisinden istisnadır. Yani asgari ücretli çalışan gelir vergisi ödemez, asgari ücretin üzerinde kazanan ise sadece aşan kısım için vergi öder.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Dönem başı öz sermayesi iki yüz bin, dönem sonu öz sermayesi iki yüz altmış bin lira olan bir tacir, dönem içinde işletmeden otuz bin lira çekmiş, işletmeye hiçbir değer eklememiştir. Bilanço esasına göre ticari kazanç kaç liradır?
+A şıkkı: Altmış bin.
+B şıkkı: Otuz bin.
+C şıkkı: Doksan bin.
+D şıkkı: İki yüz altmış bin.
+E şıkkı: Yüz yirmi bin.
+
+Düşün.
+
+[[10]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, doksan bin lira. Öz sermaye farkı altmış bin. Çekilen otuz bin eklenir, doksan bin olur. Çünkü çekilen para da aslında kazanılmış ama işletmeden çıkarılmıştır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bir tacirin işletmeden eşine ödediği aylık ücret, ticari kazancın tespitinde gider olarak indirilebilir mi?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Hayır. Teşebbüs sahibinin kendisine, eşine ve küçük çocuklarına ödenen aylık ve ücretler indirilemeyen giderlerdendir.
+
+Dersin özeti.
+
+Bir. Gelir, gerçek kişinin bir takvim yılında elde ettiği kazanç ve iratların safi tutarıdır.
+
+İki. İkametgâhı Türkiye'de olan ya da bir takvim yılında altı aydan fazla oturan tam mükelleftir.
+
+Üç. Tarife artan oranlıdır. Beyanname mart ayında verilir, vergi mart ve temmuzda iki taksitte ödenir.
+
+Dört. Bilanço esasında ticari kazanç: öz sermaye farkı, artı çekilen, eksi eklenen değerler.
+
+Beş. Teşebbüs sahibinin kendisine, eşine ve küçük çocuklarına ödenen ücretler gider yazılamaz.
+
+Altı. Ücretin asgari ücrete isabet eden kısmı gelir vergisi ve damga vergisinden istisnadır.

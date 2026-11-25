@@ -1,0 +1,121 @@
+BAŞLIK: Sermaye Piyasası ve Meslek Hukuku. Hızlı soru seti
+
+Sermaye Piyasası Mevzuatı ve Meslek Hukuku hızlı soru setine hoş geldin. Bu iki ders konu alanı dar olduğu için puan toplamaya en elverişli derslerdir. Yirmi kısa soru soracağım. Zilden sonra cevabı yüksek sesle söyle, sonra doğrusunu duy.
+
+Önce Sermaye Piyasası, on soru.
+
+[[bip]]
+Sermaye Piyasası Kanununun numarası ve yılı?
+[[4]]
+Altı bin üç yüz altmış iki, iki bin on iki.
+
+[[bip]]
+Pay sahibi sayısı kaçı aşan anonim ortaklık halka arz edilmiş sayılır?
+[[4]]
+Beş yüz.
+
+[[bip]]
+Sermaye piyasası araçlarının kaydını tutan kuruluş?
+[[4]]
+Merkezi Kayıt Kuruluşu.
+
+[[bip]]
+Takas ve saklama hizmetini veren kuruluş?
+[[4]]
+Takasbank.
+
+[[bip]]
+Aracı kurumun ödeme güçlüğünde yatırımcıyı koruyan kuruluş?
+[[4]]
+Yatırımcı Tazmin Merkezi.
+
+[[bip]]
+Kayıtlı sermaye tavanı için verilen izin en fazla kaç yıllıktır?
+[[4]]
+Beş yıl.
+
+[[bip]]
+Halka açık ortaklıklarda bağımsız yönetim kurulu üyesi sayısı?
+[[5]]
+Üye sayısının üçte birinden az olamaz, en az iki.
+
+[[bip]]
+Kurumsal yönetimin dört temel kavramı?
+[[5]]
+Eşitlik, şeffaflık, hesap verebilirlik, sorumluluk.
+
+[[bip]]
+Yatırım fonunun tüzel kişiliği var mıdır?
+[[4]]
+Hayır. Yatırım ortaklığının ise vardır, anonim şirkettir.
+
+[[bip]]
+Piyasa dolandırıcılığı suçlarında soruşturma neye bağlıdır?
+[[4]]
+Kurulun yazılı başvurusuna.
+
+Şimdi Meslek Hukuku, on soru.
+
+[[bip]]
+Meslek kanununun numarası?
+[[4]]
+Üç bin beş yüz altmış sekiz.
+
+[[bip]]
+Yürürlükteki meslek unvanları?
+[[4]]
+Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavir.
+
+[[bip]]
+Serbest Muhasebeci Mali Müşavirlik stajı kaç yıl?
+[[4]]
+Üç yıl.
+
+[[bip]]
+Yeminli Mali Müşavir olmak için kaç yıl fiili çalışma?
+[[4]]
+On yıl Serbest Muhasebeci Mali Müşavirlik.
+
+[[bip]]
+Yeminli Mali Müşavirin yapamadığı iş?
+[[4]]
+Defter tutmak ve muhasebe bürosu açmak.
+
+[[bip]]
+Disiplin cezaları, hafiften ağıra?
+[[5]]
+Uyarma, kınama, geçici olarak meslekten men, meslekten çıkarma.
+
+[[bip]]
+Odaların dört organı?
+[[5]]
+Genel kurul, yönetim kurulu, denetleme kurulu, disiplin kurulu.
+
+[[bip]]
+Oda disiplin kurulu kararına itiraz nereye yapılır?
+[[4]]
+Türmob Yüksek Disiplin Kuruluna.
+
+[[bip]]
+Meslek mensubu reklam yapabilir mi?
+[[4]]
+Hayır. Reklam yasaktır.
+
+[[bip]]
+Sır saklama yükümlülüğü müşteri ilişkisi bitince sona erer mi?
+[[4]]
+Hayır, devam eder.
+
+Set bitti. Bu iki dersten yirmi soruda on yediyi geçtiysen, bu derslerden tam puana yakınsın.
+
+Dersin özeti.
+
+Bir. Altı bin üç yüz altmış iki, beş yüz pay sahibi, beş yıllık tavan, üçte bir bağımsız üye.
+
+İki. Merkezi Kayıt Kuruluşu kayıt, Takasbank takas, Yatırımcı Tazmin Merkezi koruma.
+
+Üç. Üç bin beş yüz altmış sekiz, iki unvan, üç yıl staj, on yıl fiili çalışma.
+
+Dört. Dört disiplin cezası, dört oda organı, itiraz yüksek disiplin kuruluna.
+
+Beş. Reklam yasak, sır saklama süresiz.

@@ -1,0 +1,86 @@
+BAŞLIK: Mesleki İngilizce 6. Gerçek hayattan diyaloglar: denetçi, müşteri ve vergi
+
+Mesleki İngilizce altıncı bölüme hoş geldin. Bugün terim değil, konuşma çalışacağız. Üç kısa diyalog dinleyeceksin. Her diyalogda önce İngilizce cümleyi duyacaksın, sonra Türkçesini söyleyeceğim. İkinci turda İngilizce cümleyi tekrar dinlerken sen de yüksek sesle tekrar et.
+
+Birinci diyalog: Yabancı bir denetçi, yıl sonu denetimi için seninle görüşüyor.
+
+EN: Good morning. We are starting the year-end audit next week.
+Günaydın. Gelecek hafta yıl sonu denetimine başlıyoruz.
+
+EN: Could you prepare the trial balance and the fixed asset register?
+Mizanı ve sabit kıymet listesini hazırlayabilir misiniz?
+
+EN: Of course. We will also send you the bank reconciliations.
+Elbette. Size banka mutabakatlarını da göndereceğiz.
+
+EN: Great. We would also like to attend the inventory count on December thirty-first.
+Harika. Otuz bir Aralıktaki stok sayımına da katılmak istiyoruz.
+
+EN: No problem. The count starts at eight a m in the main warehouse.
+Sorun değil. Sayım ana depoda sabah sekizde başlıyor.
+
+Bu diyalogda öğrendiğimiz terimler: Year-end audit, yıl sonu denetimi. Fixed asset register, sabit kıymet listesi. Bank reconciliation, banka mutabakatı. Inventory count, stok sayımı. Hatırla, stok sayımına katılmak, denetimde gözlem tekniğidir.
+
+İkinci diyalog: Yabancı ortaklı bir müşteri şirketin finans müdürü, vergiyle ilgili soru soruyor.
+
+EN: When is the deadline for the corporate tax return?
+Kurumlar vergisi beyannamesinin son günü ne zaman?
+
+EN: For companies using the calendar year, the deadline is the end of April.
+Takvim yılı kullanan şirketler için son gün nisan ayının sonudur.
+
+EN: Can we deduct the tax penalty we paid last month?
+Geçen ay ödediğimiz vergi cezasını gider olarak düşebilir miyiz?
+
+EN: Unfortunately not. Tax penalties are non-deductible expenses.
+Maalesef hayır. Vergi cezaları kanunen kabul edilmeyen giderlerdir.
+
+EN: And what about the dividend we received from our Turkish subsidiary?
+Peki Türkiye'deki bağlı ortaklığımızdan aldığımız kâr payı ne olacak?
+
+EN: Dividends from resident companies are exempt under the participation exemption.
+Tam mükellef şirketlerden alınan kâr payları iştirak kazançları istisnası kapsamında vergiden istisnadır.
+
+Bu diyalogda öğrendiğimiz terimler: Deadline, son gün. Non-deductible expense, kanunen kabul edilmeyen gider. Participation exemption, iştirak kazançları istisnası. Resident company, tam mükellef şirket.
+
+Üçüncü diyalog: Bir toplantıda finansal sonuçları sunuyorsun.
+
+EN: Let me walk you through this year's results.
+Size bu yılın sonuçlarını adım adım anlatayım.
+
+EN: Revenue increased by fifteen percent compared to last year.
+Hasılat geçen yıla göre yüzde on beş arttı.
+
+EN: However, our gross margin declined because of higher raw material costs.
+Ancak hammadde maliyetlerinin artması nedeniyle brüt kâr marjımız düştü.
+
+EN: Our current ratio is one point eight, which shows a healthy liquidity position.
+Cari oranımız bir virgül sekiz, bu da sağlıklı bir likidite durumunu gösteriyor.
+
+EN: Are there any questions before we move on?
+Devam etmeden önce sorusu olan var mı?
+
+Bu diyalogda öğrendiğimiz kalıplar: Increased by, arttı. Compared to last year, geçen yıla göre. Declined because of, nedeniyle düştü. Healthy liquidity position, sağlıklı likidite durumu.
+
+Şimdi ikinci tur. Bu sefer sadece İngilizce cümleleri duyacaksın. Her cümleden sonra kısa bir sessizlik var, cümleyi yüksek sesle tekrar et.
+
+EN: Could you prepare the trial balance and the fixed asset register?
+[[5]]
+EN: We would also like to attend the inventory count.
+[[5]]
+EN: Tax penalties are non-deductible expenses.
+[[5]]
+EN: Dividends from resident companies are exempt under the participation exemption.
+[[6]]
+EN: Revenue increased by fifteen percent compared to last year.
+[[5]]
+EN: Our gross margin declined because of higher raw material costs.
+[[5]]
+EN: Are there any questions before we move on?
+[[4]]
+
+Harika. Bugünkü özet:
+
+EN: Year-end audit, trial balance, bank reconciliation, inventory count.
+EN: Deadline, non-deductible expense, participation exemption.
+EN: Increased by, compared to last year, declined because of.

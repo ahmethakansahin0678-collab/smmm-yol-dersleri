@@ -1,0 +1,100 @@
+BAŞLIK: Maliyet Muhasebesi 4. Standart maliyet sapmaları ve başabaş analizi
+
+Maliyet Muhasebesi dördüncü bölüme hoş geldin. Bugün sınavda neredeyse her yıl hesap sorusu gelen iki konuyu işleyeceğiz: Standart maliyet sapmaları ve başabaş analizi.
+
+Önce standart maliyet. Standart maliyet, bir birim ürün için olması gereken maliyettir. İşletme önceden, bir ürün için kaç kilo malzeme ve kaç saat işçilik gerektiğini ve bunların birim fiyatlarını belirler. Dönem sonunda gerçekleşen, yani fiili maliyet, standart maliyetle karşılaştırılır. Aradaki farka sapma denir.
+
+Fiili maliyet standarttan yüksekse sapma olumsuzdur. Düşükse olumludur.
+
+Direkt ilk madde için iki sapma vardır.
+
+Fiyat sapması: Fiili fiyat eksi standart fiyat, çarpı fiili miktar.
+
+Miktar sapması: Fiili miktar eksi standart miktar, çarpı standart fiyat.
+
+Kural şunu söyler: Fiyat sapmasında fiili miktar, miktar sapmasında standart fiyat kullanılır. Bunu bir çaprazlama gibi düşün. Fiyat farkını bulurken miktarı sabit tutarız ve fiili miktarı kullanırız. Miktar farkını bulurken fiyatı sabit tutarız ve standart fiyatı kullanırız.
+
+Hafıza cümlesi: Fiyat farkı fiili miktarla, miktar farkı standart fiyatla çarpılır.
+
+Direkt işçilik için de aynı mantık geçerlidir. Ücret sapması: Fiili ücret eksi standart ücret, çarpı fiili süre. Süre ya da verimlilik sapması: Fiili süre eksi standart süre, çarpı standart ücret.
+
+Şimdi bir örnek. Sayıları dikkatle takip et.
+
+Bir ürün için standart: İki kilo malzeme, kilosu on lira. Yani birim standart maliyet yirmi lira.
+
+Dönemde bin birim ürün üretildi. Standart miktar: Bin çarpı iki, iki bin kilo.
+
+Fiilen iki bin yüz kilo malzeme kullanıldı ve kilosu on bir liradan alındı.
+
+Fiyat sapması: On bir eksi on, bir lira. Çarpı fiili miktar iki bin yüz. İki bin yüz lira olumsuz. Çünkü daha pahalıya aldık.
+
+Miktar sapması: İki bin yüz eksi iki bin, yüz kilo. Çarpı standart fiyat on lira. Bin lira olumsuz. Çünkü daha fazla kullandık.
+
+Toplam sapma: İki bin yüz artı bin, üç bin yüz lira olumsuz.
+
+Sağlama: Fiili maliyet iki bin yüz çarpı on bir, yirmi üç bin yüz lira. Standart maliyet iki bin çarpı on, yirmi bin lira. Fark üç bin yüz lira. Tutuyor.
+
+Şimdi başabaş analizi. Başabaş noktası, toplam gelirin toplam maliyete eşit olduğu, yani ne kâr ne zarar edilen satış düzeyidir.
+
+Önce katkı payı kavramı. Birim katkı payı, satış fiyatı eksi birim değişken maliyettir. Her satılan ürünün, sabit maliyetleri karşılamaya ve kâra yaptığı katkıdır.
+
+Başabaş noktası miktar olarak: Sabit maliyetler bölü birim katkı payı.
+
+Başabaş noktası tutar olarak: Sabit maliyetler bölü katkı payı oranı. Katkı payı oranı, birim katkı payının satış fiyatına bölünmesidir.
+
+Örnek. Bir ürünün satış fiyatı elli lira, birim değişken maliyeti otuz lira. Yıllık sabit maliyetler yüz yirmi bin lira.
+
+Birim katkı payı: Elli eksi otuz, yirmi lira.
+
+Başabaş noktası miktar: Yüz yirmi bin bölü yirmi, altı bin birim.
+
+Katkı payı oranı: Yirmi bölü elli, yüzde kırk.
+
+Başabaş noktası tutar: Yüz yirmi bin bölü yüzde kırk, üç yüz bin lira. Sağlama: Altı bin birim çarpı elli lira, üç yüz bin. Tutuyor.
+
+İşletme kırk bin lira kâr etmek istiyorsa: Sabit maliyete hedef kâr eklenir. Yüz yirmi bin artı kırk bin, yüz altmış bin. Bölü yirmi, sekiz bin birim satmalıdır.
+
+Güvenlik payı: Fiili ya da planlanan satışların başabaş noktasını ne kadar aştığıdır. Satışlar sekiz bin birim, başabaş altı bin birim ise güvenlik payı iki bin birimdir, yani satışların yüzde yirmi beşi. Satışlar yüzde yirmi beş düşse bile işletme zarar etmez.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Satış fiyatı yüz lira, birim değişken maliyeti altmış lira olan bir ürünün yıllık sabit maliyetleri iki yüz bin liradır. Başabaş noktası kaç birimdir?
+A şıkkı: İki bin.
+B şıkkı: Beş bin.
+C şıkkı: İki bin beş yüz.
+D şıkkı: Üç bin üç yüz.
+E şıkkı: On bin.
+
+Düşün.
+
+[[10]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, beş bin birim. Birim katkı payı yüz eksi altmış, kırk lira. İki yüz bin bölü kırk, beş bin.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Standart fiyat sekiz lira, fiili fiyat dokuz lira, fiili miktar beş bin kilodur. Madde fiyat sapması nedir?
+
+[[8]]
+
+[[bip]]
+
+Cevap: Beş bin lira olumsuz. Dokuz eksi sekiz, bir lira. Çarpı fiili miktar beş bin kilo, beş bin lira. Fiili fiyat yüksek olduğu için olumsuz.
+
+Dersin özeti.
+
+Bir. Fiili maliyet standarttan yüksekse sapma olumsuz, düşükse olumludur.
+
+İki. Fiyat sapması eşittir fiyat farkı çarpı fiili miktar. Miktar sapması eşittir miktar farkı çarpı standart fiyat.
+
+Üç. Birim katkı payı eşittir satış fiyatı eksi birim değişken maliyet.
+
+Dört. Başabaş noktası miktar olarak sabit maliyet bölü birim katkı payı, tutar olarak sabit maliyet bölü katkı payı oranıdır.
+
+Beş. Hedef kâr için gereken satış: sabit maliyet artı hedef kâr, bölü birim katkı payı.

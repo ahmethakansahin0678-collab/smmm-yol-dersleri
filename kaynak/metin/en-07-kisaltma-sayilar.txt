@@ -1,0 +1,122 @@
+BAŞLIK: Mesleki İngilizce 7. Kısaltmalar ve sayıların İngilizce okunuşu
+
+Mesleki İngilizce yedinci bölüme hoş geldin. Uluslararası bir toplantıda en çok zorlanılan iki şey: Kısaltmalar ve büyük sayılar. Bugün ikisini de çalışacağız.
+
+Önce kısaltmalar. Kısaltmayı duyacaksın, sonra açılımını ve Türkçesini.
+
+EN: I F R S. International Financial Reporting Standards.
+Uluslararası Finansal Raporlama Standartları.
+
+EN: G A A P. Generally Accepted Accounting Principles.
+Genel kabul görmüş muhasebe ilkeleri.
+
+EN: V A T. Value Added Tax.
+Katma değer vergisi.
+
+EN: C I T. Corporate Income Tax.
+Kurumlar vergisi.
+
+EN: P and L. Profit and Loss statement.
+Gelir tablosu.
+
+EN: E B I T. Earnings Before Interest and Taxes.
+Faiz ve vergi öncesi kâr.
+
+EN: E B I T D A. Earnings Before Interest, Taxes, Depreciation and Amortization.
+Faiz, vergi ve amortisman öncesi kâr.
+
+EN: R O E. Return on Equity.
+Özkaynak kârlılığı.
+
+EN: C F O. Chief Financial Officer.
+Finans direktörü.
+
+EN: C E O. Chief Executive Officer.
+Genel müdür, icra kurulu başkanı.
+
+EN: A G M. Annual General Meeting.
+Olağan genel kurul.
+
+EN: I P O. Initial Public Offering.
+Halka arz.
+
+EN: Y T D. Year to date.
+Yılbaşından bugüne.
+
+EN: Q one. First quarter.
+Birinci çeyrek. Q iki ikinci çeyrek ve devamı.
+
+EN: F Y. Fiscal year.
+Mali yıl, hesap dönemi.
+
+Şimdi sayılar. Önce İngilizcede büyük sayı birimleri.
+
+EN: Thousand.
+Bin.
+
+EN: Million.
+Milyon.
+
+EN: Billion.
+Milyar. Dikkat, İngilizcedeki billion, Türkçedeki milyardır, bilyon değil.
+
+Şimdi örnek sayılar. İngilizce okunuşu dinle ve tekrar et.
+
+EN: Two hundred and fifty thousand.
+İki yüz elli bin.
+
+EN: One point five million.
+Bir buçuk milyon.
+
+EN: Three point two billion.
+Üç virgül iki milyar.
+
+Dikkat: İngilizcede ondalık ayırıcı noktadır ve point diye okunur. Türkçede ise virgül kullanırız. Binlik ayırıcı ise İngilizcede virgüldür. Yani Türkçede bir nokta beş yüz diye yazdığımız bin beş yüz, İngilizcede bir virgül beş yüz diye yazılır. Tablo okurken bu fark hata kaynağıdır.
+
+EN: Twelve percent.
+Yüzde on iki.
+
+EN: Zero point eight percent.
+Binde sekiz, yani yüzde sıfır virgül sekiz.
+
+EN: Fifty basis points.
+Elli baz puan, yani yüzde sıfır virgül beş.
+
+EN: Revenue reached one point two billion lira, up eighteen percent year over year.
+Hasılat bir virgül iki milyar liraya ulaştı, geçen yıla göre yüzde on sekiz artış.
+
+EN: Net debt decreased by three hundred million.
+Net borç üç yüz milyon azaldı.
+
+Şimdi test. Türkçesini söylüyorum, İngilizcesini söyle.
+
+[[bip]]
+Faiz, vergi ve amortisman öncesi kâr.
+[[5]]
+EN: E B I T D A.
+
+[[bip]]
+Olağan genel kurul.
+[[5]]
+EN: Annual General Meeting.
+
+[[bip]]
+Bir buçuk milyon.
+[[5]]
+EN: One point five million.
+
+[[bip]]
+Elli baz puan.
+[[5]]
+EN: Fifty basis points.
+
+[[bip]]
+Yılbaşından bugüne.
+[[5]]
+EN: Year to date.
+
+Harika. Bugünkü özet:
+
+EN: I F R S, V A T, E B I T D A, A G M, I P O.
+EN: Thousand, million, billion. Point for decimals.
+EN: Basis points. Year over year. Year to date.

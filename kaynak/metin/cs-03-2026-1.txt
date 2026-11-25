@@ -1,0 +1,205 @@
+BAŞLIK: Çıkmış Sorular 2026-1. Maliyet Muhasebesi
+
+İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Maliyet Muhasebesi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+
+[[bip]]
+Soru bir. Büro mobilyası üreten bir işletmede ocak ayı Direkt İlk Madde ve Malzeme Giderleri yüz yedi bin yedi yüz elli lira, Direkt İşçilik Giderleri otuz bir bin lira ve Genel Üretim Giderleri kırk sekiz bin lira ise İlk (Asal) Maliyet ve Dönüşüm (Şekillendirme) Maliyeti sırasıyla kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: yüz otuz sekiz bin yedi yüz elli; yetmiş dokuz bin.
+
+[[1]]
+
+[[bip]]
+Soru iki. Bir ayakkabı üretim işletmesinde Ocak ayında mamullere Yüklenen (Standart) ve Gerçekleşen Genel Üretim Giderleri (genel üretim giderleri) şöyledir: Değişken genel üretim giderleri Sabit genel üretim giderleri Toplam Yüklenen beş yüz altmış yedi bin üç yüz altmış sekiz lira altı yüz on bir bin sekiz yüz kırk lira bir milyon yüz yetmiş dokuz bin iki yüz sekiz lira (Standart) genel üretim giderleri Gerçekleşen beş yüz otuz iki bin iki yüz on sekiz lira altı yüz on üç bin dokuz yüz on altı lira bir milyon yüz kırk altı bin yüz otuz dört lira genel üretim giderleri Buna göre değişken genel üretim giderleri, Sabit genel üretim giderleri ve Toplam genel üretim giderleride fazla (+) ya da eksik (-) yüklenen tutarlar sırasıyla kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: Fazla (+) otuz beş bin yüz elli, Eksik (-) iki bin yetmiş altı, Fazla (+) otuz üç bin yetmiş dört.
+
+[[1]]
+
+[[bip]]
+Soru üç. Safha maliyeti yöntemini uygulayan işletmelerde Eşdeğer Ürün Birimleri Tablosu neden düzenlenir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Fiziki çıktıların ürün eşdeğerlerini hesaplamak için.
+
+[[1]]
+
+[[bip]]
+Soru dört. Faaliyet genel üretim giderleri Bütçelenmiş Bütçelenmiş Yükleme genel üretim giderleri ( lira) İşlem Sayısı Verisi Makine Ayar dört milyon beş yüz bin beş bin Ayarlama sayısı Kalite Test dört milyon sekiz yüz bin sekiz bin Kontrol sayısı İş Emirleri İş emri üç milyon üç yüz bin dört yüz sayısı Makine Teslim üç milyon dokuz yüz bin yedi yüz elli Elleçleme sayısı toplam on altı milyon beş yüz bin A Üretim İşletmesinde bu veriler kullanılarak hesaplanan Genel Üretim Giderleri (genel üretim giderleri) Yükleme Oranlarını sırasıyla doğru olarak gösteren seçenek aşağıdakilerden hangisidir?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: dokuz yüz lira bölü Ayar sayısı; altı yüz lira bölü Test sayısı; sekiz bin iki yüz elli lira bölü İş emri sayısı; beş bin iki yüz lira bölü Teslim sayısı.
+
+[[1]]
+
+[[bip]]
+Soru beş. B Üretim İşletmesinde döneme ilişkin Ortak Maliyet on dokuz bin beş yüz liradır. Ayrılma noktasında A mamulü sekiz yüz kg, B mamulü beş yüz kgdır. A mamulünün birim fiyatı yirmi lira, B mamulünün birim fiyatı on altı liradır. Satış Değeri yöntemi kullanılarak dağıtılan ortak maliyetten A ve Bnin alacağı paylar sırasıyla kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: A mamulü on üç bin, B mamulü altı bin beş yüz.
+
+[[1]]
+
+[[bip]]
+Soru altı. Tekdüzen Muhasebe Sistemi Uygulama Genel Tebliği yedi bölü A Seçeneğine göre eşzamanlı kayıt yöntemi aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Fonksiyonel gider hesaplarının altında Gider Yerleri ve Gider Türüne göre kayıt yapılması.
+
+[[1]]
+
+[[bip]]
+Soru yedi. Aşağıdakilerden hangisi Maliyet-Hacim-Kâr analizlerinin dayandığı varsayımlardan biri değildir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap, yani yanlış olan ifade: Giderler, değişken ve sabit olarak ayrılmaz.
+
+[[1]]
+
+[[bip]]
+Soru sekiz. Dönemsonu Mamul Stok : on bin lira Dönembaşı Mamul Stok : on iki bin lira Dönembaşı Yarımamul Stok : yedi bin lira Genel Yönetim Giderleri : sekiz bin lira Finansman Giderleri : on yedi bin lira Genel Üretim Giderleri : on bir bin lira Pazarlama, Satış ve Dağıtım Giderleri : altı bin lira Net Satışlar : elli bin lira Dönemde Üretilen Mamuller Maliyeti : yirmi bin lira Yukarıdaki verilere göre C Üretim İşletmesinde döneme ilişkin Satılan Mamuller Maliyeti kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: yirmi iki bin lira.
+
+[[1]]
+
+[[bip]]
+Soru dokuz. Dönembaşı Dönemsonu Direkt İlk Madde ve Malzeme Stok sekiz bin lira on bin lira Yarımamul Stok altı bin lira dört bin lira Mamul Stok iki bin lira sekiz bin lira Döneme ilişkin direkt ilk madde ve malzeme alımları on iki bin lira, direkt işçilik giderleri iki bin lira, genel üretim giderleri on dört bin liradır. Yukarıdaki verilere göre D Üretim İşletmesinde döneme ilişkin direkt ilk madde ve malzeme giderleri kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: on bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on. Aşağıdakilerden hangisi maliyet muhasebesinin amaçlarından biri değildir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap, yani yanlış olan ifade: İşletmenin ortaklık yapısı ile ilgili karar vermek.
+
+[[1]]
+
+[[bip]]
+Soru on bir. Üretilen mamulün maliyetinin hesaplanmasında aşağıdaki formüllerden hangisinden yararlanılır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Dönembaşı Yarımamul Stok + Direkt İlk Madde ve Malzeme Giderleri + Direkt İşçilik Giderleri + Genel Üretim Giderleri - Dönemsonu Yarımamul Stok.
+
+[[1]]
+
+[[bip]]
+Soru on iki. Aşağıdaki seçeneklerin hangisinde yer alan örnekler genel üretim giderleri kapsamındadır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Elektrik giderleri, amortisman giderleri, sarf malzemesi (endirekt madde) giderleri.
+
+[[1]]
+
+[[bip]]
+Soru on üç. İşletmelerde her hammadde ve malzeme satın alma ve stoklara giriş işleminden sonra yeni birim maliyetin hesaplanmasına imkan tanıyan stok değerleme yöntemi aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Hareketli Ortalama Maliyet Yöntemi.
+
+[[1]]
+
+[[bip]]
+Soru on dört. Bir hizmet üretim işletmesinde dönem sonunda yedi yüz kırk Hizmet Üretim Maliyeti hesabının borç kalanı iki bin liradır. Bu maliyetin gelir tablosuna aktarılması ve ilgili dönem sonu kaydı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Doğru kayıt: altı yüz yirmi iki Satılan Hizmet Maliyeti, iki bin borç. yedi yüz kırk bir Hizmet Üretim Maliyeti. Yansıtma Hesabı, iki bin alacak. yedi yüz kırk bir Hizmet Üretim Maliyeti Yansıtma. Hesabı, iki bin borç. yedi yüz kırk Hizmet Üretim Maliyeti, iki bin alacak.
+
+[[1]]
+
+[[bip]]
+Soru on beş. Safha maliyeti yöntemini uygulayan bir endüstri işletmesinde cari dönemde Dönembaşı Yarımamul Stoku on bin br, Dönemde Üretimine Başlanan miktar iki yüz elli bin br, Dönemsonu Yarımamul Stoku yirmi dokuz bin br, Fire miktarı bin brdir. Buna göre İlk Giren İlk Çıkar yöntemini kullanarak hesaplanan Dönemde Tamamlanıp Devrolunan miktar ve Dönemde Üretimine Başlanıp Tamamlanan miktar aşağıdakilerden hangisinde sırasıyla doğru olarak verilmiştir?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: iki yüz otuz bin; iki yüz yirmi bin.
+
+[[1]]
+
+[[bip]]
+Soru on altı. D Endüstri İşletmesinde Mart ayında düzenlenen Genel Üretim Gideri Dağıtım Tablosu Iki. Toplamları; A Ana Üretici Gider Yerinde yirmi sekiz milyon yedi yüz elli bin lira, B Ana Üretici Gider Yerinde otuz dokuz milyon yedi yüz elli bin liradır. İşletmede Genel Üretim Gideri yükleme anahtarları A ve B için sırasıyla Direkt İlk Madde ve Malzeme miktarı (hammadde miktarı) ve Direkt İşçilik Saati (direkt işçilik)'dir. Bu ayda beş yüz bin kg Direkt İlk Madde ve Malzeme (hammadde) kullanılmış ve üç yüz bin Direkt İşçilik Saatlik üretim yapılmıştır. A ve B Ana Üretici Gider Yerlerinde Genel Üretim Gideri yükleme katsayıları sırasıyla aşağıdakilerden hangisidir?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: elli yedi virgül beş lira bölü kg ; yüz otuz iki virgül beş lira bölü direkt işçilik.
+
+[[1]]
+
+[[bip]]
+Soru on yedi. E Endüstri İşletmesinde Yan Ürün maliyeti, “Satış Fiyatından Geriye Doğru Hesaplama Yöntemi” kullanılarak hesaplanmaktadır. İşletmede Ortak Maliyet beş milyon lira, yan ürün satış tutarı iki yüz elli bin lira, satış tutarı üzerinden yan ürün kârlılığı yüzde yirmi, yan ürünün satışa hazır hale gelmesi için ek maliyet elli bin liradır. İşletmede yan ürünlere ve ana ürüne yüklenecek toplam maliyetler aşağıdakilerden hangisinde sırasıyla doğru olarak verilmiştir?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: üç yüz elli bin lira, dört milyon altı yüz elli bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on sekiz. F Endüstri İşletmesinde mart ayında üretilen mamullerle ilgili ortak giderler bir milyon altı yüz bin liradır. Üretilen ortak mamullerin miktar bilgileri şöyledir: Mamuller Katsayılar Üretim Miktarı A beş bin br B dört iki bin br C bir üç bin br “Katsayılı Bölme Yöntemi” kullanılarak hesaplanan ortak mamullerin her birinin maliyeti aşağıdakilerden hangisinde sırasıyla doğru olarak gösterilmiştir?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: beş yüz bin lira, sekiz yüz bin lira, üç yüz bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on dokuz. A B Ticaret İşletmesinde mart ayında Ticari Mal Alımları üç milyon lira, Dönembaşı Ticari Mal Stoku sekiz yüz bin lira, Dönemsonu Ticari Mal Stoku bir milyon iki yüz bin lira, Ticari Mal Alım İadesi iki yüz bin lira, Ticari Mal Alım Giderleri yüz bin lira ise Satılan Ticari Malların Maliyeti kaç liradır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: iki milyon beş yüz bin lira.
+
+[[1]]
+
+[[bip]]
+Soru yirmi. A C Endüstri İşletmesinde ortak maliyet beş bin liradır. Ayrılma noktasında A ve C ortak mamulleri elde edilmiştir. İşletmede A mamulü yirmi lira ek maliyet ile altı yüz yirmi liraya, C mamulü otuz lira ek maliyet ile iki yüz otuz liraya satılmaktadır. Net Satış Değeri yöntemi kullanıldığında A ve C ortak mamullerinin birim maliyetleri sırasıyla aşağıdakilerden hangisinde doğru olarak verilmiştir?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: üç bin yedi yüz elli lira, bin iki yüz elli lira.
+
+[[1]]
+
+Maliyet Muhasebesi çıkmış soruları bitti. Takıldığın soruların konusunu, ilgili ders bölümünden tekrar dinle.

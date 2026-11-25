@@ -1,0 +1,87 @@
+BAŞLIK: Vergi Mevzuatı 6. Özel tüketim vergisi, damga vergisi ve harçlar
+
+Vergi Mevzuatı altıncı bölüme hoş geldin. Bugün sınavda genellikle birkaç soruyla temsil edilen üç vergiyi işleyeceğiz: Özel tüketim vergisi, damga vergisi ve harçlar. Bu konularda soru kavramdan gelir, hesap azdır.
+
+Önce özel tüketim vergisi. Kısaca ÖTV deriz. Kanun numarası dört bin yedi yüz altmıştır.
+
+ÖTV ile kadeve arasındaki en önemli fark şudur: Kadeve her aşamada alınır, ÖTV ise kural olarak tek aşamada alınır. Yani bir mal için ÖTV bir kez ödenir, genellikle malın ilk tesliminde ya da ithalatında.
+
+ÖTV'ye tabi mallar dört liste halinde düzenlenmiştir.
+
+Bir sayılı liste: Akaryakıt ürünleri. Benzin, motorin, doğal gaz gibi.
+İki sayılı liste: Motorlu taşıtlar. Otomobil, motosiklet, uçak, yat gibi.
+Üç sayılı liste: Alkollü içkiler, tütün ürünleri ve kolalı gazozlar.
+Dört sayılı liste: Dayanıklı tüketim ve lüks mallar. Beyaz eşya, elektronik eşya, kozmetik gibi.
+
+Hafıza cümlesi: Yakıt, araba, içki ve tütün, lüks.
+
+Vergiyi doğuran olay listeye göre değişir. Bir, üç ve dört sayılı listelerde mallar, kural olarak imalatçılar tarafından teslim edildiğinde ya da ithal edildiğinde vergi doğar. İki sayılı listede ise taşıtın ilk iktisabında, yani kayıt ve tescili yapılmamış bir aracın ilk satın alınmasında vergi doğar.
+
+Önemli bir ayrıntı: ÖTV, kadevenin matrahına dahildir. Yani önce ÖTV hesaplanır, sonra satış bedeli artı ÖTV üzerinden kadeve hesaplanır. Buna vergiden vergi alınması denir.
+
+Örnek: ÖTV hariç bedeli yüz bin lira olan bir malda ÖTV yüzde yirmi olsun. ÖTV yirmi bin lira. Kadeve matrahı yüz bin artı yirmi bin, yüz yirmi bin lira. Kadeve yüzde yirmiden, yirmi dört bin lira.
+
+Şimdi damga vergisi. Kanun numarası dört yüz seksen sekizdir.
+
+Damga vergisinin konusu kâğıtlardır. Kanuna ekli tabloda yazılı kâğıtlar damga vergisine tabidir. Kâğıt, yazılıp imzalanmak veya imza yerine geçen bir işaret konulmak suretiyle düzenlenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek belgelerdir. Elektronik ortamda düzenlenip elektronik imzayla imzalanan belgeler de kâğıt sayılır.
+
+Mükellef, kâğıtları imza edenlerdir. Resmi daireler ile kişiler arasındaki işlemlerde ise vergiyi kişiler öder.
+
+Damga vergisi iki şekilde alınır.
+
+Nispi vergi: Kâğıtta yazılı tutar üzerinden belirli bir oranla alınır. Mesela sözleşmeler ve taahhütnameler. Sözleşmeler için kanunda bir azami tutar sınırı vardır ve bu sınır her yıl güncellenir.
+
+Maktu vergi: Tutardan bağımsız olarak sabit bir miktar alınır. Mesela bilançolar, gelir tabloları ve beyannameler.
+
+Hafıza cümlesi: Tutarı olan kâğıt nispi, tutarı olmayan kâğıt maktu.
+
+Hatırla: İkinci bölümde öğrendiğimiz gibi ücretin asgari ücrete isabet eden kısmı damga vergisinden de istisnadır.
+
+Şimdi harçlar. Kanun numarası dört yüz doksan ikidir. Harç, bir kamu hizmetinden yararlananlardan, bu hizmet karşılığında alınan bedeldir. Vergiden farkı, karşılığında belirli bir hizmet alınmasıdır.
+
+Harç türleri şunlardır: Yargı harçları, noter harçları, tapu ve kadastro harçları, konsolosluk harçları, pasaport ve vize harçları, gemi ve liman harçları, imar ve çeşitli işlem harçları.
+
+Bir örnek: Bir tapu satışında alıcı ve satıcı, satış bedeli üzerinden tapu harcı öder. Bir dava açıldığında, davacı başvuru ve peşin harç öder.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Aşağıdakilerden hangisi özel tüketim vergisinin genel özelliklerindendir?
+A şıkkı: Her aşamada alınır.
+B şıkkı: Kural olarak tek aşamada alınır.
+C şıkkı: Sadece hizmetlere uygulanır.
+D şıkkı: Kadeve matrahına dahil edilmez.
+E şıkkı: Gelir üzerinden alınır.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı. ÖTV kural olarak tek aşamada alınır. Ayrıca kadeve matrahına dahildir, bu yüzden D şıkkı yanlıştır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bir şirketin yıllık bilançosu damga vergisine hangi şekilde tabidir, nispi mi maktu mu?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Maktu. Bilançolar, gelir tabloları ve beyannameler, tutardan bağımsız sabit bir damga vergisine tabidir.
+
+Dersin özeti.
+
+Bir. ÖTV kural olarak tek aşamada alınır ve dört listeden oluşur: akaryakıt, taşıtlar, alkol tütün ve kolalı gazoz, dayanıklı tüketim ve lüks mallar.
+
+İki. Taşıtlarda vergiyi doğuran olay, kayıt ve tescili yapılmamış taşıtın ilk iktisabıdır.
+
+Üç. ÖTV kadeve matrahına dahildir.
+
+Dört. Damga vergisinin konusu kâğıtlardır, mükellef kâğıdı imza edenlerdir. Tutar içeren kâğıtlar nispi, içermeyenler maktu vergiye tabidir.
+
+Beş. Harç, bir kamu hizmeti karşılığında alınan bedeldir.

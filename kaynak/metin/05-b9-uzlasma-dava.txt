@@ -1,0 +1,78 @@
+BAŞLIK: Vergi Mevzuatı 9. Uzlaşma, düzeltme ve vergi davaları
+
+Vergi Mevzuatı dokuzuncu bölüme hoş geldin. Bugün mükellef ile vergi idaresi arasındaki anlaşmazlıkların nasıl çözüldüğünü işleyeceğiz. Üç yol var: Uzlaşma, düzeltme ve dava. Mali müşavirlikte müşterine en çok bu konularda danışmanlık vereceksin.
+
+Önce bir giriş: Bir vergi incelemesi sonucunda mükellef adına vergi ve ceza tarh edilir ve bir vergi ve ceza ihbarnamesi tebliğ edilir. Mükellef bu tarhiyata katılmıyorsa ne yapabilir?
+
+Birinci yol: Uzlaşma. Uzlaşma, mükellef ile idarenin, vergi ve vergi ziyaı cezası konusunda anlaşmaya varmasıdır. İki türü vardır.
+
+Tarhiyat öncesi uzlaşma: Vergi incelemesi sırasında, tarhiyat yapılmadan önce talep edilir. İnceleme raporu düzenlenmeden önce, mükellef ile inceleme elemanı ve idare temsilcileri bir araya gelir.
+
+Tarhiyat sonrası uzlaşma: Vergi ve ceza ihbarnamesinin tebliğinden sonra talep edilir. Talep, ihbarnamenin tebliğinden itibaren dava açma süresi içinde, yani otuz gün içinde yapılmalıdır.
+
+Uzlaşmanın sonuçları sınavda sık sorulur. Uzlaşma sağlanırsa, uzlaşılan konularda dava açılamaz ve bu konular hiçbir mercie şikâyet edilemez. Uzlaşma kesindir.
+
+Uzlaşma sağlanamazsa ya da mükellef uzlaşma görüşmesine katılmazsa, uzlaşma vaki olmamış sayılır. Bu durumda mükellef dava açabilir. Dava açma süresi geçmişse ya da kalan süre on beş günden azsa, uzlaşmanın vaki olmadığına dair tutanağın tebliğinden itibaren on beş gün içinde dava açılabilir.
+
+Hafıza cümlesi: Uzlaştıysan dava yok. Uzlaşamadıysan dava açabilirsin, süren azsa on beş gün ek süren var.
+
+İkinci yol: Düzeltme. Düzeltme, vergi hatalarının giderilmesi yoludur. Vergi hatası, vergiye ilişkin hesaplarda veya vergilendirmede yapılan hatalar yüzünden haksız yere fazla veya eksik vergi istenmesi ya da alınmasıdır.
+
+Vergi hataları iki türlüdür. Hesap hataları, yani matrah, oran veya toplama hataları ve mükerrer vergilendirme. Vergilendirme hataları, yani mükellefin şahsında, mükellefiyette, vergi konusunda veya vergilendirme döneminde hata.
+
+Düzeltme, mükellefin başvurusu üzerine ya da idare tarafından kendiliğinden yapılabilir. Düzeltme talebi reddedilirse, mükellef Maliye Bakanlığına şikâyet yoluyla başvurabilir.
+
+Önemli bir ayrım: Düzeltme, açık ve hesaplanabilir hatalar içindir. Vergilendirmenin esasına ilişkin bir anlaşmazlık, yani yorum farkı varsa, düzeltme değil dava yoluna gidilir.
+
+Üçüncü yol: Dava. Vergi uyuşmazlıklarında ilk derece mahkemesi vergi mahkemesidir. Dava açma süresi, ihbarnamenin tebliğinden itibaren otuz gündür.
+
+Önemli bir kural: Vergi mahkemesinde dava açılması, dava konusu vergi ve cezanın tahsilini durdurur. Yani mükellef dava açtığında, dava sonuçlanana kadar o tarhiyattan doğan vergi takibe alınmaz. Bu kural tarhiyata karşı açılan davalar içindir.
+
+Vergi mahkemesi kararlarına karşı istinaf yoluyla bölge idare mahkemesine, belirli hallerde de temyiz yoluyla Danıştay'a başvurulabilir.
+
+Hafıza cümlesi: Vergi mahkemesi, bölge idare mahkemesi, Danıştay. Dava süresi otuz gün.
+
+Bir de izaha davet var. Vergi idaresi, vergi ziyaına yol açtığına dair bir tespit yaptığında, inceleme başlamadan önce mükellefi açıklama yapmaya davet edebilir. Mükellef süresi içinde yeterli açıklama yapar veya beyannamesini düzeltirse, vergi ziyaı cezası indirimli uygulanır.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Tarhiyat sonrası uzlaşmada uzlaşma sağlanırsa, mükellef uzlaşılan vergi için ne yapabilir?
+A şıkkı: Vergi mahkemesinde dava açabilir.
+B şıkkı: Düzeltme talep edebilir.
+C şıkkı: Uzlaşılan konularda dava açamaz ve şikâyette bulunamaz.
+D şıkkı: Danıştay'a başvurabilir.
+E şıkkı: Yeniden uzlaşma talep edebilir.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı. Uzlaşma kesindir, uzlaşılan konularda dava açılamaz ve hiçbir mercie şikâyet edilemez.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Vergi ve ceza ihbarnamesine karşı vergi mahkemesinde dava açma süresi kaç gündür ve dava açılması tahsili durdurur mu?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Otuz gün. Evet, tarhiyata karşı dava açılması, dava konusu vergi ve cezanın tahsilini durdurur.
+
+Dersin özeti.
+
+Bir. Uzlaşma ikiye ayrılır: tarhiyat öncesi ve tarhiyat sonrası. Tarhiyat sonrası uzlaşma, ihbarnamenin tebliğinden itibaren otuz gün içinde istenir.
+
+İki. Uzlaşılan konularda dava açılamaz. Uzlaşma vaki olmazsa, süre azsa on beş gün ek dava süresi vardır.
+
+Üç. Düzeltme, hesap ve vergilendirme hataları içindir. Reddedilirse Bakanlığa şikâyet yoluyla başvurulur.
+
+Dört. Dava süresi otuz gündür. Tarhiyata karşı dava açılması tahsili durdurur.
+
+Beş. Yargı yolu: vergi mahkemesi, bölge idare mahkemesi ve Danıştay.

@@ -1,0 +1,99 @@
+BAŞLIK: Vergi Mevzuatı 11. Çözümlü problem seti: vergi hesapları
+
+Vergi Mevzuatı problem setine hoş geldin. Bu bölümde sınavda karşına çıkabilecek sekiz kısa vergi hesabı çözeceğiz. Her sorudan sonra zil ve düşünme süresi var. Hesabı kafadan yap, sonra çözümü dinle. Sayılar bilerek basit seçildi.
+
+Birinci soru. Kadeve.
+
+Bir işletmenin ay içindeki satışları beş yüz bin lira, alışları üç yüz bin lira. Hepsi yüzde yirmi kadeveye tabi. Ödenecek kadeve nedir?
+
+[[bip]]
+[[10]]
+[[bip]]
+
+Hesaplanan yüz bin, indirilecek altmış bin. Ödenecek kadeve kırk bin lira.
+
+İkinci soru. Tevkifat.
+
+Kadeve hariç elli bin liralık, onda dokuz tevkifata tabi bir hizmet alınıyor. Alıcının sorumlu sıfatıyla beyan edeceği kadeve nedir?
+
+[[bip]]
+[[10]]
+[[bip]]
+
+Kadeve on bin lira. Onda dokuzu, dokuz bin lira alıcı tarafından iki numaralı beyannameyle beyan edilir. Satıcıya bin lira kadeve ödenir.
+
+Üçüncü soru. Ticari kazanç.
+
+Dönem başı öz sermaye üç yüz bin, dönem sonu öz sermaye dört yüz bin lira. İşletme sahibi yıl içinde elli bin lira çekmiş, yirmi bin lira eklemiş. Ticari kazanç nedir?
+
+[[bip]]
+[[10]]
+[[bip]]
+
+Fark yüz bin. Artı çekilen elli bin, yüz elli bin. Eksi eklenen yirmi bin, yüz otuz bin lira.
+
+Dördüncü soru. Kira geliri.
+
+Bir kişinin işyeri kiradan elde ettiği brüt kira yıllık iki yüz bin lira. Götürü gider yöntemini seçiyor. Safi kira geliri nedir? Kiracı şirket olduğuna göre yıl içinde ne kadar stopaj kesilmiştir?
+
+[[bip]]
+[[10]]
+[[bip]]
+
+Götürü gider yüzde on beş, otuz bin lira. Safi gelir yüz yetmiş bin lira. Stopaj, brüt kiranın yüzde yirmisi, kırk bin lira. Bu kırk bin, beyan üzerinden hesaplanan vergiden mahsup edilir.
+
+Beşinci soru. Kâr payı.
+
+Tam mükellef bir şirketten yüz altmış bin lira kâr payı tahsil ediliyor. Gelir vergisi matrahına girecek tutar nedir?
+
+[[bip]]
+[[8]]
+[[bip]]
+
+Yarısı istisna. Seksen bin lira matraha girer.
+
+Altıncı soru. Kurumlar vergisi matrahı.
+
+Ticari kâr beş yüz bin. Kanunen kabul edilmeyen giderler elli bin. İştirak kazancı seksen bin. Geçmiş yıl zararı yetmiş bin. Kurumlar vergisi oranı yüzde yirmi beş. Hesaplanan kurumlar vergisi nedir?
+
+[[bip]]
+[[12]]
+[[bip]]
+
+Beş yüz artı elli, beş yüz elli bin. Eksi seksen, dört yüz yetmiş bin. Eksi yetmiş, dört yüz bin lira matrah. Yüzde yirmi beşi, yüz bin lira kurumlar vergisi.
+
+Yedinci soru. Vergi ziyaı cezası.
+
+İnceleme sonucunda kırk bin lira vergi ziyaı tespit ediliyor, kaçakçılık fiili yok. Mükellef ilk kez ceza alıyor, dava açmıyor ve süresinde ödüyor. Ödeyeceği ceza nedir?
+
+[[bip]]
+[[10]]
+[[bip]]
+
+Vergi ziyaı cezası bir kat, kırk bin lira. İlk defada yarısı indirilir. Ödenecek ceza yirmi bin lira. Ziyaa uğratılan verginin kendisi ve gecikme faizi ayrıca ödenir.
+
+Sekizinci soru. Zamanaşımı.
+
+İki bin yirmi dört yılında doğan bir vergi alacağı için tarh zamanaşımı hangi yılın sonunda dolar?
+
+[[bip]]
+[[8]]
+[[bip]]
+
+Süre iki bin yirmi beş başında başlar, beş yıl sürer. İki bin yirmi dokuz yılı sonunda dolar.
+
+Problem seti bitti. Sekiz sorudan altısını doğru yaptıysan vergi hesaplarında iyi durumdasın.
+
+Dersin özeti.
+
+Bir. Ödenecek kadeve eşittir hesaplanan eksi indirilecek.
+
+İki. Bilanço esasında ticari kazanç: öz sermaye farkı artı çekilen eksi eklenen.
+
+Üç. Götürü gider yüzde on beş. İşyeri kirasında stopaj yüzde yirmi.
+
+Dört. Tam mükellef kurumdan alınan kâr payının yarısı istisna.
+
+Beş. Kurumlar vergisi matrahı: ticari kâr, artı kanunen kabul edilmeyen giderler, eksi istisnalar, eksi geçmiş yıl zararları.
+
+Altı. Vergi ziyaı cezası bir kat, ilk defada dava açmadan ödeyene yarı indirim.

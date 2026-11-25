@@ -1,0 +1,110 @@
+BAŞLIK: Vergi Mevzuatı 3. Kurumlar vergisi: mükellefiyet, matrah, kanunen kabul edilmeyen giderler
+
+Vergi Mevzuatı üçüncü bölüme hoş geldin. Bugün beş bin yüz yirmi sayılı Kurumlar Vergisi Kanununu işleyeceğiz. Mükellefleri, mükellefiyet türlerini, matrahın nasıl bulunduğunu ve sınavın en sevdiği konulardan biri olan kanunen kabul edilmeyen giderleri öğreneceğiz.
+
+Önce kurumlar vergisi mükellefleri. Kanunda beş grup sayılır.
+
+Bir: Sermaye şirketleri. Anonim şirket, limited şirket ve sermayesi paylara bölünmüş komandit şirket.
+İki: Kooperatifler.
+Üç: İktisadi kamu kuruluşları.
+Dört: Dernek veya vakıflara ait iktisadi işletmeler.
+Beş: İş ortaklıkları.
+
+Dikkat: Kollektif şirket ve adi komandit şirket kurumlar vergisi mükellefi değildir. Bunların ortakları, şirketten elde ettikleri kazanç için gelir vergisi öder. Dernek ve vakıfların kendisi de mükellef değildir, sadece iktisadi işletmeleri mükelleftir.
+
+Hafıza cümlesi: Sermaye şirketi, kooperatif, kamu iktisadi kuruluşu, dernek vakıf işletmesi, iş ortaklığı.
+
+Şimdi mükellefiyet türleri. Kanuni merkezi veya iş merkezi Türkiye'de bulunan kurumlar tam mükelleftir. Tam mükellefler, Türkiye içinde ve dışında elde ettikleri kazançların tamamı üzerinden vergilendirilir.
+
+Kanuni merkezi de iş merkezi de Türkiye'de olmayan kurumlar ise dar mükelleftir. Dar mükellefler sadece Türkiye'de elde ettikleri kazançlar üzerinden vergilendirilir.
+
+Kanuni merkez, esas sözleşmede gösterilen merkezdir. İş merkezi ise işlerin fiilen toplandığı ve yönetildiği yerdir. İkisinden biri Türkiye'de ise kurum tam mükelleftir.
+
+Oran. Kurumlar vergisinin genel oranı yüzde yirmi beştir. Bankalar, finansal kiralama ve faktoring şirketleri gibi finans kuruluşları için oran yüzde otuzdur. Oranlar zaman zaman değiştiği için sınavdan önce kontrol et.
+
+Beyan. Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden son gününe kadar verilir. Hesap dönemi takvim yılı olan kurumlar için bu, nisan ayıdır. Vergi de aynı ayın sonuna kadar ödenir.
+
+Yıl içinde ise üçer aylık dönemler halinde geçici vergi ödenir. Geçici vergi, yıl sonunda hesaplanan kurumlar vergisinden mahsup edilir. Yani bir ön ödeme gibidir.
+
+Şimdi matrah, yani verginin hesaplanacağı tutar. Bunu bir merdiven gibi düşün.
+
+Başlangıç noktası ticari bilanço kârıdır.
+
+Birinci basamak: Kanunen kabul edilmeyen giderler eklenir. Çünkü bunlar ticari kârı düşürmüş ama vergi açısından indirilemeyen giderlerdir.
+
+İkinci basamak: İstisna kazançlar düşülür.
+
+Üçüncü basamak: Geçmiş yıl zararları düşülür. Geçmiş yıl zararları en fazla beş yıl taşınabilir.
+
+Sonuç kurumlar vergisi matrahıdır.
+
+Şimdi kanunen kabul edilmeyen giderler. Kurumlar Vergisi Kanununun on birinci maddesinde sayılır. En önemlileri şunlardır.
+
+Örtülü sermaye üzerinden ödenen faizler ve kur farkları.
+Transfer fiyatlandırması yoluyla örtülü olarak dağıtılan kazançlar.
+Her türlü para cezaları, vergi cezaları ve gecikme zamları.
+Kurumlar vergisinin kendisi ve kurumlar vergisinden mahsup edilecek vergiler.
+Kanunda indirilebileceği belirtilenler dışındaki bağış ve yardımlar.
+Öz sermaye üzerinden ödenen veya hesaplanan faizler.
+
+Hafıza cümlesi: Ceza, kendi vergisi, örtülü sermaye, örtülü kazanç, kural dışı bağış.
+
+Şimdi istisnalardan en önemlisi: İştirak kazançları istisnası. Bir kurumun, tam mükellef başka bir kurumun sermayesine katılımından elde ettiği kâr payları kurumlar vergisinden istisnadır. Neden? Çünkü bu kâr, dağıtan şirkette zaten vergilenmiştir. İkinci kez vergilenmesin diye istisna tanınır.
+
+Bir de iştirak hisselerinin satış kazancı istisnası vardır. En az iki yıl elde tutulan iştirak hisselerinin satışından doğan kazancın yüzde yetmiş beşi, belirli şartlarla istisnadır.
+
+Şimdi bir örnek. Sayıları takip et.
+
+Bir anonim şirketin ticari bilanço kârı bir milyon lira.
+Bu kârın hesabında gider yazılmış olan vergi cezaları ve gecikme zamları toplamı yüz bin lira.
+Şirketin, tam mükellef bir iştirakinden aldığı kâr payı iki yüz bin lira.
+Geçmiş yıldan devreden, süresi geçmemiş zarar yüz bin lira.
+
+Birinci basamak: Bir milyon artı yüz bin kanunen kabul edilmeyen gider, bir milyon yüz bin.
+İkinci basamak: Eksi iki yüz bin iştirak kazancı istisnası, dokuz yüz bin.
+Üçüncü basamak: Eksi yüz bin geçmiş yıl zararı, sekiz yüz bin.
+
+Kurumlar vergisi matrahı sekiz yüz bin lira. Yüzde yirmi beş oranla, hesaplanan kurumlar vergisi iki yüz bin lira. Yıl içinde ödenen geçici vergiler bu tutardan düşülür.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Aşağıdakilerden hangisi kurumlar vergisi mükellefi değildir?
+A şıkkı: Limited şirket.
+B şıkkı: Kooperatif.
+C şıkkı: Kollektif şirket.
+D şıkkı: Bir derneğe ait iktisadi işletme.
+E şıkkı: İş ortaklığı.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, kollektif şirket. Kollektif şirket bir şahıs şirketidir, kurumlar vergisi mükellefi değildir. Ortakları, kazançtan aldıkları paylar için gelir vergisi öder.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Kurumlar Vergisi Kanununa göre ödenen vergi cezaları, kurum kazancının tespitinde gider olarak indirilebilir mi?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Hayır. Her türlü para cezası, vergi cezası ve gecikme zammı kanunen kabul edilmeyen giderdir. Ticari kârdan düşülmüş olsa bile matraha geri eklenir.
+
+Dersin özeti.
+
+Bir. Kurumlar vergisi mükellefleri: sermaye şirketleri, kooperatifler, iktisadi kamu kuruluşları, dernek ve vakıf iktisadi işletmeleri ve iş ortaklıkları. Kollektif ve adi komandit şirketler mükellef değildir.
+
+İki. Kanuni merkez veya iş merkezinden biri Türkiye'de ise tam mükellefiyet vardır.
+
+Üç. Genel oran yüzde yirmi beş. Beyanname, dönemin kapandığı ayı izleyen dördüncü ayda verilir, takvim yılında nisan.
+
+Dört. Matrah: ticari kâr, artı kanunen kabul edilmeyen giderler, eksi istisnalar, eksi en fazla beş yıllık geçmiş yıl zararları.
+
+Beş. Tam mükellef kurumdan alınan kâr payları iştirak kazançları istisnasından yararlanır.

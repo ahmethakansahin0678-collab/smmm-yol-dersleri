@@ -1,0 +1,100 @@
+BAŞLIK: Finansal Muhasebe 8. Hazır değerler ve menkul kıymetler
+
+Finansal Muhasebe sekizinci bölüme hoş geldin. Bugün bilançonun en tepesindeki iki grubu işleyeceğiz: On numaralı Hazır Değerler ve on bir numaralı Menkul Kıymetler. Bu hesaplar her gün kullanılır ve sınavda çek kayıtları sık sorulur.
+
+Önce on numaralı Hazır Değerler grubu.
+
+Yüz Kasa.
+Yüz bir Alınan Çekler.
+Yüz iki Bankalar.
+Yüz üç Verilen Çekler ve Ödeme Emirleri. Bu eksi karakterli bir hesaptır.
+Yüz sekiz Diğer Hazır Değerler.
+
+Kasa hesabıyla ilgili temel kural: Kasa hesabı alacak bakiyesi veremez. Çünkü kasada olandan fazla para çıkamaz. Kasa hesabı alacak bakiyesi veriyorsa, ya kayıt hatası vardır ya da kayıt dışı işlem. Vergi incelemelerinde buna kasa açığı denir ve önemli bir bulgudur.
+
+Şimdi alınan çekler. Müşteriden çek aldığımızda: Yüz bir Alınan Çekler borç, yüz yirmi Alıcılar alacak.
+
+Çeki tahsil için bankaya verdiğimizde, kayıt banka tahsil edince yapılır: Yüz iki Bankalar borç, yüz bir Alınan Çekler alacak.
+
+Bir çeki satıcıya ciro edersek: Üç yüz yirmi Satıcılar borç, yüz bir Alınan Çekler alacak.
+
+Şimdi verilen çekler. Bu konu sınavın klasiklerinden. Kendi banka hesabımızdan bir satıcıya çek yazdığımızda, para hemen hesaptan çıkmaz. Satıcı çeki bankaya götürünce çıkar. Bu ara dönemde çek, yüz üç numaralı hesapta izlenir.
+
+Çek verildiğinde: Üç yüz yirmi Satıcılar borç, yüz üç Verilen Çekler ve Ödeme Emirleri alacak.
+
+Banka çeki ödediğinde: Yüz üç borç, yüz iki Bankalar alacak.
+
+Neden yüz iki doğrudan alacaklanmıyor? Çünkü banka hesabındaki para, çek bankaya ibraz edilene kadar hâlâ oradadır. Yüz üç, bilançoda bankalar hesabını düzenleyen bir hesap olarak gösterilir.
+
+Hafıza cümlesi: Aldığın çek yüz bir, verdiğin çek yüz üç. Yüz üç eksi karakterli.
+
+Yabancı paralar. Kasada veya bankada döviz varsa, dönem sonunda Merkez Bankası döviz alış kuruyla değerlenir. Kur artışı altı yüz kırk altı Kambiyo Kârları, kur düşüşü altı yüz elli altı Kambiyo Zararları hesabına yazılır. Bunu Vergi dersinde değerleme konusunda da gördük.
+
+Şimdi on bir numaralı Menkul Kıymetler grubu. Bu grup, kısa süreli, yani bir yıl içinde elden çıkarılmak üzere alınan menkul kıymetleri içerir.
+
+Yüz on Hisse Senetleri.
+Yüz on bir Özel Kesim Tahvil, Senet ve Bonoları.
+Yüz on iki Kamu Kesimi Tahvil, Senet ve Bonoları.
+Yüz on sekiz Diğer Menkul Kıymetler.
+Yüz on dokuz Menkul Kıymetler Değer Düşüklüğü Karşılığı. Bu da eksi karakterlidir.
+
+Dikkat: Uzun süreli elde tutmak, yani yönetimde söz sahibi olmak amacıyla alınan hisseler bu grupta değil, iki numaralı sınıfta, iştirakler veya bağlı ortaklıklar olarak izlenir.
+
+Menkul kıymet alımı. Örnek: İşletme, borsadan elli bin liralık hisse senedi alıyor, aracı kuruma beş yüz lira komisyon ödüyor.
+
+Tekdüzen Hesap Planı uygulamasında, alım sırasında ödenen komisyon genellikle maliyete eklenmez, altı yüz elli üç Komisyon Giderleri hesabına yazılır.
+
+Kayıt: Yüz on Hisse Senetleri elli bin lira borç, altı yüz elli üç Komisyon Giderleri beş yüz lira borç, yüz iki Bankalar elli bin beş yüz lira alacak.
+
+Menkul kıymet satışı. Bu hisseler altmış bin liraya satılıyor.
+
+Satış kârı: Altmış bin eksi elli bin, on bin lira.
+
+Kayıt: Yüz iki Bankalar altmış bin borç, yüz on Hisse Senetleri elli bin alacak, altı yüz kırk beş Menkul Kıymet Satış Kârları on bin alacak.
+
+Zararla satılsaydı fark altı yüz elli beş Menkul Kıymet Satış Zararları hesabına borç yazılırdı.
+
+Hafıza cümlesi: Menkul kıymet satış kârı altı yüz kırk beş, zararı altı yüz elli beş.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: İşletmenin satıcısına kendi banka hesabından yazdığı çek, satıcı tarafından henüz bankaya ibraz edilmemiştir. Bu çek hangi hesapta izlenir?
+A şıkkı: Yüz bir Alınan Çekler.
+B şıkkı: Yüz iki Bankalar.
+C şıkkı: Yüz üç Verilen Çekler ve Ödeme Emirleri.
+D şıkkı: Üç yüz yirmi bir Borç Senetleri.
+E şıkkı: Yüz sekiz Diğer Hazır Değerler.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı. Verilen çekler, bankadan ödenene kadar yüz üç numaralı hesapta alacak bakiyeyle izlenir.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Kırk bin liraya alınan hisse senetleri otuz beş bin liraya satılırsa, fark hangi hesaba yazılır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Beş bin lira zarar, altı yüz elli beş Menkul Kıymet Satış Zararları hesabına borç yazılır.
+
+Dersin özeti.
+
+Bir. Kasa hesabı alacak bakiyesi veremez. Verirse kasa açığı vardır.
+
+İki. Alınan çekler yüz bir, verilen çekler yüz üç numaralı hesapta izlenir. Yüz üç eksi karakterlidir.
+
+Üç. Verilen çek bankadan ödenince yüz üç borç, yüz iki alacak yazılır.
+
+Dört. Kısa süreli menkul kıymetler on bir grubunda izlenir. Alım komisyonu altı yüz elli üç Komisyon Giderlerine yazılır.
+
+Beş. Menkul kıymet satış kârı altı yüz kırk beş, zararı altı yüz elli beş numaralı hesaba kaydedilir.

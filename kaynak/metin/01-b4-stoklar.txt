@@ -1,0 +1,94 @@
+BAŞLIK: Finansal Muhasebe 4. Stoklar, envanter yöntemleri ve sayım farkları
+
+Finansal Muhasebe dördüncü bölüme hoş geldin. Bugün stokları işleyeceğiz: On beş numaralı Stoklar grubu, iki envanter yöntemi, stok değer düşüklüğü ve sayım farkları.
+
+Önce on beş numaralı grup.
+
+Yüz elli İlk Madde ve Malzeme.
+Yüz elli bir Yarı Mamuller Üretim.
+Yüz elli iki Mamuller.
+Yüz elli üç Ticari Mallar.
+Yüz elli yedi Diğer Stoklar.
+Yüz elli sekiz Stok Değer Düşüklüğü Karşılığı. Bu eksi karakterli düzenleyici bir hesaptır.
+Yüz elli dokuz Verilen Sipariş Avansları.
+
+Ticari mal ile mamulü karıştırma. Ticari mal, alındığı gibi satılan maldır. Mamul ise işletmenin kendi ürettiği üründür.
+
+Şimdi iki envanter yöntemi.
+
+Birincisi sürekli envanter yöntemi. Her satışta, satılan malın maliyeti hemen kaydedilir. Yani her satışta iki kayıt yapılır: Biri satış kaydı, diğeri maliyet kaydı. Maliyet kaydında altı yüz yirmi bir Satılan Ticari Mallar Maliyeti hesabı borçlanır, yüz elli üç Ticari Mallar hesabı alacaklanır. Böylece stok hesabı her an güncel bakiyeyi gösterir.
+
+İkincisi aralıklı envanter yöntemi. Buna dönemsel envanter de denir. Satışlarda sadece satış kaydı yapılır, maliyet kaydı yapılmaz. Dönem sonunda depoda sayım yapılır ve satılan malın maliyeti bir formülle bulunur.
+
+Formül: Satılan malın maliyeti eşittir dönem başı stok, artı dönem içi alışlar, eksi dönem sonu stok.
+
+Bunu bir su deposu gibi düşün. Depoda başta bir miktar su vardı, sonra su eklendi. Dönem sonunda ne kadar kaldığına bakarsın. Aradaki fark kullanılan sudur.
+
+Örnek. Dönem başı stok yirmi bin lira. Dönem içinde yüz bin liralık mal alındı. Dönem sonu sayımında otuz bin liralık mal bulundu.
+
+Satılan malın maliyeti: Yirmi bin artı yüz bin, yüz yirmi bin. Eksi otuz bin, doksan bin lira.
+
+Satışlar yüz kırk bin lira ise brüt satış kârı yüz kırk bin eksi doksan bin, elli bin liradır.
+
+Dönem sonu kaydı: Altı yüz yirmi bir Satılan Ticari Mallar Maliyeti hesabı doksan bin lira borç, yüz elli üç Ticari Mallar hesabı doksan bin lira alacak. Böylece yüz elli üç hesabının bakiyesi, sayımda bulunan otuz bin liraya iner.
+
+Şimdi stok değerlemesi. Vergi Usul Kanununa göre emtia, yani stoklar, maliyet bedeliyle değerlenir. Ancak yangın, deprem, su basması gibi afetler ya da bozulma, çürüme, kırılma, çatlama, paslanma gibi nedenlerle kıymetinde önemli bir azalma olan stoklar, emsal bedeliyle değerlenebilir. Bu, vergi açısından kabul edilen değer düşüklüğüdür.
+
+Türkiye Muhasebe Standartlarında ise kural daha geniştir: Stoklar, maliyet ile net gerçekleşebilir değerden düşük olanı ile ölçülür. Net gerçekleşebilir değer, tahmini satış fiyatından tahmini tamamlama ve satış giderlerinin düşülmesiyle bulunur.
+
+Değer düşüklüğü kaydı: Altı yüz elli dört Karşılık Giderleri hesabı borç, yüz elli sekiz Stok Değer Düşüklüğü Karşılığı hesabı alacak.
+
+Hafıza cümlesi: Stok değer düşüklüğü altı yüz elli dört borç, yüz elli sekiz alacak. Şüpheli alacaktaki yapının aynısı, sadece hesap farklı.
+
+Şimdi sayım farkları. Dönem sonunda yapılan sayımda, kayıtlardaki miktar ile depodaki miktar farklı çıkabilir.
+
+Sayımda kayıtlardan fazla mal çıkarsa: Stok hesabı borç, üç yüz doksan yedi Sayım ve Tesellüm Fazlaları hesabı alacak. Üç yüz doksan yedi bir pasif hesaptır, çünkü fazlanın sebebi araştırılana kadar geçici olarak bekletilir.
+
+Sayımda kayıtlardan az mal çıkarsa: Yüz doksan yedi Sayım ve Tesellüm Noksanları hesabı borç, stok hesabı alacak. Yüz doksan yedi bir aktif hesaptır.
+
+Sebep araştırıldıktan sonra bu hesaplar kapatılır. Fazlanın sebebi bulunamazsa altı yüz yetmiş dokuz Diğer Olağan Gelir ve Kârlar hesabına gelir yazılır. Noksanın sebebi bulunamazsa altı yüz seksen dokuz Diğer Olağandışı Gider ve Zararlar hesabına gider yazılır. Noksandan bir çalışan sorumlu tutulursa, tutar o çalışandan alacak olarak izlenir.
+
+Hafıza cümlesi: Fazla pasifte üç yüz doksan yedi, noksan aktifte yüz doksan yedi.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Aralıklı envanter yöntemini uygulayan bir işletmede dönem başı stok elli bin, dönem içi alışlar iki yüz bin, dönem sonu stok altmış bin liradır. Satılan ticari mallar maliyeti kaç liradır?
+A şıkkı: İki yüz on bin.
+B şıkkı: Yüz doksan bin.
+C şıkkı: İki yüz elli bin.
+D şıkkı: Yüz kırk bin.
+E şıkkı: İki yüz altmış bin.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, yüz doksan bin lira. Elli bin artı iki yüz bin, iki yüz elli bin. Eksi altmış bin, yüz doksan bin.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Dönem sonu sayımında kayıtlarda görünenden daha az ticari mal bulunursa, sebep araştırılana kadar fark hangi hesapta izlenir?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Yüz doksan yedi Sayım ve Tesellüm Noksanları hesabında. Bu bir aktif hesaptır ve borç tarafına yazılır.
+
+Dersin özeti.
+
+Bir. Ticari mal alındığı gibi satılır, mamulü işletme kendi üretir.
+
+İki. Sürekli envanterde her satışta maliyet kaydı yapılır. Aralıklı envanterde maliyet dönem sonunda bulunur.
+
+Üç. Satılan malın maliyeti eşittir dönem başı stok artı alışlar eksi dönem sonu stok.
+
+Dört. Standartlara göre stoklar maliyet ile net gerçekleşebilir değerden düşük olanıyla ölçülür. Değer düşüklüğü altı yüz elli dört borç, yüz elli sekiz alacak.
+
+Beş. Sayım fazlası üç yüz doksan yedi, sayım noksanı yüz doksan yedi numaralı hesapta izlenir.

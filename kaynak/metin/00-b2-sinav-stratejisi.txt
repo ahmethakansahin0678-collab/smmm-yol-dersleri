@@ -1,0 +1,63 @@
+BAŞLIK: Sınav stratejisi: son hafta ve sınav günü
+
+Bu bölüm bir ders değil, bir strateji konuşması. Sınava yaklaşırken bu bölümü dinle. Bilgiyi zaten çalıştın. Burada, bildiğini sınavda puana çevirmenin yollarını konuşacağız.
+
+Önce sınavın kurallarını öğren. Sınava kaç soru geldiği, ne kadar süre verildiği, yanlış cevapların doğruları götürüp götürmediği ve başarı puanı, sınav kılavuzunda yazar. Bunları Türmob'un o döneme ait sınav duyurusundan mutlaka kendin oku. Strateji bu kurallara göre şekillenir. Mesela yanlışlar doğruları götürmüyorsa hiçbir soruyu boş bırakmamalısın.
+
+Şimdi zaman yönetimi. Toplam süreyi soru sayısına böl ve soru başına düşen süreyi bil. Sınavda üç tur yöntemini kullan.
+
+Birinci tur: Soruları baştan sona oku. Hemen bildiklerini işaretle. Takıldığın soruda durma, yanına bir işaret koy ve geç.
+
+İkinci tur: İşaretli sorulara dön. Hesap gerektirenleri şimdi çöz.
+
+Üçüncü tur: Hâlâ emin olmadığın sorularda şık eleme yap.
+
+Bunun mantığı basit: Kolay bir soru da zor bir soru da aynı puandır. Zor bir soruda beş dakika kaybedip sonda üç kolay soruyu kaçırmak en pahalı hatadır.
+
+Hafıza cümlesi: Bildiğini al, takıldığını işaretle, sonra dön.
+
+Şimdi soru okuma. Sınavın en sık tuzağı soru kökündedir. Aşağıdakilerden hangisi değildir, hangisi yanlıştır, hangisi kapsamında yer almaz gibi olumsuz ifadelerin altını çiz. Yorgunken bunları olumlu okumak çok kolaydır.
+
+İkinci tuzak, birbirine benzeyen şıklardır. Bu programda bunlara sık sık dikkat çektik. Bir kez daha hatırlayalım:
+
+Asal maliyet ile dönüştürme maliyeti. Asalda ilk madde ve işçilik, dönüştürmede işçilik ve genel üretim gideri.
+
+Hesaplanan kadeve ile indirilecek kadeve. Satışta üç yüz doksan bir, alışta yüz doksan bir.
+
+Gelecek aylara ait giderler ile gelirler. Gider peşin ödenirse yüz seksen, aktifte. Gelir peşin alınırsa üç yüz seksen, pasifte.
+
+Şartlı görüş ile olumsuz görüş. Fark, yanlışlığın yaygın olup olmadığıdır.
+
+Gecikme faizi ile gecikme zammı. Faiz tahakkuktan önce, zam vadeden sonra.
+
+İlamsız takipte yedi gün, kambiyo takibinde beş gün itiraz.
+
+Merkezi Kayıt Kuruluşu ile Takasbank. Biri kayıt tutar, diğeri takas yapar.
+
+Üçüncü tuzak, eski bilgidir. Kadeve oranının yüzde on sekiz olarak verildiği bir şık, artık yanlıştır. Sermaye tutarları, oranlar ve sınırlar değiştiği için güncel değerleri sınavdan önce kontrol et.
+
+Şimdi hesap soruları. Hesap sorusunda önce formülü yaz, sonra rakamları yerleştir. Sonucu bulduktan sonra bir sağlama yap. Bu programda birçok örnekte sağlama yaptık: Borç toplamı alacak toplamına eşit mi? Dağıtılan maliyetlerin toplamı ortak maliyete eşit mi? DuPont çarpımı doğrudan hesapla aynı mı? Sağlama otuz saniye sürer, ama bir yanlışı yakalar.
+
+Şimdi son hafta planı. Son hafta yeni konu çalışma. Bu uygulamada son hafta için iki gün hazır.
+
+Deneme günü: Tüm derslerden karışık sorular. Bunları sınav provası gibi dinle. Yanlış yaptığın soruların derslerini not et.
+
+Hızlı Tekrar günü: Tüm derslerin sadece özetleri. Sınavdan önceki son iki üç günde, gidiş ve dönüşte bunu dinle.
+
+Sınavdan önceki gece uykunu al. Yorgun bir zihin, bildiği bilgiyi de hatırlayamaz.
+
+Sınav günü sabahı, yolda sadece o günün dersinin özetlerini dinle. Yeni bir şey öğrenmeye çalışma.
+
+Son olarak bir hatırlatma. Bu programı araçta dinliyorsun. Her zaman olduğu gibi, yol ve trafik her şeyden önce gelir. Bir bölümü kaçırırsan tekrar dinlersin, ama yolda dikkatini hiçbir zaman derse vermeyeceksin.
+
+Bölümün özeti.
+
+Bir. Sınav kurallarını, özellikle yanlışların doğruları götürüp götürmediğini, sınav kılavuzundan oku.
+
+İki. Üç tur yöntemi: bildiğini al, takıldığını işaretle, sonra dön.
+
+Üç. Olumsuz soru köklerinin altını çiz. Benzer şıklara ve eski bilgilere dikkat et.
+
+Dört. Hesap sorularında formül, rakam, sonuç ve sağlama.
+
+Beş. Son hafta yeni konu yok: Deneme günü ve Hızlı Tekrar günü. Sınavdan önceki gece uyku.

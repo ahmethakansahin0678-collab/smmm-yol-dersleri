@@ -1,0 +1,93 @@
+BAŞLIK: Muhasebe Denetimi 3. Denetçi raporunun yapısı ve denetçinin bağımsızlığı
+
+Muhasebe Denetimi üçüncü bölüme hoş geldin. İlk bölümde dört görüş türünü öğrendik. Bugün denetçi raporunun içinde neler olduğunu, dikkat çekilen hususlar paragrafını, sürekliliğe ilişkin belirsizliği ve denetçinin bağımsızlığını işleyeceğiz.
+
+Önce raporun bölümleri. Bir bağımsız denetçi raporu genellikle şu sırayla ilerler.
+
+Başlık: Bağımsız denetçi raporu olduğu açıkça belirtilir.
+Muhatap: Rapor genellikle pay sahiplerine ya da genel kurula hitaben yazılır.
+Görüş bölümü: Güncel standartlarda görüş, raporun en başında yer alır.
+Görüşün dayanağı: Denetimin standartlara uygun yapıldığı ve denetçinin bağımsız olduğu belirtilir.
+Kilit denetim konuları: Özellikle halka açık şirketlerde, denetçinin en çok önem verdiği konular açıklanır.
+Yönetimin sorumlulukları: Finansal tabloların hazırlanması yönetimin sorumluluğudur.
+Denetçinin sorumlulukları: Makul güvence elde etmek ve görüş bildirmek denetçinin sorumluluğudur.
+İmza, adres ve tarih.
+
+Burada sınavın sevdiği bir nokta: Finansal tabloları hazırlama sorumluluğu yönetime aittir, denetçiye değil. Denetçi, tablolar hakkında görüş bildirir.
+
+Şimdi iki ek paragraf. Bunlar görüşü değiştirmez, bunu iyi anla.
+
+Dikkat çekilen hususlar paragrafı: Finansal tablolarda doğru şekilde sunulmuş ve açıklanmış, ama kullanıcıların anlaması için çok önemli olan bir konuya dikkat çekilir. Mesela büyük bir dava, ya da bir doğal afetin etkisi. Görüş olumlu kalır, sadece okuyucunun dikkati çekilir.
+
+Diğer hususlar paragrafı: Finansal tablolarda yer almayan, ama denetimi ya da raporu anlamak için önemli olan bir konu belirtilir.
+
+İşletmenin sürekliliği. Denetçi, işletmenin öngörülebilir gelecekte faaliyetlerini sürdürüp sürdüremeyeceğini değerlendirir. Süreklilik konusunda önemli bir belirsizlik varsa ve finansal tablolarda yeterince açıklanmışsa, denetçi raporunda bu belirsizliğe ayrı bir bölüm ayırır, görüş olumlu kalabilir. Belirsizlik yeterince açıklanmamışsa, görüş şartlı ya da olumsuz olur.
+
+Hafıza cümlesi: Doğru açıklanmışsa dikkat çek, açıklanmamışsa görüşü değiştir.
+
+Şimdi bağımsızlık. Bağımsızlık, denetimin temel taşıdır. İki boyutu vardır.
+
+Gerçekte bağımsızlık: Denetçinin zihninde tarafsız olması, yani dürüst ve objektif davranması.
+
+Görünüşte bağımsızlık: Makul bir üçüncü kişinin, denetçinin bağımsızlığından şüphe etmesine yol açacak durumlardan kaçınılması.
+
+İkisi de gereklidir. Denetçi gerçekte tarafsız olsa bile, müşterinin ortağıysa kimse raporuna güvenmez.
+
+Etik kurallar, bağımsızlığı tehdit eden beş durumu sayar. Bunu ezberle.
+
+Bir: Kişisel çıkar tehdidi. Mesela denetçinin, denetlenen şirkette hissesi olması ya da gelirinin büyük kısmını tek bir müşteriden alması.
+
+İki: Kendi kendini denetleme tehdidi. Mesela denetçinin, daha önce kendi tuttuğu defterleri ya da kendi kurduğu sistemi denetlemesi.
+
+Üç: Taraf tutma tehdidi. Buna savunuculuk da denir. Mesela denetçinin, müşterisini bir davada savunması ya da hisselerini pazarlaması.
+
+Dört: Yakınlık tehdidi. Mesela denetçinin, müşterinin muhasebe müdürüyle uzun yıllara dayanan yakın bir dostluğu ya da akrabalığı olması.
+
+Beş: Yıldırma tehdidi. Mesela müşterinin, denetçiyi görevden almakla veya dava açmakla tehdit etmesi.
+
+Hafıza cümlesi: Çıkar, kendini denetleme, taraf tutma, yakınlık, yıldırma.
+
+Bu tehditleri azaltmak için çeşitli önlemler vardır. En bilinenleri, aynı müşteride uzun süre görev yapan denetçilerin belirli sürelerden sonra değiştirilmesi, yani rotasyon, ve denetçinin aynı müşteriye defter tutma gibi bazı denetim dışı hizmetleri verememesidir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Bir denetçinin, daha önce kendisinin kurduğu muhasebe sistemini bu yıl denetlemesi hangi bağımsızlık tehdidine örnektir?
+A şıkkı: Kişisel çıkar tehdidi.
+B şıkkı: Kendi kendini denetleme tehdidi.
+C şıkkı: Yakınlık tehdidi.
+D şıkkı: Yıldırma tehdidi.
+E şıkkı: Taraf tutma tehdidi.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, kendi kendini denetleme tehdidi. Denetçi kendi işinin hatasını bulmakta zorlanır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Dikkat çekilen hususlar paragrafı denetçi görüşünü değiştirir mi?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Hayır. Dikkat çekilen hususlar paragrafı, finansal tablolarda doğru açıklanmış önemli bir konuya dikkat çeker. Görüş değişmez.
+
+Dersin özeti.
+
+Bir. Güncel raporda görüş bölümü en başta yer alır.
+
+İki. Finansal tabloları hazırlamak yönetimin, görüş bildirmek denetçinin sorumluluğudur.
+
+Üç. Dikkat çekilen hususlar ve diğer hususlar paragrafları görüşü değiştirmez.
+
+Dört. Bağımsızlığın iki boyutu: gerçekte ve görünüşte bağımsızlık.
+
+Beş. Beş bağımsızlık tehdidi: kişisel çıkar, kendi kendini denetleme, taraf tutma, yakınlık ve yıldırma.

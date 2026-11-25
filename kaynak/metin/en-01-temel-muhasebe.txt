@@ -1,0 +1,236 @@
+BAŞLIK: Mesleki İngilizce 1. Temel muhasebe ve finansal tablo terimleri
+
+Mesleki İngilizce modülüne hoş geldin. Bu modülde bir mali müşavirin ya da uluslararası bir muhasebecinin, yani İngilizce adıyla bir CPA'in, mutlaka bilmesi gereken terimleri çalışacağız.
+
+Düzen şöyle: Önce terimi İngilizce sesle duyacaksın. Sonra Türkçe anlamını söyleyeceğim. Ardından terimi bir İngilizce cümle içinde duyacaksın ve en son o cümlenin Türkçesini dinleyeceksin. Terimi duyduğunda yüksek sesle tekrar et. Araçta yalnızsan bunu rahatça yapabilirsin, telaffuzun için çok faydalı.
+
+Bugünkü konumuz temel muhasebe ve finansal tablolar. Hadi başlayalım.
+
+EN: Accounting.
+Muhasebe.
+EN: Accounting is the language of business.
+Muhasebe, iş dünyasının dilidir.
+
+EN: Bookkeeping.
+Defter tutma. Muhasebenin kayıt kısmı.
+EN: She does the bookkeeping for small companies.
+Küçük şirketlerin defterlerini o tutuyor.
+
+EN: Double-entry bookkeeping.
+Çift taraflı kayıt sistemi.
+EN: In double-entry bookkeeping, every transaction affects at least two accounts.
+Çift taraflı kayıtta her işlem en az iki hesabı etkiler.
+
+EN: Debit.
+Borç. Hesabın sol tarafı.
+EN: Debit the cash account.
+Kasa hesabını borçlandır.
+
+EN: Credit.
+Alacak. Hesabın sağ tarafı.
+EN: Credit the sales account.
+Satışlar hesabını alacaklandır.
+
+Dikkat: İngilizcede borç ve alacak için günlük hayatta debt ve receivable kelimeleri de kullanılır. Ama hesabın sol ve sağ tarafı için her zaman debit ve credit denir.
+
+EN: Journal entry.
+Yevmiye kaydı.
+EN: Please post this journal entry before closing the month.
+Lütfen bu yevmiye kaydını ayı kapatmadan önce işle.
+
+EN: General ledger.
+Büyük defter.
+EN: All accounts are summarized in the general ledger.
+Tüm hesaplar büyük defterde özetlenir.
+
+EN: Trial balance.
+Mizan.
+EN: The trial balance shows that total debits equal total credits.
+Mizan, borç toplamının alacak toplamına eşit olduğunu gösterir.
+
+EN: Chart of accounts.
+Hesap planı. Türkiye'deki Tekdüzen Hesap Planının karşılığı.
+EN: Our chart of accounts follows the uniform system.
+Hesap planımız tekdüzen sisteme uyar.
+
+Şimdi finansal tablolar.
+
+EN: Financial statements.
+Finansal tablolar.
+EN: The financial statements are prepared annually.
+Finansal tablolar yıllık olarak hazırlanır.
+
+EN: Balance sheet.
+Bilanço. Resmi adıyla statement of financial position da denir.
+EN: The balance sheet shows assets, liabilities and equity at a point in time.
+Bilanço, belirli bir tarihteki varlıkları, borçları ve özkaynakları gösterir.
+
+EN: Income statement.
+Gelir tablosu. Profit and loss statement, kısaca P and L da denir.
+EN: Revenue increased by ten percent in this year's income statement.
+Bu yılın gelir tablosunda hasılat yüzde on arttı.
+
+EN: Cash flow statement.
+Nakit akış tablosu.
+EN: The cash flow statement has three sections: operating, investing and financing.
+Nakit akış tablosunun üç bölümü vardır: işletme, yatırım ve finansman.
+
+EN: Statement of changes in equity.
+Özkaynak değişim tablosu.
+
+EN: Notes to the financial statements.
+Finansal tablo dipnotları.
+
+Şimdi bilanço kalemleri. Temel denklemi hatırla: Varlıklar eşittir kaynaklar.
+
+EN: Assets equal liabilities plus equity.
+Varlıklar, borçlar artı özkaynaklara eşittir.
+
+EN: Assets.
+Varlıklar.
+
+EN: Current assets.
+Dönen varlıklar.
+EN: Cash, receivables and inventory are current assets.
+Nakit, alacaklar ve stoklar dönen varlıklardır.
+
+EN: Non-current assets.
+Duran varlıklar.
+
+EN: Liabilities.
+Yükümlülükler, yani yabancı kaynaklar.
+
+EN: Current liabilities.
+Kısa vadeli yükümlülükler.
+
+EN: Equity.
+Özkaynaklar. Shareholders' equity da denir.
+
+EN: Share capital.
+Sermaye. Ödenmiş sermaye için paid-in capital denir.
+
+EN: Retained earnings.
+Geçmiş yıllar kârları, yani dağıtılmayan kârlar.
+EN: The company kept its profits as retained earnings.
+Şirket kârlarını geçmiş yıllar kârı olarak bünyesinde tuttu.
+
+Şimdi sık kullanılan kalemler.
+
+EN: Cash and cash equivalents.
+Nakit ve nakit benzerleri.
+
+EN: Accounts receivable.
+Ticari alacaklar. Türkiye'deki yüz yirmi Alıcılar hesabı.
+EN: Accounts receivable are collected within sixty days.
+Ticari alacaklar altmış gün içinde tahsil edilir.
+
+EN: Accounts payable.
+Ticari borçlar. Türkiye'deki üç yüz yirmi Satıcılar hesabı.
+EN: We pay our accounts payable at the end of the month.
+Ticari borçlarımızı ay sonunda öderiz.
+
+EN: Inventory.
+Stoklar.
+EN: Inventory is measured at the lower of cost and net realizable value.
+Stoklar, maliyet ile net gerçekleşebilir değerden düşük olanıyla ölçülür.
+
+Bu cümlede bir sınav bilgisi var: Stoklar, maliyet ile net gerçekleşebilir değerden düşük olanı ile ölçülür.
+
+EN: Prepaid expenses.
+Peşin ödenmiş giderler. Türkiye'de yüz seksen Gelecek Aylara Ait Giderler.
+
+EN: Accrued expenses.
+Tahakkuk etmiş giderler. Türkiye'de üç yüz seksen bir Gider Tahakkukları.
+
+EN: Deferred revenue.
+Ertelenmiş gelir, yani peşin tahsil edilmiş gelir. Türkiye'de üç yüz seksen Gelecek Aylara Ait Gelirler.
+
+EN: Property, plant and equipment.
+Maddi duran varlıklar. Kısaca P P E denir.
+
+EN: Depreciation.
+Amortisman. Maddi duran varlıklar için.
+EN: The machine is depreciated over five years using the straight-line method.
+Makine, doğrusal yöntemle beş yılda amorti edilir.
+
+EN: Straight-line method.
+Normal amortisman yöntemi, yani doğrusal yöntem.
+
+EN: Amortization.
+İtfa payı. Maddi olmayan duran varlıklar için kullanılır.
+
+EN: Intangible assets.
+Maddi olmayan duran varlıklar.
+
+EN: Goodwill.
+Şerefiye.
+
+Şimdi gelir tablosu terimleri.
+
+EN: Revenue.
+Hasılat. Sales da denir.
+
+EN: Cost of goods sold.
+Satılan malın maliyeti. Kısaca C O G S.
+
+EN: Gross profit.
+Brüt kâr.
+EN: Gross profit equals revenue minus cost of goods sold.
+Brüt kâr, hasılattan satılan malın maliyeti düşülerek bulunur.
+
+EN: Operating expenses.
+Faaliyet giderleri.
+
+EN: Net income.
+Net kâr. Net profit da denir.
+
+Şimdi küçük bir test. Türkçesini söyleyeceğim, sen İngilizcesini söyle.
+
+[[bip]]
+
+Mizan.
+
+[[5]]
+
+EN: Trial balance.
+
+[[bip]]
+
+Ticari alacaklar.
+
+[[5]]
+
+EN: Accounts receivable.
+
+[[bip]]
+
+Geçmiş yıllar kârları.
+
+[[5]]
+
+EN: Retained earnings.
+
+[[bip]]
+
+Amortisman.
+
+[[5]]
+
+EN: Depreciation.
+
+[[bip]]
+
+Satılan malın maliyeti.
+
+[[5]]
+
+EN: Cost of goods sold.
+
+Harika. Bugünkü özet:
+
+EN: Debit, credit, journal entry, general ledger, trial balance.
+EN: Balance sheet, income statement, cash flow statement.
+EN: Assets, liabilities, equity, retained earnings.
+EN: Accounts receivable, accounts payable, inventory, depreciation.
+
+Bir sonraki İngilizce bölümünde denetim ve vergi terimlerine geçeceğiz.

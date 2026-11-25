@@ -1,0 +1,103 @@
+BAŞLIK: Muhasebe Denetimi 2. Önemlilik, denetim kanıtı, iç kontrol ve hile
+
+Muhasebe Denetimi ikinci bölüme hoş geldin. Bugün dört konu var: Önemlilik, denetim kanıtı ve teknikleri, iç kontrol sistemi ve hile.
+
+Önce önemlilik. Bir yanlışlık, tek başına ya da diğer yanlışlıklarla birlikte, finansal tablo kullanıcılarının ekonomik kararlarını etkileyebilecek büyüklükteyse önemlidir.
+
+Bir benzetme: Bir milyar liralık şirkette yüz liralık hata önemli değildir. Ama yüz bin liralık bir dükkânda aynı yüz lira önemli olabilir. Önemlilik göreceli bir kavramdır.
+
+Denetçi, planlama aşamasında bir genel önemlilik düzeyi belirler. Bunun için bir ölçüt seçer. Örneğin vergi öncesi kârın yüzde beşi, hasılatın küçük bir yüzdesi ya da aktif toplamının küçük bir yüzdesi gibi. Hangisinin kullanılacağı denetçinin mesleki muhakemesine bağlıdır.
+
+Bir de performans önemliliği vardır. Genel önemliliğin altında belirlenir. Amacı, tek tek küçük ama toplamda önemli olabilecek yanlışlıkları yakalamaktır.
+
+Önemli bir ilişki: Önemlilik düzeyi ile denetim riski arasında ters ilişki vardır. Önemlilik düzeyi düşürülürse denetçi daha küçük yanlışlıkları da yakalamak zorunda kalır, bu yüzden daha fazla kanıt toplar.
+
+Şimdi denetim kanıtı. Standartların temel cümlesi şudur: Denetçi, yeterli ve uygun denetim kanıtı elde etmelidir.
+
+Yeterlilik, kanıtın miktarıyla ilgilidir.
+Uygunluk ise kanıtın niteliğiyle ilgilidir ve iki unsuru vardır: İlgililik ve güvenilirlik.
+
+Kanıtın güvenilirliğiyle ilgili dört kural var. Bunları ezberle.
+
+Bir: Bağımsız dış kaynaktan elde edilen kanıt, işletme içinden elde edilen kanıttan daha güvenilirdir.
+
+İki: Denetçinin doğrudan elde ettiği kanıt, dolaylı yoldan elde edilen kanıttan daha güvenilirdir. Mesela denetçinin bizzat izlediği sayım, işletmenin verdiği sayım listesinden daha güvenilirdir.
+
+Üç: Yazılı kanıt, sözlü kanıttan daha güvenilirdir.
+
+Dört: Asıl belge, fotokopi veya taranmış kopyadan daha güvenilirdir.
+
+Hafıza cümlesi: Dışarıdan, doğrudan, yazılı ve asıl olan daha güvenilir.
+
+Şimdi denetim teknikleri. Yedi teknik var.
+
+İnceleme: Kayıt ve belgelerin incelenmesi. Buna belge incelemesi de denir.
+Gözlem: Bir sürecin izlenmesi. Klasik örnek, denetçinin stok sayımına katılması.
+Dış teyit: Üçüncü kişilerden doğrudan yazılı cevap alınması. Mesela müşterilere alacak bakiyesinin teyit ettirilmesi, bankalara hesap bakiyesinin sorulması.
+Yeniden hesaplama: Tutarların doğruluğunun denetçi tarafından yeniden hesaplanması. Mesela amortisman hesabı.
+Yeniden uygulama: Bir kontrolün denetçi tarafından bağımsız olarak tekrar uygulanması.
+Analitik prosedürler: Oranlar ve eğilimler üzerinden beklenmeyen dalgalanmaların araştırılması.
+Sorgulama: İşletme içinden ve dışından bilgi istenmesi. Tek başına yeterli kanıt sağlamaz.
+
+Dış teyidin iki türü vardır. Olumlu teyitte karşı taraftan her durumda cevap istenir. Olumsuz teyitte ise sadece bakiyeye itiraz varsa cevap istenir. Olumlu teyit daha güvenilirdir.
+
+Şimdi iç kontrol. Uluslararası kabul gören COSO modeline göre iç kontrolün beş bileşeni vardır.
+
+Bir: Kontrol ortamı. Yönetimin dürüstlük ve etik değerlere bakışı, organizasyon yapısı. Buna yukarıdaki ton da denir.
+İki: Risk değerlendirmesi.
+Üç: Kontrol faaliyetleri. Onay, mutabakat, görevler ayrılığı gibi.
+Dört: Bilgi ve iletişim.
+Beş: İzleme.
+
+Hafıza cümlesi: Ortam, risk, faaliyet, bilgi, izleme.
+
+En önemli kontrol faaliyetlerinden biri görevler ayrılığıdır. Bir işlemi onaylayan, kaydeden ve varlığı elinde tutan kişiler farklı olmalıdır. Mesela kasayı tutan kişi, kasa kayıtlarını tutmamalıdır.
+
+Son olarak hile. Hata kasıtsızdır, hile ise kasıtlıdır. Hilenin iki türü vardır: Hileli finansal raporlama, yani tabloları bilerek yanlış gösterme. Ve varlıkların kötüye kullanılması, yani zimmet ve hırsızlık.
+
+Hile üçgeni denen bir model vardır. Hilenin üç koşulu: Baskı ya da motivasyon, fırsat ve haklı gösterme. Haklı gösterme, kişinin kendine bahane bulmasıdır. Mesela “Zaten az maaş alıyorum, bu benim hakkım” düşüncesi.
+
+Önemli bir ilke: Hileyi önleme ve ortaya çıkarma sorumluluğu öncelikle işletme yönetimine ve üst yönetimden sorumlu olanlara aittir. Denetçi ise finansal tabloların bütün olarak hile veya hatadan kaynaklanan önemli yanlışlık içermediğine dair makul güvence elde etmekten sorumludur. Makul güvence, mutlak güvence değildir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Aşağıdaki denetim kanıtlarından hangisi en güvenilirdir?
+A şıkkı: Muhasebe müdürünün sözlü açıklaması.
+B şıkkı: İşletmenin hazırladığı stok listesi.
+C şıkkı: Bankadan denetçiye doğrudan gönderilen yazılı bakiye teyidi.
+D şıkkı: Satış faturasının fotokopisi.
+E şıkkı: İşletmenin iç yazışmaları.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı. Banka teyidi hem bağımsız dış kaynaktan gelir, hem denetçiye doğrudan ulaşır, hem de yazılıdır. Güvenilirlik kurallarının üçünü birden karşılar.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Denetçinin işletmenin yıl sonu stok sayımına katılması hangi denetim tekniğidir?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Gözlem. Denetçi sayım sürecini bizzat izler.
+
+Dersin özeti.
+
+Bir. Önemlilik, kullanıcıların kararlarını etkileyebilecek büyüklüktür. Önemlilik ile denetim riski arasında ters ilişki vardır.
+
+İki. Kanıt yeterli, yani miktar olarak, ve uygun, yani ilgili ve güvenilir olmalıdır.
+
+Üç. Dış kaynaklı, doğrudan elde edilen, yazılı ve asıl kanıt daha güvenilirdir.
+
+Dört. COSO'nun beş bileşeni: kontrol ortamı, risk değerlendirmesi, kontrol faaliyetleri, bilgi ve iletişim, izleme.
+
+Beş. Hile üçgeni: baskı, fırsat ve haklı gösterme. Denetçi mutlak değil, makul güvence verir.

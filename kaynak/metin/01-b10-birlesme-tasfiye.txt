@@ -1,0 +1,84 @@
+BAŞLIK: Finansal Muhasebe 10. Şirketler muhasebesi: birleşme, tür değiştirme ve tasfiye
+
+Finansal Muhasebe onuncu bölüme hoş geldin. Bu bölümle Finansal Muhasebenin ilk turunu tamamlıyoruz. Konu, bir şirketin hayatındaki büyük olaylar: Birleşme, tür değiştirme ve tasfiye. Bu konular hem Hukuk, hem Vergi, hem de Muhasebe sorularında karşına çıkar.
+
+Önce birleşme. Türk Ticaret Kanununa göre birleşme iki şekilde olur.
+
+Devralma şeklinde birleşme: Bir şirket, diğerini devralır. Devralınan şirket sona erer, devralan şirket varlığını sürdürür. Bir benzetme: Büyük balık küçük balığı yutar.
+
+Yeni kuruluş şeklinde birleşme: İki ya da daha fazla şirket bir araya gelerek yeni bir şirket kurar. Birleşen şirketlerin hepsi sona erer.
+
+Her iki durumda da sona eren şirketin tüm varlık ve borçları, külli halefiyet ilkesiyle, yani bir bütün olarak devralan veya yeni kurulan şirkete geçer. Sona eren şirketin pay sahipleri, devralan şirketten pay alır.
+
+Vergi açısından, Kurumlar Vergisi Kanununda belirtilen şartlarla yapılan birleşmeler devir sayılır ve vergisiz yapılabilir. Temel şartlar şunlardır: Birleşen şirketlerin kanuni merkezlerinin Türkiye'de bulunması, sona eren şirketin bilanço değerlerinin devralan şirket tarafından aynen devralınması ve devir bilançosu ile kurumlar vergisi beyannamesinin birleşme tarihinden itibaren otuz gün içinde verilmesi. Devralan şirket, devralınan şirketin vergi borçlarını ödemeyi taahhüt eder.
+
+Hafıza cümlesi: Devralmada biri yaşar, yeni kuruluşta hepsi sona erer. Vergisiz birleşmede değerler aynen devralınır, beyan otuz gün içinde.
+
+Şimdi tür değiştirme. Bir şirketin hukuki türünün değişmesidir. Mesela limited şirketin anonim şirkete dönüşmesi. Tür değiştirmede şirketin tüzel kişiliği devam eder, sadece türü değişir. Malvarlığı da aynen devam eder. Vergi açısından, kurumlar vergisine tabi bir sermaye şirketinin başka bir sermaye şirketine dönüşmesi, şartları sağlanırsa devir hükümlerine tabidir.
+
+Şimdi tasfiye. Tasfiye, sona eren bir şirketin varlıklarının paraya çevrilmesi, borçlarının ödenmesi ve kalanın ortaklara dağıtılması sürecidir.
+
+Tasfiye süreci adım adım şöyle işler.
+
+Birinci adım: Genel kurul, şirketin feshine ve tasfiyesine karar verir ve tasfiye memurlarını seçer.
+
+İkinci adım: Fesih kararı ticaret siciline tescil ve ilan edilir. Şirket bu andan itibaren tasfiye halinde ibaresiyle birlikte ticaret unvanını kullanır.
+
+Üçüncü adım: Tasfiye memurları, tasfiyenin başlangıcındaki durumu gösteren tasfiye açılış bilançosunu çıkarır.
+
+Dördüncü adım: Alacaklılara çağrı yapılır. Bu çağrı Türkiye Ticaret Sicili Gazetesinde ve şirketin internet sitesinde yedişer gün arayla üç kez ilan edilir. Alacaklılar alacaklarını bildirmeye çağrılır.
+
+Beşinci adım: Varlıklar paraya çevrilir, borçlar ödenir.
+
+Altıncı adım: Kalan varlık, alacaklılara yapılan çağrının üçüncü ilanından itibaren bir yıl geçmedikçe pay sahiplerine dağıtılamaz.
+
+Yedinci adım: Tasfiye sona erince şirketin ticaret sicilinden kaydı silinir.
+
+Hafıza cümlesi: Karar, tescil, açılış bilançosu, üç ilan, paraya çevir, bir yıl bekle, sicilden sil.
+
+Vergi açısından tasfiye. Kurumlar Vergisi Kanununa göre tasfiyeye giren kurumlarda kazanç, tasfiye dönemi itibarıyla tespit edilir. Tasfiyenin başladığı tarihten o takvim yılı sonuna kadar olan süre bir tasfiye dönemidir ve sonraki her takvim yılı ayrı bir tasfiye dönemi sayılır. Her tasfiye dönemi için beyanname verilir ve tasfiye sonunda nihai tasfiye beyannamesi verilir.
+
+Tasfiye kârı nasıl hesaplanır? Basitçe, tasfiye sonunda ortaklara dağıtılabilecek tutar ile tasfiye başındaki özkaynak arasındaki farktır. Mesela tasfiye başında özkaynak beş yüz bin lira, varlıklar satılıp borçlar ödendikten sonra kalan tutar altı yüz bin lira ise tasfiye kârı yüz bin liradır.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Türk Ticaret Kanununa göre tasfiye halindeki bir anonim şirketin kalan varlığı, alacaklılara yapılan çağrının hangi tarihinden itibaren ne kadar süre geçmeden pay sahiplerine dağıtılamaz?
+A şıkkı: Birinci ilandan itibaren üç ay.
+B şıkkı: Üçüncü ilandan itibaren altı ay.
+C şıkkı: Üçüncü ilandan itibaren bir yıl.
+D şıkkı: Birinci ilandan itibaren bir yıl.
+E şıkkı: Fesih kararından itibaren iki yıl.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı. Üçüncü ilandan itibaren bir yıl geçmedikçe kalan varlık pay sahiplerine dağıtılamaz.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Devralma şeklinde birleşmede hangi şirket sona erer?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Devralınan şirket. Devralan şirket varlığını sürdürür ve devralınanın tüm varlık ve borçları ona geçer.
+
+Dersin özeti.
+
+Bir. Birleşme iki türlüdür: devralma şeklinde ve yeni kuruluş şeklinde.
+
+İki. Birleşmede varlık ve borçlar bir bütün olarak geçer. Vergisiz birleşmede değerler aynen devralınır, devir beyannamesi otuz gün içinde verilir.
+
+Üç. Tür değiştirmede tüzel kişilik devam eder.
+
+Dört. Tasfiyede alacaklılara yedişer gün arayla üç kez ilanla çağrı yapılır. Kalan varlık üçüncü ilandan itibaren bir yıl geçmeden dağıtılamaz.
+
+Beş. Vergide her takvim yılı ayrı bir tasfiye dönemidir. Tasfiye kârı, dağıtılabilir tutar ile tasfiye başındaki özkaynak arasındaki farktır.

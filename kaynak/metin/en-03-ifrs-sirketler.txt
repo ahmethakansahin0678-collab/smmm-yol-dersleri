@@ -1,0 +1,253 @@
+BAŞLIK: Mesleki İngilizce 3. IFRS ve şirketler hukuku terimleri
+
+Mesleki İngilizce üçüncü bölüme hoş geldin. Bugün uluslararası finansal raporlama standartlarının ve şirketler hukukunun İngilizce terimlerini çalışacağız. Düzen aynı: İngilizce terim, Türkçe anlamı, İngilizce örnek cümle ve cümlenin Türkçesi. Her terimi yüksek sesle tekrar et.
+
+Önce standartlar.
+
+EN: International Financial Reporting Standards.
+Uluslararası Finansal Raporlama Standartları. Kısaca IFRS. Türkiye'deki karşılığı TFRS.
+
+EN: International Accounting Standards.
+Uluslararası Muhasebe Standartları. Kısaca IAS. Türkiye'deki karşılığı TMS.
+
+EN: International Accounting Standards Board.
+Uluslararası Muhasebe Standartları Kurulu. Kısaca IASB. Standartları yayımlayan kurul.
+
+EN: Generally accepted accounting principles.
+Genel kabul görmüş muhasebe ilkeleri. Kısaca GAAP. Amerika'daki sisteme US GAAP denir.
+
+Şimdi ölçme ve muhasebeleştirme terimleri.
+
+EN: Recognition.
+Muhasebeleştirme, yani finansal tablolara alma.
+EN: An asset is recognized when it is probable that future economic benefits will flow to the entity.
+Bir varlık, gelecekte işletmeye ekonomik fayda sağlaması muhtemel olduğunda finansal tablolara alınır.
+
+EN: Derecognition.
+Finansal tablo dışı bırakma.
+
+EN: Measurement.
+Ölçüm.
+
+EN: Historical cost.
+Tarihi maliyet.
+
+EN: Fair value.
+Gerçeğe uygun değer.
+EN: Fair value is the price that would be received to sell an asset in an orderly transaction.
+Gerçeğe uygun değer, bir varlığın olağan bir işlemde satılması halinde elde edilecek fiyattır.
+
+EN: Carrying amount.
+Defter değeri. Book value da denir.
+
+EN: Net realizable value.
+Net gerçekleşebilir değer.
+
+EN: Impairment.
+Değer düşüklüğü.
+EN: The company recognized an impairment loss on its goodwill.
+Şirket şerefiyesi için değer düşüklüğü zararı kaydetti.
+
+EN: Recoverable amount.
+Geri kazanılabilir tutar.
+
+EN: Disclosure.
+Dipnotlarda açıklama.
+EN: The standard requires additional disclosures in the notes.
+Standart, dipnotlarda ek açıklamalar yapılmasını gerektirir.
+
+EN: Provision.
+Karşılık.
+EN: A provision is recognized for the expected warranty costs.
+Beklenen garanti giderleri için karşılık ayrılır.
+
+EN: Contingent liability.
+Koşullu borç.
+
+EN: Accrual basis.
+Tahakkuk esası.
+
+EN: Substance over form.
+Özün önceliği. Yani işlemin hukuki şeklinden çok ekonomik özüne bakılması.
+
+Şimdi grup muhasebesi terimleri. Bunlar soru bankandaki bağlı ortaklık sorusuyla doğrudan ilgili.
+
+EN: Parent company.
+Ana ortaklık.
+
+EN: Subsidiary.
+Bağlı ortaklık. Kontrol edilen şirket.
+
+EN: Associate.
+İştirak. Önemli etki altındaki şirket.
+
+EN: Joint venture.
+İş ortaklığı.
+
+EN: Consolidation.
+Konsolidasyon, yani grup şirketlerinin tablolarının birleştirilmesi.
+EN: Subsidiaries are fully consolidated.
+Bağlı ortaklıklar tam konsolidasyona tabi tutulur.
+
+EN: Equity method.
+Özkaynak yöntemi.
+EN: Associates and joint ventures are accounted for using the equity method.
+İştirakler ve iş ortaklıkları özkaynak yöntemiyle muhasebeleştirilir.
+
+EN: Non-controlling interest.
+Kontrol gücü olmayan paylar. Eskiden azınlık payı denirdi.
+
+Şimdi gelir ve kiralama.
+
+EN: Revenue from contracts with customers.
+Müşteri sözleşmelerinden hasılat. IFRS on beş standardı.
+
+EN: Performance obligation.
+Edim yükümlülüğü.
+EN: Revenue is recognized when a performance obligation is satisfied.
+Hasılat, edim yükümlülüğü yerine getirildiğinde kaydedilir.
+
+EN: Lease.
+Kiralama.
+
+EN: Right-of-use asset.
+Kullanım hakkı varlığı.
+EN: Under IFRS sixteen, the lessee recognizes a right-of-use asset and a lease liability.
+IFRS on altıya göre kiracı, bir kullanım hakkı varlığı ve bir kira yükümlülüğü kaydeder.
+
+EN: Lessee.
+Kiracı.
+
+EN: Lessor.
+Kiraya veren.
+
+Şimdi şirketler hukuku.
+
+EN: Joint stock company.
+Anonim şirket.
+
+EN: Limited liability company.
+Limited şirket.
+
+EN: General partnership.
+Kollektif şirket.
+
+EN: Limited partnership.
+Komandit şirket.
+
+EN: Cooperative.
+Kooperatif.
+
+EN: Articles of association.
+Esas sözleşme, yani şirket ana sözleşmesi.
+
+EN: Board of directors.
+Yönetim kurulu.
+
+EN: General assembly.
+Genel kurul. General meeting of shareholders da denir.
+EN: The general assembly approved the dividend distribution.
+Genel kurul kâr payı dağıtımını onayladı.
+
+EN: Shareholder.
+Pay sahibi, yani hissedar.
+
+EN: Dividend.
+Kâr payı.
+
+EN: Capital increase.
+Sermaye artırımı.
+
+EN: Registered capital system.
+Kayıtlı sermaye sistemi.
+
+EN: Trade registry.
+Ticaret sicili.
+
+EN: Merger.
+Birleşme.
+
+EN: Acquisition.
+Devralma, satın alma.
+
+EN: Liquidation.
+Tasfiye.
+
+EN: Bankruptcy.
+İflas.
+
+EN: Initial public offering.
+Halka arz. Kısaca I P O.
+
+EN: Prospectus.
+İzahname.
+EN: The prospectus must be approved by the Capital Markets Board.
+İzahname Sermaye Piyasası Kurulu tarafından onaylanmalıdır.
+
+EN: Capital Markets Board.
+Sermaye Piyasası Kurulu.
+
+EN: Insider trading.
+Bilginin kötüye kullanılması, yani içeriden bilgiyle işlem yapma.
+
+EN: Market manipulation.
+Piyasa dolandırıcılığı.
+
+Şimdi test. Türkçesini söylüyorum, sen İngilizcesini söyle.
+
+[[bip]]
+
+Gerçeğe uygun değer.
+
+[[5]]
+
+EN: Fair value.
+
+[[bip]]
+
+Bağlı ortaklık.
+
+[[5]]
+
+EN: Subsidiary.
+
+[[bip]]
+
+Değer düşüklüğü.
+
+[[5]]
+
+EN: Impairment.
+
+[[bip]]
+
+Esas sözleşme.
+
+[[5]]
+
+EN: Articles of association.
+
+[[bip]]
+
+İzahname.
+
+[[5]]
+
+EN: Prospectus.
+
+[[bip]]
+
+Özkaynak yöntemi.
+
+[[5]]
+
+EN: Equity method.
+
+Harika. Bugünkü özet:
+
+EN: Recognition, measurement, fair value, impairment, provision.
+EN: Parent, subsidiary, associate, joint venture, equity method.
+EN: Joint stock company, limited liability company, board of directors, general assembly.
+EN: Prospectus, insider trading, market manipulation.
+
+Bir sonraki İngilizce bölümünde finansal analiz terimlerine ve iş yazışmalarında kullanılan kalıp cümlelere geçeceğiz.

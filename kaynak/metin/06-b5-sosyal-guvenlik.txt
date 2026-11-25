@@ -1,0 +1,86 @@
+BAŞLIK: Hukuk 5. Sosyal güvenlik: sigortalılık türleri, sigorta kolları ve bildirimler
+
+Hukuk beşinci bölüme hoş geldin. Bugün beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununu işleyeceğiz. Bu kanun, bir mali müşavirin her ay bordro ve bildirgelerde uyguladığı kanundur.
+
+Önce sigortalılık türleri. Kanunun dördüncü maddesi sigortalıları üç gruba ayırır. Uygulamada bunlara maddenin bentlerine göre isim verilir.
+
+Dört a: Bir veya birden fazla işveren tarafından hizmet akdiyle çalıştırılanlar. Yani işçiler. Eski adıyla SSK'lılar.
+
+Dört b: Hizmet akdine bağlı olmaksızın, kendi adına ve hesabına bağımsız çalışanlar. Yani esnaf, tacir, serbest meslek erbabı ve şirket ortaklarının bir kısmı. Eski adıyla Bağ-Kur'lular.
+
+Dört c: Kamu idarelerinde kadro veya pozisyona bağlı olarak çalışanlar. Yani memurlar. Eski adıyla Emekli Sandığı mensupları.
+
+Hafıza cümlesi: A işçi, B kendi işinin sahibi, C memur.
+
+Şimdi sigorta kolları. İki gruba ayrılır.
+
+Kısa vadeli sigorta kolları: İş kazası ve meslek hastalığı sigortası, hastalık sigortası ve analık sigortası.
+
+Uzun vadeli sigorta kolları: Malullük, yaşlılık ve ölüm sigortaları.
+
+Bunlara ek olarak genel sağlık sigortası vardır.
+
+Hafıza cümlesi: Kısa vadede kaza, hastalık, analık. Uzun vadede malullük, yaşlılık, ölüm.
+
+Şimdi iş kazası. İş kazası, sigortalının işyerinde bulunduğu sırada, işveren tarafından yürütülen iş nedeniyle, işverenin görevlendirmesiyle işyeri dışında bulunduğu sırada, emzirme izninde veya işverence sağlanan bir taşıtla işe gidiş gelişte meydana gelen ve sigortalıyı bedenen veya ruhen engelli hale getiren olaydır.
+
+Dikkat: Kendi aracıyla işe gidip gelirken yaşanan kaza, kural olarak iş kazası sayılmaz. İşverenin sağladığı servis aracıyla yaşanan kaza ise iş kazasıdır. Bu ayrım sınavda sık sorulur.
+
+İşveren, iş kazasını, kazadan sonraki üç iş günü içinde Sosyal Güvenlik Kurumuna bildirmek zorundadır.
+
+Şimdi işe giriş bildirgesi. İşveren, çalıştıracağı kişiyi, çalışmaya başlatmadan önce Sosyal Güvenlik Kurumuna bildirmek zorundadır. Yani sigortalı işe başlamadan bir gün önce, en geç işe başlama anına kadar bildirim yapılmalıdır. İnşaat, balıkçılık ve tarım gibi bazı sektörlerde, en geç çalışmaya başlatıldığı gün bildirim yapılabilir.
+
+Hafıza cümlesi: Önce bildir, sonra çalıştır.
+
+Bildirimi yapılmadan işçi çalıştırmak, yani kayıt dışı çalıştırma, idari para cezasına yol açar.
+
+Şimdi prime esas kazanç. Sigorta primleri, sigortalının prime esas kazancı üzerinden hesaplanır. Prime esas kazancın bir alt sınırı ve bir üst sınırı vardır. Alt sınır asgari ücrettir. Yani kimse asgari ücretin altında bir kazanç üzerinden sigortalı gösterilemez. Üst sınır ise asgari ücretin belirli bir katıdır ve kanunla belirlenir.
+
+Prim oranları, sigortalı hissesi ve işveren hissesi olarak ayrı ayrı belirlenir. Ayrıca işsizlik sigortası primi de ayrıca kesilir. Güncel oranları sınavdan önce kontrol et.
+
+Şimdi bildirim. İşverenler, sigortalıların prim ve hizmet bilgilerini, vergi kesintileriyle birlikte, muhtasar ve prim hizmet beyannamesiyle bildirir. Bu beyanname, ilgili ayı izleyen ayın yirmi altıncı günü sonuna kadar verilir.
+
+Bir de dört b sigortalıları için kısa bir not: Bu kişiler primlerini kendileri öder. Şirket ortaklarından limited şirket ortakları ve anonim şirketlerin yönetim kurulu üyesi olan ortakları, kural olarak dört b kapsamında sigortalıdır.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Aşağıdakilerden hangisi beş bin beş yüz on sayılı Kanuna göre kısa vadeli sigorta kollarından biri değildir?
+A şıkkı: İş kazası ve meslek hastalığı sigortası.
+B şıkkı: Hastalık sigortası.
+C şıkkı: Analık sigortası.
+D şıkkı: Yaşlılık sigortası.
+E şıkkı: Hepsi kısa vadelidir.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap D şıkkı, yaşlılık sigortası. Yaşlılık, malullük ve ölüm ile birlikte uzun vadeli sigorta kollarındandır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bir işçi, işverenin sağladığı servis aracıyla işe giderken kaza geçiriyor. Bu olay iş kazası sayılır mı ve işveren kaç gün içinde bildirmelidir?
+
+[[8]]
+
+[[bip]]
+
+Cevap: Evet, iş kazası sayılır, çünkü işverence sağlanan taşıtla işe gidiş sırasında olmuştur. İşveren, kazadan sonraki üç iş günü içinde Sosyal Güvenlik Kurumuna bildirmelidir.
+
+Dersin özeti.
+
+Bir. Dört a hizmet akdiyle çalışanlar, dört b kendi adına bağımsız çalışanlar, dört c kamu görevlileridir.
+
+İki. Kısa vadeli sigorta kolları: iş kazası ve meslek hastalığı, hastalık, analık. Uzun vadeli: malullük, yaşlılık, ölüm.
+
+Üç. İşverenin sağladığı taşıtla işe gidiş gelişte olan kaza iş kazasıdır. İş kazası üç iş günü içinde bildirilir.
+
+Dört. İşe giriş bildirgesi, çalışmaya başlamadan önce verilir.
+
+Beş. Prime esas kazancın alt sınırı asgari ücrettir. Muhtasar ve prim hizmet beyannamesi izleyen ayın yirmi altısına kadar verilir.

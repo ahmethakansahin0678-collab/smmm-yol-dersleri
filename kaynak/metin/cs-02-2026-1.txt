@@ -1,0 +1,205 @@
+BAŞLIK: Çıkmış Sorular 2026-1. Finansal Tablolar ve Analizi
+
+İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Finansal Tablolar ve Analizi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+
+[[bip]]
+Soru bir. iki bin yirmi beş yılının net işletme sermayesi kaç liradır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: -yüz bin.
+
+[[1]]
+
+[[bip]]
+Soru iki. iki bin yirmi beş yılının cari oranı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: sıfır virgül dokuz.
+
+[[1]]
+
+[[bip]]
+Soru üç. iki bin yirmi beş yılının likidite oranı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: sıfır virgül dört.
+
+[[1]]
+
+[[bip]]
+Soru dört. iki bin yirmi beş yılının ortalama stok devir süresi kaç gündür?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: kırk gün.
+
+[[1]]
+
+[[bip]]
+Soru beş. iki bin yirmi beş yılının ortalama ticari alacak tahsilat süresi kaç gündür?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: otuz iki.
+
+[[1]]
+
+[[bip]]
+Soru altı. iki bin yirmi beş yılının ortalama ticari borç ödeme süresi kaç gündür?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: kırk.
+
+[[1]]
+
+[[bip]]
+Soru yedi. iki bin yirmi beş yılında satışların kârlılığı oranı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yüzde yirmi.
+
+[[1]]
+
+[[bip]]
+Soru sekiz. iki bin yirmi üç yılında faaliyet kârlılığı oranı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yüzde altı.
+
+[[1]]
+
+[[bip]]
+Soru dokuz. iki bin yirmi dört yılında varlıkların kârlılığı oranı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yüzde iki virgül yirmi dokuz.
+
+[[1]]
+
+[[bip]]
+Soru on. Dikey yüzde analizi yöntemine göre iki bin yirmi üç yılında brüt satışların dikey yüzdesi kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yüzde yüz bir virgül altı.
+
+[[1]]
+
+[[bip]]
+Soru on bir. Dikey yüzde analiz yöntemine göre kısa vadeli mali borçların iki bin yirmi dört yılında toplam kaynak içindeki dikey yüzde payı kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yüzde yirmi beş virgül doksan dört.
+
+[[1]]
+
+[[bip]]
+Soru on iki. Eğilim yüzdeleri (Trend) analizi yöntemine göre iki bin yirmi beş yılında dönen varlıkların eğilim yüzdesi kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yüzde yüz elli.
+
+[[1]]
+
+[[bip]]
+Soru on üç. Eğilim yüzdeleri (Trend) analizi yöntemine göre iki bin yirmi beş yılında net satışların eğilim yüzdesi kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yüzde yüz seksen.
+
+[[1]]
+
+[[bip]]
+Soru on dört. iki bin yirmi beş yılında satışlardan sağlanan nakit girişi tutarı kaç liradır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: dört milyon beş yüz kırk bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on beş. Karşılaştırmalı tablolar analizi yöntemine göre hazır değerlerin iki bin yirmi üç ve iki bin yirmi dört yılları arasındaki değişim yüzdesinin alacağı değer aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yüzde elli.
+
+[[1]]
+
+[[bip]]
+Soru on altı. Bir firmanın aşağıdaki iki bin yirmi dört ve iki bin yirmi beş yılı verileri gerçek rakamlardır ve iki bin yirmi altı yılı verileri de öngörü rakamlarıdır. Gerçek Gerçek Öngörü iki bin yirmi dört iki bin yirmi beş iki bin yirmi altı Net Satışlar dört yüz bin beş yüz bin altı yüz bin Ticari Alacaklar seksen bin yüz yirmi bin Firmanın Ortalama Alacaklar iki bin yirmi altı yılında ortalama tahsilat yüz bin süresinin altmış gün Alacak olması Devir Hızı hedeflenmektedir. Bu hedefin beş yakalanması altı için Alacak iki bin yirmi altı Tahsil yılı Süresi sonunu kaç lira ticari alacak yetmiş iki ile kapatması altmış gerekir? (Devir hızlarında ilgili formüllerde ortalama değeri kullanınız ve bir yılı üç yüz altmış gün olarak kabul ediniz).
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: seksen bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on yedi. Bir firmanın izleyen dönem sonu itibariyle dönen varlıklarının yüz elli bin lira, kısa vadeli yabancı kaynaklarının yüz bin lira, cari oranının bir virgül beş ve likidite oranının sıfır virgül altı olması hedeflenmektedir. Likidite oranı hedefine ulaşmak için dönem sonu stok tutarı kaç lira olmalıdır?
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: doksan bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on sekiz. Firmanın iki bin yirmi bir ve iki bin yirmi beş yılları arasında net satışlar ve satışların maliyet grafiği aşağıda gösterilmektedir. Bu grafik üzerinde aşağıda yapılan yorumlardan hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Yıllar itibariyle firmanın brüt satış kârı azalma eğilimindedir.
+
+[[1]]
+
+[[bip]]
+Soru on dokuz. te me se bir Finansal Tabloların Sunuluşuna göre, tam bir finansal tablolar setinde aşağıdaki tablolardan hangisi yer almaz?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap, yani yanlış olan ifade: Döneme ait üretim maliyeti tablosu.
+
+[[1]]
+
+[[bip]]
+Soru yirmi. İşletmenin ortaklarıyla gerçekleştirdiği ve ortakların ortaklık sıfatıyla taraf oldukları işlemlerden kaynaklanan değişimler hariç olmak üzere, bir dönem boyunca işlem ve diğer olaylar sonucunda öz kaynakta meydana gelen değişimdir. te me se bir Finansal Tabloların Sunuluşuna göre bu ifade aşağıdakilerden hangisini açıklar?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Toplam kapsamlı gelir.
+
+[[1]]
+
+Finansal Tablolar ve Analizi çıkmış soruları bitti. Takıldığın soruların konusunu, ilgili ders bölümünden tekrar dinle.

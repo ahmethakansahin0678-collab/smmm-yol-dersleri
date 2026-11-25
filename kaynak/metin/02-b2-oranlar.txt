@@ -1,0 +1,112 @@
+BAŞLIK: Finansal Tablolar ve Analizi 2. Mali yapı, faaliyet ve kârlılık oranları
+
+Finansal Tablolar ikinci bölüme hoş geldin. İlk bölümde likidite oranlarını gördük. Bugün diğer üç oran grubunu işleyeceğiz: Mali yapı oranları, faaliyet oranları ve kârlılık oranları. Sonunda da sınavın sevdiği DuPont analizini göreceğiz.
+
+Önce mali yapı oranları. Bu oranlar işletmenin uzun vadeli dayanıklılığını, yani borç yükünü ölçer.
+
+Birincisi yabancı kaynakların aktif toplamına oranı. Buna kaldıraç oranı da denir. Formül: Toplam yabancı kaynaklar bölü aktif toplamı. Genel kabul gören ölçü yaklaşık yüzde ellidir. Yüzde ellinin çok üzerindeyse işletme borçla dönüyor demektir.
+
+İkincisi özkaynakların aktif toplamına oranı. Bu, kaldıraç oranının tamamlayıcısıdır. İkisinin toplamı her zaman yüzde yüzdür.
+
+Üçüncüsü özkaynakların yabancı kaynaklara oranı. Genel ölçü birdir. Yani özkaynak en az borç kadar olmalıdır.
+
+Dördüncüsü duran varlıkların özkaynaklara oranı. Genel ölçü birin altıdır. Yani duran varlıklar mümkünse özkaynakla finanse edilmelidir.
+
+Beşincisi faiz karşılama oranı. Formül: Faiz ve vergi öncesi kâr bölü faiz giderleri. İşletmenin faiz ödeme gücünü gösterir.
+
+Şimdi faaliyet oranları. Bunlar varlıkların ne kadar etkin kullanıldığını ölçer. Bunlara devir hızı oranları da denir.
+
+Stok devir hızı: Satışların maliyeti bölü ortalama stok. Ortalama stok, dönem başı stok artı dönem sonu stok bölü ikidir.
+
+Stokta kalma süresi: Bir yıllık gün sayısı bölü stok devir hızı. Sınavlarda bazen üç yüz altmış beş, bazen üç yüz altmış gün kullanılır, soru hangisini istediğini söyler.
+
+Alacak devir hızı: Net kredili satışlar bölü ortalama ticari alacaklar. Kredili satış bilgisi verilmemişse net satışlar kullanılır.
+
+Alacak tahsil süresi: Gün sayısı bölü alacak devir hızı.
+
+Aktif devir hızı: Net satışlar bölü aktif toplamı.
+
+Dikkat: Stok devir hızında payda satışların maliyeti, alacak devir hızında ise net satışlardır. Çünkü stoklar maliyet değeriyle, alacaklar satış değeriyle tutulur. Bu fark sınavda tuzak olarak kullanılır.
+
+Örnek. Bir işletmenin net satışları bir milyon lira, satışların maliyeti altı yüz bin lira. Dönem başı stok yüz bin, dönem sonu stok iki yüz bin lira.
+
+Ortalama stok: Yüz bin artı iki yüz bin, üç yüz bin. Bölü iki, yüz elli bin.
+
+Stok devir hızı: Altı yüz bin bölü yüz elli bin, dört.
+
+Stokta kalma süresi, üç yüz altmış gün kullanırsak: Üç yüz altmış bölü dört, doksan gün. Yani stoklar ortalama doksan günde bir yenileniyor.
+
+Şimdi kârlılık oranları.
+
+Brüt kâr marjı: Brüt satış kârı bölü net satışlar.
+
+Net kâr marjı: Net kâr bölü net satışlar.
+
+Aktif kârlılığı: Net kâr bölü aktif toplamı. İngilizce kısaltmasıyla ROA.
+
+Özkaynak kârlılığı: Net kâr bölü özkaynaklar. İngilizce kısaltmasıyla ROE.
+
+Şimdi DuPont analizi. DuPont, aktif kârlılığını iki parçaya ayırır.
+
+Aktif kârlılığı eşittir net kâr marjı çarpı aktif devir hızı.
+
+Bunu bir benzetmeyle düşün. Bir manav iki şekilde zengin olabilir: Ya her kilodan çok kazanır, bu kâr marjıdır. Ya da az kazanır ama çok satar, bu devir hızıdır. DuPont, kârlılığın hangi yoldan geldiğini gösterir.
+
+Genişletilmiş DuPont ise özkaynak kârlılığını üçe ayırır: Net kâr marjı çarpı aktif devir hızı çarpı özkaynak çarpanı. Özkaynak çarpanı, aktif toplamı bölü özkaynaklardır ve borç kullanımını gösterir.
+
+Örnek. Net satışlar bir milyon, net kâr yüz bin, aktif toplamı beş yüz bin, özkaynaklar iki yüz elli bin lira.
+
+Net kâr marjı: Yüz bin bölü bir milyon, yüzde on.
+
+Aktif devir hızı: Bir milyon bölü beş yüz bin, iki.
+
+Aktif kârlılığı: Yüzde on çarpı iki, yüzde yirmi. Sağlama: Yüz bin bölü beş yüz bin, yüzde yirmi. Tutuyor.
+
+Özkaynak çarpanı: Beş yüz bin bölü iki yüz elli bin, iki.
+
+Özkaynak kârlılığı: Yüzde yirmi çarpı iki, yüzde kırk. Sağlama: Yüz bin bölü iki yüz elli bin, yüzde kırk.
+
+Görüldüğü gibi borç kullanımı, yani kaldıraç, özkaynak kârlılığını büyütür. Ama aynı zamanda riski de artırır.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Bir işletmenin net kâr marjı yüzde sekiz, aktif devir hızı iki buçuktur. DuPont analizine göre aktif kârlılığı yüzde kaçtır?
+A şıkkı: Yüzde on.
+B şıkkı: Yüzde yirmi.
+C şıkkı: Yüzde on altı.
+D şıkkı: Yüzde iki virgül beş.
+E şıkkı: Yüzde otuz iki.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, yüzde yirmi. Net kâr marjı yüzde sekiz çarpı aktif devir hızı iki buçuk, yüzde yirmi eder.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Satışların maliyeti dört yüz seksen bin lira, ortalama stok yüz yirmi bin liradır. Bir yıl üç yüz altmış gün kabul edilirse stokta kalma süresi kaç gündür?
+
+[[8]]
+
+[[bip]]
+
+Cevap: Doksan gün. Stok devir hızı dört yüz seksen bin bölü yüz yirmi bin, dört. Üç yüz altmış bölü dört, doksan gün.
+
+Dersin özeti.
+
+Bir. Kaldıraç oranı eşittir yabancı kaynaklar bölü aktif toplamı. Genel ölçü yaklaşık yüzde elli.
+
+İki. Stok devir hızı eşittir satışların maliyeti bölü ortalama stok. Alacak devir hızında ise pay net satışlardır.
+
+Üç. Kalma ve tahsil süreleri, gün sayısının devir hızına bölünmesiyle bulunur.
+
+Dört. Aktif kârlılığı eşittir net kâr marjı çarpı aktif devir hızı.
+
+Beş. Özkaynak kârlılığı eşittir aktif kârlılığı çarpı özkaynak çarpanı. Özkaynak çarpanı, aktif toplamı bölü özkaynaklardır.

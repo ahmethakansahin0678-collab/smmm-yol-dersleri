@@ -1,0 +1,88 @@
+BAŞLIK: Ders 8. Sermaye Piyasası Mevzuatı: Kurumlar, halka açık ortaklık ve kamuyu aydınlatma
+
+Sermaye Piyasası Mevzuatı dersine hoş geldin. Bu dersin temeli altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanunudur. Bu kanun iki bin on iki yılında yürürlüğe girdi. Bu bölümde sermaye piyasasının kurumlarını, halka açık ortaklık kavramını, sermaye piyasası araçlarını, kayıtlı sermaye sistemini ve kamuyu aydınlatma yükümlülüğünü öğreneceğiz.
+
+Önce sermaye piyasası nedir? Para piyasası kısa vadeli, yani bir yıla kadar fonların el değiştirdiği piyasadır. Sermaye piyasası ise orta ve uzun vadeli fonların el değiştirdiği piyasadır. Şirketler burada pay veya borçlanma aracı satarak kaynak bulur, yatırımcılar da birikimlerini değerlendirir.
+
+Şimdi kurumlara geçelim. Her kurumu bir görevle eşleştir.
+
+Sermaye Piyasası Kurulu. Kısaca Kurul diyoruz. Piyasanın düzenleyicisi ve denetleyicisidir. Kamu tüzel kişiliğine sahip, idari ve mali özerkliği olan bir kurumdur. Görevi, piyasanın güvenilir, şeffaf, etkin ve istikrarlı çalışmasını sağlamak ve yatırımcıları korumaktır.
+
+Borsa İstanbul. İşlemlerin yapıldığı yer, yani pazar yeridir.
+
+Merkezi Kayıt Kuruluşu. Sermaye piyasası araçlarının kaydını elektronik ortamda tutar. Yani kimin elinde hangi paydan ne kadar olduğunun kaydı buradadır.
+
+Takasbank. İşlemlerin takas ve saklamasını yapar. Yani alıcıya payını, satıcıya parasını ulaştırır.
+
+Yatırımcı Tazmin Merkezi. Bir aracı kurum ödeme güçlüğüne düşerse, yatırımcıların belirli bir tutara kadar zararını karşılar.
+
+Hafıza cümlesi: Kurul düzenler, Borsa alıp satar, Kayıt Kuruluşu kaydeder, Takasbank teslim eder, Tazmin Merkezi korur.
+
+Şimdi en önemli kavram: Halka açık ortaklık. Kanuna göre halka açık ortaklık, payları halka arz edilmiş veya halka arz edilmiş sayılan ortaklıklardır.
+
+Burada iki yol var. Birincisi, şirket paylarını gerçekten halka arz eder. İkincisi ise halka arz edilmiş sayılmadır. Kanuna göre pay sahibi sayısı beş yüzü aşan anonim ortaklıklar, payları halka arz edilmiş sayılır ve halka açık ortaklık hükümlerine tabi olur.
+
+Bunu mutlaka ezberle: Beş yüzü aşan pay sahibi, halka arz edilmiş sayılır.
+
+Şimdi sermaye piyasası araçları. Kanun, sermaye piyasası aracı kavramını kullanır. Bunlar iki ana gruptur: Menkul kıymetler ve türev araçlar. Ayrıca yatırım sözleşmeleri ve Kurulca belirlenen diğer araçlar da sermaye piyasası aracıdır.
+
+Menkul kıymetler içinde paylar, yani hisse senetleri, ve borçlanma araçları, yani tahvil ve finansman bonoları gibi araçlar bulunur. Soru bankandaki menkul kıymet sorusunun cevabı bu açıdan doğrudur, ancak kanunun asıl kavramının sermaye piyasası aracı olduğunu unutma.
+
+Halka arzda izahname hazırlanır. İzahname, yatırımcıların karar vermesi için şirket ve sunulan araç hakkında gerekli bilgileri içeren belgedir ve Kurulca onaylanması gerekir. Halka arz edilmeksizin yapılan satışlarda ise izahname yerine ihraç belgesi kullanılır.
+
+Şimdi kayıtlı sermaye sistemi. Normalde bir anonim şirketin sermayesini artırması için genel kurul kararı ve esas sözleşme değişikliği gerekir. Kayıtlı sermaye sisteminde ise esas sözleşmede bir tavan belirlenir. Yönetim kurulu, bu tavana kadar, genel kurula gitmeden sermaye artırımı yapabilir. Bu yetki en fazla beş yıl için verilebilir. Bir benzetme: Kredi kartı limiti gibidir. Limit içinde harcamak için her seferinde bankaya sormana gerek yoktur.
+
+Şimdi kamuyu aydınlatma. Halka açık ortaklıklar, yatırımcıların kararlarını etkileyebilecek bilgileri kamuya açıklamak zorundadır. Bu açıklamalar Kamuyu Aydınlatma Platformu üzerinden yapılır. Kısaca kap diyoruz.
+
+Finansal raporlama tarafında, halka açık ortaklıklar yıllık finansal raporlarının yanında üçer aylık ara dönem raporları da yayımlar. Yani üç aylık, altı aylık, dokuz aylık ve yıllık olmak üzere yılda dört rapor. Yıllık raporlar bağımsız denetimden, altı aylık raporlar ise sınırlı bağımsız denetimden geçer.
+
+Son olarak piyasa suçları. Kanun, sermaye piyasasının güvenini sarsan fiilleri suç olarak düzenler. En önemli iki suç şunlardır.
+
+Bilginin kötüye kullanılması. Buna içerden öğrenenlerin ticareti de denir. Henüz kamuya açıklanmamış, fiyatı etkileyebilecek bir bilgiyi kullanarak menfaat sağlamaktır.
+
+Piyasa dolandırıcılığı. İşlem bazlı ve bilgi bazlı olmak üzere ikiye ayrılır. Fiyatları yapay olarak etkilemek ya da yanlış ve yanıltıcı bilgi yaymak bu suçu oluşturur.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Sermaye Piyasası Kanununa göre, pay sahibi sayısı kaçı aşan anonim ortaklıkların payları halka arz edilmiş sayılır?
+A şıkkı: Yüz.
+B şıkkı: İki yüz elli.
+C şıkkı: Beş yüz.
+D şıkkı: Bin.
+E şıkkı: Beş bin.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, beş yüz. Pay sahibi sayısı beş yüzü aşan anonim ortaklıklar, payları halka arz edilmiş sayılır ve halka açık ortaklık hükümlerine tabi olur.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Sermaye piyasası araçlarının kaydını elektronik ortamda tutan kuruluş hangisidir?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Merkezi Kayıt Kuruluşu. Takasbank ile karıştırma. Takasbank takas ve saklama yapar, Merkezi Kayıt Kuruluşu ise kaydı tutar.
+
+Dersin özeti.
+
+Bir. Sermaye Piyasası Kanunu altı bin üç yüz altmış iki sayılıdır ve iki bin on iki yılında yürürlüğe girmiştir.
+
+İki. Kurul düzenler ve denetler. Borsa İstanbul işlem yeridir. Merkezi Kayıt Kuruluşu kayıt tutar. Takasbank takas yapar. Yatırımcı Tazmin Merkezi yatırımcıyı korur.
+
+Üç. Pay sahibi sayısı beş yüzü aşan anonim ortaklıklar halka arz edilmiş sayılır.
+
+Dört. Kayıtlı sermaye sisteminde yönetim kurulu tavana kadar sermaye artırabilir. Tavan izni en fazla beş yıllıktır.
+
+Beş. Halka açık ortaklıklar yılda dört finansal rapor yayımlar ve açıklamalarını Kamuyu Aydınlatma Platformu üzerinden yapar.
+
+Böylece başlangıç paketindeki sekiz dersin tamamını bitirdin. Tebrikler. Akşam dönüş yolunda, sabah dinlediğin derslerin özet kısımlarını tekrar dinlemeyi unutma. Yarın senin soru bankandaki soruların düzeltilmiş ve açıklamalı halleriyle devam edeceğiz. İyi yolculuklar.

@@ -1,0 +1,31 @@
+BAŞLIK: Başlarken: Bu program nasıl çalışır
+
+Merhaba. Serbest Muhasebeci Mali Müşavirlik yeterlilik sınavı için hazırlanan sesli çalışma programına hoş geldin.
+
+Önce en önemli kural: Sen şu an araç kullanıyorsun. Yolun ve trafiğin her zaman önceliği var. Bir bölümü kaçırırsan sorun değil. Bu kayıtlar tekrar dinlenmek için hazırlandı. Telefonuna dokunman gerekmeyecek. Her ders baştan sona kendi kendine akar ve bitince bir sonraki ders otomatik başlar.
+
+Şimdi programın mantığını anlatayım.
+
+Sınavda sekiz ders var. Birincisi Finansal Muhasebe. İkincisi Finansal Tablolar ve Analizi. Üçüncüsü Maliyet Muhasebesi. Dördüncüsü Muhasebe Denetimi. Beşincisi Vergi Mevzuatı ve Uygulaması. Altıncısı Hukuk. Yedincisi Meslek Hukuku. Sekizincisi Sermaye Piyasası Mevzuatı.
+
+Günde iki saatin var. Bir saat gidiş, bir saat dönüş. Bu iki saati farklı işler için kullanacağız.
+
+Sabah, gidiş yolunda, zihnin daha taze. Bu yüzden sabahları yeni konu dinleyeceksin. Akşam, dönüş yolunda ise aynı konuların tekrarını dinleyeceksin. Araştırmalar bir konuyu aynı gün içinde ikinci kez duymanın, hatırlamayı belirgin şekilde güçlendirdiğini gösteriyor. Yani sabah öğrenir, akşam pekiştirirsin.
+
+Her ders aynı düzende ilerler. Önce konunun ne olduğunu ve sınavda neden önemli olduğunu söylerim. Sonra konuyu günlük hayattan benzetmelerle anlatırım. Ardından sayılarla bir örnek çözeriz. Sayıları özellikle küçük ve yuvarlak seçtim ki kafadan takip edebilesin. Sonra sınav tarzında bir soru sorarım.
+
+Soru sorulduğunda bir zil sesi duyacaksın.
+
+[[bip]]
+
+İşte böyle. Zilden sonra birkaç saniye sessizlik olacak. O sessizlikte cevabı kendi kendine, istersen yüksek sesle söyle. Yüksek sesle söylemek akılda kalıcılığı artırır. Sonra ikinci bir zil çalar ve cevabı açıklarım.
+
+Her dersin sonunda bir özet var. Özetteki cümleler sınavda en sık karşına çıkacak bilgiler. Akşam dönüşte özellikle özet kısımlarına dikkat et.
+
+Bir de programın düzeninden bahsedeyim. Uygulamada günler sırayla ilerler: Gün bir, gün iki, gün üç ve devamı. Her günün bir sabah listesi, bir de akşam listesi var. Bir günü bitirince uygulama seni kendiliğinden bir sonraki güne geçirir. Bir gün yola çıkmazsan sorun değil, ertesi gün kaldığın yerden devam edersin. Konular dersler arasında dönüşümlü gelir, ama Finansal Muhasebe ve Vergi en çok yer kaplar. Çünkü bu iki ders hem en geniş konu alanına sahip hem de diğer derslerin temeli. Programın sonunda karışık denemeler ve bir hızlı tekrar listesi var. Sınava yakın günlerde onları dinle.
+
+Bir uyarı daha: Vergi oranları, sermaye tutarları ve bazı sınırlar her yıl değişebilir. Ben bu kayıtlarda iki bin yirmi altı yılı itibarıyla bildiğim değerleri kullandım. Sınava girmeden önce güncel tutarları Türmob duyurularından ve resmi gazeteden mutlaka kontrol et.
+
+İlk gün, sekiz dersin her birinden birer giriş bölümü dinleyeceksin: sabah ilk dört ders, akşam son dört ders ve ilk İngilizce bölüm. Giriş bölümleri kısadır, yolun kalan kısmında istersen bir bölümü tekrar dinle ya da yarına geç.
+
+Hazırsan başlayalım. İlk dersimiz, sınavın omurgası olan Finansal Muhasebe.

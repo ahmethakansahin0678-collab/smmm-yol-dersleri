@@ -1,0 +1,88 @@
+BAŞLIK: Muhasebe Denetimi 4. Senaryo seti: hangi görüş, hangi tehdit, hangi teknik
+
+Muhasebe Denetimi senaryo setine hoş geldin. Denetim soruları çoğunlukla bir olay anlatır ve senden doğru kavramı seçmeni ister. Bu bölümde on iki kısa senaryo dinleyeceksin. Her senaryodan sonra zil ve düşünme süresi var.
+
+Önce dört görüş senaryosu. Soru: Hangi görüş verilir?
+
+[[bip]]
+Senaryo bir. Finansal tablolar tüm önemli yönleriyle doğru. Denetçi hiçbir önemli yanlışlık bulmadı.
+[[5]]
+Olumlu görüş.
+
+[[bip]]
+Senaryo iki. Ticari alacaklarda önemli bir yanlışlık var. Ama bu yanlışlık diğer kalemleri etkilemiyor.
+[[5]]
+Şartlı görüş. Önemli ama yaygın değil.
+
+[[bip]]
+Senaryo üç. Şirket, standartlara aykırı olarak birçok kalemi yanlış ölçmüş. Tablolar bir bütün olarak yanıltıcı.
+[[5]]
+Olumsuz görüş. Önemli ve yaygın.
+
+[[bip]]
+Senaryo dört. Şirket yönetimi denetçinin kayıtlara ve belgelere erişimini büyük ölçüde engelledi. Denetçi yeterli kanıt toplayamadı ve etkisi yaygın olabilir.
+[[5]]
+Görüş bildirmekten kaçınma.
+
+Şimdi dört bağımsızlık senaryosu. Soru: Hangi tehdit?
+
+[[bip]]
+Senaryo beş. Denetçinin eşi, denetlenen şirketin hisselerinden önemli miktarda alıyor.
+[[5]]
+Kişisel çıkar tehdidi.
+
+[[bip]]
+Senaryo altı. Denetçi, geçen yıl bu şirketin defterlerini tutmuştu, bu yıl aynı şirketi denetliyor.
+[[5]]
+Kendi kendini denetleme tehdidi.
+
+[[bip]]
+Senaryo yedi. Şirketin genel müdürü, denetçiye, şartlı görüş verirse bir sonraki yıl sözleşmeyi yenilemeyeceğini söylüyor.
+[[5]]
+Yıldırma tehdidi.
+
+[[bip]]
+Senaryo sekiz. Denetçi on beş yıldır aynı şirketi denetliyor ve muhasebe müdürüyle aile dostu olmuşlar.
+[[5]]
+Yakınlık tehdidi.
+
+Şimdi dört teknik senaryosu. Soru: Hangi denetim tekniği?
+
+[[bip]]
+Senaryo dokuz. Denetçi, müşterilere bakiye mektubu gönderip alacak tutarını doğrudan kendisine teyit etmelerini istiyor.
+[[5]]
+Dış teyit.
+
+[[bip]]
+Senaryo on. Denetçi, yıl sonu stok sayımında depoda bulunup sayımı izliyor.
+[[5]]
+Gözlem.
+
+[[bip]]
+Senaryo on bir. Denetçi, şirketin hesapladığı amortisman tutarlarını kendisi tekrar hesaplıyor.
+[[5]]
+Yeniden hesaplama.
+
+[[bip]]
+Senaryo on iki. Denetçi, bu yılki brüt kâr marjını geçmiş yıllarla karşılaştırıyor ve beklenmeyen bir düşüşü araştırıyor.
+[[5]]
+Analitik prosedür.
+
+Bonus soru.
+
+[[bip]]
+Finansal tablolarda doğru şekilde açıklanmış büyük bir dava var. Denetçi okuyucunun dikkatini bu konuya çekmek istiyor ama görüşünü değiştirmiyor. Raporuna ne ekler?
+[[6]]
+Dikkat çekilen hususlar paragrafı. Görüş olumlu kalır.
+
+Set bitti.
+
+Dersin özeti.
+
+Bir. Sorun yok olumlu, sınırlı sorun şartlı, yaygın sorun olumsuz, kanıt yok ve yaygın kaçınma.
+
+İki. Hisse kişisel çıkar, kendi işini denetleme kendi kendini denetleme, tehdit yıldırma, uzun dostluk yakınlık.
+
+Üç. Bakiye mektubu dış teyit, sayımı izlemek gözlem, tekrar hesaplamak yeniden hesaplama, oran karşılaştırması analitik prosedür.
+
+Dört. Doğru açıklanmış önemli konu için dikkat çekilen hususlar paragrafı eklenir, görüş değişmez.

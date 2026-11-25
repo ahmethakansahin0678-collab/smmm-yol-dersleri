@@ -1,0 +1,79 @@
+BAŞLIK: Sermaye Piyasası Mevzuatı 3. Piyasa suçları, pay sahiplerinin korunması ve yaptırımlar
+
+Sermaye Piyasası Mevzuatı üçüncü bölüme hoş geldin. Bugün piyasanın güvenini koruyan kuralları işleyeceğiz: Piyasa suçları, pay sahiplerini koruyan haklar ve Kurulun uygulayabileceği yaptırımlar.
+
+Önce piyasa suçları. Kanun, sermaye piyasasının işleyişini bozan bazı fiilleri suç olarak tanımlar. Sınavda en çok sorulan iki suç şunlardır.
+
+Birincisi bilginin kötüye kullanılması. Halk arasında içeriden bilgiyle işlem denir. Henüz kamuya açıklanmamış ve fiyatları etkileyebilecek bir bilgiye, yani içsel bilgiye sahip olan kişinin, bu bilgiyi kullanarak kendisine veya başkasına menfaat sağlamak amacıyla işlem yapmasıdır.
+
+Bir örnek: Bir şirketin yöneticisi, şirketin büyük bir ihale kazandığını herkesten önce öğreniyor. Haber kamuya açıklanmadan önce şirketin hisselerinden alıyor. Haber açıklanınca fiyat yükseliyor ve satıp kazanç sağlıyor. Bu, bilginin kötüye kullanılmasıdır.
+
+İkincisi piyasa dolandırıcılığı. İki türü vardır.
+
+İşlem bazlı piyasa dolandırıcılığı: Fiyatlara, fiyat değişimlerine ya da arz ve talebe ilişkin yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım satım yapmak. Mesela bir grubun aralarında sürekli alım satım yaparak bir hissede sahte bir hareketlilik yaratması.
+
+Bilgi bazlı piyasa dolandırıcılığı: Fiyatları etkilemek amacıyla yalan, yanlış veya yanıltıcı bilgi vermek, söylenti çıkarmak, haber vermek veya yorum yapmak. Mesela sosyal medyada bir şirketin satın alınacağı yönünde asılsız bir söylenti yaymak.
+
+Hafıza cümlesi: İçeriden bilgiyle işlem yapmak bir suç, işlemle ya da bilgiyle fiyatı oynatmak başka bir suç.
+
+Bu suçların yaptırımı hapis ve adli para cezasıdır. Önemli bir usul kuralı: Bu suçlardan dolayı soruşturma başlatılması, Kurulun yazılı başvurusuna bağlıdır. Yani savcılık bu suçlarda kendiliğinden soruşturma başlatamaz, Sermaye Piyasası Kurulunun suç duyurusu gerekir.
+
+Bunların dışında izinsiz sermaye piyasası faaliyeti de suçtur. Kuruldan izin almadan halka arz yapmak veya yatırım hizmeti sunmak gibi.
+
+Şimdi pay sahiplerini koruyan haklar.
+
+Ayrılma hakkı: Halka açık bir ortaklık, birleşme, bölünme, varlıklarının tamamını veya önemli bir bölümünü satma gibi önemli nitelikteki işlemlere karar verdiğinde, bu karara genel kurulda olumsuz oy veren pay sahipleri, paylarını ortaklığa satarak ortaklıktan ayrılabilir. Bir benzetme: Şirket rotasını kökten değiştiriyorsa, bu yolculuğa katılmak istemeyenin gemiden inme hakkı vardır.
+
+Pay alım teklifi zorunluluğu: Bir kişi veya birlikte hareket eden kişiler, halka açık bir ortaklıkta yönetim kontrolünü ele geçirdiğinde, diğer pay sahiplerinin paylarını satın almak için teklif vermek zorundadır. Amacı, kontrol değiştiğinde azınlık pay sahiplerine de aynı şartlarda çıkış imkânı vermektir.
+
+Şimdi Kurulun idari yaptırımları. Kurul, mevzuata aykırılık tespit ettiğinde şu tedbirleri alabilir.
+
+İdari para cezası verebilir.
+Kişilere veya ortaklıklara belirli bir süre sermaye piyasasında işlem yapma yasağı getirebilir.
+Yatırım kuruluşlarının faaliyet izinlerini geçici veya sürekli olarak kaldırabilir.
+Halka açık ortaklıkların yöneticileri hakkında, yetkilerinin kaldırılması için mahkemeye başvurabilir.
+
+Kamuyu aydınlatma yükümlülüğüyle bağlantılı bir kural daha: İçsel bilgi, kural olarak derhal Kamuyu Aydınlatma Platformu üzerinden açıklanmalıdır. Ancak meşru menfaatlerin korunması için, yatırımcıları yanıltmamak ve gizliliği sağlamak şartıyla, açıklama ertelenebilir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Bir kişinin, bir şirketin kâr açıklamasından önce, henüz kamuya açıklanmamış bu bilgiyi kullanarak şirketin paylarını alması hangi suçu oluşturur?
+A şıkkı: İşlem bazlı piyasa dolandırıcılığı.
+B şıkkı: Bilgi bazlı piyasa dolandırıcılığı.
+C şıkkı: Bilginin kötüye kullanılması.
+D şıkkı: İzinsiz sermaye piyasası faaliyeti.
+E şıkkı: Güveni kötüye kullanma.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, bilginin kötüye kullanılması. Kişi, kamuya açıklanmamış içsel bilgiyi kullanarak işlem yapmıştır. Eğer yanlış bir bilgi yaysaydı bilgi bazlı, sahte işlemlerle fiyatı oynatsaydı işlem bazlı piyasa dolandırıcılığı olurdu.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Piyasa dolandırıcılığı suçlarında soruşturma başlatılması neye bağlıdır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Sermaye Piyasası Kurulunun yazılı başvurusuna.
+
+Dersin özeti.
+
+Bir. Bilginin kötüye kullanılması, kamuya açıklanmamış içsel bilgiyle menfaat sağlamak amacıyla işlem yapmaktır.
+
+İki. Piyasa dolandırıcılığı işlem bazlı ve bilgi bazlı olmak üzere ikiye ayrılır.
+
+Üç. Bu suçlarda soruşturma, Kurulun yazılı başvurusuna bağlıdır.
+
+Dört. Önemli nitelikteki işlemlere olumsuz oy veren pay sahipleri ayrılma hakkını kullanabilir.
+
+Beş. Yönetim kontrolünü ele geçiren kişi, diğer pay sahiplerine pay alım teklifinde bulunmak zorundadır.

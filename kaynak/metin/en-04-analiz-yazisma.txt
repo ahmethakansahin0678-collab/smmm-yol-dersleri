@@ -1,0 +1,172 @@
+BAŞLIK: Mesleki İngilizce 4. Finansal analiz terimleri ve iş yazışması kalıpları
+
+Mesleki İngilizce dördüncü bölüme hoş geldin. Bugün iki bölüm var. Önce finansal analiz ve oran terimleri. Sonra bir muhasebecinin müşterilerine ve yabancı denetçilere yazarken ya da toplantıda konuşurken kullanacağı kalıp cümleler. Kalıp cümleleri yüksek sesle tekrar et, bunlar doğrudan iş hayatında kullanacağın cümleler.
+
+Önce analiz terimleri.
+
+EN: Financial ratio analysis.
+Finansal oran analizi.
+
+EN: Horizontal analysis.
+Yatay analiz.
+
+EN: Vertical analysis.
+Dikey analiz.
+
+EN: Trend analysis.
+Trend analizi.
+
+EN: Liquidity.
+Likidite.
+
+EN: Current ratio.
+Cari oran.
+EN: The current ratio is current assets divided by current liabilities.
+
+EN: Quick ratio.
+Asit test oranı. Acid-test ratio da denir.
+
+EN: Cash ratio.
+Nakit oran.
+
+EN: Leverage.
+Kaldıraç.
+
+EN: Debt to equity ratio.
+Borç özkaynak oranı.
+
+EN: Interest coverage ratio.
+Faiz karşılama oranı.
+
+EN: Inventory turnover.
+Stok devir hızı.
+EN: Inventory turnover is cost of goods sold divided by average inventory.
+
+EN: Days sales outstanding.
+Alacak tahsil süresi.
+
+EN: Asset turnover.
+Aktif devir hızı.
+
+EN: Gross margin.
+Brüt kâr marjı.
+
+EN: Net profit margin.
+Net kâr marjı.
+
+EN: Return on assets.
+Aktif kârlılığı. Kısaca R O A.
+
+EN: Return on equity.
+Özkaynak kârlılığı. Kısaca R O E.
+
+EN: Working capital.
+İşletme sermayesi.
+EN: Net working capital is current assets minus current liabilities.
+
+EN: Earnings before interest and taxes.
+Faiz ve vergi öncesi kâr. Kısaca E B I T.
+
+EN: Year over year.
+Bir önceki yıla göre.
+EN: Revenue grew twelve percent year over year.
+
+Şimdi iş yazışması ve toplantı kalıpları. Önce e-posta açılışları.
+
+EN: I hope this email finds you well.
+Umarım iyisinizdir. Resmi e-postaların klasik açılışı.
+
+EN: I am writing to inform you that the tax return has been filed.
+Vergi beyannamesinin verildiğini bildirmek için yazıyorum.
+
+EN: Please find attached the trial balance as of December thirty-first.
+Otuz bir Aralık tarihli mizanı ekte bulabilirsiniz.
+
+EN: Could you please send us the bank confirmation letters?
+Banka teyit mektuplarını bize gönderebilir misiniz?
+
+EN: We would appreciate it if you could provide the supporting documents by Friday.
+Destekleyici belgeleri cumaya kadar iletebilirseniz memnun oluruz.
+
+EN: Please let me know if you have any questions.
+Herhangi bir sorunuz olursa lütfen bana bildirin.
+
+EN: I look forward to hearing from you.
+Dönüşünüzü bekliyorum.
+
+EN: Kind regards.
+Saygılarımla. E-postanın kapanışı.
+
+Şimdi toplantı kalıpları.
+
+EN: Let me walk you through the financial statements.
+Size finansal tabloları adım adım anlatayım.
+
+EN: The main reason for the increase is higher sales volume.
+Artışın temel nedeni daha yüksek satış hacmidir.
+
+EN: According to Turkish tax legislation, this expense is not deductible.
+Türk vergi mevzuatına göre bu gider indirilemez.
+
+Bu cümledeki not deductible, kanunen kabul edilmeyen gider anlamında çok kullanılır.
+
+EN: The deadline for the corporate tax return is the end of April.
+Kurumlar vergisi beyannamesinin son günü nisan sonudur.
+
+EN: We need to make an adjusting entry for accrued expenses.
+Tahakkuk etmiş giderler için bir düzeltme kaydı yapmamız gerekiyor.
+
+EN: The auditors raised a concern about the valuation of inventory.
+Denetçiler stokların değerlemesi konusunda bir endişe dile getirdi.
+
+EN: Could you clarify what you mean by that?
+Bununla ne demek istediğinizi açabilir misiniz?
+
+Şimdi test. Türkçesini söylüyorum, sen İngilizcesini söyle.
+
+[[bip]]
+
+İşletme sermayesi.
+
+[[5]]
+
+EN: Working capital.
+
+[[bip]]
+
+Özkaynak kârlılığı.
+
+[[5]]
+
+EN: Return on equity.
+
+[[bip]]
+
+Stok devir hızı.
+
+[[5]]
+
+EN: Inventory turnover.
+
+[[bip]]
+
+Ekte mizanı bulabilirsiniz.
+
+[[6]]
+
+EN: Please find attached the trial balance.
+
+[[bip]]
+
+Bu gider indirilemez.
+
+[[6]]
+
+EN: This expense is not deductible.
+
+Harika. Bugünkü özet:
+
+EN: Current ratio, quick ratio, leverage, inventory turnover.
+EN: Gross margin, net profit margin, return on assets, return on equity.
+EN: Please find attached. Could you please send us. I look forward to hearing from you.
+EN: This expense is not deductible.

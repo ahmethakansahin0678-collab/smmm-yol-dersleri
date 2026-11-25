@@ -1,0 +1,117 @@
+BAŞLIK: Vergi Mevzuatı 12. Hızlı soru seti: süreler, oranlar ve beyan günleri
+
+Vergi hızlı soru setine hoş geldin. Vergi sorularının önemli kısmı bir süre, oran ya da tarih bilgisini sorar. Yirmi kısa soru soracağım. Zilden sonra cevabı yüksek sesle söyle, sonra doğrusunu duy.
+
+[[bip]]
+Genel kadeve oranı ve indirimli oranlar?
+[[4]]
+Yüzde yirmi. İndirimli oranlar yüzde on ve yüzde bir.
+
+[[bip]]
+Kadeve beyannamesi hangi gün verilir?
+[[4]]
+İzleyen ayın yirmi sekizi.
+
+[[bip]]
+Muhtasar ve prim hizmet beyannamesi hangi gün verilir?
+[[4]]
+İzleyen ayın yirmi altısı.
+
+[[bip]]
+Yıllık gelir vergisi beyannamesi hangi ayda verilir, vergi hangi aylarda ödenir?
+[[5]]
+Mart ayında verilir. Mart ve temmuzda iki taksitte ödenir.
+
+[[bip]]
+Takvim yılı kullanan bir şirketin kurumlar vergisi beyannamesi hangi ayda verilir?
+[[4]]
+Nisan.
+
+[[bip]]
+Genel kurumlar vergisi oranı?
+[[4]]
+Yüzde yirmi beş.
+
+[[bip]]
+Fatura düzenleme süresi?
+[[4]]
+Teslim veya hizmetten itibaren yedi gün.
+
+[[bip]]
+Vergi Usul Kanununa göre defter ve belge saklama süresi?
+[[4]]
+Beş yıl. Türk Ticaret Kanununa göre on yıl.
+
+[[bip]]
+Tarh zamanaşımı?
+[[4]]
+Doğduğu yılı izleyen yılın başından itibaren beş yıl.
+
+[[bip]]
+Tahsil zamanaşımı?
+[[4]]
+Vadenin rastladığı yılı izleyen yılın başından itibaren beş yıl.
+
+[[bip]]
+Vergi ziyaı cezası kaç kat, kaçakçılıkta kaç kat?
+[[4]]
+Bir kat. Kaçakçılık fiilleriyle üç kat.
+
+[[bip]]
+Dava açmayan mükellefe vergi ziyaı cezasında ilk defada ne kadar indirim yapılır?
+[[4]]
+Yarısı. Sonrakilerde üçte biri.
+
+[[bip]]
+Vergi mahkemesinde dava açma süresi?
+[[4]]
+Otuz gün.
+
+[[bip]]
+Ödeme emrine karşı dava açma süresi?
+[[4]]
+On beş gün. Ödeme veya mal bildirimi için yedi gün.
+
+[[bip]]
+Taksitlendirme en fazla kaç ay?
+[[4]]
+Otuz altı ay.
+
+[[bip]]
+Azalan bakiyeler amortisman oranının üst sınırı?
+[[4]]
+Yüzde elli.
+
+[[bip]]
+Kira gelirinde götürü gider oranı?
+[[4]]
+Yüzde on beş.
+
+[[bip]]
+İşyeri kirasında stopaj oranı?
+[[4]]
+Yüzde yirmi.
+
+[[bip]]
+Tam mükellef kurumdan alınan kâr payının ne kadarı gelir vergisinden istisna?
+[[4]]
+Yarısı.
+
+[[bip]]
+Geçmiş yıl zararları kurumlar vergisinde kaç yıl taşınabilir?
+[[4]]
+Beş yıl.
+
+Set bitti. Yirmi sorudan on altıyı geçtiysen vergi sayılarında iyi durumdasın.
+
+Dersin özeti.
+
+Bir. Kadeve yüzde yirmi, beyan yirmi sekizinde. Muhtasar yirmi altısında.
+
+İki. Gelir vergisi mart, kurumlar vergisi nisan. Kurumlar vergisi oranı yüzde yirmi beş.
+
+Üç. Fatura yedi gün. Saklama beş ve on yıl. Tarh ve tahsil zamanaşımı beşer yıl.
+
+Dört. Vergi ziyaı bir kat, kaçakçılık üç kat. İlk defada yarı indirim.
+
+Beş. Dava otuz gün, ödeme emrine dava on beş gün, taksit otuz altı ay.

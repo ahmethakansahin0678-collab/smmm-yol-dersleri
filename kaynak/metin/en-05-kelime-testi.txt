@@ -1,0 +1,209 @@
+BAŞLIK: Mesleki İngilizce 5. Büyük kelime testi
+
+Mesleki İngilizce beşinci bölüme hoş geldin. Bu bölüm tamamen test. İlk dört bölümde öğrendiğin terimler karışık sırayla gelecek.
+
+İki tür soru var. Birinci yarıda Türkçesini söyleyeceğim, sen İngilizcesini söyle. İkinci yarıda İngilizcesini duyacaksın, sen Türkçesini söyle. Her sorudan sonra birkaç saniye düşünme süresi var, sonra doğru cevabı duyacaksın. Bilemediklerini kafanda işaretle, akşam o bölümü tekrar dinle.
+
+Birinci yarı. Türkçeden İngilizceye.
+
+[[bip]]
+
+Bilanço.
+[[4]]
+EN: Balance sheet.
+
+[[bip]]
+
+Yevmiye kaydı.
+[[4]]
+EN: Journal entry.
+
+[[bip]]
+
+Ticari borçlar.
+[[4]]
+EN: Accounts payable.
+
+[[bip]]
+
+Gerçeğe uygun değer.
+[[4]]
+EN: Fair value.
+
+[[bip]]
+
+Olumsuz görüş.
+[[4]]
+EN: Adverse opinion.
+
+[[bip]]
+
+Görüş bildirmekten kaçınma.
+[[4]]
+EN: Disclaimer of opinion.
+
+[[bip]]
+
+Doğal risk.
+[[4]]
+EN: Inherent risk.
+
+[[bip]]
+
+Önemlilik.
+[[4]]
+EN: Materiality.
+
+[[bip]]
+
+Hesaplanan kadeve.
+[[4]]
+EN: Output VAT.
+
+[[bip]]
+
+Vergi beyannamesi.
+[[4]]
+EN: Tax return.
+
+[[bip]]
+
+Genel üretim giderleri.
+[[4]]
+EN: Manufacturing overhead.
+
+[[bip]]
+
+Katkı payı.
+[[4]]
+EN: Contribution margin.
+
+[[bip]]
+
+İştirak.
+[[4]]
+EN: Associate.
+
+[[bip]]
+
+Yönetim kurulu.
+[[4]]
+EN: Board of directors.
+
+[[bip]]
+
+Kâr payı.
+[[4]]
+EN: Dividend.
+
+[[bip]]
+
+Nakit akış tablosu.
+[[4]]
+EN: Cash flow statement.
+
+İkinci yarı. Şimdi İngilizcesini duyacaksın, sen Türkçesini söyle.
+
+[[bip]]
+
+EN: Retained earnings.
+[[4]]
+Geçmiş yıllar kârları.
+
+[[bip]]
+
+EN: Depreciation.
+[[4]]
+Amortisman.
+
+[[bip]]
+
+EN: Impairment.
+[[4]]
+Değer düşüklüğü.
+
+[[bip]]
+
+EN: Provision.
+[[4]]
+Karşılık.
+
+[[bip]]
+
+EN: Going concern.
+[[4]]
+İşletmenin sürekliliği.
+
+[[bip]]
+
+EN: Withholding tax.
+[[4]]
+Stopaj, yani kaynakta kesinti.
+
+[[bip]]
+
+EN: Subsidiary.
+[[4]]
+Bağlı ortaklık.
+
+[[bip]]
+
+EN: Equity method.
+[[4]]
+Özkaynak yöntemi.
+
+[[bip]]
+
+EN: Prospectus.
+[[4]]
+İzahname.
+
+[[bip]]
+
+EN: Insider trading.
+[[4]]
+Bilginin kötüye kullanılması.
+
+[[bip]]
+
+EN: Working capital.
+[[4]]
+İşletme sermayesi.
+
+[[bip]]
+
+EN: Inventory turnover.
+[[4]]
+Stok devir hızı.
+
+[[bip]]
+
+EN: Qualified opinion.
+[[4]]
+Şartlı görüş.
+
+[[bip]]
+
+EN: Trial balance.
+[[4]]
+Mizan.
+
+[[bip]]
+
+EN: Not deductible.
+[[4]]
+İndirilemez, yani kanunen kabul edilmeyen gider.
+
+[[bip]]
+
+EN: Articles of association.
+[[4]]
+Esas sözleşme.
+
+Test bitti. Otuz iki terimden kaçını bildin? Yirmi beş ve üzeri bildiysen harika gidiyorsun. Yirminin altındaysa, bu hafta akşam dönüşlerinde İngilizce bölümlerin tekrarlarını dinle.
+
+Kapanış cümlesi olarak bir kez daha:
+
+EN: Assets equal liabilities plus equity.
+
+Varlıklar eşittir yükümlülükler artı özkaynaklar. Muhasebenin dili her yerde aynı.

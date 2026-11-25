@@ -1,0 +1,91 @@
+BAŞLIK: Maliyet Muhasebesi 5. Birleşik ürün, yan ürün ve ortak maliyetlerin dağıtımı
+
+Maliyet Muhasebesi beşinci bölüme hoş geldin. Bugün aynı üretim sürecinden aynı anda birden fazla ürünün çıktığı durumları işleyeceğiz: Birleşik ürünler ve yan ürünler.
+
+Önce bir örnek düşün. Bir rafineri ham petrolü işler ve aynı süreçten benzin, motorin ve fuel oil çıkar. Bir mandıra sütü işler ve aynı süreçten tereyağı ve ayran çıkar. Bu ürünlerin hepsi aynı hammaddeden, aynı süreçten elde edilir. Peki ham petrolün maliyetini benzine ne kadar, motorine ne kadar yükleyeceğiz?
+
+Bazı kavramlar:
+
+Birleşik ürünler, yani ana ürünler: Aynı süreçten elde edilen ve satış değeri bakımından önemli olan ürünlerdir.
+
+Yan ürün: Aynı süreçten elde edilen ama satış değeri ana ürünlere göre çok düşük olan üründür. Mesela bir kereste fabrikasındaki talaş.
+
+Ayrılma noktası: Ürünlerin birbirinden ayrı olarak tanınabildiği noktadır.
+
+Ortak maliyetler: Ayrılma noktasına kadar katlanılan maliyetlerdir. Ayrılma noktasından sonra her ürün için ayrıca yapılan maliyetlere ise ek işleme maliyeti denir.
+
+Asıl sorun, ortak maliyetlerin birleşik ürünlere nasıl dağıtılacağıdır. Başlıca yöntemler şunlardır.
+
+Fiziksel ölçü yöntemi: Ortak maliyet, ürünlerin miktarına, yani kilo, litre gibi fiziksel ölçülerine göre dağıtılır.
+
+Satış değeri yöntemi: Ortak maliyet, ürünlerin ayrılma noktasındaki satış değerlerine göre dağıtılır.
+
+Net gerçekleşebilir değer yöntemi: Ayrılma noktasında satılamayan ürünler için, nihai satış değerinden ek işleme maliyetleri düşülerek bulunan değere göre dağıtılır.
+
+Şimdi bir örnek. Ortak maliyet altmış bin lira. Bu süreçten iki ürün çıkıyor.
+
+A ürünü: Bin kilo, kilosu doksan lira. Satış değeri doksan bin lira.
+B ürünü: İki bin kilo, kilosu on beş lira. Satış değeri otuz bin lira.
+
+Toplam miktar üç bin kilo. Toplam satış değeri yüz yirmi bin lira.
+
+Fiziksel ölçü yöntemine göre: A ürününün payı bin bölü üç bin, yani üçte bir. Altmış binin üçte biri, yirmi bin lira. B ürününün payı üçte iki, kırk bin lira.
+
+Bu durumda B ürünü otuz bin liraya satılıyor ama kırk bin lira maliyet yükleniyor. B zarar ediyormuş gibi görünür. Bu, fiziksel ölçü yönteminin zayıf yanıdır.
+
+Satış değeri yöntemine göre: A ürününün payı doksan bin bölü yüz yirmi bin, yani dörtte üç. Altmış binin dörtte üçü, kırk beş bin lira. B ürününün payı dörtte bir, on beş bin lira.
+
+Bu yöntemde her iki ürün de aynı brüt kâr oranını gösterir. A doksan bine satılıyor, kırk beş bin maliyet, yüzde elli kâr. B otuz bine satılıyor, on beş bin maliyet, yine yüzde elli kâr.
+
+Hafıza cümlesi: Fiziksel ölçü ağır ve ucuz ürünü cezalandırır. Satış değeri yöntemi kârlılığı eşitler.
+
+Şimdi yan ürünlerin muhasebeleştirilmesi. Yan ürünlere genellikle ortak maliyet dağıtılmaz. İki yaklaşım vardır.
+
+Birinci yaklaşım: Yan ürünün net satış geliri, ana ürünlerin maliyetinden düşülür.
+
+İkinci yaklaşım: Yan ürünün satış geliri, diğer gelir olarak gelir tablosuna yazılır.
+
+Önemli bir karar kuralı: Bir birleşik ürünü ayrılma noktasında mı satmalı, yoksa ek işlemden geçirip mi satmalı? Bu kararda ortak maliyetler dikkate alınmaz, çünkü her iki durumda da katlanılmıştır. Sadece ek işlemenin getirdiği ek gelir ile ek işleme maliyeti karşılaştırılır. Ek gelir ek maliyetten fazlaysa işlemeye devam edilir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Ortak maliyeti yüz bin lira olan bir süreçten X ve Y ürünleri elde ediliyor. Ayrılma noktasında X'in satış değeri yüz elli bin, Y'nin satış değeri elli bin liradır. Satış değeri yöntemine göre X ürününe ne kadar ortak maliyet yüklenir?
+A şıkkı: Elli bin.
+B şıkkı: Yetmiş beş bin.
+C şıkkı: Yüz bin.
+D şıkkı: Yirmi beş bin.
+E şıkkı: Altmış bin.
+
+Düşün.
+
+[[10]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, yetmiş beş bin lira. Toplam satış değeri iki yüz bin. X'in payı yüz elli bin bölü iki yüz bin, yani dörtte üç. Yüz binin dörtte üçü, yetmiş beş bin.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bir birleşik ürünün ek işlemden geçirilip geçirilmeyeceğine karar verirken ortak maliyetler dikkate alınır mı?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Hayır. Ortak maliyetler her iki seçenekte de katlanılmış maliyetlerdir. Sadece ek gelir ile ek işleme maliyeti karşılaştırılır.
+
+Dersin özeti.
+
+Bir. Birleşik ürünler aynı süreçten elde edilen önemli ürünlerdir. Yan ürünün satış değeri düşüktür.
+
+İki. Ortak maliyetler ayrılma noktasına kadar katlanılan maliyetlerdir.
+
+Üç. Dağıtım yöntemleri: fiziksel ölçü, satış değeri ve net gerçekleşebilir değer.
+
+Dört. Satış değeri yöntemi tüm ürünlerde aynı brüt kâr oranını verir.
+
+Beş. Yan ürün geliri ya ana ürün maliyetinden düşülür ya da diğer gelir yazılır. Ek işleme kararında ortak maliyetler dikkate alınmaz.

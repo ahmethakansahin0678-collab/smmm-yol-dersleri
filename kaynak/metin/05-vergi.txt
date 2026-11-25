@@ -1,0 +1,114 @@
+BAŞLIK: Ders 5. Vergi Mevzuatı: Vergilendirme süreci, gelir unsurları ve kadeve mantığı
+
+Vergi Mevzuatı ve Uygulaması dersine hoş geldin. Bu bölümde vergi sisteminin genel yapısını, vergilendirme sürecinin beş aşamasını, gelir vergisinin yedi unsurunu ve kadevenin işleyiş mantığını öğreneceğiz.
+
+Önce temel bir ilke. Anayasanın yetmiş üçüncü maddesine göre vergi, resim, harç ve benzeri mali yükümlülükler kanunla konulur, değiştirilir veya kaldırılır. Buna vergilerin kanuniliği ilkesi denir. Vergi affı da bu yüzden ancak kanunla yapılabilir.
+
+Vergi sistemimizi bir ağaç gibi düşün. Gövdede Vergi Usul Kanunu var. Bu kanun tüm vergiler için ortak usul kurallarını, yani defter tutma, belge düzenleme, değerleme ve cezaları düzenler. Dallarda ise vergiler var.
+
+Gelir üzerinden alınan vergiler: Gelir Vergisi ve Kurumlar Vergisi.
+
+Harcamalar üzerinden alınan vergiler: Katma Değer Vergisi, Özel Tüketim Vergisi, Damga Vergisi, Banka ve Sigorta Muameleleri Vergisi.
+
+Servet üzerinden alınan vergiler: Emlak Vergisi, Motorlu Taşıtlar Vergisi, Veraset ve İntikal Vergisi.
+
+Vergilerin tahsili ise altı bin yüz seksen üç sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun ile düzenlenir.
+
+Şimdi vergilendirme sürecinin beş aşaması. Sınavda sırası sıkça sorulur.
+
+Birincisi vergiyi doğuran olay. Vergi kanunlarının vergiyi bağladığı olayın gerçekleşmesi ya da hukuki durumun tamamlanmasıdır. Mesela bir mal satışı.
+
+İkincisi tarh. Vergi alacağının, vergi dairesi tarafından kanunda gösterilen matrah ve oranlar üzerinden hesaplanarak miktar itibarıyla tespit edilmesidir.
+
+Üçüncüsü tebliğ. Vergilendirmeyle ilgili hususların yetkili makamlar tarafından mükellefe yazı ile bildirilmesidir.
+
+Dördüncüsü tahakkuk. Tarh ve tebliğ edilen bir verginin ödenmesi gereken bir safhaya gelmesidir.
+
+Beşincisi tahsil. Verginin kanuna uygun şekilde ödenmesidir.
+
+Hafıza cümlesi: Doğar, tarh edilir, tebliğ edilir, tahakkuk eder, tahsil edilir. Baş harfleriyle: Do, Ta, Te, Ta, Ta.
+
+Şimdi iki önemli kavram: Mükellef ve vergi sorumlusu.
+
+Vergi mükellefi, vergi kanunlarına göre kendisine vergi borcu terettüp eden gerçek veya tüzel kişidir. Yani vergiyi asıl ödemesi gereken kişi.
+
+Vergi sorumlusu ise verginin ödenmesi bakımından alacaklı vergi dairesine karşı muhatap olan kişidir. Mesela işveren, işçinin ücretinden gelir vergisini keser ve vergi dairesine yatırır. Burada işçi mükellef, işveren vergi sorumlusudur. Buna stopaj, yani kaynakta kesinti diyoruz.
+
+Şimdi gelir vergisi. Gelir vergisi sadece gerçek kişilerin gelirleri üzerinden alınır. Tüzel kişiler, yani şirketler, kurumlar vergisi öder.
+
+Gelir vergisine konu olan yedi gelir unsuru vardır. Bunu mutlaka ezberle.
+
+Bir: Ticari kazançlar.
+İki: Zirai kazançlar.
+Üç: Ücretler.
+Dört: Serbest meslek kazançları.
+Beş: Gayrimenkul sermaye iratları, yani kira gelirleri.
+Altı: Menkul sermaye iratları, yani faiz ve kâr payı gibi gelirler.
+Yedi: Diğer kazanç ve iratlar, yani değer artış kazançları ve arızi kazançlar.
+
+Hafıza cümlesi: Ticaret, tarla, maaş, meslek, kira, faiz ve diğerleri.
+
+Kurumlar vergisinin genel oranı ise yüzde yirmi beştir. Bankalar ve finans kuruluşları gibi bazı kurumlar için farklı oranlar vardır. Oranları sınavdan önce mutlaka güncel mevzuattan kontrol et.
+
+Şimdi kadeve mantığına geçelim. Katma Değer Vergisi, adından da anlaşılacağı gibi, her aşamada eklenen değer üzerinden alınır.
+
+Genel kadeve oranı, on Temmuz iki bin yirmi üç tarihinden beri yüzde yirmidir. İndirimli oranlar yüzde on ve yüzde birdir. Dikkat: Senin Drive'daki soru bankasında standart oran yüzde on sekiz olarak işaretlenmiş. Bu eski orandır ve artık yanlıştır.
+
+Kadevenin işleyişi basittir. İşletme satışlarında müşteriden kadeve tahsil eder, buna hesaplanan kadeve denir. Alışlarında ise satıcıya kadeve öder, buna indirilecek kadeve denir. Ay sonunda hesaplanan kadeveden indirilecek kadeve düşülür.
+
+Hesaplanan büyükse aradaki fark ödenecek kadevedir. İndirilecek büyükse aradaki fark devreden kadevedir ve sonraki aya aktarılır.
+
+Bir örnek. Bir işletme bir ayda yüz elli bin liralık mal alıyor, iki yüz elli bin liralık mal satıyor. Oran yüzde yirmi.
+
+İndirilecek kadeve: Yüz elli binin yüzde yirmisi, otuz bin lira.
+
+Hesaplanan kadeve: İki yüz elli binin yüzde yirmisi, elli bin lira.
+
+Elli bin eksi otuz bin, yirmi bin lira ödenecek kadeve.
+
+Muhasebe kaydı: Üç yüz doksan bir Hesaplanan kadeve hesabı elli bin lira borçlanır, yani kapatılır. Yüz doksan bir İndirilecek kadeve hesabı otuz bin lira alacaklanır, yani kapatılır. Aradaki yirmi bin lira, üç yüz altmış Ödenecek Vergi ve Fonlar hesabına alacak kaydedilir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Aşağıdakilerden hangisi vergilendirme sürecinin aşamalarının doğru sıralamasıdır?
+A şıkkı: Tarh, tebliğ, tahakkuk, tahsil.
+B şıkkı: Tebliğ, tarh, tahakkuk, tahsil.
+C şıkkı: Tarh, tahakkuk, tebliğ, tahsil.
+D şıkkı: Tahakkuk, tarh, tebliğ, tahsil.
+E şıkkı: Tarh, tebliğ, tahsil, tahakkuk.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap A şıkkı. Vergiyi doğuran olaydan sonra sırasıyla tarh, tebliğ, tahakkuk ve tahsil gelir. Önce hesaplanır, sonra bildirilir, sonra ödenecek hale gelir, en son ödenir.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bir ayda hesaplanan kadeve kırk bin lira, indirilecek kadeve elli bin liradır. Sonuç nedir?
+
+[[6]]
+
+[[bip]]
+
+Cevap: On bin lira devreden kadeve. İndirilecek kadeve hesaplanandan büyük olduğu için ödeme çıkmaz. Aradaki on bin lira sonraki aya devreder ve Tekdüzen Hesap Planında yüz doksan Devreden kadeve hesabında izlenir.
+
+Dersin özeti.
+
+Bir. Vergi, resim ve harçlar ancak kanunla konulur. Bu, Anayasanın yetmiş üçüncü maddesidir.
+
+İki. Vergilendirme süreci: Vergiyi doğuran olay, tarh, tebliğ, tahakkuk, tahsil.
+
+Üç. Mükellef vergiyi asıl ödeyen, vergi sorumlusu ise vergi dairesine muhatap olan kişidir.
+
+Dört. Gelir vergisinin yedi unsuru: ticari, zirai, ücret, serbest meslek, gayrimenkul sermaye iradı, menkul sermaye iradı ve diğer kazanç ve iratlar.
+
+Beş. Genel kadeve oranı yüzde yirmidir. Hesaplanan eksi indirilecek, pozitifse ödenecek, negatifse devreden kadevedir.
+
+Bir sonraki bölümde Vergi Usul Kanunundaki defter tutma sınırlarına ve vergi cezalarına geçeceğiz. Şimdi sıradaki dersimiz Hukuk.

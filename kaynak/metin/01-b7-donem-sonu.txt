@@ -1,0 +1,101 @@
+BAŞLIK: Finansal Muhasebe 7. Dönem sonu işlemleri ve gelir tablosunun yapısı
+
+Finansal Muhasebe yedinci bölüme hoş geldin. Bugün yılın son günü muhasebe bölümünde ne olduğunu öğreneceğiz. Gelir tablosunun yapısı, yedi A seçeneğinde yansıtma hesapları ve dönem kârının bilançoya taşınması.
+
+Önce gelir tablosunun yapısı. Altı numaralı sınıfın grupları, gelir tablosunu yukarıdan aşağıya kurar. Bunu bir şelale gibi düşün.
+
+Altmış Brüt Satışlar.
+Eksi altmış bir Satış İndirimleri. Satıştan iadeler, satış iskontoları.
+Eşittir net satışlar.
+
+Eksi altmış iki Satışların Maliyeti.
+Eşittir brüt satış kârı.
+
+Eksi altmış üç Faaliyet Giderleri. Araştırma geliştirme, pazarlama satış dağıtım ve genel yönetim giderleri.
+Eşittir faaliyet kârı.
+
+Artı altmış dört Diğer Faaliyetlerden Olağan Gelir ve Kârlar. Faiz gelirleri, kambiyo kârları gibi.
+Eksi altmış beş Diğer Faaliyetlerden Olağan Gider ve Zararlar.
+Eksi altmış altı Finansman Giderleri.
+Eşittir olağan kâr.
+
+Artı altmış yedi Olağandışı Gelir ve Kârlar.
+Eksi altmış sekiz Olağandışı Gider ve Zararlar.
+Eşittir dönem kârı.
+
+Eksi altmış dokuz grubundaki dönem kârı vergi karşılığı.
+Eşittir dönem net kârı.
+
+Hafıza cümlesi: Satış, indirim, maliyet, faaliyet gideri, olağan, finansman, olağandışı, vergi.
+
+Şimdi bir örnek. Sayıları takip et.
+
+Brüt satışlar bir milyon lira. Satıştan iadeler elli bin lira. Net satışlar dokuz yüz elli bin.
+Satışların maliyeti altı yüz bin. Brüt satış kârı üç yüz elli bin.
+Faaliyet giderleri yüz elli bin. Faaliyet kârı iki yüz bin.
+Faiz geliri yirmi bin. Finansman gideri yirmi bin. Olağan kâr iki yüz bin.
+Olağandışı gelir ve gider yok. Dönem kârı iki yüz bin.
+Yüzde yirmi beş kurumlar vergisi, elli bin. Dönem net kârı yüz elli bin lira.
+
+Şimdi yedi A seçeneğinde yansıtma. Yedi A'da giderler önce yedi numaralı hesaplarda toplanır. Mesela genel yönetim giderleri yedi yüz yetmiş numaralı hesapta. Dönem sonunda bu giderlerin gelir tablosuna aktarılması gerekir. Bunun için yansıtma hesapları kullanılır.
+
+Kayıt iki adımdır. Birinci adım: Altı yüz otuz iki Genel Yönetim Giderleri borç, yedi yüz yetmiş bir Genel Yönetim Giderleri Yansıtma Hesabı alacak. İkinci adım: Yedi yüz yetmiş bir borç, yedi yüz yetmiş alacak. Böylece yedi yüz yetmiş ve yedi yüz yetmiş bir kapanır, gider altı yüz otuz ikide görünür.
+
+Aynı mantık pazarlama giderleri için yedi yüz altmıştan altı yüz otuz bire, finansman giderleri için yedi yüz seksenden altı yüz altmışa uygulanır.
+
+Hafıza cümlesi: Yedi yüz yetmiş, altı yüz otuz ikiye. Yedi yüz altmış, altı yüz otuz bire. Yedi yüz seksen, altı yüz altmışa. Arada yansıtma, yani sonu bir ile biten hesap.
+
+Şimdi dönem kârının bilançoya taşınması. Bu da adım adım ilerler.
+
+Birinci adım: Tüm gelir tablosu hesapları altı yüz doksan Dönem Kârı veya Zararı hesabına devredilir. Gelir hesapları borçlanarak, gider hesapları alacaklanarak kapanır. Altı yüz doksan alacak bakiye veriyorsa kâr, borç bakiye veriyorsa zarar vardır.
+
+İkinci adım: Kurumlar vergisi karşılığı ayrılır. Altı yüz doksan bir Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları borç, üç yüz yetmiş Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları alacak. Sonra altı yüz doksan bir, altı yüz doksana devredilir.
+
+Üçüncü adım: Yıl içinde ödenen geçici vergiler üç yüz yetmiş bir numaralı hesapta birikmiştir. Bu tutar, üç yüz yetmişten mahsup edilir. Üç yüz yetmiş borç, üç yüz yetmiş bir alacak.
+
+Dördüncü adım: Vergi sonrası kâr, altı yüz doksan iki Dönem Net Kârı veya Zararı hesabına, oradan da bilançodaki beş yüz doksan Dönem Net Kârı hesabına aktarılır.
+
+Hafıza cümlesi: Altı yüz doksan, vergi altı yüz doksan bir, net altı yüz doksan iki, bilançoda beş yüz doksan.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Net satışlar sekiz yüz bin, satışların maliyeti beş yüz bin, faaliyet giderleri yüz bin liradır. Faaliyet kârı kaç liradır?
+A şıkkı: Üç yüz bin.
+B şıkkı: İki yüz bin.
+C şıkkı: Dört yüz bin.
+D şıkkı: Yüz bin.
+E şıkkı: Altı yüz bin.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, iki yüz bin lira. Sekiz yüz bin eksi beş yüz bin, brüt satış kârı üç yüz bin. Eksi yüz bin faaliyet gideri, faaliyet kârı iki yüz bin.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Yedi A seçeneğinde, yedi yüz seksen Finansman Giderleri hesabı dönem sonunda hangi gelir tablosu hesabına aktarılır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Altı yüz altmış Kısa Vadeli Borçlanma Giderleri hesabına, yedi yüz seksen bir yansıtma hesabı aracılığıyla.
+
+Dersin özeti.
+
+Bir. Gelir tablosu sırası: brüt satış, indirimler, net satış, maliyet, brüt kâr, faaliyet giderleri, faaliyet kârı, olağan gelir ve giderler, finansman, olağandışı kalemler, dönem kârı, vergi, net kâr.
+
+İki. Yedi A'da giderler yansıtma hesaplarıyla altı numaralı sınıfa aktarılır.
+
+Üç. Yedi yüz yetmiş altı yüz otuz ikiye, yedi yüz altmış altı yüz otuz bire, yedi yüz seksen altı yüz altmışa aktarılır.
+
+Dört. Vergi karşılığı altı yüz doksan bir borç, üç yüz yetmiş alacak. Peşin ödenen geçici vergiler üç yüz yetmiş birden üç yüz yetmişe mahsup edilir.
+
+Beş. Net kâr altı yüz doksan ikiden beş yüz doksana aktarılır.

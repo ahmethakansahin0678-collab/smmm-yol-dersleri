@@ -1,0 +1,92 @@
+BAŞLIK: Meslek Hukuku 3. Meslek örgütü, disiplin süreci ve sık sorulan bilgiler
+
+Meslek Hukuku üçüncü bölüme hoş geldin. Bu bölüm, Meslek Hukuku dersinin genel tekrarı ve tamamlayıcısı. Meslek örgütünün yapısını, disiplin sürecinin mantığını ve sınavda sık sorulan bilgileri bir arada çalışacağız.
+
+Önce meslek örgütü. İki katmanlı bir yapı vardır.
+
+Alt katman: Odalar. Serbest Muhasebeci Mali Müşavirler Odaları ve Yeminli Mali Müşavirler Odaları. Meslek mensupları, mesleki faaliyette bulunabilmek için bulundukları yerdeki odaya kayıt olmak zorundadır. Odalar, kamu kurumu niteliğinde meslek kuruluşlarıdır ve tüzel kişiliğe sahiptir.
+
+Üst katman: Türmob. Tüm odaların bağlı olduğu birliktir. Yeterlilik sınavlarını yapar, staj işlemlerini yürütür, mesleğin ülke çapında temsilcisidir.
+
+Hatırla, odaların organları dörttür: Genel kurul, yönetim kurulu, denetleme kurulu ve disiplin kurulu. Türmob'un organları da benzerdir: Genel kurul, yönetim kurulu, denetleme kurulu ve yüksek disiplin kurulu.
+
+Hafıza cümlesi: Odada disiplin kurulu, birlikte yüksek disiplin kurulu.
+
+Şimdi disiplin süreci. Bir meslek mensubunun meslek kurallarına aykırı davrandığı iddia edildiğinde süreç şöyle işler.
+
+Birinci adım: Oda yönetim kurulu, şikâyeti veya tespiti inceler ve gerekirse dosyayı oda disiplin kuruluna sevk eder.
+
+İkinci adım: Disiplin kurulu, meslek mensubunun savunmasını alır. Savunma hakkı temel bir güvencedir. Savunması alınmadan disiplin cezası verilemez.
+
+Üçüncü adım: Disiplin kurulu karar verir. İlk bölümde öğrendiğimiz dört cezadan biri verilebilir: Uyarma, kınama, geçici olarak meslekten men ve meslekten çıkarma.
+
+Dördüncü adım: Disiplin kurulu kararlarına karşı, Türmob Yüksek Disiplin Kuruluna itiraz edilebilir. Yüksek disiplin kurulu kararlarına karşı ise idari yargı yoluna gidilebilir.
+
+Hafıza cümlesi: Oda yönetim kurulu sevk eder, disiplin kurulu savunma alıp karar verir, yüksek disiplin kuruluna itiraz edilir, sonra yargı.
+
+Önemli bir ilke: Disiplin cezası, ceza davasından bağımsızdır. Bir meslek mensubu hakkında hem ceza davası açılmış olabilir hem de disiplin soruşturması yürüyebilir. Biri diğerini kendiliğinden engellemez.
+
+Şimdi Meslek Hukuku dersinin sık sorulan bilgilerini bir arada tekrar edelim. Bunları hızlıca dinle ve her birini yüksek sesle tamamla.
+
+Kanun numarası: Üç bin beş yüz altmış sekiz.
+
+Yürürlükteki meslek unvanları: Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavir. İki unvan.
+
+Serbest Muhasebeci Mali Müşavirlik stajı: Üç yıl.
+
+Yeminli Mali Müşavirlik için fiili çalışma şartı: On yıl Serbest Muhasebeci Mali Müşavirlik.
+
+Yeminli Mali Müşavirin yapamayacağı iş: Defter tutmak ve muhasebe bürosu açmak.
+
+Yeminli Mali Müşavirin özgün işi: Tasdik.
+
+Disiplin cezaları: Uyarma, kınama, geçici olarak meslekten men, meslekten çıkarma.
+
+Meslek ahlakının temel yasakları: Reklam, uydurma unvan, aracı kullanma, asgari ücret tarifesinin altında iş alma.
+
+Sır saklama yükümlülüğü: İlişki bittikten sonra da sürer.
+
+Meslek mensubunun yapamayacağı işler: Aylıklı memurluk, tacir sıfatını gerektiren işler ve mesleğin itibarını zedeleyecek işler.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Oda disiplin kurulunun verdiği bir karara karşı meslek mensubu nereye itiraz edebilir?
+A şıkkı: Oda yönetim kuruluna.
+B şıkkı: Oda genel kuruluna.
+C şıkkı: Türmob Yüksek Disiplin Kuruluna.
+D şıkkı: Vergi mahkemesine.
+E şıkkı: İtiraz yolu yoktur.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, Türmob Yüksek Disiplin Kurulu.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bir meslek mensubuna savunması alınmadan disiplin cezası verilebilir mi?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Hayır. Savunma hakkı temel bir güvencedir, savunma alınmadan disiplin cezası verilemez.
+
+Dersin özeti.
+
+Bir. Meslek örgütü iki katmanlıdır: odalar ve Türmob. Mesleki faaliyet için odaya kayıt zorunludur.
+
+İki. Odada disiplin kurulu, Türmob'da yüksek disiplin kurulu vardır.
+
+Üç. Disiplin sürecinde savunma alınmadan ceza verilemez. Oda disiplin kurulu kararına karşı Türmob Yüksek Disiplin Kuruluna itiraz edilir.
+
+Dört. Disiplin cezası ceza davasından bağımsızdır.
+
+Beş. Sayılar: üç bin beş yüz altmış sekiz sayılı Kanun, iki unvan, üç yıl staj, on yıl fiili çalışma, dört disiplin cezası.

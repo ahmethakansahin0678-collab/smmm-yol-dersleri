@@ -1,0 +1,92 @@
+BAŞLIK: Vergi Mevzuatı 8. Vergi Usul Kanunu: değerleme ölçüleri
+
+Vergi Mevzuatı sekizinci bölüme hoş geldin. Bugün Vergi Usul Kanununun en çok soru gelen bölümlerinden birini işleyeceğiz: Değerleme. Değerleme, vergi matrahının hesaplanmasıyla ilgili iktisadi kıymetlerin takdir ve tespitidir. Basitçe söylersek, dönem sonunda bilançodaki her kalemin hangi tutarla yazılacağına karar vermektir.
+
+Önce değerleme ölçüleri. Kanunda sayılan başlıca ölçüler şunlardır.
+
+Maliyet bedeli: Bir kıymetin iktisap edilmesi veya değerinin artırılması için yapılan ödemelerle bunlara bağlı giderlerin toplamıdır. En temel ölçüdür.
+
+Borsa rayici: Bir malın değerleme günündeki borsa fiyatıdır.
+
+Tasarruf değeri: Bir alacak veya borcun vadesine kadar olan faizin düşülmesiyle bulunan bugünkü değeridir. Birinci bölümde gördüğümüz reeskont işlemi tam olarak budur.
+
+Mukayyet değer: Bir kıymetin kayıtlarda yazılı olan değeridir. Yani defterde ne yazıyorsa odur.
+
+İtibari değer: Senetlerin ve paraların üzerinde yazılı olan değerdir. Nominal değer de denir.
+
+Vergi değeri: Emlak vergisi kanununa göre belirlenen değerdir.
+
+Rayiç bedel: Bir malın değerleme günündeki normal alım satım değeridir. Genellikle veraset ve intikal vergisinde kullanılır.
+
+Emsal bedeli: Bir kıymetin maliyet bedeli bilinmiyorsa veya kıymeti önemli ölçüde azalmışsa, benzer mallar dikkate alınarak takdir edilen değerdir.
+
+Hafıza cümlesi: Maliyet, borsa, tasarruf, mukayyet, itibari, vergi değeri, rayiç, emsal.
+
+Şimdi en önemli kısım: Hangi kalem hangi ölçüyle değerlenir? Sınav soruları genellikle bu eşleştirmeden gelir.
+
+Gayrimenkuller, yani bina ve arsalar: Maliyet bedeliyle değerlenir.
+
+Emtia, yani stoklar: Maliyet bedeliyle değerlenir. Ancak yangın, deprem, su basması gibi afetler veya bozulma, çürüme, kırılma gibi nedenlerle kıymeti önemli ölçüde azalmışsa emsal bedeliyle değerlenebilir. Buna değeri düşen mallar denir.
+
+Hisse senetleri: Alış bedeliyle değerlenir.
+
+Alacaklar: Mukayyet değerle değerlenir. Senede bağlı alacaklar ise tasarruf değerine indirgenebilir, yani reeskont yapılabilir. Bu isteğe bağlıdır.
+
+Borçlar: Mukayyet değerle değerlenir. Senede bağlı borçlar ise tasarruf değeriyle değerlenebilir.
+
+Yabancı paralar: Değerleme günündeki Merkez Bankası döviz alış kuruyla değerlenir. Döviz cinsinden alacak ve borçlar da aynı şekilde değerlenir. Ortaya çıkan fark, kur farkı geliri ya da gideri olarak yazılır.
+
+Şüpheli alacaklar: Değerleme gününde, şüpheli hale gelen alacaklar için karşılık ayrılabilir. Bunu birinci bölümde ayrıntılı gördük.
+
+Değersiz alacaklar: Kazai bir hükme veya kanaat verici bir vesikaya göre tahsiline artık imkân kalmayan alacaklar, kayıtlardan silinir ve gider yazılır. Mesela borçlunun iflası sonunda alacaklılara hiç ödeme yapılamayacağının mahkeme kararıyla belli olması.
+
+Hafıza cümlesi: Mal ve gayrimenkul maliyetle, alacak ve borç mukayyetle, senetli olanlar tasarrufla, döviz Merkez Bankası alış kuruyla.
+
+Şimdi bir döviz örneği. İşletmenin kasasında bin Amerikan doları var. Doları aldığında kur otuz lira idi, yani kayıtlarda otuz bin lira yazıyor. Değerleme gününde Merkez Bankası döviz alış kuru otuz beş lira.
+
+Değerlenmiş tutar: Bin çarpı otuz beş, otuz beş bin lira. Fark beş bin lira kur farkı geliri.
+
+Kayıt: Yüz Kasa hesabı beş bin lira borç, altı yüz kırk altı Kambiyo Kârları hesabı beş bin lira alacak. Kur düşseydi, fark altı yüz elli altı Kambiyo Zararları hesabına borç yazılırdı.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Vergi Usul Kanununa göre emtia kural olarak hangi ölçüyle değerlenir?
+A şıkkı: Borsa rayici.
+B şıkkı: Maliyet bedeli.
+C şıkkı: Mukayyet değer.
+D şıkkı: Rayiç bedel.
+E şıkkı: Tasarruf değeri.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, maliyet bedeli. Kıymeti önemli ölçüde azalan mallar ise emsal bedeliyle değerlenebilir.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Senede bağlı bir alacağın vadesine kadarki faizinin düşülmesiyle bulunan değere ne ad verilir?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Tasarruf değeri. Bu, reeskont işleminin vergi mevzuatındaki karşılığıdır.
+
+Dersin özeti.
+
+Bir. Değerleme, iktisadi kıymetlerin vergi matrahı açısından takdir ve tespitidir.
+
+İki. Değerleme ölçüleri: maliyet bedeli, borsa rayici, tasarruf değeri, mukayyet değer, itibari değer, vergi değeri, rayiç bedel ve emsal bedeli.
+
+Üç. Gayrimenkuller ve emtia maliyet bedeliyle değerlenir. Kıymeti düşen mallar emsal bedeliyle değerlenebilir.
+
+Dört. Alacak ve borçlar mukayyet değerle, senetli olanlar tasarruf değeriyle değerlenebilir.
+
+Beş. Yabancı paralar ve döviz cinsinden alacak ve borçlar, Merkez Bankası döviz alış kuruyla değerlenir.

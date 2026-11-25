@@ -1,0 +1,129 @@
+BAŞLIK: Finansal Muhasebe 11. Çözümlü problem seti: on kayıt, on refleks
+
+Finansal Muhasebe problem setine hoş geldin. Bu bölümde anlatım yok, sadece soru var. On kısa işlem duyacaksın. Her işlemden sonra zil çalacak ve düşünme süresi olacak. O sürede kaydı kafanda kur: Hangi hesap borç, hangi hesap alacak, tutar ne? Sonra doğru kaydı duyacaksın. Amaç, kayıt refleksini otomatik hale getirmek.
+
+Birinci işlem.
+
+Ortaklar şirkete iki yüz bin lira nakit sermaye taahhüt ediyor.
+
+[[bip]]
+[[7]]
+[[bip]]
+
+Beş yüz bir Ödenmemiş Sermaye iki yüz bin borç. Beş yüz Sermaye iki yüz bin alacak.
+
+İkinci işlem.
+
+Taahhüt edilen sermayenin dörtte biri bankaya yatırılıyor.
+
+[[bip]]
+[[7]]
+[[bip]]
+
+Dörtte bir, elli bin lira. Yüz iki Bankalar elli bin borç. Beş yüz bir Ödenmemiş Sermaye elli bin alacak.
+
+Üçüncü işlem.
+
+Kırk bin liralık ticari mal, yüzde yirmi kadeve ile veresiye alınıyor.
+
+[[bip]]
+[[7]]
+[[bip]]
+
+Kadeve sekiz bin, toplam kırk sekiz bin. Yüz elli üç Ticari Mallar kırk bin borç. Yüz doksan bir İndirilecek kadeve sekiz bin borç. Üç yüz yirmi Satıcılar kırk sekiz bin alacak.
+
+Dördüncü işlem.
+
+Satıcıya olan borcun tamamı için çek veriliyor. Çek henüz bankaya ibraz edilmedi.
+
+[[bip]]
+[[7]]
+[[bip]]
+
+Üç yüz yirmi Satıcılar kırk sekiz bin borç. Yüz üç Verilen Çekler ve Ödeme Emirleri kırk sekiz bin alacak.
+
+Beşinci işlem.
+
+Banka, verilen çeki ödüyor.
+
+[[bip]]
+[[6]]
+[[bip]]
+
+Yüz üç Verilen Çekler kırk sekiz bin borç. Yüz iki Bankalar kırk sekiz bin alacak.
+
+Altıncı işlem.
+
+Malların yarısı, otuz bin lira artı yüzde yirmi kadeve karşılığında, müşteriden senet alınarak satılıyor. İşletme sürekli envanter yöntemini kullanıyor.
+
+[[bip]]
+[[10]]
+[[bip]]
+
+İki kayıt var. Satış kaydı: Yüz yirmi bir Alacak Senetleri otuz altı bin borç. Altı yüz Yurt İçi Satışlar otuz bin alacak. Üç yüz doksan bir Hesaplanan kadeve altı bin alacak.
+
+Maliyet kaydı: Malların yarısının maliyeti yirmi bin lira. Altı yüz yirmi bir Satılan Ticari Mallar Maliyeti yirmi bin borç. Yüz elli üç Ticari Mallar yirmi bin alacak.
+
+Yedinci işlem.
+
+Ay sonunda kadeve mahsubu yapılıyor. Hesaplanan altı bin, indirilecek sekiz bin.
+
+[[bip]]
+[[8]]
+[[bip]]
+
+İndirilecek daha büyük, iki bin lira devreden kadeve var. Üç yüz doksan bir Hesaplanan kadeve altı bin borç. Yüz doksan Devreden kadeve iki bin borç. Yüz doksan bir İndirilecek kadeve sekiz bin alacak.
+
+Sekizinci işlem.
+
+Yönetimde kullanılmak üzere otuz bin liraya bir bilgisayar alınıyor, bedeli bankadan ödeniyor. Kadeveyi bu soruda ihmal et.
+
+[[bip]]
+[[6]]
+[[bip]]
+
+İki yüz elli beş Demirbaşlar otuz bin borç. Yüz iki Bankalar otuz bin alacak.
+
+Dokuzuncu işlem.
+
+Yıl sonunda bu bilgisayar için normal amortisman ayrılıyor. Faydalı ömür beş yıl, işletme yedi A seçeneğini kullanıyor.
+
+[[bip]]
+[[8]]
+[[bip]]
+
+Oran yüzde yirmi, amortisman altı bin lira. Yedi yüz yetmiş Genel Yönetim Giderleri altı bin borç. İki yüz elli yedi Birikmiş Amortismanlar altı bin alacak.
+
+Onuncu işlem.
+
+Alacak senedi için yıl sonunda bin iki yüz lira reeskont ayrılıyor.
+
+[[bip]]
+[[6]]
+[[bip]]
+
+Altı yüz elli yedi Reeskont Faiz Giderleri bin iki yüz borç. Yüz yirmi iki Alacak Senetleri Reeskontu bin iki yüz alacak.
+
+Problem seti bitti. Bir de toplu bir soru.
+
+[[bip]]
+
+Soru: Bu on işlemden sonra, amortisman ve reeskont dahil, ama vergi öncesi olarak, gelir tablosuna giden kalemleri topla. Satışlar otuz bin, satılan malın maliyeti yirmi bin, genel yönetim gideri altı bin, reeskont gideri bin iki yüz. Dönem kârı kaç liradır?
+
+[[12]]
+
+[[bip]]
+
+Cevap: İki bin sekiz yüz lira. Otuz bin eksi yirmi bin, brüt satış kârı on bin. Eksi altı bin faaliyet gideri, faaliyet kârı dört bin. Eksi bin iki yüz reeskont gideri, dönem kârı iki bin sekiz yüz.
+
+Dersin özeti.
+
+Bir. Sermaye taahhüdü beş yüz bir borç, beş yüz alacak.
+
+İki. Verilen çek önce yüz üçe alacak, banka ödeyince yüz üç borç, yüz iki alacak.
+
+Üç. Sürekli envanterde her satışta ikinci bir maliyet kaydı yapılır.
+
+Dört. İndirilecek kadeve hesaplanandan büyükse fark yüz doksan Devreden kadeveye gider.
+
+Beş. Yönetim amortismanı yedi yüz yetmişe, alacak senedi reeskontu altı yüz elli yediye borç yazılır.

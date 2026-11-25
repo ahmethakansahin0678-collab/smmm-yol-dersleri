@@ -1,0 +1,83 @@
+BAŞLIK: Sermaye Piyasası Mevzuatı 2. İzahname, kurumsal yönetim ilkeleri ve kolektif yatırım kuruluşları
+
+Sermaye Piyasası Mevzuatı ikinci bölüme hoş geldin. Bugün üç konu var: Halka arzda izahname ve sorumluluk, kurumsal yönetim ilkeleri ve kolektif yatırım kuruluşları.
+
+Önce izahname. Sermaye piyasası araçlarının halka arzında izahname hazırlanması ve Kurul tarafından onaylanması zorunludur. İzahname, Kurul onayından sonra kamuya ilan edilir ve ancak bundan sonra satış yapılabilir.
+
+Önemli bir ayrıntı: Kurulun izahnameyi onaylaması, ihraççının ya da aracın bir garantisi değildir. Kurul, izahnamede yer alan bilgilerin tam ve anlaşılır olup olmadığını denetler, ama yatırımın kârlı olacağını garanti etmez.
+
+Halka arz edilmeksizin yapılan satışlarda, yani nitelikli yatırımcılara ya da tahsisli satışlarda ise izahname yerine ihraç belgesi kullanılır.
+
+İzahname sorumluluğu. İzahnamede yer alan yanlış, yanıltıcı veya eksik bilgilerden kaynaklanan zararlardan önce ihraççı sorumludur. Zararın ihraççıdan tazmin edilememesi ya da edilemeyeceğinin açıkça belli olması halinde ise halka arz eden, varsa garantör ve ihraççının yönetim kurulu üyeleri, kusurlarına ve durumun gereklerine göre zarar kendilerine yüklenebildiği ölçüde sorumludur.
+
+Hafıza cümlesi: Önce ihraççı, sonra kusuruna göre diğerleri.
+
+Şimdi kurumsal yönetim ilkeleri. Kurumsal yönetim, şirketin pay sahipleri ve diğer menfaat sahipleriyle ilişkilerini düzenleyen kurallar bütünüdür. Dört temel kavramı vardır. Bunu ezberle.
+
+Bir: Eşitlik. Tüm pay sahiplerine, küçük ya da büyük, eşit davranılması.
+İki: Şeffaflık. Finansal ve finansal olmayan bilgilerin zamanında, doğru ve anlaşılır şekilde kamuya açıklanması.
+Üç: Hesap verebilirlik. Yönetim kurulunun pay sahiplerine hesap vermesi.
+Dört: Sorumluluk. Şirket faaliyetlerinin mevzuata, esas sözleşmeye ve toplumsal değerlere uygun yürütülmesi.
+
+Hafıza cümlesi: Eşitlik, şeffaflık, hesap verebilirlik, sorumluluk.
+
+Kurumsal yönetim ilkelerinin bir kısmı borsa şirketleri için zorunludur. En önemli zorunlu ilkelerden biri bağımsız yönetim kurulu üyeleridir. Bağımsız üyelerin sayısı, yönetim kurulu üye sayısının üçte birinden az olamaz ve her durumda en az iki olmalıdır.
+
+Bağımsız üye, şirketle, yönetimle ya da hakim ortaklarla önemli bir ilişkisi bulunmayan kişidir. Amacı, azınlık pay sahiplerini korumak ve yönetime tarafsız bir bakış getirmektir. Bu, soru bankandaki bağımsız yönetim kurulu sorusunun da konusudur.
+
+Yönetim kurulu bünyesinde komiteler kurulur. Denetimden sorumlu komite, kurumsal yönetim komitesi ve riskin erken saptanması komitesi bunların başlıcalarıdır. Denetimden sorumlu komitenin üyelerinin tamamı bağımsız üyelerden oluşur. Aday gösterme ve ücret komitelerinin görevleri, kurumsal yönetim komitesi tarafından da yerine getirilebilir.
+
+Ayrıca şirketlerde, pay sahipleriyle ilişkileri yürütmek için bir yatırımcı ilişkileri bölümü bulunur.
+
+Şimdi kolektif yatırım kuruluşları. Bunlar, birçok yatırımcının birikimini toplayıp profesyonelce yöneten yapılardır. İki ana türü vardır.
+
+Yatırım fonları: Tüzel kişiliği yoktur. Bir portföy yönetim şirketi tarafından, içtüzüğe göre yönetilir. Yatırımcı fon katılma payı satın alır. Fon varlıkları, portföy yönetim şirketinin varlıklarından ayrıdır ve saklayıcı kuruluşta tutulur.
+
+Yatırım ortaklıkları: Anonim şirket şeklinde kurulur, yani tüzel kişiliği vardır. Menkul kıymet yatırım ortaklıkları, gayrimenkul yatırım ortaklıkları ve girişim sermayesi yatırım ortaklıkları bunların örnekleridir.
+
+Hafıza cümlesi: Fonun tüzel kişiliği yok, ortaklığın var.
+
+Yatırım kuruluşları ise aracı kurumlar ve yatırım bankalarıdır. Bunlar, yatırımcı adına alım satım işlemlerine aracılık eder. Bir aracı kurum ödeme güçlüğüne düşerse, ilk bölümde öğrendiğin Yatırımcı Tazmin Merkezi devreye girer.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Kurumsal yönetim ilkelerine göre, yedi üyeli bir yönetim kurulunda en az kaç bağımsız üye bulunmalıdır?
+A şıkkı: Bir.
+B şıkkı: İki.
+C şıkkı: Üç.
+D şıkkı: Dört.
+E şıkkı: Yedi.
+
+Düşün.
+
+[[10]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, üç. Bağımsız üye sayısı üye sayısının üçte birinden az olamaz. Yedinin üçte biri iki virgül otuz üç eder. Kesirli sonuçta bir üst tam sayıya çıkılır, yani üç. İki, üçte birin altında kalırdı.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: İzahnamedeki yanlış bilgiden doğan zarardan öncelikle kim sorumludur?
+
+[[6]]
+
+[[bip]]
+
+Cevap: İhraççı. Zarar ihraççıdan karşılanamazsa halka arz eden, garantör ve yönetim kurulu üyeleri kusurlarına göre sorumlu olur.
+
+Dersin özeti.
+
+Bir. Halka arzda izahname zorunludur ve Kurulca onaylanır. Onay, yatırımın garantisi değildir.
+
+İki. İzahname sorumluluğunda önce ihraççı, sonra kusurlarına göre halka arz eden, garantör ve yönetim kurulu üyeleri gelir.
+
+Üç. Kurumsal yönetimin dört kavramı: eşitlik, şeffaflık, hesap verebilirlik, sorumluluk.
+
+Dört. Bağımsız üye sayısı yönetim kurulunun üçte birinden az olamaz, en az ikidir. Denetim komitesinin tamamı bağımsızdır.
+
+Beş. Yatırım fonlarının tüzel kişiliği yoktur, yatırım ortaklıkları ise anonim şirkettir.

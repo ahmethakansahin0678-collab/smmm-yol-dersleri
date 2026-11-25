@@ -1,0 +1,108 @@
+BAŞLIK: Maliyet Muhasebesi 2. Stok çıkış yöntemleri ve genel üretim giderlerinin dağıtımı
+
+Maliyet Muhasebesi ikinci bölüme hoş geldin. Bugün iki konu var. Birincisi, depodan çıkan malzemenin hangi fiyattan maliyete yükleneceği, yani stok çıkış yöntemleri. İkincisi, sınavın en uzun sorularının geldiği yer: Genel üretim giderlerinin dağıtımı.
+
+Stok çıkış yöntemleriyle başlayalım. Depoya farklı tarihlerde farklı fiyatlarla malzeme girer. Üretime malzeme verdiğimizde hangi fiyatı kullanacağız? Üç temel yöntem var.
+
+Birincisi ilk giren ilk çıkar yöntemi. İngilizce kısaltmasıyla FIFO. Depoya ilk giren malzeme ilk önce çıkmış kabul edilir. Bir süt dolabını düşün: Market görevlisi tarihi eski sütü öne koyar, önce o satılır.
+
+İkincisi ağırlıklı ortalama maliyet yöntemi. Dönem içindeki tüm girişlerin toplam tutarı toplam miktara bölünür ve tek bir ortalama fiyat bulunur.
+
+Üçüncüsü hareketli ortalama yöntemi. Her yeni girişten sonra ortalama yeniden hesaplanır.
+
+Bir de son giren ilk çıkar yöntemi var, kısaltması LIFO. Ama dikkat: Bu yöntem Türkiye Muhasebe Standartlarında, yani TMS iki Stoklar standardında yasaktır. Vergi mevzuatımız da bu yöntemi kabul etmez. Sınavda LIFO kullanılabilir mi diye sorulursa cevap hayırdır.
+
+Şimdi bir örnek. Sayıları takip et.
+
+Dönem başında depoda yüz birim malzeme var, birim fiyatı on lira. Toplam bin lira.
+
+Dönem içinde iki yüz birim alınıyor, birim fiyatı on üç lira. Toplam iki bin altı yüz lira.
+
+Üretime yüz elli birim malzeme veriliyor.
+
+İlk giren ilk çıkar yönteminde: Önce eski yüz birim çıkar, on liradan, bin lira. Kalan elli birim yeni partiden çıkar, on üç liradan, altı yüz elli lira. Toplam bin altı yüz elli lira.
+
+Ağırlıklı ortalama yönteminde: Toplam tutar bin artı iki bin altı yüz, üç bin altı yüz lira. Toplam miktar yüz artı iki yüz, üç yüz birim. Üç bin altı yüz bölü üç yüz, birim maliyet on iki lira. Yüz elli birim çarpı on iki lira, bin sekiz yüz lira.
+
+Yorum: Fiyatların arttığı dönemde ilk giren ilk çıkar yöntemi daha düşük maliyet, dolayısıyla daha yüksek kâr ve daha yüksek dönem sonu stok değeri verir. Çünkü ucuz eski mallar maliyete gider, pahalı yeni mallar depoda kalır.
+
+Hafıza cümlesi: Fiyatlar artarken FIFO kârı şişirir.
+
+Şimdi genel üretim giderlerinin dağıtımı. Genel üretim giderleri, yani fabrika elektriği, kira, amortisman gibi giderler, doğrudan bir mamule bağlanamaz. Bu yüzden önce gider yerlerine, sonra mamullere dağıtılır.
+
+Gider yerleri üç çeşittir.
+
+Esas üretim gider yerleri: Ürünün doğrudan üretildiği bölümler. Kesim, montaj, boya gibi.
+
+Yardımcı üretim gider yerleri: Üretime yardım eden ama ürün üretmeyen bölümler. Bakım onarım, enerji santrali gibi.
+
+Yardımcı hizmet gider yerleri: Fabrika yemekhanesi, fabrika müdürlüğü gibi.
+
+Dağıtım üç aşamada yapılır.
+
+Birinci dağıtım: Genel üretim giderleri, tüm gider yerlerine dağıtılır. Mesela kira, metrekareye göre; elektrik, kullanılan kilovatsaate göre.
+
+İkinci dağıtım: Yardımcı gider yerlerinde toplanan giderler, esas üretim gider yerlerine aktarılır. Bunun için üç yöntem var: Doğrudan dağıtım, kademeli dağıtım ve karşılıklı ya da matematiksel dağıtım. Doğrudan dağıtımda yardımcı bölümler birbirine hizmet vermiyormuş gibi kabul edilir. Kademeli dağıtımda en çok hizmet veren bölümden başlanır ve dağıtılan bölüme bir daha dağıtım yapılmaz. Karşılıklı dağıtımda bölümlerin birbirine verdiği hizmetler denklemlerle hesaplanır, en doğru ama en zahmetli yöntemdir.
+
+Üçüncü aşama: Esas üretim gider yerlerinde toplanan giderler, mamullere yüklenir.
+
+Şimdi en önemli kavram: Yükleme oranı. Genel üretim giderleri genellikle dönem başında tahmin edilerek yüklenir. Çünkü fiili tutarlar ancak dönem sonunda belli olur.
+
+Formül: Önceden belirlenmiş yükleme oranı eşittir tahmini genel üretim giderleri bölü tahmini dağıtım anahtarı. Dağıtım anahtarı makine saati, direkt işçilik saati ya da direkt işçilik tutarı olabilir.
+
+Örnek. Bir işletme yıllık genel üretim giderlerini iki yüz bin lira, makine saatini on bin saat olarak tahmin ediyor.
+
+Yükleme oranı: İki yüz bin bölü on bin, saat başına yirmi lira.
+
+Yıl içinde fiilen dokuz bin makine saati çalışılıyor. Yüklenen genel üretim gideri: Dokuz bin çarpı yirmi, yüz seksen bin lira.
+
+Yıl sonunda fiili genel üretim giderleri yüz doksan bin lira çıkıyor.
+
+Fiili yüz doksan bin, yüklenen yüz seksen bin. Fiili gider yüklenenden on bin lira fazla. Buna eksik yükleme denir. Eksik yüklenen on bin lira, satılan mamul maliyetine eklenir ya da stoklar ve satılan mamul maliyeti arasında paylaştırılır.
+
+Tersine, yüklenen tutar fiili tutardan fazla olsaydı, buna fazla yükleme derdik.
+
+Hafıza cümlesi: Fiili büyükse eksik yüklenmiş, yüklenen büyükse fazla yüklenmiş.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Dönem başında birim fiyatı yirmi lira olan iki yüz birim, dönem içinde birim fiyatı yirmi beş lira olan iki yüz birim malzeme vardır. Ağırlıklı ortalama yöntemine göre birim maliyet kaç liradır?
+A şıkkı: Yirmi.
+B şıkkı: Yirmi iki virgül elli.
+C şıkkı: Yirmi beş.
+D şıkkı: Yirmi üç.
+E şıkkı: Yirmi bir.
+
+Düşün.
+
+[[10]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, yirmi iki virgül elli lira. İki yüz çarpı yirmi, dört bin. İki yüz çarpı yirmi beş, beş bin. Toplam dokuz bin lira, dört yüz birim. Dokuz bin bölü dört yüz, yirmi iki virgül elli. Miktarlar eşit olduğu için cevap iki fiyatın basit ortalamasıyla da aynı.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Yükleme oranı makine saati başına otuz lira, fiili makine saati beş bin, fiili genel üretim gideri yüz altmış bin liradır. Yükleme farkı nedir?
+
+[[8]]
+
+[[bip]]
+
+Cevap: Yüklenen tutar beş bin çarpı otuz, yüz elli bin lira. Fiili tutar yüz altmış bin. Fiili daha büyük, yani on bin lira eksik yükleme var.
+
+Dersin özeti.
+
+Bir. Stok çıkış yöntemleri: ilk giren ilk çıkar, ağırlıklı ortalama, hareketli ortalama. Son giren ilk çıkar, yani LIFO, standartlarda ve vergi mevzuatında kabul edilmez.
+
+İki. Fiyatlar artarken ilk giren ilk çıkar yöntemi daha düşük maliyet ve daha yüksek kâr verir.
+
+Üç. Gider yerleri: esas üretim, yardımcı üretim ve yardımcı hizmet.
+
+Dört. İkinci dağıtım yöntemleri: doğrudan, kademeli ve karşılıklı dağıtım.
+
+Beş. Yükleme oranı eşittir tahmini genel üretim gideri bölü tahmini dağıtım anahtarı. Fiili büyükse eksik yükleme, yüklenen büyükse fazla yükleme.

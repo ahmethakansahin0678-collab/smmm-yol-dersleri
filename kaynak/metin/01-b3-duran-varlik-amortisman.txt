@@ -1,0 +1,107 @@
+BAŞLIK: Finansal Muhasebe 3. Maddi duran varlıklar ve amortisman
+
+Finansal Muhasebe üçüncü bölüme hoş geldin. Bugün maddi duran varlıkları, amortisman yöntemlerini ve bir duran varlığın satışını kaydetmeyi öğreneceğiz. Amortisman, sınavın hem Finansal Muhasebe hem Vergi dersinde ortak sorduğu bir konudur.
+
+Önce yirmi beş numaralı Maddi Duran Varlıklar grubu.
+
+İki yüz elli Arazi ve Arsalar.
+İki yüz elli bir Yeraltı ve Yerüstü Düzenleri. Yollar, otoparklar, çitler gibi.
+İki yüz elli iki Binalar.
+İki yüz elli üç Tesis, Makine ve Cihazlar.
+İki yüz elli dört Taşıtlar.
+İki yüz elli beş Demirbaşlar.
+İki yüz elli yedi Birikmiş Amortismanlar. Bu eksi karakterli düzenleyici bir hesaptır.
+İki yüz elli sekiz Yapılmakta Olan Yatırımlar.
+İki yüz elli dokuz Verilen Avanslar.
+
+Önemli bir kural: Arazi ve arsalar amortismana tabi değildir. Çünkü toprak kullanmakla aşınmaz. Ama arsa üzerindeki bina amortismana tabidir.
+
+Maliyet bedeli. Bir duran varlık, maliyet bedeliyle kaydedilir. Maliyet bedeline alış fiyatının yanında, varlığı kullanılabilir hale getirmek için yapılan nakliye, montaj, sigorta ve noter gibi giderler de dahildir. Ödenen kadeve ise indirilebiliyorsa maliyete eklenmez, yüz doksan bir İndirilecek kadeve hesabına alınır.
+
+Şimdi amortisman. Amortisman, duran varlığın maliyetinin, faydalı ömrü boyunca gidere dönüştürülmesidir. Bir benzetme: Bir aracı beş yıl kullanacaksan, onun bedelini tek yılda değil beş yıla yayarak gider yazarsın.
+
+Faydalı ömürler, Gelir İdaresinin yayımladığı amortisman listesinde belirlenmiştir. Bu arada Drive'ında Vergi Usul Kanunu amortisman oranlarıyla ilgili bir dosyan var, o liste tam olarak bu konuyla ilgili.
+
+Vergi Usul Kanununa göre iki temel yöntem var.
+
+Birincisi normal amortisman, yani eşit tutarlı yöntem. Oran, bir bölü faydalı ömürdür. Faydalı ömrü beş yıl olan bir varlıkta oran yüzde yirmidir. Her yıl aynı tutar ayrılır.
+
+İkincisi azalan bakiyeler yöntemi. Oran, normal oranın iki katıdır ve yüzde elliyi geçemez. Bu oran her yıl, kalan net değere uygulanır. Böylece ilk yıllarda daha fazla, sonraki yıllarda daha az amortisman ayrılır.
+
+Örnek. Bir makine yüz bin liraya alınıyor, faydalı ömrü beş yıl.
+
+Normal amortisman: Oran yüzde yirmi. Her yıl yüz binin yüzde yirmisi, yirmi bin lira.
+
+Azalan bakiyeler: Oran yüzde yirminin iki katı, yüzde kırk.
+
+Birinci yıl: Yüz binin yüzde kırkı, kırk bin lira. Kalan değer altmış bin.
+İkinci yıl: Altmış binin yüzde kırkı, yirmi dört bin lira. Kalan değer otuz altı bin.
+Üçüncü yıl: Otuz altı binin yüzde kırkı, on dört bin dört yüz lira.
+
+Son yılda ise kalan değerin tamamı amortisman olarak ayrılır, böylece varlık sıfırlanır.
+
+Kayıt. Yedi A seçeneğini kullanan bir işletmede, üretimde kullanılan makinenin amortismanı yedi yüz otuz Genel Üretim Giderleri hesabına, yönetimde kullanılan bir varlığın amortismanı yedi yüz yetmiş Genel Yönetim Giderleri hesabına borç yazılır. Karşılığında iki yüz elli yedi Birikmiş Amortismanlar hesabı alacaklanır.
+
+Dikkat: Amortisman ayrılırken varlık hesabının kendisine dokunulmaz. Makine hesabı hep yüz bin lira olarak kalır. Biriken amortisman ayrı bir hesapta toplanır. Bu ikisinin farkına net defter değeri denir.
+
+Şimdi duran varlık satışı. Örnek: Yukarıdaki makine, birikmiş amortismanı altmış bin lira iken, elli bin lira artı yüzde yirmi kadeve ile bankadan tahsil edilerek satılıyor.
+
+Önce net defter değeri: Yüz bin eksi altmış bin, kırk bin lira.
+
+Satış bedeli elli bin. Defter değeri kırk bin. On bin lira satış kârı var.
+
+Kayıt şöyle:
+Yüz iki Bankalar hesabı, altmış bin lira borç. Elli bin artı on bin kadeve.
+İki yüz elli yedi Birikmiş Amortismanlar hesabı, altmış bin lira borç. Böylece birikmiş amortisman kapanır.
+İki yüz elli üç Tesis, Makine ve Cihazlar hesabı, yüz bin lira alacak. Böylece varlık kapanır.
+Üç yüz doksan bir Hesaplanan kadeve hesabı, on bin lira alacak.
+Altı yüz yetmiş dokuz Diğer Olağan Gelir ve Kârlar hesabı, on bin lira alacak. Bu satış kârıdır.
+
+Kontrol: Borç tarafı altmış artı altmış, yüz yirmi bin. Alacak tarafı yüz artı on artı on, yüz yirmi bin. Denge tamam.
+
+Satış zararla yapılsaydı, zarar altı yüz seksen dokuz Diğer Olağandışı Gider ve Zararlar hesabına borç yazılırdı.
+
+Hafıza cümlesi: Duran varlık satış kârı altı yüz yetmiş dokuz, zararı altı yüz seksen dokuz.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Faydalı ömrü dört yıl olan bir varlık için azalan bakiyeler yönteminde uygulanacak amortisman oranı yüzde kaçtır?
+A şıkkı: Yüzde yirmi beş.
+B şıkkı: Yüzde elli.
+C şıkkı: Yüzde kırk.
+D şıkkı: Yüzde yetmiş beş.
+E şıkkı: Yüzde yirmi.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, yüzde elli. Normal oran bir bölü dört, yani yüzde yirmi beş. İki katı yüzde elli eder. Yüzde elli zaten azalan bakiyeler yönteminde izin verilen en yüksek orandır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Maliyeti iki yüz bin, birikmiş amortismanı yüz yirmi bin lira olan bir taşıt, kadeve hariç yetmiş bin liraya satılıyor. Satış kârı mı zararı mı oluşur, ne kadar?
+
+[[8]]
+
+[[bip]]
+
+Cevap: On bin lira zarar. Net defter değeri iki yüz bin eksi yüz yirmi bin, seksen bin. Satış bedeli yetmiş bin. Aradaki on bin lira zarar, altı yüz seksen dokuz numaralı hesaba borç yazılır.
+
+Dersin özeti.
+
+Bir. Arazi ve arsalar amortismana tabi değildir.
+
+İki. Maliyet bedeline nakliye, montaj, sigorta gibi giderler dahildir. İndirilebilen kadeve dahil değildir.
+
+Üç. Normal amortisman oranı bir bölü faydalı ömürdür. Azalan bakiyeler oranı bunun iki katıdır ve en fazla yüzde ellidir.
+
+Dört. Amortisman kaydında gider hesabı borç, iki yüz elli yedi Birikmiş Amortismanlar alacak.
+
+Beş. Duran varlık satış kârı altı yüz yetmiş dokuz, zararı altı yüz seksen dokuz numaralı hesaba kaydedilir.

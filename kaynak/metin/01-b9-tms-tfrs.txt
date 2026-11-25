@@ -1,0 +1,97 @@
+BAŞLIK: Finansal Muhasebe 9. Türkiye Finansal Raporlama Standartları: çerçeve ve temel standartlar
+
+Finansal Muhasebe dokuzuncu bölüme hoş geldin. Şimdiye kadar çoğunlukla Tekdüzen Hesap Planı ve Vergi Usul Kanunu bakış açısıyla çalıştık. Bugün standartlar tarafına geçiyoruz: Türkiye Muhasebe ve Finansal Raporlama Standartları, kimin uyguladığı, kavramsal çerçeve ve sınavda en sık atıf yapılan standartlar.
+
+Önce yapı. Standartları Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu yayımlar. Türkiye'de üç katmanlı bir yapı var.
+
+Birinci katman: Tam set Türkiye Finansal Raporlama Standartları. Kamu yararını ilgilendiren kuruluşlar uygular. Borsada işlem gören şirketler, bankalar, sigorta şirketleri gibi.
+
+İkinci katman: Büyük ve Orta Boy İşletmeler için Finansal Raporlama Standardı. Kısaca BOBİ FRS. Bağımsız denetime tabi olup kamu yararını ilgilendiren kuruluş olmayan işletmeler uygular.
+
+Üçüncü katman: Diğer işletmeler. Bunlar Vergi Usul Kanunu ve Muhasebe Sistemi Uygulama Genel Tebliğleri, yani Tekdüzen Hesap Planı çerçevesinde finansal tablo hazırlar.
+
+Hafıza cümlesi: Kamu yararı tam set, büyük ve orta boy BOBİ, diğerleri vergi mevzuatı.
+
+Şimdi kavramsal çerçeve. Standartların temelindeki fikirler bunlardır.
+
+Temel varsayım: İşletmenin sürekliliği. Finansal tablolar, işletmenin öngörülebilir gelecekte faaliyetlerine devam edeceği varsayımıyla hazırlanır.
+
+Temel niteliksel özellikler iki tanedir: İhtiyaca uygunluk ve gerçeğe uygun sunum. İhtiyaca uygun bilgi, kullanıcıların kararlarını etkileyebilen bilgidir. Gerçeğe uygun sunum ise bilginin tam, tarafsız ve hatasız olmasıdır.
+
+Destekleyici niteliksel özellikler dört tanedir: Karşılaştırılabilirlik, doğrulanabilirlik, zamanında sunum ve anlaşılabilirlik.
+
+Hafıza cümlesi: Temel iki, ihtiyaca uygun ve gerçeğe uygun. Destekleyici dört, karşılaştır, doğrula, zamanında, anlaşılır.
+
+Finansal tabloların unsurları: Varlıklar, yükümlülükler, özkaynaklar, gelirler ve giderler.
+
+Şimdi sınavda en çok atıf yapılan standartlar. Numaralarıyla birlikte duy, numaraları da sorulabilir.
+
+TMS bir: Finansal Tabloların Sunuluşu.
+TMS iki: Stoklar. Stoklar, maliyet ile net gerçekleşebilir değerden düşük olanıyla ölçülür. Son giren ilk çıkar yöntemi yasaktır.
+TMS yedi: Nakit Akış Tabloları.
+TMS on iki: Gelir Vergileri. Ertelenmiş vergi bu standartta düzenlenir.
+TMS on altı: Maddi Duran Varlıklar. Maliyet modeli ya da yeniden değerleme modeli seçilebilir. Önemli parçalar ayrı ayrı amortismana tabi tutulur. Faydalı ömür ve kalıntı değer her yıl gözden geçirilir.
+TMS on dokuz: Çalışanlara Sağlanan Faydalar. Kıdem tazminatı karşılığı bu standarda göre hesaplanır.
+TMS yirmi dokuz: Yüksek Enflasyonlu Ekonomilerde Finansal Raporlama.
+TMS otuz altı: Varlıklarda Değer Düşüklüğü.
+TMS otuz yedi: Karşılıklar, Koşullu Borçlar ve Koşullu Varlıklar.
+TMS otuz sekiz: Maddi Olmayan Duran Varlıklar.
+TFRS dokuz: Finansal Araçlar.
+TFRS on: Konsolide Finansal Tablolar.
+TFRS on beş: Müşteri Sözleşmelerinden Hasılat.
+TFRS on altı: Kiralamalar.
+
+TFRS on beşin beş adımlı modeli sınavda sık sorulur.
+
+Bir: Müşteriyle yapılan sözleşmenin belirlenmesi.
+İki: Sözleşmedeki edim yükümlülüklerinin belirlenmesi.
+Üç: İşlem bedelinin belirlenmesi.
+Dört: İşlem bedelinin edim yükümlülüklerine dağıtılması.
+Beş: Edim yükümlülükleri yerine getirildikçe veya getirildiğinde hasılatın finansal tablolara alınması.
+
+Hafıza cümlesi: Sözleşme, edim, bedel, dağıt, hasılat.
+
+TMS otuz yedi ile ilgili bir ayrım: Karşılık, zamanlaması veya tutarı belirsiz olan bir yükümlülüktür ve finansal tablolara alınır. Bunun için geçmiş bir olaydan doğan mevcut bir yükümlülük olmalı, kaynak çıkışı muhtemel olmalı ve tutar güvenilir şekilde tahmin edilebilmelidir. Bu şartlar sağlanmıyorsa, yükümlülük koşullu borçtur ve tablolara alınmaz, sadece dipnotlarda açıklanır.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Kavramsal çerçeveye göre aşağıdakilerden hangisi temel niteliksel özelliklerden biridir?
+A şıkkı: Karşılaştırılabilirlik.
+B şıkkı: Doğrulanabilirlik.
+C şıkkı: Gerçeğe uygun sunum.
+D şıkkı: Zamanında sunum.
+E şıkkı: Anlaşılabilirlik.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, gerçeğe uygun sunum. Temel niteliksel özellikler ihtiyaca uygunluk ve gerçeğe uygun sunumdur. Diğer dört şık destekleyici niteliksel özelliklerdir.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Kıdem tazminatı karşılığı hangi standarda göre hesaplanır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: TMS on dokuz, Çalışanlara Sağlanan Faydalar.
+
+Dersin özeti.
+
+Bir. Kamu yararını ilgilendiren kuruluşlar tam set standartları, büyük ve orta boy işletmeler BOBİ FRS'yi, diğerleri vergi mevzuatını uygular.
+
+İki. Temel varsayım işletmenin sürekliliğidir.
+
+Üç. Temel niteliksel özellikler: ihtiyaca uygunluk ve gerçeğe uygun sunum. Destekleyiciler: karşılaştırılabilirlik, doğrulanabilirlik, zamanında sunum, anlaşılabilirlik.
+
+Dört. TMS iki stoklar, TMS on altı maddi duran varlıklar, TMS on dokuz çalışan faydaları, TMS otuz yedi karşılıklar, TFRS on beş hasılat, TFRS on altı kiralamalar.
+
+Beş. TFRS on beşin beş adımı: sözleşme, edim yükümlülüğü, işlem bedeli, dağıtım, hasılat.

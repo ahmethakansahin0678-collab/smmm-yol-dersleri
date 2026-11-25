@@ -1,0 +1,90 @@
+BAŞLIK: Vergi Mevzuatı 2. Vergi Usul Kanunu: defter, belge, zamanaşımı ve vergi cezaları
+
+Vergi Mevzuatı ikinci bölüme hoş geldin. Bugün Vergi Usul Kanununun sınavda en çok sorulan dört konusunu işleyeceğiz: Defter tutma esasları, belge düzeni, zamanaşımı ve vergi cezaları.
+
+Önce defter tutma. Vergi Usul Kanunu tacirleri iki sınıfa ayırır: Birinci sınıf tüccarlar ve ikinci sınıf tüccarlar.
+
+Birinci sınıf tüccarlar bilanço esasına göre defter tutar. Yani yevmiye defteri, büyük defter ve envanter defteri tutarlar.
+
+İkinci sınıf tüccarlar ise işletme hesabı esasına göre defter tutar. Tek bir defter vardır: İşletme defteri. Bir sayfasında giderler, diğer sayfasında hasılat yazılır.
+
+Hangi tacirin hangi sınıfa gireceği, yıllık alış, satış ya da hasılat tutarlarına bağlıdır. Bu sınırlar her yıl yeniden değerleme oranında güncellenir, sınavdan önce güncel tutarlara bak.
+
+Önemli bir kural: Sermaye şirketleri, yani anonim ve limited şirketler, hasılatları ne olursa olsun her zaman birinci sınıf tüccardır ve bilanço esasına göre defter tutar.
+
+Serbest meslek erbabı ise serbest meslek kazanç defteri tutar.
+
+Hafıza cümlesi: Şirket her zaman bilanço, küçük tacir işletme defteri, serbest meslek kendi defteri.
+
+Şimdi belge düzeni. Faturanın düzenlenme süresi sınavın klasik sorusudur. Fatura, malın teslimi veya hizmetin yapıldığı tarihten itibaren azami yedi gün içinde düzenlenir. Bu süre içinde düzenlenmeyen fatura, hiç düzenlenmemiş sayılır.
+
+Malın taşınması sırasında ise sevk irsaliyesi bulundurulur. Çiftçiden alınan ürünler için müstahsil makbuzu, serbest meslek faaliyetinde ise serbest meslek makbuzu düzenlenir. Bunların çoğu bugün elektronik ortamda, yani e-fatura, e-arşiv, e-irsaliye ve e-serbest meslek makbuzu olarak düzenlenir.
+
+Şimdi saklama süresi. Vergi Usul Kanununa göre defter ve belgeler, ilgili oldukları yılı takip eden takvim yılından başlayarak beş yıl saklanır. Türk Ticaret Kanununa göre ise saklama süresi on yıldır. Uygulamada uzun olan süreye, yani on yıla uyulur.
+
+Şimdi zamanaşımı. Vergi Usul Kanununa göre vergi alacağı, doğduğu takvim yılını takip eden yılın başından başlayarak beş yıl içinde tarh ve mükellefe tebliğ edilmezse zamanaşımına uğrar.
+
+Bir örnek: İki bin yirmi altı yılında doğan bir vergi için zamanaşımı süresi iki bin yirmi yedi yılının bir Ocak tarihinde başlar ve iki bin otuz bir yılı sonunda dolar.
+
+Dikkat: Tahsil zamanaşımı ise farklı bir kanunda, altı bin yüz seksen üç sayılı Kanunda düzenlenir ve vadenin rastladığı takvim yılını takip eden yılın başından itibaren yine beş yıldır.
+
+Şimdi vergi cezaları. Vergi Usul Kanununda cezalar iki ana gruba ayrılır: Vergi ziyaı cezası ve usulsüzlük cezaları. Bunların dışında, kaçakçılık suçları için hapis cezası öngörülmüştür.
+
+Vergi ziyaı, mükellefin vergilendirmeyle ilgili ödevlerini zamanında yerine getirmemesi ya da eksik yerine getirmesi yüzünden verginin zamanında tahakkuk ettirilmemesi veya eksik tahakkuk ettirilmesidir. Vergi ziyaı cezası, ziyaa uğratılan verginin bir katıdır. Ancak vergi ziyaı kaçakçılık fiilleriyle yapılmışsa ceza üç katıdır.
+
+Usulsüzlük ise vergi kanunlarının şekle ve usule ilişkin hükümlerine uyulmamasıdır. Birinci derece ve ikinci derece usulsüzlük olarak ikiye ayrılır. Bunun yanında belge düzenine ilişkin ihlaller için özel usulsüzlük cezaları vardır. Mesela fatura vermemek ya da almamak.
+
+Kaçakçılık suçlarında ise hapis cezası vardır. En ağır örnek: Sahte belge düzenlemek veya kullanmak. Gerçek bir işlem olmadığı halde varmış gibi düzenlenen belgeye sahte belge denir. Gerçek bir işlem var ama tutarı farklı gösterilmişse buna muhteviyatı itibarıyla yanıltıcı belge denir.
+
+Şimdi cezalardan kurtulma ve indirim yolları. Bu da çok sorulur.
+
+Pişmanlık ve ıslah: Mükellef, vergi idaresi durumu tespit etmeden önce kendiliğinden beyanname verirse, vergi ziyaı cezası kesilmez. Sadece gecikme faizi niteliğinde pişmanlık zammı ödenir.
+
+Cezalarda indirim: Mükellef dava açmaz ve vergiyi öderse, vergi ziyaı cezasının ilk defada yarısı, sonrakilerde üçte biri indirilir. Usulsüzlük cezalarında ise üçte bir indirim yapılır.
+
+Uzlaşma: Mükellef ile idare, vergi ve ceza üzerinde anlaşmaya varabilir.
+
+Hafıza cümlesi: Önce davran pişmanlık, öde indirim, konuş uzlaşma.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Vergi Usul Kanununa göre fatura, malın teslimi veya hizmetin yapıldığı tarihten itibaren en geç kaç gün içinde düzenlenmelidir?
+A şıkkı: Üç gün.
+B şıkkı: Beş gün.
+C şıkkı: Yedi gün.
+D şıkkı: On gün.
+E şıkkı: On beş gün.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, yedi gün. Bu süre içinde düzenlenmeyen fatura hiç düzenlenmemiş sayılır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Kaçakçılık fiilleriyle vergi ziyaına sebebiyet verilmesi halinde vergi ziyaı cezası ziyaa uğratılan verginin kaç katıdır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Üç katı. Normal vergi ziyaında ceza bir kattır, kaçakçılık fiilleriyle yapılmışsa üç kattır.
+
+Dersin özeti.
+
+Bir. Birinci sınıf tüccar bilanço esasına, ikinci sınıf tüccar işletme hesabı esasına göre defter tutar. Sermaye şirketleri her zaman bilanço esasındadır.
+
+İki. Fatura en geç yedi gün içinde düzenlenir.
+
+Üç. Vergi Usul Kanununa göre saklama süresi beş yıl, Türk Ticaret Kanununa göre on yıldır.
+
+Dört. Tarh zamanaşımı, vergi alacağının doğduğu yılı takip eden yılın başından itibaren beş yıldır.
+
+Beş. Vergi ziyaı cezası bir kat, kaçakçılık fiilleriyle üç kattır. Dava açmayıp ödeyene ilk defada yarı, sonra üçte bir indirim yapılır.

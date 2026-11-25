@@ -1,0 +1,78 @@
+BAŞLIK: Hukuk 8. Ticaret unvanı, ticaret sicili ve ticari defterler
+
+Hukuk sekizinci bölüme hoş geldin. Bugün bir işletmenin kuruluşunda mali müşavirin bizzat ilgilendiği üç konuyu işleyeceğiz: Ticaret unvanı, ticaret sicili ve Türk Ticaret Kanununa göre tutulacak defterler.
+
+Önce ticaret unvanı. Ticaret unvanı, tacirin ticari işletmesine ilişkin işlemleri yaptığı ve imzasını attığı addır. Her tacir, ticari işletmesini açtığı günden itibaren on beş gün içinde, işletmenin bulunduğu yer ticaret siciline tescil ve ilan ettirmek zorundadır.
+
+Hafıza cümlesi: Açılıştan itibaren on beş gün içinde tescil.
+
+Ticaret unvanının oluşturulması kurallara bağlıdır.
+
+Gerçek kişi tacirin ticaret unvanı, kısaltılmamış ad ve soyadından oluşur. Bunlara işletmenin konusunu gösteren ekler yapılabilir. Mesela Ahmet Yılmaz Mobilya gibi.
+
+Kollektif şirketin ticaret unvanı, ortaklardan en az birinin ad ve soyadıyla şirketin kollektif şirket olduğunu gösteren bir ibareyi içerir.
+
+Anonim ve limited şirketlerin ticaret unvanında ise, işletme konusunun gösterilmesi ve şirket türünün yazılması zorunludur. Ortakların adı kullanılabilir ama zorunlu değildir.
+
+Unvanın korunması: Tescil edilen bir ticaret unvanı, aynı sicil müdürlüğünde başka bir tacir tarafından kullanılamaz. Unvanı haksız olarak kullanılan kişi, kullanımın önlenmesini ve zararının tazminini isteyebilir.
+
+Şimdi ticaret sicili. Ticaret sicili, ticari işletmelerle ilgili kanunen tescili gereken hususların kaydedildiği resmi bir kütüktür. Sicil müdürlükleri, ticaret ve sanayi odaları veya ticaret odaları bünyesinde kurulur. İlanlar Türkiye Ticaret Sicili Gazetesinde yapılır.
+
+Tescilin etkisi. Sınavın sevdiği iki kavram var.
+
+Olumlu etki: Tescil ve ilan edilen bir husus, ilan tarihinden sonra herkes tarafından bilinmiş sayılır. Kimse onu bilmediğini ileri süremez.
+
+Olumsuz etki: Tescili gerektiği halde tescil edilmemiş bir husus, onu bilmeyen üçüncü kişilere karşı ileri sürülemez. Mesela bir şirket müdürünün görevden alındığı tescil edilmemişse, bunu bilmeyen bir kişiye karşı, müdürün yaptığı işlemin geçersiz olduğu ileri sürülemez.
+
+Hafıza cümlesi: Tescil edilen herkesçe bilinmiş sayılır, tescil edilmeyen bilmeyene karşı ileri sürülemez.
+
+Şimdi ticari defterler. Türk Ticaret Kanununa göre her tacir, ticari işletmesiyle ilgili işlemlerini ve malvarlığını, kanuna ve genel kabul görmüş muhasebe ilkelerine uygun olarak defterlere kaydetmek zorundadır.
+
+Tutulması zorunlu defterler şunlardır: Yevmiye defteri, defteri kebir, yani büyük defter, ve envanter defteri. Anonim şirketlerde bunlara ek olarak pay defteri, yönetim kurulu karar defteri ve genel kurul toplantı ve müzakere defteri tutulur. Limited şirketlerde pay defteri, müdürler kurulu karar defteri ve genel kurul toplantı ve müzakere defteri tutulur.
+
+Defterlerin onayı. Defterlerin açılış onayı, kullanılmaya başlanmadan önce noter tarafından yapılır. Elektronik ortamda tutulan defterlerde, yani e-defterde, onay işlemi elektronik ortamda gerçekleşir. Yevmiye defteri ile yönetim kurulu karar defterinin ayrıca kapanış onayı da vardır.
+
+Saklama süresi. Vergi dersinde gördüğümüz gibi, Türk Ticaret Kanununa göre defterler ve belgeler on yıl saklanır.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Bir tacir, ticari işletmesini açtığı günden itibaren ticaret unvanını kaç gün içinde tescil ettirmelidir?
+A şıkkı: Yedi gün.
+B şıkkı: On gün.
+C şıkkı: On beş gün.
+D şıkkı: Otuz gün.
+E şıkkı: Üç ay.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı, on beş gün.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bir limited şirketin ticaret unvanında hangi iki unsurun bulunması zorunludur?
+
+[[6]]
+
+[[bip]]
+
+Cevap: İşletme konusu ve şirket türü, yani limited şirket ibaresi.
+
+Dersin özeti.
+
+Bir. Ticaret unvanı, işletmenin açılışından itibaren on beş gün içinde tescil ve ilan edilir.
+
+İki. Gerçek kişi tacirin unvanı kısaltılmamış ad ve soyadından oluşur. Anonim ve limited şirketlerde işletme konusu ve şirket türü zorunludur.
+
+Üç. Tescilin olumlu etkisi: tescil ve ilan edilen herkesçe bilinmiş sayılır. Olumsuz etkisi: tescil edilmeyen, bilmeyen üçüncü kişilere karşı ileri sürülemez.
+
+Dört. Zorunlu defterler: yevmiye, defteri kebir ve envanter. Anonim şirkette ayrıca pay defteri, yönetim kurulu karar defteri ve genel kurul defteri.
+
+Beş. Açılış onayı kullanmaya başlamadan önce yapılır. Defterler on yıl saklanır.

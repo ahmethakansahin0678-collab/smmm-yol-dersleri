@@ -1,0 +1,110 @@
+BAŞLIK: Finansal Muhasebe 2. Ticari alacaklar, şüpheli alacaklar ve reeskont
+
+Finansal Muhasebe ikinci bölüme hoş geldin. Bugün sınavın en sevdiği üç konuyu işleyeceğiz: Ticari alacaklar grubu, şüpheli alacaklar ve reeskont.
+
+Önce on iki numaralı Ticari Alacaklar grubu. Bu grupta şu hesaplar var.
+
+Yüz yirmi Alıcılar. Senetsiz, yani açık hesap ticari alacaklar.
+Yüz yirmi bir Alacak Senetleri. Senede bağlanmış ticari alacaklar.
+Yüz yirmi iki Alacak Senetleri Reeskontu. Bu bir düzenleyici hesaptır, yani eksi karakterlidir.
+Yüz yirmi altı Verilen Depozito ve Teminatlar.
+Yüz yirmi yedi Diğer Ticari Alacaklar.
+Yüz yirmi sekiz Şüpheli Ticari Alacaklar.
+Yüz yirmi dokuz Şüpheli Ticari Alacaklar Karşılığı. Bu da eksi karakterli düzenleyici bir hesaptır.
+
+Eksi karakterli hesaplar, yani düzenleyici hesaplar, ait oldukları grubun tersine çalışır. Varlık grubunda yer aldıkları halde alacak bakiyesi verirler. Bunu bir terazinin karşı kefesi gibi düşün: Alacakların değerini aşağı çeker.
+
+Şimdi şüpheli alacaklar. Vergi Usul Kanununun üç yüz yirmi üçüncü maddesine göre iki tür alacak şüpheli sayılır.
+
+Birincisi, dava veya icra safhasında bulunan alacaklar.
+
+İkincisi, yapılan protestoya veya yazı ile bir defadan fazla istenmesine rağmen borçlu tarafından ödenmemiş bulunan, dava ve icra takibine değmeyecek derecede küçük alacaklar.
+
+Teminatlı alacaklarda ise karşılık sadece teminatsız kısım için ayrılabilir.
+
+Hafıza cümlesi: Ya dava ya icra, ya da küçük ve defalarca istenmiş.
+
+Şüpheli alacak muhasebesi dört adımlıdır. Bir örnekle gidelim.
+
+Bir müşteriden altmış bin lira alacağımız var. Müşteri ödemiyor ve biz icra takibi başlatıyoruz.
+
+Birinci adım: Alacağı şüpheli hesaba aktarırız. Yüz yirmi sekiz Şüpheli Ticari Alacaklar hesabı altmış bin lira borç. Yüz yirmi Alıcılar hesabı altmış bin lira alacak.
+
+İkinci adım: Dönem sonunda karşılık ayırırız. Altı yüz elli dört Karşılık Giderleri hesabı altmış bin lira borç. Yüz yirmi dokuz Şüpheli Ticari Alacaklar Karşılığı hesabı altmış bin lira alacak. Bu gider, vergi açısından da indirilebilir.
+
+Üçüncü adım, eğer alacak sonradan tahsil edilirse: Diyelim ki ertesi yıl müşteri yirmi bin lira ödedi. Kasa yirmi bin borç, yüz yirmi sekiz Şüpheli Ticari Alacaklar yirmi bin alacak. Ayrıca bu kısım için ayrılan karşılık artık gereksiz kaldı. Yüz yirmi dokuz karşılık hesabı yirmi bin borç, altı yüz kırk dört Konusu Kalmayan Karşılıklar hesabı yirmi bin alacak. Yani daha önce gider yazdığımız tutar, gelir olarak geri döner.
+
+Dördüncü adım, alacak tamamen değersiz hale gelirse: Mesela mahkeme kararıyla tahsil imkânı kalmazsa, kalan kırk bin lira için yüz yirmi dokuz karşılık hesabı kırk bin borç, yüz yirmi sekiz şüpheli alacak hesabı kırk bin alacak yazılır. Böylece iki hesap birbirini kapatır.
+
+Şimdi reeskont. Reeskont kelimesi korkutucu ama mantığı basit. Elinde üç ay sonra vadesi gelecek, yüz on bin liralık bir senet var. Bu senedin bugünkü değeri yüz on bin lira değildir, çünkü paranın zaman değeri vardır. Bugün yüz bin lirayı alıp faize yatırsan üç ayda yüz on bine ulaşabilirsin. Yani senedin bugünkü değeri yaklaşık yüz bin liradır.
+
+Reeskont, dönem sonunda senetleri bugünkü değerine indirmek demektir. Vergi Usul Kanununun iki yüz seksen birinci maddesi alacak senetleri için bunu isteğe bağlı olarak düzenler. Reeskont yapılacaksa, Merkez Bankasının reeskont faiz oranı kullanılır.
+
+İki hesaplama yöntemi vardır.
+
+Dış iskonto: Senedin nominal değeri, çarpı faiz oranı, çarpı gün sayısı, bölü otuz altı bin.
+
+İç iskonto: Nominal değer çarpı faiz oranı çarpı gün sayısı, bölü otuz altı bin artı faiz oranı çarpı gün sayısı.
+
+Sınav sorusu hangi yöntemin kullanılacağını genellikle belirtir.
+
+Örnek. Nominal değeri yüz on bin lira olan bir alacak senedinin vadesine doksan gün var. Reeskont faiz oranı yüzde kırk.
+
+Önce faiz oranı çarpı gün: Kırk çarpı doksan, üç bin altı yüz.
+
+Dış iskonto: Yüz on bin çarpı üç bin altı yüz, bölü otuz altı bin. Üç bin altı yüz bölü otuz altı bin, onda bir eder. Yüz on binin onda biri, on bir bin lira.
+
+İç iskonto: Payda otuz altı bin artı üç bin altı yüz, yani otuz dokuz bin altı yüz. Yüz on bin çarpı üç bin altı yüz bölü otuz dokuz bin altı yüz, tam on bin lira eder.
+
+Görüldüğü gibi iç iskonto her zaman dış iskontodan küçüktür. Çünkü iç iskontoda faiz, bugünkü değer üzerinden hesaplanır.
+
+Muhasebe kaydı, alacak senetleri için: Altı yüz elli yedi Reeskont Faiz Giderleri hesabı borç, yüz yirmi iki Alacak Senetleri Reeskontu hesabı alacak.
+
+Yeni dönemin başında bu kayıt ters çevrilir: Yüz yirmi iki borç, altı yüz kırk yedi Reeskont Faiz Gelirleri alacak.
+
+Borç senetlerinde ise tam tersi: Dönem sonunda üç yüz yirmi iki Borç Senetleri Reeskontu hesabı borç, altı yüz kırk yedi Reeskont Faiz Gelirleri hesabı alacak. Çünkü borcumuzun bugünkü değeri azalmıştır, bu bizim için bir gelirdir.
+
+Hafıza cümlesi: Alacak senedi reeskontu gider, borç senedi reeskontu gelir yaratır.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Dönem sonunda alacak senetleri için reeskont ayrılmasına ilişkin kayıtta hangi hesap borçlandırılır?
+A şıkkı: Yüz yirmi bir Alacak Senetleri.
+B şıkkı: Yüz yirmi iki Alacak Senetleri Reeskontu.
+C şıkkı: Altı yüz kırk yedi Reeskont Faiz Gelirleri.
+D şıkkı: Altı yüz elli yedi Reeskont Faiz Giderleri.
+E şıkkı: Altı yüz elli dört Karşılık Giderleri.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap D şıkkı. Altı yüz elli yedi Reeskont Faiz Giderleri borçlanır, yüz yirmi iki Alacak Senetleri Reeskontu alacaklanır. Alacaklarımızın bugünkü değeri düştüğü için bir gider oluşur.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Önceki yıl tamamen karşılık ayrılmış şüpheli bir alacağın bu yıl tahsil edilen kısmı için karşılık hangi hesaba aktarılır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Altı yüz kırk dört Konusu Kalmayan Karşılıklar hesabına. Karşılık hesabı borçlanır, altı yüz kırk dört alacaklanır ve gelir yazılır.
+
+Dersin özeti.
+
+Bir. Yüz yirmi iki ve yüz yirmi dokuz eksi karakterli düzenleyici hesaplardır.
+
+İki. Şüpheli alacak: ya dava veya icra safhasında, ya da küçük olup protesto veya yazıyla birden fazla istenmiş alacak.
+
+Üç. Karşılık kaydı: Altı yüz elli dört borç, yüz yirmi dokuz alacak. Sonradan tahsilde karşılık, altı yüz kırk dörde gelir olarak döner.
+
+Dört. Dış iskonto eşittir nominal çarpı oran çarpı gün bölü otuz altı bin. İç iskontoda paydaya oran çarpı gün eklenir. İç iskonto daha küçüktür.
+
+Beş. Alacak senedi reeskontu altı yüz elli yediye gider, borç senedi reeskontu altı yüz kırk yediye gelir yazılır.

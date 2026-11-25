@@ -1,0 +1,92 @@
+BAŞLIK: Hukuk 4. Anonim şirket: genel kurul, yönetim kurulu, yedek akçeler ve pay sahibi hakları
+
+Hukuk dördüncü bölüme hoş geldin. Bugün anonim şirketin iç işleyişini öğreneceğiz: Genel kurul, yönetim kurulu, kanuni yedek akçeler ve pay sahiplerinin hakları. Bu konular hem Hukuk dersinde hem de Finansal Muhasebedeki şirketler muhasebesinde karşına çıkar.
+
+Anonim şirketin iki zorunlu organı vardır: Genel kurul ve yönetim kurulu. Kanunda öngörülen hallerde ayrıca bağımsız denetçi seçilir.
+
+Bir benzetme: Genel kurul şirketin meclisidir, büyük kararları verir. Yönetim kurulu ise hükümetidir, şirketi günlük olarak yönetir ve temsil eder.
+
+Önce genel kurul. Genel kurul, pay sahiplerinden oluşur. İki tür toplantı vardır.
+
+Olağan genel kurul: Her faaliyet dönemi sonundan itibaren üç ay içinde toplanır. Faaliyet dönemi takvim yılı olan şirketlerde bu, mart sonuna kadardır. Gündemde finansal tabloların onaylanması, yönetim kurulunun ibrası, kârın dağıtımı ve yönetim kurulu üyelerinin seçimi gibi konular yer alır.
+
+Olağanüstü genel kurul: Şirket işlerinin gerektirdiği hallerde ve zamanlarda toplanır.
+
+Toplantı ve karar nisapları. Bu sayılar sınavda sık sorulur.
+
+Kural olarak genel kurul, sermayenin en az dörtte birini karşılayan payların sahiplerinin veya temsilcilerinin varlığıyla toplanır. İlk toplantıda bu nisap sağlanamazsa, ikinci toplantıda toplantı nisabı aranmaz. Kararlar, toplantıda hazır bulunan oyların çoğunluğuyla alınır.
+
+Esas sözleşme değişikliği gibi önemli kararlarda ise, sermayenin en az yarısını temsil eden pay sahiplerinin varlığı aranır. İlk toplantıda sağlanamazsa, ikinci toplantıda en az üçte biri aranır.
+
+Hafıza cümlesi: Olağan işler dörtte bir, esas sözleşme değişikliği yarı, ikinci toplantıda üçte bir.
+
+Genel kurulun devredilemez yetkileri vardır. Esas sözleşmenin değiştirilmesi, yönetim kurulu üyelerinin seçimi ve azli, finansal tabloların onaylanması ve kâr dağıtımına karar verilmesi, şirketin feshi bunlardandır.
+
+Şimdi yönetim kurulu. Yönetim kurulu, esas sözleşmeyle atanmış ya da genel kurulca seçilmiş bir veya daha fazla kişiden oluşur. Yani tek kişilik yönetim kurulu mümkündür. Üyeler en fazla üç yıl için seçilir ve yeniden seçilebilir. Bir tüzel kişi de yönetim kurulu üyesi olabilir. Bu durumda tüzel kişi adına bir gerçek kişi tescil edilir.
+
+Yönetim kurulunun da devredilemez görevleri vardır. Şirketin üst düzey yönetimi ve talimat verilmesi, şirket yönetim teşkilatının belirlenmesi, muhasebe, finans denetimi ve finansal planlama için gerekli düzenin kurulması, müdürlerin atanması ve görevden alınması, yönetim işlerini yürütenlerin gözetimi ve şirketin borca batık durumda olması halinde mahkemeye bildirimde bulunulması bunlardandır.
+
+Şimdi kanuni yedek akçeler. Bu, muhasebeyle doğrudan ilgili bir konu.
+
+Birinci tertip kanuni yedek akçe: Yıllık kârın yüzde beşi, ödenmiş sermayenin yüzde yirmisine ulaşıncaya kadar genel kanuni yedek akçeye ayrılır.
+
+İkinci tertip kanuni yedek akçe: Pay sahiplerine sermayenin yüzde beşi oranında birinci kâr payı ödendikten sonra, ortaklara dağıtılacak kâr payının bu birinci kısmı aşan bölümünün yüzde onu genel kanuni yedek akçeye eklenir. Uygulamada ve sınavlarda bu yorum kullanılır. Hesap örneğini Finansal Muhasebenin özkaynaklar bölümünde çözeceğiz.
+
+Hafıza cümlesi: Birinci tertip yüzde beş, sermayenin beşte birine kadar. İkinci tertip, birinci yüzde beşi aşan kâr payının onda biri.
+
+Örnek. Ödenmiş sermayesi bir milyon lira olan bir şirketin dönem kârı iki yüz bin lira. Daha önce hiç yedek ayrılmamış.
+
+Birinci tertip: İki yüz binin yüzde beşi, on bin lira. Sınır, bir milyonun yüzde yirmisi olan iki yüz bin liradır, henüz ulaşılmadığı için on binin tamamı ayrılır.
+
+Şimdi pay sahibi hakları. İki gruba ayrılır.
+
+Mali haklar: Kâr payı hakkı, tasfiye payı hakkı ve yeni pay alma hakkı. Yeni pay alma hakkına rüçhan hakkı da denir. Sermaye artırımında mevcut pay sahiplerinin, payları oranında yeni payları öncelikle alma hakkıdır. Böylece şirketteki oranları korunur.
+
+Yönetimsel haklar: Genel kurula katılma ve oy hakkı, bilgi alma ve inceleme hakkı, genel kurul kararlarına karşı iptal davası açma hakkı.
+
+Azlık hakları. Sermayenin en az onda birini, halka açık şirketlerde ise yirmide birini temsil eden pay sahipleri, yönetim kurulundan genel kurulu toplantıya çağırmasını veya bir konunun gündeme alınmasını isteyebilir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Türk Ticaret Kanununa göre birinci tertip kanuni yedek akçe hangi sınıra ulaşıncaya kadar ayrılır?
+A şıkkı: Ödenmiş sermayenin yüzde onuna.
+B şıkkı: Ödenmiş sermayenin yüzde yirmisine.
+C şıkkı: Ödenmiş sermayenin yarısına.
+D şıkkı: Esas sermayenin tamamına.
+E şıkkı: Herhangi bir sınır yoktur.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı. Yıllık kârın yüzde beşi, ödenmiş sermayenin yüzde yirmisine ulaşıncaya kadar ayrılır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Olağan genel kurul ne zaman toplanır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Her faaliyet dönemi sonundan itibaren üç ay içinde. Takvim yılı kullanan şirketlerde mart sonuna kadar.
+
+Dersin özeti.
+
+Bir. Anonim şirketin zorunlu organları genel kurul ve yönetim kuruludur.
+
+İki. Olağan genel kurul dönem sonundan itibaren üç ay içinde toplanır.
+
+Üç. Genel toplantı nisabı sermayenin dörtte biri, ikinci toplantıda nisap aranmaz. Esas sözleşme değişikliğinde yarısı, ikinci toplantıda üçte biri.
+
+Dört. Yönetim kurulu bir veya daha fazla kişiden oluşur, üyeler en fazla üç yıl için seçilir.
+
+Beş. Birinci tertip yedek akçe: kârın yüzde beşi, ödenmiş sermayenin yüzde yirmisine kadar. İkinci tertip: birinci yüzde beşi aşan kâr payının yüzde onu.
+
+Altı. Rüçhan hakkı, sermaye artırımında mevcut pay sahiplerinin yeni payları öncelikle alma hakkıdır.

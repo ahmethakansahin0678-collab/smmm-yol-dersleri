@@ -1,0 +1,86 @@
+BAŞLIK: Hukuk 7. Borçlar hukuku genel hükümler: borcun kaynakları, sözleşme, temerrüt ve kefalet
+
+Hukuk yedinci bölüme hoş geldin. Bugün altı bin doksan sekiz sayılı Türk Borçlar Kanununun genel hükümlerini işleyeceğiz. İlk bölümde zamanaşımını görmüştük, bugün resmin tamamını kuracağız.
+
+Önce borcun kaynakları. Bir borç üç kaynaktan doğar.
+
+Bir: Sözleşme. Tarafların karşılıklı ve birbirine uygun irade beyanıyla kurulur.
+İki: Haksız fiil. Kusurlu ve hukuka aykırı bir fiille başkasına zarar verilmesi.
+Üç: Sebepsiz zenginleşme. Haklı bir sebep olmadan başkasının malvarlığından zenginleşme. Mesela yanlışlıkla başka birinin hesabına para gönderilmesi.
+
+Hafıza cümlesi: Sözleşme, haksız fiil, sebepsiz zenginleşme.
+
+Şimdi sözleşmenin kurulması. Sözleşme, icap ve kabulle kurulur. İcap, sözleşme yapma önerisidir. Kabul, bu öneriye uygun cevaptır.
+
+Şekil serbestisi. Kural olarak sözleşmeler hiçbir şekle bağlı değildir. Sözlü sözleşme de geçerlidir. Ancak kanun bazı sözleşmeler için şekil şartı koyar. Mesela taşınmaz satışı resmi şekilde, tapuda yapılmalıdır. Kefalet sözleşmesi ise yazılı yapılmalıdır.
+
+Geçersizlik halleri. İki türlü geçersizlik vardır.
+
+Kesin hükümsüzlük: Sözleşme baştan itibaren geçersizdir. Kanunun emredici hükümlerine, ahlaka, kamu düzenine, kişilik haklarına aykırı ya da konusu imkânsız olan sözleşmeler kesin hükümsüzdür.
+
+İptal edilebilirlik: Sözleşme geçerli doğar ama irade sakatlığına uğrayan taraf onu iptal edebilir. İrade sakatlıkları üçtür: Yanılma, aldatma ve korkutma. Yanılmada kişi kendi hatasıyla yanılır. Aldatmada karşı taraf onu kasten yanıltır. Korkutmada ise korku altında irade beyan eder.
+
+İrade sakatlığına uğrayan taraf, yanılma veya aldatmayı öğrendiği, korkutmanın etkisinin ortadan kalktığı andan itibaren bir yıl içinde sözleşmeyle bağlı olmadığını bildirmezse, sözleşmeyi onaylamış sayılır.
+
+Hafıza cümlesi: Yanılma, aldatma, korkutma. Bir yıl içinde bildir, yoksa onaylamış sayılırsın.
+
+Aşırı yararlanma da bir iptal sebebidir. Karşı tarafın zor durumda kalmasından, düşüncesizliğinden veya deneyimsizliğinden yararlanılarak edimler arasında açık bir oransızlık yaratılması.
+
+Şimdi temerrüt. Muaccel, yani vadesi gelmiş bir borcun borçlusu, alacaklının ihtarıyla temerrüde düşer. Ancak borcun ifa edileceği gün birlikte belirlenmişse ya da sözleşmede saklı tutulan bir bildirimle belirlenmişse, bu günün geçmesiyle borçlu ihtara gerek kalmadan temerrüde düşer.
+
+Temerrüdün sonucu: Borçlu, para borcunda temerrüt faizi öder. Ayrıca gecikmeden doğan zararları da karşılamakla yükümlü olabilir.
+
+Hafıza cümlesi: Kural ihtar, kesin vade varsa ihtar gerekmez.
+
+Şimdi haksız fiil. Haksız fiil sorumluluğunun dört unsuru vardır: Zarar, hukuka aykırılık, kusur ve illiyet bağı, yani fiil ile zarar arasında sebep sonuç ilişkisi.
+
+Haksız fiilden doğan tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten itibaren iki yılda ve her halde fiilin işlendiği tarihten itibaren on yılda zamanaşımına uğrar. Sebepsiz zenginleşmede de süreler aynıdır: Öğrenmeden itibaren iki yıl, her halde on yıl.
+
+Son olarak kefalet. Kefalet, kefilin, borçlunun borcunu ödememesinin sonuçlarından sorumlu olmayı alacaklıya karşı üstlendiği sözleşmedir. Kefaletin geçerliliği için sıkı şekil şartları vardır: Yazılı olmalı, kefilin sorumlu olacağı azami miktar ve kefalet tarihi belirtilmeli, ve kefil bu bilgileri ile müteselsil kefil olduğunu kendi el yazısıyla yazmalıdır. Ayrıca evli bir kişinin kefil olabilmesi için, kanundaki istisnalar dışında, eşinin yazılı rızası gerekir.
+
+Kefalet iki türlüdür. Adi kefalette alacaklı önce borçluya başvurmak zorundadır. Müteselsil kefalette ise alacaklı doğrudan kefile başvurabilir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Aşağıdakilerden hangisi Türk Borçlar Kanununa göre irade sakatlığı hallerinden biri değildir?
+A şıkkı: Yanılma.
+B şıkkı: Aldatma.
+C şıkkı: Korkutma.
+D şıkkı: Temerrüt.
+E şıkkı: Hepsi irade sakatlığıdır.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap D şıkkı, temerrüt. Temerrüt, borcun zamanında ifa edilmemesidir ve bir irade sakatlığı değildir. İrade sakatlıkları yanılma, aldatma ve korkutmadır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Haksız fiilden doğan tazminat istemi hangi sürelerde zamanaşımına uğrar?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Zararı ve tazminat yükümlüsünü öğrenmeden itibaren iki yılda, her halde fiilin işlendiği tarihten itibaren on yılda.
+
+Dersin özeti.
+
+Bir. Borcun üç kaynağı: sözleşme, haksız fiil ve sebepsiz zenginleşme.
+
+İki. Sözleşmelerde kural şekil serbestisidir. Taşınmaz satışı resmi, kefalet yazılı şekle tabidir.
+
+Üç. Emredici hükümlere, ahlaka, kamu düzenine aykırı ya da imkânsız sözleşmeler kesin hükümsüzdür. Yanılma, aldatma ve korkutma iptal sebebidir, bir yıl içinde bildirilmelidir.
+
+Dört. Temerrüt kural olarak ihtarla oluşur. Kesin vade günü varsa ihtar gerekmez.
+
+Beş. Haksız fiilde zamanaşımı iki yıl ve on yıldır.
+
+Altı. Kefalet yazılı olmalı, azami miktar ve el yazısı şartı vardır. Evlilerde eşin rızası gerekir.

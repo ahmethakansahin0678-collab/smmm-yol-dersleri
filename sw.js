@@ -1,7 +1,7 @@
 // SMMM Yol Dersleri — çevrimdışı çalışma (service worker)
 // Uygulama dosyaları: önce ağ (3 sn), yoksa önbellek. Ses dosyaları: telefona indirildiyse önbellekten,
 // iPhone'un istediği parça parça (Range) okumayı destekleyerek.
-const SURUM = 'v3';
+const SURUM = 'v4';
 const KABUK = 'kabuk-' + SURUM;
 const SES = 'ses-v1';
 const KABUK_DOSYALARI = ['./', 'index.html', 'dersler.json', 'manifest.webmanifest', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
@@ -24,7 +24,7 @@ self.addEventListener('fetch', e => {
   if (u.origin !== location.origin) {
     // Yazı tipleri: önbellekte varsa oradan, yoksa ağdan alıp sakla
     if (/fonts\.(googleapis|gstatic)\.com$/.test(u.hostname)) {
-      e.respondWith(caches.open('font-v1').then(c => c.match(e.request).then(r => r || fetch(e.request).then(n => { if (n.ok || n.type === 'opaque') c.put(e.request, n.clone()); return n; }))).catch(() => new Response('', { status: 404 })));
+      e.respondWith(caches.open('font-v1').then(c => c.match(e.request).then(r => r || fetch(e.request).then(n => { if (n.ok || n.type === 'opaque') c.put(e.request, n.clone()); return n; }))).catch(() => new Response('', { status: 200, headers: { 'Content-Type': u.hostname.startsWith('fonts.googleapis') ? 'text/css' : 'font/woff2' } })));
     }
     return;
   }

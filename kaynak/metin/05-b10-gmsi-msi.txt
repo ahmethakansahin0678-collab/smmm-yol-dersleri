@@ -1,0 +1,78 @@
+BAŞLIK: Vergi Mevzuatı 10. Gelir vergisi: kira gelirleri ve menkul sermaye iratları
+
+Vergi Mevzuatı onuncu bölüme hoş geldin. Gelir vergisinin yedi unsurundan ikisini bugün işleyeceğiz: Gayrimenkul sermaye iradı, yani kira gelirleri, ve menkul sermaye iradı, yani faiz ve kâr payı gibi gelirler. Mali müşavirler her mart ayında bu gelirler için çok sayıda beyanname verir.
+
+Önce gayrimenkul sermaye iradı. Kanunda sayılan mal ve hakların kiraya verilmesinden elde edilen gelirlerdir. Arazi, bina, daire, işyeri gibi gayrimenkullerin yanında, telif hakları, ihtira beratları ve bazı taşıtların kiralanması da bu kapsamdadır.
+
+Ama dikkat: Bu mal ve haklar bir ticari işletmeye dahilse, elde edilen kira ticari kazanç sayılır, gayrimenkul sermaye iradı sayılmaz.
+
+Elde etme zamanı. Kira gelirlerinde tahsil esası geçerlidir. Yani kira hangi yıl tahsil edildiyse o yılın geliridir. Peşin tahsil edilen kiralar ise ait oldukları yıllara bölünerek o yılların geliri sayılır.
+
+Konut kira istisnası. Konut olarak kiraya verilen gayrimenkullerden bir takvim yılında elde edilen kira gelirinin belirli bir tutarı gelir vergisinden istisnadır. Bu tutar her yıl güncellenir ve istisnadan yararlanmanın şartları vardır. Mesela başka gelir unsurlarından dolayı beyanname vermek zorunda olanlar ve kira geliri belirli bir sınırı aşanlar bu istisnadan yararlanamaz. Sınavdan önce güncel şartları kontrol et.
+
+Gider yöntemleri. Kira gelirinin safi tutarını bulmak için iki yöntemden biri seçilir.
+
+Götürü gider yöntemi: Brüt kira gelirinin yüzde on beşi, belge gerekmeksizin gider olarak düşülür.
+
+Gerçek gider yöntemi: Belgelendirilebilen gerçek giderler düşülür. Mesela bina için ödenen emlak vergisi, sigorta, onarım giderleri, amortisman ve kredi faizi gibi.
+
+Önemli bir kural: Götürü gider yöntemini seçen mükellef, iki yıl geçmedikçe gerçek gider yöntemine dönemez. Gerçek gider yönteminden götürü gidere ise istediği zaman geçebilir.
+
+Hafıza cümlesi: Götürü yüzde on beş, götürüden dönüş iki yıl sonra.
+
+Stopaj. İşyerini bir şirkete veya bir tacire kiraya veren kişiye ödenen kira üzerinden, kiracı yüzde yirmi oranında gelir vergisi kesintisi yapar. Mesela brüt kirası on bin lira olan bir dükkânda, kiracı iki bin lira stopaj keser, mal sahibine sekiz bin lira öder ve iki bin lirayı vergi dairesine yatırır. Konut kiralarında kiracı şahıssa stopaj yapılmaz.
+
+Şimdi menkul sermaye iradı. Sahibinin ticari, zirai veya mesleki faaliyeti dışında, nakdi sermaye veya para ile temsil edilen değerlerden elde ettiği kâr payı, faiz, kira ve benzeri iratlardır.
+
+Başlıca örnekler: Hisse senetlerinin kâr payları, tahvil ve hazine bonosu faizleri, mevduat faizleri, repo gelirleri, yatırım fonu gelirleri.
+
+Kâr payları için önemli bir kural: Tam mükellef kurumlardan elde edilen kâr paylarının yarısı gelir vergisinden istisnadır. Buna yarı istisna denir. Neden? Çünkü bu kâr, şirket düzeyinde zaten kurumlar vergisine tabi tutulmuştur. Yarı istisna, çifte vergilendirmeyi hafifletir.
+
+Mevduat faizi gibi bazı gelirler ise kaynakta kesilen vergiyle nihai olarak vergilendirilir. Yani banka faizi öderken vergiyi keser ve kişi bu faiz için ayrıca beyanname vermez.
+
+Elde etme zamanı yine tahsil esasıdır. Kâr payı hangi yıl tahsil edildiyse o yılın geliridir.
+
+Beyan. Kira ve menkul sermaye iratları, kanundaki şartlara göre, izleyen yılın mart ayında verilen yıllık gelir vergisi beyannamesiyle beyan edilir. Kaynakta kesilen vergiler, beyan edilen gelir üzerinden hesaplanan vergiden mahsup edilir.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Götürü gider yöntemini seçen bir kira geliri mükellefinin gerçek gider yöntemine geçebilmesi için ne kadar süre geçmesi gerekir?
+A şıkkı: Bir yıl.
+B şıkkı: İki yıl.
+C şıkkı: Üç yıl.
+D şıkkı: Beş yıl.
+E şıkkı: Süre şartı yoktur.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap B şıkkı, iki yıl. Götürü gider yöntemini seçen, iki yıl geçmedikçe gerçek gider yöntemine dönemez.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bir kişi tam mükellef bir anonim şirketten yüz bin lira kâr payı tahsil ediyor. Bu tutarın ne kadarı gelir vergisinden istisnadır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Elli bin lirası. Tam mükellef kurumlardan elde edilen kâr paylarının yarısı istisnadır.
+
+Dersin özeti.
+
+Bir. Kira gelirleri gayrimenkul sermaye iradıdır, ama ticari işletmeye dahil mallardan elde edilirse ticari kazançtır.
+
+İki. Kira ve menkul sermaye iratlarında tahsil esası geçerlidir.
+
+Üç. Götürü gider yüzde on beştir. Götürüden gerçek gidere dönüş için iki yıl geçmelidir.
+
+Dört. İşyeri kiralarında kiracı, şirket veya tacirse, yüzde yirmi stopaj yapar.
+
+Beş. Tam mükellef kurumlardan alınan kâr paylarının yarısı gelir vergisinden istisnadır.

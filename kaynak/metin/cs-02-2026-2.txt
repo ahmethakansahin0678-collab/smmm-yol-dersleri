@@ -1,0 +1,205 @@
+BAŞLIK: Çıkmış Sorular 2026-2. Finansal Tablolar ve Analizi
+
+İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Finansal Tablolar ve Analizi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+
+[[bip]]
+Soru bir. iki bin yirmi iki yılını baz yıl alarak yapılan trend analizine göre stokların otuz bir Aralık iki bin yirmi dört tarihinde alacağı trend yüzdesi (%) aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: seksen bir.
+
+[[1]]
+
+[[bip]]
+Soru iki. iki bin yirmi üç yılını baz yıl alarak yapılan trend analizine göre net satışların otuz bir Aralık iki bin yirmi beş tarihinde alacağı trend yüzdesi (%) aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yüz yirmi üç.
+
+[[1]]
+
+[[bip]]
+Soru üç. Bir ticari firmanın otuz bir Aralık iki bin yirmi beş tarihli fiili verileri ve otuz Haziran iki bin yirmi altı tarihine ait satışların maliyeti tutarı aşağıda verilmiştir. Firma yönetimi, ticari borç ödeme süresinin otuz altı gün olmasını hedeflemektedir. Bu hedefi karşılamak için otuz Haziran iki bin yirmi altı tarihinde ticari borç tutarının kaç lira olması gerekir? (Devir hızlarında ilgili formüllerde ortalama değeri kullanınız ve üç yüz altmış günü kullanarak hesaplama yapınız. Ay bazında hesaplamalarda otuz gün ve katlarını kullanınız.)
+
+Düşün.
+[[14]]
+[[bip]]
+Cevap: kırk iki bin lira.
+
+[[1]]
+
+[[bip]]
+Soru dört. Kaldıraç oranı, toplam yabancı kaynakların pasif toplamına bölünmesine göre hesaplanmaktadır. Bir mali analizde; pasif toplamı esas alınarak hesaplanan Devamlı Sermaye oranı yüzde altmış ve Uzun Vadeli Yabancı Kaynak oranı da yüzde on olarak hesaplanmıştır. Bu verilere göre kaldıraç oranı yüzde (%) kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: elli.
+
+[[1]]
+
+[[bip]]
+Soru beş. Bir firmada gelir tablosunun dikey yüzde analizine göre faaliyet kârlılığı yüzdesi yüzde on beş ve brüt satışların yüzdesi yüzde yüz iki olarak hesaplanmıştır. Brüt satışların beş yüz on bin lira olduğu durumda faaliyet kârı aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yetmiş beş bin.
+
+[[1]]
+
+[[bip]]
+Soru altı. Bir ticari firmanın iki bin yirmi iki ve iki bin yirmi beş yıllarına ait net satışlar ve ticari alacaklar arasındaki trend ilişkisi aşağıdaki grafikte gösterilmiştir. Bu grafik verilerine göre firma için aşağıdaki yorumlardan hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Ortalama tahsilat süreleri uzamaktadır.
+
+[[1]]
+
+[[bip]]
+Soru yedi. Bir ticari firmanın iki bin yirmi iki ve iki bin yirmi beş yıllarına ait dönen varlıklar, kısa vadeli yabancı kaynaklar ve stoklar arasındaki trend ilişkisi aşağıdaki grafikte gösterilmiştir. Bu grafik verilerine göre firma için aşağıdaki yorumlardan hangisi doğrudur?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: Likidite gücü iyileşmektedir.
+
+[[1]]
+
+[[bip]]
+Soru sekiz. otuz bir Mart iki bin yirmi altı itibari ile direkt ilk madde ve malzeme stoklarının ortalama devir süresi kaç gündür?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yetmiş iki gün.
+
+[[1]]
+
+[[bip]]
+Soru dokuz. otuz bir Mart iki bin yirmi altı itibari ile yarı mamul stoklarının ortalama devir süresi kaç gündür?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: on beş.
+
+[[1]]
+
+[[bip]]
+Soru on. otuz bir Aralık iki bin yirmi beş itibari ile mamul stoklarına ilişkin stok devir hızı kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yirmi.
+
+[[1]]
+
+[[bip]]
+Soru on bir. otuz bir Mart iki bin yirmi altı itibari ile ticari mal stoklarının ortalama devir süresi kaç gündür?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: on sekiz gün.
+
+[[1]]
+
+[[bip]]
+Soru on iki. iki bin yirmi altı yılının birinci çeyrek sonunda brüt işletme sermayesi kaç liradır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: on sekiz bin lira.
+
+[[1]]
+
+[[bip]]
+Soru on üç. iki bin yirmi altı yılının birinci çeyrek sonunda cari oran aşağıdakilerden hangisidir?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: sıfır virgül yetmiş beş.
+
+[[1]]
+
+[[bip]]
+Soru on dört. iki bin yirmi altı yılının birinci çeyrek sonunda ortalama ticari alacak tahsilat süresi kaç gündür?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: altmış.
+
+[[1]]
+
+[[bip]]
+Soru on beş. iki bin yirmi altı yılının birinci çeyrek sonunda brüt satışların kârlılığı yüzde (%) kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yirmi beş.
+
+[[1]]
+
+[[bip]]
+Soru on altı. iki bin yirmi beş dönemi sonunda dönem kârı veya zararının dikey yüzdesi (%) kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: üç virgül doksan beş.
+
+[[1]]
+
+[[bip]]
+Soru on yedi. Dikey yüzde yöntemine göre iki bin yirmi altı yılının birinci çeyrek dönemi sonunda toplam mali borçların dikey yüzdesi (%) kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: kırk dokuz.
+
+[[1]]
+
+[[bip]]
+Soru on sekiz. Dikey yüzde yöntemine göre iki bin yirmi altı yılının birinci çeyrek dönemi sonunda satış indirimlerinin dikey yüzdesi (%) kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: iki virgül beş.
+
+[[1]]
+
+[[bip]]
+Soru on dokuz. Karşılaştırmalı tablolar analizi yöntemi kullanılarak hesaplanan ticari borçların iki bin yirmi dört ve iki bin yirmi beş yılları arasındaki değişim yüzdesi (%) kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: -otuz.
+
+[[1]]
+
+[[bip]]
+Soru yirmi. Karşılaştırmalı tablolar analizi yöntemi kullanılarak hesaplanan kısa vadeli mali borçların iki bin yirmi dört ve iki bin yirmi beş yılları arasındaki değişim yüzdesi (%) kaçtır?
+
+Düşün.
+[[8]]
+[[bip]]
+Cevap: yirmi bir.
+
+[[1]]
+
+Finansal Tablolar ve Analizi çıkmış soruları bitti. Takıldığın soruların konusunu, ilgili ders bölümünden tekrar dinle.

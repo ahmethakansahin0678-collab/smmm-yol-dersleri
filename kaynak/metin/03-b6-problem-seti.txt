@@ -1,0 +1,87 @@
+BAŞLIK: Maliyet Muhasebesi 6. Çözümlü problem seti: hesap refleksleri
+
+Maliyet Muhasebesi problem setine hoş geldin. Maliyet sınavı hesap ağırlıklıdır. Bu bölümde yedi kısa hesap sorusu çözeceğiz. Her sorudan sonra zil ve düşünme süresi var. Kafadan hesapla, sonra çözümü dinle.
+
+Birinci soru. Asal ve dönüştürme maliyeti.
+
+Direkt ilk madde altmış bin, direkt işçilik kırk bin, genel üretim giderleri yirmi bin lira. Asal maliyet ve dönüştürme maliyeti nedir?
+
+[[bip]]
+[[10]]
+[[bip]]
+
+Asal maliyet, ilk madde artı işçilik, yüz bin lira. Dönüştürme maliyeti, işçilik artı genel üretim, altmış bin lira.
+
+İkinci soru. Satılan mamul maliyeti.
+
+Dönemin üretim maliyeti yüz yirmi bin. Dönem başı yarı mamul yirmi bin, dönem sonu yarı mamul otuz bin. Dönem başı mamul on bin, dönem sonu mamul yirmi bin. Satılan mamul maliyeti nedir?
+
+[[bip]]
+[[12]]
+[[bip]]
+
+Tamamlanan mamul: Yüz yirmi artı yirmi eksi otuz, yüz on bin. Satılan mamul: Yüz on artı on eksi yirmi, yüz bin lira.
+
+Üçüncü soru. Stok çıkışı.
+
+Dönem başı elli birim, birimi yirmi lira. Alış elli birim, birimi otuz lira. Altmış birim çıkıyor. İlk giren ilk çıkar yöntemine göre çıkışın maliyeti nedir?
+
+[[bip]]
+[[10]]
+[[bip]]
+
+Önce elli birim yirmiden, bin lira. Sonra on birim otuzdan, üç yüz lira. Toplam bin üç yüz lira.
+
+Dördüncü soru. Yükleme farkı.
+
+Tahmini genel üretim gideri yüz elli bin, tahmini direkt işçilik saati beş bin saat. Fiili saat beş bin iki yüz, fiili genel üretim gideri yüz elli dört bin. Yükleme farkı nedir?
+
+[[bip]]
+[[12]]
+[[bip]]
+
+Yükleme oranı saat başı otuz lira. Yüklenen, beş bin iki yüz çarpı otuz, yüz elli altı bin. Fiili yüz elli dört bin. Yüklenen daha büyük, iki bin lira fazla yükleme.
+
+Beşinci soru. Eşdeğer birim.
+
+Tamamlanan dört yüz birim, dönem sonu yarı mamul yüz birim, dönüştürme açısından yüzde altmış tamam. Dönüştürme eşdeğer birimi nedir?
+
+[[bip]]
+[[8]]
+[[bip]]
+
+Dört yüz artı altmış, dört yüz altmış eşdeğer birim.
+
+Altıncı soru. Başabaş.
+
+Satış fiyatı seksen lira, birim değişken maliyet elli lira, sabit maliyet doksan bin lira. Başabaş noktası kaç birimdir ve otuz bin lira kâr için kaç birim satmak gerekir?
+
+[[bip]]
+[[12]]
+[[bip]]
+
+Katkı payı otuz lira. Başabaş, doksan bin bölü otuz, üç bin birim. Hedef kâr için, doksan artı otuz, yüz yirmi bin bölü otuz, dört bin birim.
+
+Yedinci soru. Miktar sapması.
+
+Standart miktar bin kilo, fiili miktar bin yüz kilo, standart fiyat yirmi lira, fiili fiyat on dokuz lira. Miktar ve fiyat sapmaları nedir?
+
+[[bip]]
+[[12]]
+[[bip]]
+
+Miktar sapması: Yüz kilo fazla, çarpı standart fiyat yirmi, iki bin lira olumsuz. Fiyat sapması: Bir lira ucuz, çarpı fiili miktar bin yüz, bin yüz lira olumlu. Net sapma dokuz yüz lira olumsuz.
+
+Problem seti bitti.
+
+Dersin özeti.
+
+Bir. Asal maliyet ilk madde artı işçilik, dönüştürme maliyeti işçilik artı genel üretim gideri.
+
+İki. Maliyet merdiveninde dönem başı stok eklenir, dönem sonu stok çıkarılır.
+
+Üç. Yüklenen fiiliden büyükse fazla yükleme, küçükse eksik yükleme.
+
+Dört. Başabaş eşittir sabit maliyet bölü birim katkı payı. Hedef kâr sabit maliyete eklenir.
+
+Beş. Miktar sapması standart fiyatla, fiyat sapması fiili miktarla hesaplanır.

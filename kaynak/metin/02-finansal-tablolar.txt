@@ -1,0 +1,90 @@
+BAŞLIK: Ders 2. Finansal Tablolar ve Analizi: Analiz yöntemleri ve likidite oranları
+
+Finansal Tablolar ve Analizi dersine hoş geldin. Bu bölümde finansal tabloların neler olduğunu, analiz yöntemlerini ve sınavın gözdesi olan likidite oranlarını öğreneceğiz.
+
+Önce temel finansal tablolar. Tekdüzen muhasebe sisteminde iki temel tablo var: Bilanço ve Gelir Tablosu. Bunların yanında ek mali tablolar vardır: Satışların Maliyeti Tablosu, Fon Akım Tablosu, Nakit Akım Tablosu, Kâr Dağıtım Tablosu ve Özkaynak Değişim Tablosu.
+
+Bilançoyu bir fotoğraf gibi düşün. Belirli bir günde, işletmenin neye sahip olduğunu ve bunların kaynağını gösterir. Gelir tablosu ise bir film gibidir. Bir dönem boyunca, yani genellikle bir yıl boyunca, işletmenin ne kazandığını ve ne harcadığını gösterir.
+
+Bu ayrım sınavda sık sorulur. Bilanço belirli bir tarihi, gelir tablosu belirli bir dönemi gösterir.
+
+Şimdi analiz yöntemlerine geçelim. Dört temel yöntem var.
+
+Birincisi karşılaştırmalı tablolar analizi. Buna yatay analiz de denir. İki ya da daha fazla dönemin tabloları yan yana konur ve kalemlerdeki değişim tutar ve yüzde olarak incelenir. Mesela geçen yıl satışlar yüz bin, bu yıl yüz yirmi bin. Artış yirmi bin lira, yani yüzde yirmi.
+
+İkincisi yüzde yöntemiyle analiz. Buna dikey analiz de denir. Tek bir dönemin tablosunda her kalem bir toplama oranlanır. Bilançoda her kalem aktif toplamına, gelir tablosunda ise her kalem net satışlara oranlanır. Mesela aktif toplamı bir milyon, stoklar iki yüz bin ise, stoklar aktifin yüzde yirmisidir.
+
+Üçüncüsü trend analizi. Bir yıl baz yıl seçilir ve yüz kabul edilir. Diğer yıllar bu baza göre endekslenir. Uzun dönemli eğilimi görmek için kullanılır.
+
+Dördüncüsü oran analizi. Tablolardaki iki kalem arasında anlamlı bir ilişki kurulur. En çok soru buradan gelir.
+
+Hafıza cümlesi: Yatay karşılaştırmalı, dikey yüzde, trend baz yıl, oran ise ilişki.
+
+Şimdi oran analizine, özellikle likidite oranlarına geçelim. Likidite, işletmenin kısa vadeli borçlarını ödeyebilme gücüdür. Üç temel likidite oranı var.
+
+Birincisi cari oran. Formülü: Dönen varlıklar bölü kısa vadeli yabancı kaynaklar. Genel kabul gören ölçü yaklaşık iki civarıdır. Yani her bir liralık kısa vadeli borca karşılık iki liralık dönen varlık olması istenir.
+
+İkincisi asit test oranı. Buna likidite oranı da denir. Formülü: Dönen varlıklardan stoklar çıkarılır, kalan tutar kısa vadeli yabancı kaynaklara bölünür. Neden stokları çıkarıyoruz? Çünkü stok, dönen varlıklar içinde paraya çevrilmesi en zor ve en belirsiz kalemdir. Bazı kaynaklar diğer dönen varlıkları ve gelecek aylara ait giderleri de çıkarır. Genel kabul gören ölçü yaklaşık birdir.
+
+Üçüncüsü nakit oran. Formülü: Hazır değerler artı menkul kıymetler, bölü kısa vadeli yabancı kaynaklar. En katı likidite ölçüsüdür. Genel kabul gören ölçü yaklaşık sıfır virgül yirmidir.
+
+Bir kez daha sıralayalım: Cari oran iki, asit test bir, nakit oran sıfır virgül yirmi. En gevşekten en sıkıya doğru.
+
+Şimdi bir örnek çözelim. Sayıları dikkatle dinle.
+
+Bir işletmenin bilançosunda şu bilgiler var. Hazır değerler, yani kasa ve banka toplamı, otuz bin lira. Menkul kıymetler on beş bin lira. Ticari alacaklar yetmiş beş bin lira. Stoklar seksen bin lira. Dönen varlıklar toplamı iki yüz bin lira. Kısa vadeli yabancı kaynaklar yüz bin lira.
+
+Cari oranı hesaplayalım. Dönen varlıklar iki yüz bin, kısa vadeli borçlar yüz bin. İki yüz bin bölü yüz bin, iki. Cari oran iki. Bu, genel ölçüyle uyumlu.
+
+Asit test oranını hesaplayalım. Dönen varlıklardan stokları çıkaralım. İki yüz bin eksi seksen bin, yüz yirmi bin. Yüz yirmi bin bölü yüz bin, bir virgül iki. Asit test oranı bir virgül iki. Bu da iyi bir durum.
+
+Nakit oranı hesaplayalım. Hazır değerler otuz bin artı menkul kıymetler on beş bin, kırk beş bin. Kırk beş bin bölü yüz bin, sıfır virgül kırk beş. Nakit oran sıfır virgül kırk beş. Genel ölçünün üzerinde.
+
+Yorum: Bu işletmenin kısa vadeli borç ödeme gücü güçlü görünüyor.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Bir işletmenin dönen varlıkları üç yüz bin lira, bunun yüz elli bin lirası stoklardır. Kısa vadeli yabancı kaynakları da yüz elli bin liradır. Bu işletmenin cari oranı ve asit test oranı sırasıyla kaçtır?
+A şıkkı: İki ve bir.
+B şıkkı: Bir ve iki.
+C şıkkı: İki ve iki.
+D şıkkı: Bir ve bir.
+E şıkkı: Üç ve bir.
+
+Düşün.
+
+[[10]]
+
+[[bip]]
+
+Doğru cevap A şıkkı. İki ve bir.
+
+Cari oran: Üç yüz bin bölü yüz elli bin, iki. Asit test: Üç yüz binden stoklar olan yüz elli bin çıkarılır, yüz elli bin kalır. Yüz elli bin bölü yüz elli bin, bir.
+
+Bir soru daha, bu sefer kavram sorusu.
+
+[[bip]]
+
+Soru: Finansal tablolardaki her kalemin, bilançoda aktif toplamına, gelir tablosunda net satışlara oranlandığı analiz yöntemi hangisidir?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Yüzde yöntemiyle analiz, yani dikey analiz. Tek dönem, tek toplam, her kalem o toplama oranlanır.
+
+Şimdi dersin özetine geçelim.
+
+Bir. Bilanço belirli bir tarihteki durumu, gelir tablosu belirli bir dönemin sonucunu gösterir.
+
+İki. Yatay analiz dönemleri karşılaştırır, dikey analiz kalemleri bir toplama oranlar, trend analizi baz yıl kullanır.
+
+Üç. Cari oran eşittir dönen varlıklar bölü kısa vadeli yabancı kaynaklar. Genel ölçü iki.
+
+Dört. Asit test oranında stoklar dönen varlıklardan çıkarılır. Genel ölçü bir.
+
+Beş. Nakit oran eşittir hazır değerler artı menkul kıymetler, bölü kısa vadeli yabancı kaynaklar. Genel ölçü sıfır virgül yirmi.
+
+Bir sonraki bölümde mali yapı oranlarına, yani borçluluk oranlarına ve faaliyet oranlarına geçeceğiz. Şimdi sıradaki dersimiz Maliyet Muhasebesi.

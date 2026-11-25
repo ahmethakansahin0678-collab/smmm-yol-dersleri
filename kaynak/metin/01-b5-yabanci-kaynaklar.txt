@@ -1,0 +1,87 @@
+BAŞLIK: Finansal Muhasebe 5. Yabancı kaynaklar: krediler, ticari borçlar, vergi ve personel borçları
+
+Finansal Muhasebe beşinci bölüme hoş geldin. Bugün bilançonun sağ tarafındaki borçları işleyeceğiz. Kısa vadeli yabancı kaynaklar, uzun vadeli kredilerin sınıflandırılması ve bordro kaydının yapısı.
+
+Önce üç numaralı Kısa Vadeli Yabancı Kaynaklar sınıfının grupları.
+
+Otuz Mali Borçlar. Üç yüz Banka Kredileri ve üç yüz üç Uzun Vadeli Kredilerin Anapara Taksitleri ve Faizleri en önemlileri.
+Otuz iki Ticari Borçlar. Üç yüz yirmi Satıcılar, üç yüz yirmi bir Borç Senetleri, üç yüz yirmi iki Borç Senetleri Reeskontu.
+Otuz üç Diğer Borçlar. Üç yüz otuz bir Ortaklara Borçlar, üç yüz otuz beş Personele Borçlar.
+Otuz dört Alınan Avanslar. Üç yüz kırk Alınan Sipariş Avansları.
+Otuz altı Ödenecek Vergi ve Diğer Yükümlülükler. Üç yüz altmış Ödenecek Vergi ve Fonlar, üç yüz altmış bir Ödenecek Sosyal Güvenlik Kesintileri.
+Otuz yedi Borç ve Gider Karşılıkları. Üç yüz yetmiş Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları ve üç yüz yetmiş bir Dönem Kârının Peşin Ödenen Vergi ve Diğer Yükümlülükleri. Üç yüz yetmiş bir, eksi karakterlidir.
+Otuz sekiz Gelecek Aylara Ait Gelirler ve Gider Tahakkukları.
+Otuz dokuz Diğer Kısa Vadeli Yabancı Kaynaklar. Üç yüz doksan bir Hesaplanan kadeve burada.
+
+Şimdi alınan avanslara bir not: Müşteriden mal teslim etmeden önce para alırsak, bu bir gelir değil, bir borçtur. Çünkü malı teslim etmekle yükümlüyüz. Kayıt: Kasa veya banka borç, üç yüz kırk Alınan Sipariş Avansları alacak. Mal teslim edilince avans hesabı kapatılır ve satış kaydedilir.
+
+Şimdi banka kredisi. Örnek: İşletme, bankadan altı ay vadeli, yıllık yüzde kırk faizli, yüz bin lira kredi kullanıyor. Faiz vade sonunda anaparayla birlikte ödenecek.
+
+Kredi alındığında: Yüz iki Bankalar yüz bin lira borç, üç yüz Banka Kredileri yüz bin lira alacak.
+
+Vade sonunda faiz: Yüz bin çarpı yüzde kırk çarpı altı bölü on iki, yirmi bin lira.
+
+Ödeme kaydı, yedi A seçeneğinde: Üç yüz Banka Kredileri yüz bin lira borç, yedi yüz seksen Finansman Giderleri yirmi bin lira borç, yüz iki Bankalar yüz yirmi bin lira alacak.
+
+Dönem sonu araya girerse, döneme ait faiz tahakkuk ettirilir. Bu, dönemsellik ilkesinin gereğidir.
+
+Şimdi sınavın klasik sorusu: Uzun vadeli kredinin kısa vadeye aktarılması. Diyelim ki üç yıl vadeli bir kredi aldık ve dört yüz numaralı Banka Kredileri hesabında izliyoruz. Bilanço tarihinden itibaren bir yıl içinde ödenecek taksitler, artık kısa vadeli borçtur. Dönem sonunda bu kısım uzun vadeden kısa vadeye aktarılır.
+
+Kayıt: Dört yüz Banka Kredileri borç, üç yüz üç Uzun Vadeli Kredilerin Anapara Taksitleri ve Faizleri alacak.
+
+Neden önemli? Çünkü bu aktarma yapılmazsa cari oran olduğundan iyi görünür. Kısa vadeli borçlar eksik gösterilmiş olur.
+
+Hafıza cümlesi: Bir yıl içinde ödenecek uzun vadeli borç, dönem sonunda üç yüz üçe taşınır.
+
+Şimdi bordro kaydının yapısı. Bordroda üç tutar var: Brüt ücret, kesintiler ve net ücret.
+
+Brüt ücret bir giderdir ve ilgili gider hesabına borç yazılır. Mesela yönetim personeli için yedi yüz yetmiş Genel Yönetim Giderleri.
+
+İşçiden yapılan kesintiler, yani gelir vergisi ve damga vergisi, üç yüz altmış Ödenecek Vergi ve Fonlar hesabına alacak yazılır. Sosyal güvenlik işçi payı ve işsizlik sigortası işçi payı ise üç yüz altmış bir Ödenecek Sosyal Güvenlik Kesintileri hesabına alacak yazılır.
+
+İşçiye ödenecek net ücret, üç yüz otuz beş Personele Borçlar hesabına alacak yazılır.
+
+İşverenin ödediği sosyal güvenlik payı ise ayrıca bir giderdir. Gider hesabı borç, üç yüz altmış bir alacak.
+
+Hafıza cümlesi: Brüt gidere, vergiler üç yüz altmışa, sigorta üç yüz altmış bire, net üç yüz otuz beşe.
+
+Şimdi sınav tarzında bir soru.
+
+[[bip]]
+
+Soru: Dönem sonunda, uzun vadeli banka kredisinin bir yıl içinde ödenecek taksiti için yapılacak kayıtta hangi hesap alacaklandırılır?
+A şıkkı: Dört yüz Banka Kredileri.
+B şıkkı: Üç yüz Banka Kredileri.
+C şıkkı: Üç yüz üç Uzun Vadeli Kredilerin Anapara Taksitleri ve Faizleri.
+D şıkkı: Yüz iki Bankalar.
+E şıkkı: Yedi yüz seksen Finansman Giderleri.
+
+Düşün.
+
+[[8]]
+
+[[bip]]
+
+Doğru cevap C şıkkı. Dört yüz numaralı hesap borçlanır, üç yüz üç numaralı hesap alacaklanır.
+
+Bir soru daha.
+
+[[bip]]
+
+Soru: Bordroda işçiye ödenecek net ücret hangi hesaba alacak yazılır?
+
+[[6]]
+
+[[bip]]
+
+Cevap: Üç yüz otuz beş Personele Borçlar.
+
+Dersin özeti.
+
+Bir. Müşteriden peşin alınan sipariş avansı gelir değil, üç yüz kırk numaralı hesapta izlenen bir borçtur.
+
+İki. Basit faiz eşittir anapara çarpı yıllık oran çarpı ay bölü on iki.
+
+Üç. Uzun vadeli kredinin bir yıl içinde ödenecek kısmı, dönem sonunda dört yüzden üç yüz üçe aktarılır.
+
+Dört. Bordroda brüt ücret gider hesabına, gelir ve damga vergisi üç yüz altmışa, sigorta kesintileri üç yüz altmış bire, net ücret üç yüz otuz beşe yazılır.
