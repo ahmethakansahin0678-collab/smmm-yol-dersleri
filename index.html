@@ -201,7 +201,9 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
         <button id="qPrev">⏮ Önceki soru</button>
       </div>
     </div>
-    <div class="leg"><h2>Hangi ders?</h2><span class="badge" id="qCount"></span></div>
+    <div class="leg"><h2>Kaynak</h2><span class="badge" id="qCount"></span></div>
+    <div class="filters" id="qKaynak"></div>
+    <div class="leg"><h2>Ders</h2></div>
     <div class="filters" id="qDers"></div>
     <div class="filters"><button type="button" id="qShuffle" aria-pressed="false">Karışık sıra</button></div>
   </section>
@@ -563,7 +565,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   } catch {}
 
   // ---------- soru-cevap modu ----------
-  const Q = { active: false, mode: false, list: [], all: [], i: 0, ders: store.get('qDers', 'Tümü'), shuffle: store.get('qShuf', false) };
+  const Q = { active: false, mode: false, list: [], all: [], i: 0, ders: store.get('qDers', 'Tümü'), kaynak: store.get('qKaynak', 'Çıkmış sorular'), shuffle: store.get('qShuf', false) };
   const QSKIP = /^(Bir soru daha|Şimdi sınav tarzında bir soru)\.?$/;
   function qBuild() {
     const out = [];
@@ -579,7 +581,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
         let e = pair ? (k + 2 < bips.length ? bips[k + 2] : end) : (k + 1 < bips.length ? bips[k + 1] : end);
         while (e - 1 > s && l.seg[e - 1].s && QSKIP.test(l.seg[e - 1].s.trim())) e--;
         const qs = l.seg.slice(s, e).find(x => x.s);
-        if (qs) out.push({ l, s, e, a: pair ? bips[k + 1] : null, ders: l.modul === 'en' ? 'İngilizce' : (l.modul === 'soru' ? 'Soru bankası' : l.dersAdi), q: qs.s });
+        if (qs) out.push({ l, s, e, a: pair ? bips[k + 1] : null, kaynak: l.modul === 'cikmis' ? 'Çıkmış sorular' : l.modul === 'soru' ? 'Soru bankası' : 'Ders soruları', ders: l.modul === 'en' ? 'İngilizce' : (l.modul === 'soru' ? (l.dersAdi || 'Soru bankası') : l.dersAdi), q: qs.s });
         k += pair ? 2 : 1;
       }
     }
@@ -587,25 +589,38 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   }
   const tOf = (l, i) => i < l.seg.length ? l.zaman[i] : (l.sure || 1e9);
   function qFilter() {
-    let L = Q.ders === 'Tümü' ? Q.all.slice() : Q.all.filter(x => x.ders === Q.ders);
+    let L = Q.all.filter(x => (Q.kaynak === 'Tümü' || x.kaynak === Q.kaynak) && (Q.ders === 'Tümü' || x.ders === Q.ders));
     if (Q.shuffle) { for (let i = L.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [L[i], L[j]] = [L[j], L[i]]; } }
-    Q.list = L; Q.i = Q.shuffle ? 0 : Math.min(store.get('qi:' + Q.ders, 0), Math.max(0, L.length - 1));
+    Q.list = L; Q.i = Q.shuffle ? 0 : Math.min(store.get('qi:' + qKey(), 0), Math.max(0, L.length - 1));
   }
-  function qInit() {
-    if (!DATA || Q.all.length) return;
-    Q.all = qBuild();
-    const ders = ['Tümü', ...new Set(Q.all.map(x => x.ders))];
+  const qKey = () => Q.kaynak + '|' + Q.ders;
+  function qChips() {
+    const kaynaklar = ['Çıkmış sorular', 'Ders soruları', 'Soru bankası', 'Tümü'];
+    const kb = $('qKaynak'); kb.innerHTML = '';
+    kaynaklar.forEach(k => {
+      const n = k === 'Tümü' ? Q.all.length : Q.all.filter(x => x.kaynak === k).length; if (!n) return;
+      const b = document.createElement('button'); b.type = 'button'; b.textContent = k + ' (' + n + ')'; b.setAttribute('aria-pressed', k === Q.kaynak);
+      b.onclick = () => { qStop(); Q.kaynak = k; store.set('qKaynak', k); Q.ders = 'Tümü'; store.set('qDers', 'Tümü'); qChips(); qFilter(); qShow(); };
+      kb.appendChild(b);
+    });
+    const havuz = Q.all.filter(x => Q.kaynak === 'Tümü' || x.kaynak === Q.kaynak);
+    const ders = ['Tümü', ...new Set(havuz.map(x => x.ders))];
     if (!ders.includes(Q.ders)) Q.ders = 'Tümü';
     const box = $('qDers'); box.innerHTML = '';
     ders.forEach(d => {
-      const b = document.createElement('button'); b.type = 'button'; b.textContent = d + ' (' + (d === 'Tümü' ? Q.all.length : Q.all.filter(x => x.ders === d).length) + ')';
+      const b = document.createElement('button'); b.type = 'button'; b.textContent = d + ' (' + (d === 'Tümü' ? havuz.length : havuz.filter(x => x.ders === d).length) + ')';
       b.setAttribute('aria-pressed', d === Q.ders);
       b.onclick = () => { qStop(); Q.ders = d; store.set('qDers', d); box.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b)); qFilter(); qShow(); };
       box.appendChild(b);
     });
-    $('qShuffle').setAttribute('aria-pressed', Q.shuffle);
     $('qCount').innerHTML = '<b>' + Q.all.length + '</b> soru';
-    qFilter(); qShow();
+  }
+  function qInit() {
+    if (!DATA || Q.all.length) return;
+    Q.all = qBuild();
+    if (!Q.all.some(x => x.kaynak === Q.kaynak)) Q.kaynak = 'Tümü';
+    $('qShuffle').setAttribute('aria-pressed', Q.shuffle);
+    qChips(); qFilter(); qShow();
   }
   function qShow(text, lang) {
     const c = Q.list[Q.i];
@@ -628,7 +643,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
     const go = () => { try { au.currentTime = t; } catch {} au.playbackRate = st.rate; const pr = au.play(); if (pr) pr.catch(e => { Q.active = false; qShow('Ses çalınamadı (' + (e.name || 'hata') + '). Başlat\'a tekrar bas.'); }); };
     if (!au.src || !au.src.endsWith(src)) { au.src = src; au.addEventListener('loadedmetadata', go, { once: true }); au.load(); } else go();
     try { navigator.mediaSession.metadata = new MediaMetadata({ title: 'Soru ' + (Q.i + 1) + ' · ' + c.ders, artist: 'SMMM Soru-Cevap', album: c.l.title }); } catch {}
-    store.set('qi:' + Q.ders, Q.i);
+    store.set('qi:' + qKey(), Q.i);
     qShow();
   }
   function qStop() { Q.active = false; au.pause(); wake(false); qShow(); }
@@ -639,11 +654,11 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
     if (g && sg !== Q.lastSeg) { Q.lastSeg = sg; qShow(g.s ? g.s : g.b ? '🔔' : '… düşünme süresi', g.l); }
   }
   function qNext(auto) {
-    if (Q.i + 1 >= Q.list.length) { qStop(); Q.i = 0; store.set('qi:' + Q.ders, 0); qShow('Bu listedeki sorular bitti. Tebrikler. Başlat\'a basarsan baştan başlar.'); return; }
+    if (Q.i + 1 >= Q.list.length) { qStop(); Q.i = 0; store.set('qi:' + qKey(), 0); qShow('Bu listedeki sorular bitti. Tebrikler. Başlat\'a basarsan baştan başlar.'); return; }
     Q.i++; Q.lastSeg = -1;
-    if (auto || Q.active) { if (auto) { Q.wait = true; au.pause(); setTimeout(() => { if (Q.active) qPlay(); }, 900); } else qPlay(); } else { store.set('qi:' + Q.ders, Q.i); qShow(); }
+    if (auto || Q.active) { if (auto) { Q.wait = true; au.pause(); setTimeout(() => { if (Q.active) qPlay(); }, 900); } else qPlay(); } else { store.set('qi:' + qKey(), Q.i); qShow(); }
   }
-  function qGo(d) { Q.i = Math.max(0, Math.min(Q.list.length - 1, Q.i + d)); Q.lastSeg = -1; if (Q.active) qPlay(); else { store.set('qi:' + Q.ders, Q.i); qShow(); } }
+  function qGo(d) { Q.i = Math.max(0, Math.min(Q.list.length - 1, Q.i + d)); Q.lastSeg = -1; if (Q.active) qPlay(); else { store.set('qi:' + qKey(), Q.i); qShow(); } }
   function qBack5() {
     const c = Q.list[Q.i]; if (!c) return;
     if (au.src && au.src.endsWith('ses/' + c.l.id + '.mp3')) { const t = Math.max(tOf(c.l, c.s), au.currentTime - 5); if (Q.active) { au.currentTime = t; Q.lastSeg = -1; } else qPlay(t); }
