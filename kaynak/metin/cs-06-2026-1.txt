@@ -8,7 +8,7 @@ Soru bir. Aşağıdakilerden hangisi beş bin beş yüz on sayılı Sosyal Sigor
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Oturma izni almamış anne ve babası.
+Cevap, yani bunlardan biri olmayan: Oturma izni almamış anne ve babası.
 
 [[1]]
 
@@ -28,7 +28,7 @@ Soru üç. altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre, aşağ
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Ölüm.
+Cevap, yani bunlardan biri olmayan: Ölüm.
 
 [[1]]
 
@@ -78,7 +78,7 @@ Soru sekiz. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık S
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: İş kazası veya meslek hastalığı sonucu ölen sigortalının üçüncü derecede yakınlarına gelir bağlanması.
+Cevap, yani bunlardan biri olmayan: İş kazası veya meslek hastalığı sonucu ölen sigortalının üçüncü derecede yakınlarına gelir bağlanması.
 
 [[1]]
 
@@ -123,7 +123,7 @@ Cevap: bir virgül beş saat.
 [[1]]
 
 [[bip]]
-Soru on üç. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre yapılan kontrol ve denetimlerde, çalıştırdığı kişileri sigortalı olarak bildirmediği veya bildirilen sigortalıyı fiilen çalıştırmadığı tespit edilen işverenler, ---- süreyle, bu maddeyle sağlanan ---- yararlanamaz.” cümlesinde boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?
+Soru on üç. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre yapılan kontrol ve denetimlerde, çalıştırdığı kişileri sigortalı olarak bildirmediği veya bildirilen sigortalıyı fiilen çalıştırmadığı tespit edilen işverenler, boşluk süreyle, bu maddeyle sağlanan boşluk yararlanamaz.” cümlesinde boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?
 
 Düşün.
 [[8]]
@@ -138,7 +138,7 @@ Soru on dört. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlı
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Tebliğ tarihinden itibaren on beş gün içinde cezanın peşin ödenmesi halinde yargı yolu kapanır.
+Cevap, yani yanlış olan ifade: Tebliğ tarihinden itibaren on beş gün içinde cezanın peşin ödenmesi halinde yargı yolu kapanır.
 
 [[1]]
 
@@ -153,7 +153,7 @@ Cevap: beş.
 [[1]]
 
 [[bip]]
-Soru on altı. Bir. Sözleşmelerden doğan borç Iki. Haksız fiillerden doğan borç Üç. Sebepsiz zenginleşmeden doğan borç Dört. Amme alacağından doğan borç Aşağıdaki hangi seçenekte altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre borç ilişkisinin kaynakları tam olarak ifade edilmiştir?
+Soru on altı. Bir. Sözleşmelerden doğan borç İki. Haksız fiillerden doğan borç Üç. Sebepsiz zenginleşmeden doğan borç Dört. Amme alacağından doğan borç Aşağıdaki hangi seçenekte altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre borç ilişkisinin kaynakları tam olarak ifade edilmiştir?
 
 Düşün.
 [[8]]
@@ -168,12 +168,12 @@ Soru on yedi. altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre, tak
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Alıcı, peşin satış bedelinin en az yüzde ellisini en geç teslim anında peşin olarak ödemekle yükümlüdür.
+Cevap, yani yanlış olan ifade: Alıcı, peşin satış bedelinin en az yüzde ellisini en geç teslim anında peşin olarak ödemekle yükümlüdür.
 
 [[1]]
 
 [[bip]]
-Soru on sekiz. Bir. Kooperatif Iki. Kollektif Şirket Üç. Adi Komandit Şirket Dört. Sermayesi Paylara Bölünmüş Komandit Şirket Beş. Limited Şirket Altı. Anonim Şirket altı bin yüz iki sayılı Türk Ticaret Kanununa göre yukarıdakilerden hangileri sermaye şirketidir?
+Soru on sekiz. Bir. Kooperatif İki. Kollektif Şirket Üç. Adi Komandit Şirket Dört. Sermayesi Paylara Bölünmüş Komandit Şirket Beş. Limited Şirket Altı. Anonim Şirket altı bin yüz iki sayılı Türk Ticaret Kanununa göre yukarıdakilerden hangileri sermaye şirketidir?
 
 Düşün.
 [[8]]
@@ -198,7 +198,7 @@ Soru yirmi. Aşağıdakilerden hangisi iki bin beş yüz yetmiş yedi sayılı �
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Şikayet.
+Cevap, yani bunlardan biri olmayan: Şikayet.
 
 [[1]]
 

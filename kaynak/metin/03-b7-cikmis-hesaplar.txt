@@ -1,0 +1,134 @@
+BAŞLIK: Maliyet Muhasebesi 7. Çıkmış sorulardaki hesaplar, adım adım
+
+Maliyet Muhasebesi yedinci bölüme hoş geldin. Bu bölüm iki bin yirmi altı yılının iki sınavında çıkan kırk Maliyet sorusundan derlendi. Soruların yarısından fazlası hesap sorusuydu ve hep aynı birkaç formülle çözülüyordu. Bu formülleri sınavdaki rakamlarla, adım adım çözeceğim. Rakamları aklında tutmaya çalışma; formülün sırasını yakala.
+
+Birinci konu: Maliyet zinciri. Bu zincir sınavda en az beş soruyu tek başına çözdü.
+
+Halka bir: Direkt ilk madde ve malzeme gideri eşittir dönem başı ilk madde stoku, artı alışlar, eksi dönem sonu ilk madde stoku.
+
+Halka iki: Üretim giderleri toplamı eşittir direkt ilk madde ve malzeme, artı direkt işçilik, artı genel üretim giderleri.
+
+Halka üç: Üretilen mamul maliyeti eşittir dönem başı yarı mamul, artı üretim giderleri, eksi dönem sonu yarı mamul.
+
+Halka dört: Satılan mamul maliyeti eşittir dönem başı mamul, artı üretilen mamul maliyeti, eksi dönem sonu mamul.
+
+Sınav örneği bir: Dönem başı ilk madde sekiz bin, alışlar on iki bin, dönem sonu on bin. Direkt ilk madde gideri on bin lira.
+
+Sınav örneği iki: Dönem başı mamul on iki bin, üretilen mamul yirmi bin, dönem sonu mamul on bin. Satılan mamul maliyeti yirmi iki bin lira. Soruda verilen yönetim, pazarlama ve finansman giderleri dönem gideridir, maliyete girmez. Onlar tuzaktır.
+
+Sınav örneği üç, tersten çözüm: Üretilen iki bin birim, birim maliyet yüz lira, yani üretilen mamul maliyeti iki yüz bin. Dönem başı yarı mamul yirmi bin, ilk madde yüz yirmi bin, genel üretim gideri yüz otuz bin, dönem sonu yarı mamul yüz bin. Yirmi bin artı yüz yirmi bin artı yüz otuz bin, eksi yüz bin, yüz yetmiş bin eder. İki yüz bine ulaşmak için direkt işçilik otuz bin olmalı.
+
+Sınav örneği dört: Yüz bin birim üretildi, seksen bini satıldı. Dönem başı yarı mamul yüz bin, ilk madde bir milyon, işçilik üç yüz bin, genel üretim gideri beş yüz bin, dönem sonu yarı mamul dört yüz bin. Üretilen mamul maliyeti bir milyon beş yüz bin, birim maliyet on beş lira. Seksen bin birim çarpı on beş, satılan mamul maliyeti bir milyon iki yüz bin.
+
+Sınav örneği beş, iki aylık zincir: Mayıs ayında dönem başı mamul kırk bin, üretilen sekiz yüz yirmi beş bin, satılan sekiz yüz kırk beş bin. Demek ki mayıs sonu mamul stoku yirmi bin. Bu, haziranın dönem başı stokudur. Haziranda üretim giderleri altı yüz bin artı yüz otuz beş bin artı yüz yetmiş beş bin, dokuz yüz on bin; yarı mamul yok. Haziran satılan mamul maliyeti: yirmi bin artı dokuz yüz on bin eksi otuz bin, dokuz yüz bin lira.
+
+Sınav örneği altı, tersten alış bulma: Nisan üretim giderleri toplamı iki milyon dört yüz bin, işçilik yüz kırk beş bin, genel üretim gideri yüz doksan beş bin. Direkt ilk madde gideri iki milyon altmış bin. Nisanın dönem başı ilk madde stoku, martın dönem sonu stokudur: üç yüz bin. Nisan sonu stok dört yüz elli bin. Alışlar eşittir gider artı dönem sonu eksi dönem başı: iki milyon altmış bin artı dört yüz elli bin eksi üç yüz bin, iki milyon iki yüz on bin lira.
+
+Ticaret işletmesinde aynı mantık: Satılan ticari mal maliyeti eşittir dönem başı stok, artı alışlar, eksi alış iadeleri, artı alış giderleri, eksi dönem sonu stok. Sınavda sekiz yüz bin artı üç milyon eksi iki yüz bin artı yüz bin eksi bir milyon iki yüz bin: iki milyon beş yüz bin lira.
+
+[[bip]]
+Hızlı soru: Bir ayın dönem başı mamul stoku nereden bulunur?
+[[5]]
+Bir önceki ayın dönem sonu mamul stokundan.
+
+İkinci konu: İlk maliyet ve dönüştürme maliyeti.
+
+İlk maliyet, yani asal maliyet: direkt ilk madde artı direkt işçilik. Dönüştürme maliyeti, yani şekillendirme maliyeti: direkt işçilik artı genel üretim giderleri.
+
+Sınav örneği: İlk madde yüz yedi bin yedi yüz elli, işçilik otuz bir bin, genel üretim gideri kırk sekiz bin. İlk maliyet yüz otuz sekiz bin yedi yüz elli, dönüştürme maliyeti yetmiş dokuz bin.
+
+Genel üretim gideri nelerden oluşur? Endirekt madde, yani sarf malzemesi; endirekt işçilik ve memur ücretleri; elektrik, su, doğalgaz gibi enerji giderleri; makine amortismanları; dışarıdan sağlanan hizmetler ve çeşitli giderler. Direkt ilk madde ve direkt işçilik buna girmez.
+
+Sınav örneği: Endirekt madde yüz bin, endirekt işçilik elli bin, enerji iki yüz bin, çeşitli elli bin, amortisman yüz elli bin. Toplam genel üretim gideri beş yüz elli bin. On bin birime bölünce birim başına elli beş lira.
+
+Sınav örneği: Memur ücreti yüz bin, amortisman seksen bin, dışarıdan hizmet elli bin, enerji yüz elli bin, işletme malzemesi altmış bin; toplam genel üretim gideri dört yüz kırk bin. Direkt işçilik dört yüz bin eklenince dönüştürme maliyeti sekiz yüz kırk bin. Yüz adede bölünce birim başına sekiz bin dört yüz lira.
+
+[[bip]]
+Hızlı soru: Dönüştürme maliyeti hangi iki kalemden oluşur?
+[[5]]
+Direkt işçilik ve genel üretim giderleri.
+
+Üçüncü konu: Genel üretim giderinin yüklenmesi.
+
+Yükleme oranı eşittir gider bölü dağıtım anahtarı. Sınavda A gider yerinde yirmi sekiz milyon yedi yüz elli bin lira, beş yüz bin kilogram hammaddeye bölününce kilogram başına elli yedi buçuk lira. B gider yerinde otuz dokuz milyon yedi yüz elli bin lira, üç yüz bin direkt işçilik saatine bölününce saat başına yüz otuz iki buçuk lira.
+
+Faaliyet tabanlı maliyetlemede de aynı: Makine ayarı dört milyon beş yüz bin bölü beş bin ayar, ayar başına dokuz yüz lira. Kalite testi dört milyon sekiz yüz bin bölü sekiz bin test, test başına altı yüz lira.
+
+Sipariş maliyetinde: Genel üretim gideri sekiz yüz bin, toplam direkt ilk madde dört yüz bin; oran iki. X siparişinin ilk maddesi üç yüz bin, payı altı yüz bin. X siparişinin toplam maliyeti: üç yüz bin madde, dört yüz bin işçilik, altı yüz bin genel üretim gideri, bir milyon üç yüz bin lira.
+
+Fazla ya da eksik yükleme: Yüklenen tutar gerçekleşenden fazlaysa fazla yükleme, azsa eksik yüklemedir. Sınavda değişken giderde yüklenen beş yüz altmış yedi bin üç yüz altmış sekiz, gerçekleşen beş yüz otuz iki bin iki yüz on sekiz: otuz beş bin yüz elli fazla. Sabit giderde yüklenen altı yüz on bir bin sekiz yüz kırk, gerçekleşen altı yüz on üç bin dokuz yüz on altı: iki bin yetmiş altı eksik. Toplamda otuz üç bin yetmiş dört fazla.
+
+[[bip]]
+Hızlı soru: Genel üretim gideri sekiz yüz bin, toplam ilk madde dört yüz bin ise yükleme oranı kaçtır?
+[[5]]
+İki. Her bir lira ilk maddeye iki lira genel üretim gideri yüklenir.
+
+Dördüncü konu: Safha maliyeti, ilk giren ilk çıkar.
+
+Fiziki akış: Dönem başı yarı mamul artı başlanan, eşittir tamamlanan artı dönem sonu yarı mamul artı fire. Sınavda on bin artı iki yüz elli bin, iki yüz altmış bin. Dönem sonu yirmi dokuz bin ve fire bin düşülünce tamamlanan iki yüz otuz bin. Bunun on bini dönem başından geldiği için, dönemde başlanıp tamamlanan iki yüz yirmi bin.
+
+İlk giren ilk çıkarda eşdeğer birim üç parçadır: Dönem başı yarı mamulün bu dönemde tamamlanan kısmı, yani dönem başı miktar çarpı yüz eksi tamamlanma derecesi. Artı dönemde başlanıp tamamlanan miktar. Artı dönem sonu yarı mamul çarpı tamamlanma derecesi.
+
+Sınav örneği: Dönem başı iki bin birim, madde yüzünden yüzde yetmiş, işçilik ve genel gider yüzünden yüzde elli beş tamam. Başlanan elli bin, dönem sonu beş bin; dönem sonu madde yüzde yirmi, işçilik yüzde kırk tamam. Tamamlanan kırk yedi bin, başlanıp tamamlanan kırk beş bin. Madde için: iki binin yüzde otuzu altı yüz, artı kırk beş bin, artı beş binin yüzde yirmisi bin; kırk altı bin altı yüz. İşçilik ve genel gider için: iki binin yüzde kırk beşi dokuz yüz, artı kırk beş bin, artı beş binin yüzde kırkı iki bin; kırk yedi bin dokuz yüz.
+
+Sınav örneği, tersten derece bulma: Genel üretim gideri dört yüz kırk bin, eşdeğer birim başına kırk lira; demek ki eşdeğer birim on bir bin. Dönem başı dört bin, tamamlanan on iki bin, yani başlanıp tamamlanan sekiz bin. Dönem sonu iki binin yüzde otuzu altı yüz. On bir bin eksi sekiz bin eksi altı yüz, iki bin dört yüz. Bu, dönem başı dört bin birimin bu dönemde tamamlanan kısmı: yüzde altmış. Demek ki dönem başında yüzde kırk tamamlanmıştı.
+
+Eşdeğer ürün birimleri tablosu, fiziki çıktıların ürün eşdeğerlerini hesaplamak için düzenlenir.
+
+[[bip]]
+Hızlı soru: İlk giren ilk çıkar yönteminde dönem başı yarı mamulün eşdeğer birime katkısı nasıl bulunur?
+[[5]]
+Dönem başı miktar çarpı yüz eksi dönem başındaki tamamlanma derecesi.
+
+Beşinci konu: Birleşik ürünler.
+
+Satış değeri yöntemi: Ortak maliyet, her mamulün satış değeri payına göre dağıtılır. Sınavda A sekiz yüz kilogram çarpı yirmi lira, on altı bin; B beş yüz kilogram çarpı on altı lira, sekiz bin. Toplam yirmi dört bin. Ortak maliyet on dokuz bin beş yüzün üçte ikisi A'ya, on üç bin; üçte biri B'ye, altı bin beş yüz.
+
+İkinci örnek: X beş yüz kilogram çarpı otuz, on beş bin; Y dört yüz çarpı altmış, yirmi dört bin; Z üç yüz çarpı yetmiş, yirmi bir bin. Toplam altmış bin. Z'nin payı yüz seksen binin altmışta yirmi biri, altmış üç bin. Üç yüz kilograma bölünce kilogram başına iki yüz on lira.
+
+Net satış değeri yöntemi: Satış fiyatından ayrılma noktasından sonraki ek maliyet düşülür. A altı yüz yirmi eksi yirmi, altı yüz; C iki yüz otuz eksi otuz, iki yüz. Beş bin liralık ortak maliyetin dörtte üçü A'ya, üç bin yedi yüz elli; dörtte biri C'ye, bin iki yüz elli.
+
+Katsayılı bölme yöntemi: Katsayı çarpı üretim miktarı. A beş çarpı bin, beş bin; B dört çarpı iki bin, sekiz bin; C bir çarpı üç bin, üç bin. Toplam on altı bin puan. Bir milyon altı yüz bin bölü on altı bin, puan başına yüz lira. A beş yüz bin, B sekiz yüz bin, C üç yüz bin.
+
+[[bip]]
+Hızlı soru: Net satış değeri yönteminde satış fiyatından ne düşülür?
+[[5]]
+Ayrılma noktasından sonraki ek maliyet.
+
+Altıncı konu: Standart maliyet sapmaları.
+
+Direkt işçilik zaman sapması eşittir fiili saat eksi standart saat, çarpı standart ücret. Ücret sapması eşittir fiili ücret eksi standart ücret, çarpı fiili saat.
+
+Sınav örneği: Fiili iki bin beş yüz saat, saat ücreti iki yüz; standart iki bin dört yüz saat, saat ücreti iki yüz on. Zaman sapması: yüz saat fazla çarpı iki yüz on, yirmi bir bin lira olumsuz. Ücret sapması: on lira düşük çarpı iki bin beş yüz, yirmi beş bin lira olumlu.
+
+Standart maliyet sisteminin her işletmede kolayca kurulup uygulanabileceğini söyleyen ifade yanlıştır.
+
+Yedinci konu: Tekdüzen sistem ve kısa bilgiler.
+
+Hizmet işletmesinde dönem sonu: Altı yüz yirmi iki Satılan Hizmet Maliyeti borç, yedi yüz kırk bir Hizmet Üretim Maliyeti Yansıtma alacak; sonra yedi yüz kırk bir borç, yedi yüz kırk alacak.
+
+Yedi yüz otuz iki Genel Üretim Giderleri Bütçe Farkları hesabında, olumsuz farklar borca, olumlu farklar alacağa yazılır.
+
+Satıştan indirimler, satışların maliyeti tablosunda yer almaz.
+
+Kusurlu mamuller, ek işlemle birinci kalite mamule dönüştürülebilen üretim kayıplarıdır.
+
+Hareketli ortalama yöntemi, her alıştan sonra yeni birim maliyet hesaplanmasına imkan veren stok değerleme yöntemidir.
+
+Maliyet hacim kâr analizi, giderlerin değişken ve sabit olarak ayrılabildiği varsayımına dayanır. Ayrılmaz diyen ifade yanlıştır.
+
+Finansal muhasebenin yalnızca işletme içi kullanıcılara bilgi verdiğini söyleyen ifade yanlıştır; finansal muhasebe asıl olarak dış kullanıcılara bilgi verir.
+
+Dersin özeti.
+
+Bir. Maliyet zinciri: ilk madde gideri, üretim giderleri, üretilen mamul, satılan mamul. Bir ayın dönem sonu, sonraki ayın dönem başıdır.
+
+İki. İlk maliyet madde artı işçilik; dönüştürme maliyeti işçilik artı genel üretim gideri.
+
+Üç. Yükleme oranı gider bölü anahtar. Yüklenen gerçekleşenden fazlaysa fazla yükleme.
+
+Dört. İlk giren ilk çıkarda eşdeğer birim: dönem başının kalan kısmı, artı başlanıp tamamlanan, artı dönem sonunun tamamlanan kısmı.
+
+Beş. Birleşik üründe satış değeri, net satış değeri ve katsayılı bölme.
+
+Altı. Zaman sapması standart ücretle, ücret sapması fiili saatle çarpılır.

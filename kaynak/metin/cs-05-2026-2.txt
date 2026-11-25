@@ -3,7 +3,7 @@ BAŞLIK: Çıkmış Sorular 2026-2. Vergi Mevzuatı
 İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Vergi Mevzuatı soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
 
 [[bip]]
-Soru bir. İstanbulda ikamet etmekte olan Bay (A)'nın iki bin yirmi beş takvim yılı gelirleri aşağıdaki gibidir: • Tam mükellef kurum (Y) A.Ş.'deki yönetim kurulu üyeliği sebebiyle elde ettiği huzur hakkı: üç milyon lira (tamamı tevkif yoluyla vergilendirilmiş) • Bir adet gayrimenkulünü konut olarak kiraya vermesinden dolayı elde ettiği kira geliri: üç yüz altmış bin lira (safi iradın tespitinde götürü gider yöntemi seçilmiştir) yüz doksan üç sayılı Gelir Vergisi Kanununa göre Bay (A)'nın iki bin yirmi beş takvim yılına ilişkin gelir vergisi matrahı ile ilgili aşağıdakilerden hangisi doğrudur?
+Soru bir. İstanbulda ikamet etmekte olan Bay (A)'nın iki bin yirmi beş takvim yılı gelirleri aşağıdaki gibidir: • Tam mükellef kurum (Y) Anonim Şirketindeki yönetim kurulu üyeliği sebebiyle elde ettiği huzur hakkı: üç milyon lira (tamamı tevkif yoluyla vergilendirilmiş) • Bir adet gayrimenkulünü konut olarak kiraya vermesinden dolayı elde ettiği kira geliri: üç yüz altmış bin lira (safi iradın tespitinde götürü gider yöntemi seçilmiştir) yüz doksan üç sayılı Gelir Vergisi Kanununa göre Bay (A)'nın iki bin yirmi beş takvim yılına ilişkin gelir vergisi matrahı ile ilgili aşağıdakilerden hangisi doğrudur?
 
 Düşün.
 [[14]]
@@ -33,7 +33,7 @@ Cevap: bir milyon lira.
 [[1]]
 
 [[bip]]
-Soru dört. (X Y Z) A.Ş.'nin iki bin yirmi beş bölü Aralık ayı işlemleri aşağıdaki gibidir: • Yasal defterlere kayıtlı mal ve hizmet alımları tutarı beş yüz bin lira olup bu alışları nedeniyle düzenlenen faturalarda gösterilen kadeve tutarı yüz bin liradır. • Yasal defterlere kayıtlı yurt içi mal teslimleri sebebiyle iki milyon lira tutarında fatura düzenlenmiş ve dört yüz bin lira tutarında kadeve hesaplanmıştır. • (G) güvenlik şirketinden iki bin yirmi beş bölü Kasım ayı içerisinde alınan özel güvenlik hizmeti ile ilgili vergi sorumlu sıfatıyla iki No.lu kadeve Beyannamesiyle süresinde beyan edilmiş ve tahakkuk eden yüz yirmi bin lira tutarındaki kadeve yirmi sekiz bölü on iki bölü iki bin yirmi beş tarihinde ödenmiştir. • Dönem sonunda kasada bulunan yabancı paraların değerleme işlemleri sonucunda üç yüz bin lira tutarında kur farkı geliri ortaya çıkmış ve kambiyo kârları hesabında gelir olarak dikkate alınmıştır. • Önceki dönemden devreden kadeve tutarı elli bin liradır. üç bin altmış beş sayılı Katma Değer Vergisi Kanununa göre (X Y Z) A.Ş.'nin iki bin yirmi beş bölü Aralık kadeve beyannamesinde ödenecek kadeve tutarı kaç liradır? (kadeve oranı yüzde yirmi olarak alınacaktır.)
+Soru dört. (X Y Z) Anonim Şirketinin iki bin yirmi beş Aralık ayı işlemleri aşağıdaki gibidir: • Yasal defterlere kayıtlı mal ve hizmet alımları tutarı beş yüz bin lira olup bu alışları nedeniyle düzenlenen faturalarda gösterilen kadeve tutarı yüz bin liradır. • Yasal defterlere kayıtlı yurt içi mal teslimleri sebebiyle iki milyon lira tutarında fatura düzenlenmiş ve dört yüz bin lira tutarında kadeve hesaplanmıştır. • (G) güvenlik şirketinden iki bin yirmi beş Kasım ayı içerisinde alınan özel güvenlik hizmeti ile ilgili vergi sorumlu sıfatıyla iki No.lu kadeve Beyannamesiyle süresinde beyan edilmiş ve tahakkuk eden yüz yirmi bin lira tutarındaki kadeve yirmi sekiz Aralık iki bin yirmi beş tarihinde ödenmiştir. • Dönem sonunda kasada bulunan yabancı paraların değerleme işlemleri sonucunda üç yüz bin lira tutarında kur farkı geliri ortaya çıkmış ve kambiyo kârları hesabında gelir olarak dikkate alınmıştır. • Önceki dönemden devreden kadeve tutarı elli bin liradır. üç bin altmış beş sayılı Katma Değer Vergisi Kanununa göre (X Y Z) Anonim Şirketinin iki bin yirmi beş Aralık kadeve beyannamesinde ödenecek kadeve tutarı kaç liradır? (kadeve oranı yüzde yirmi olarak alınacaktır.)
 
 Düşün.
 [[14]]
@@ -88,12 +88,12 @@ Soru dokuz. Aşağıdakilerden hangisi altı bin yüz seksen üç sayılı Amme 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Borçlunun yabancı memlekette bulunması.
+Cevap, yani bunlardan biri olmayan: Borçlunun yabancı memlekette bulunması.
 
 [[1]]
 
 [[bip]]
-Soru on. Tam mükellef kurum olan (T) A.Ş.'nin iki bin yirmi beş hesap dönemine ilişkin ticari bilanço kârı yüz kırk milyon lira, kanunen kabul edilmeyen gideri on milyon liradır. Mükellef kurum, aynı hesap döneminde beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununun beş bölü bir-h hükmü kapsamında yüz yirmi milyon lira tutarında yurt dışı inşaat, onarım, montaj ve teknik hizmetler kazanç istisnasından yararlanmıştır. beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununa göre (T) A.Ş.'nin iki bin yirmi beş hesap dönemine ilişkin yurt içi asgari kurumlar vergisi kaç liradır?
+Soru on. Tam mükellef kurum olan (T) Anonim Şirketinin iki bin yirmi beş hesap dönemine ilişkin ticari bilanço kârı yüz kırk milyon lira, kanunen kabul edilmeyen gideri on milyon liradır. Mükellef kurum, aynı hesap döneminde beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununun beş bölü bir-h hükmü kapsamında yüz yirmi milyon lira tutarında yurt dışı inşaat, onarım, montaj ve teknik hizmetler kazanç istisnasından yararlanmıştır. beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununa göre (T) Anonim Şirketinin iki bin yirmi beş hesap dönemine ilişkin yurt içi asgari kurumlar vergisi kaç liradır?
 
 Düşün.
 [[14]]
@@ -103,17 +103,17 @@ Cevap: on beş milyon lira.
 [[1]]
 
 [[bip]]
-Soru on bir. Tam mükellef kurum olan (Z) A.Ş.'nin iki bin yirmi beş hesap dönemi başındaki öz sermayesi iki milyon lira olup ilgili hesap döneminde yaptığı borçlanmalar aşağıdaki gibidir: • Ortak (E)'den alınan üç milyon lira borç, • Ana faaliyet konusuna göre faaliyette bulunan Ortak (K) Bankasından alınan dört milyon lira kredi, • Ortak (L)'nin sahip olduğu bir arsayı teminat göstermek suretiyle Bay (F)'den alınan bir milyon lira borç, • Mükellef kurumun iştiraki (G) A.Ş.'nin, (N) Bankasından temin ederek aynı şartlarla mükellef kurum (Z) A.Ş.'ye kullandırdığı iki milyon lira kredi. Bu bilgiler çerçevesinde beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununa göre aşağıdakilerden hangisi doğrudur?
+Soru on bir. Tam mükellef kurum olan (Z) Anonim Şirketinin iki bin yirmi beş hesap dönemi başındaki öz sermayesi iki milyon lira olup ilgili hesap döneminde yaptığı borçlanmalar aşağıdaki gibidir: • Ortak (E)'den alınan üç milyon lira borç, • Ana faaliyet konusuna göre faaliyette bulunan Ortak (K) Bankasından alınan dört milyon lira kredi, • Ortak (L)'nin sahip olduğu bir arsayı teminat göstermek suretiyle Bay (F)'den alınan bir milyon lira borç, • Mükellef kurumun iştiraki (G) Anonim Şirketinin, (N) Bankasından temin ederek aynı şartlarla mükellef kurum (Z) Anonim Şirketine kullandırdığı iki milyon lira kredi. Bu bilgiler çerçevesinde beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununa göre aşağıdakilerden hangisi doğrudur?
 
 Düşün.
 [[14]]
 [[bip]]
-Cevap: Örtülü sermayenin tespitinde, iştirak (G) A.Ş.'nin mükellef kuruma aktardığı kredi dikkate alınmaz.
+Cevap: Örtülü sermayenin tespitinde, iştirak (G) Anonim Şirketinin mükellef kuruma aktardığı kredi dikkate alınmaz.
 
 [[1]]
 
 [[bip]]
-Soru on iki. Enerji sektöründe faaliyet gösteren (M) A.Ş.'nin iki bin yirmi beş hesap dönemi sonunda öz kaynakları toplamı iki milyon lira, kısa vadeli yabancı kaynakları toplamı bir milyon lira ve uzun vadeli yabancı kaynakları toplamı üç milyon liradır. Döneme ilişkin toplam finansman gideri beş yüz bin liradır. beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununa göre (M) A.Şnin dikkate alması gereken kanunen kabul edilmeyen gider tutarı kaç liradır?
+Soru on iki. Enerji sektöründe faaliyet gösteren (M) Anonim Şirketinin iki bin yirmi beş hesap dönemi sonunda öz kaynakları toplamı iki milyon lira, kısa vadeli yabancı kaynakları toplamı bir milyon lira ve uzun vadeli yabancı kaynakları toplamı üç milyon liradır. Döneme ilişkin toplam finansman gideri beş yüz bin liradır. beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununa göre (M) A.Şnin dikkate alması gereken kanunen kabul edilmeyen gider tutarı kaç liradır?
 
 Düşün.
 [[14]]
@@ -138,12 +138,12 @@ Soru on dört. yüz doksan üç sayılı Gelir Vergisi Kanununa göre geçici ve
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Geçici vergi, Kanunda yer alan tarifeye göre artan oranlı olarak hesaplanır.
+Cevap, yani yanlış olan ifade: Geçici vergi, Kanunda yer alan tarifeye göre artan oranlı olarak hesaplanır.
 
 [[1]]
 
 [[bip]]
-Soru on beş. Otomobil yedek parça imalatçısı (V Y Z) A.Ş., iki bin yirmi altı bölü Ocak döneminde yurtiçi teslim yapan toptancı bir firmaya bir milyon lira, ihracatçı bir firmaya da ihraç kaydıyla dokuz milyon lira tutarında otomobil yedek parçası teslim etmiştir. (V Y Z) A.Ş.'nin bu döneme ait toplam kadeve indirimi bir milyon beş yüz bin liradır. üç bin altmış beş sayılı Katma Değer Vergisi Kanununa göre, (V Y Z) A.Ş.'nin iki bin yirmi altı bölü Ocak dönemi beyannamesinde sırasıyla tecil edilebilir kadeve ve tecil edilecek kadeve tutarları kaç liradır? (kadeve oranı yüzde yirmi olarak alınacaktır.)
+Soru on beş. Otomobil yedek parça imalatçısı (V Y Z) Anonim Şirketi, iki bin yirmi altı Ocak döneminde yurtiçi teslim yapan toptancı bir firmaya bir milyon lira, ihracatçı bir firmaya da ihraç kaydıyla dokuz milyon lira tutarında otomobil yedek parçası teslim etmiştir. (V Y Z) Anonim Şirketinin bu döneme ait toplam kadeve indirimi bir milyon beş yüz bin liradır. üç bin altmış beş sayılı Katma Değer Vergisi Kanununa göre, (V Y Z) Anonim Şirketinin iki bin yirmi altı Ocak dönemi beyannamesinde sırasıyla tecil edilebilir kadeve ve tecil edilecek kadeve tutarları kaç liradır? (kadeve oranı yüzde yirmi olarak alınacaktır.)
 
 Düşün.
 [[14]]
@@ -158,7 +158,7 @@ Soru on altı. yüz doksan yedi sayılı Motorlu Taşıtlar Vergisi Kanununa gö
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Karşılıklı olmak şartıyla fahri konsoloslar adına kayıt ve tescil edilen taşıtlar.
+Cevap, yani bunlardan biri olmayan: Karşılıklı olmak şartıyla fahri konsoloslar adına kayıt ve tescil edilen taşıtlar.
 
 [[1]]
 
@@ -168,12 +168,12 @@ Soru on yedi. dört bin yedi yüz altmış sayılı Özel Tüketim Vergisi Kanun
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Distribütör (P) A.Ş. tarafından ithal edilen motosikletin motorlu araç ticareti yapan (T) Bayisi tarafından satmak amacıyla alınması.
+Cevap: Distribütör (P) Anonim Şirketi tarafından ithal edilen motosikletin motorlu araç ticareti yapan (T) Bayisi tarafından satmak amacıyla alınması.
 
 [[1]]
 
 [[bip]]
-Soru on sekiz. iki yüz on üç sayılı Vergi Usul Kanununa göre izaha davet edilen mükelleflerce yapılan izahın yeterli bulunmaması hâlinde, Kanunda yer alan şartlara uygun olarak beyanların tamamlanması ve ziyaa uğrayan verginin Kanunda belirtilen oranda izah zammıyla ödenmesi halinde vergi ziyaı cezası, ziyaa uğratılan verginin % kaçı oranında kesilir?
+Soru on sekiz. iki yüz on üç sayılı Vergi Usul Kanununa göre izaha davet edilen mükelleflerce yapılan izahın yeterli bulunmaması hâlinde, Kanunda yer alan şartlara uygun olarak beyanların tamamlanması ve ziyaa uğrayan verginin Kanunda belirtilen oranda izah zammıyla ödenmesi halinde vergi ziyaı cezası, ziyaa uğratılan verginin yüzde kaçı oranında kesilir?
 
 Düşün.
 [[8]]

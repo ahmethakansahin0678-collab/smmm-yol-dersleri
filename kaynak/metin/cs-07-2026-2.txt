@@ -8,7 +8,7 @@ Soru bir. Serbest Muhasebeci, Serbest Muhasebeci Mali Müşavir ve Yeminli Mali 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Yabancı firmalarla sözleşmelerin Türk Lirası cinsinden düzenlenmesi şarttır.
+Cevap, yani yanlış olan ifade: Yabancı firmalarla sözleşmelerin Türk Lirası cinsinden düzenlenmesi şarttır.
 
 [[1]]
 
@@ -23,7 +23,7 @@ Cevap: otuz gün.
 [[1]]
 
 [[bip]]
-Soru üç. Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelike göre; stajını tamamlayarak mesleği yapmaya hak kazanan meslek mensupları meslek ruhsatlarını aldıkları tarihten itibaren _____ geçmedikçe, yanında staj yaptıkları meslek mensuplarının rızası olmadan onların müşterilerine hizmet veremezler. Bu ifadedeki boşluğu doğru bir şekilde dolduracak seçenek aşağıdakilerden hangisidir?
+Soru üç. Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelike göre; stajını tamamlayarak mesleği yapmaya hak kazanan meslek mensupları meslek ruhsatlarını aldıkları tarihten itibaren boşluk geçmedikçe, yanında staj yaptıkları meslek mensuplarının rızası olmadan onların müşterilerine hizmet veremezler. Bu ifadedeki boşluğu doğru bir şekilde dolduracak seçenek aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
@@ -33,7 +33,7 @@ Cevap: iki yıl.
 [[1]]
 
 [[bip]]
-Soru dört. Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelike göre; meslek mensubu ile müşterisi arasındaki sözleşmenin feshi halinde, müşteriden alınmış olan defter ve belgeler _____ içinde sahiplerine geri verilir. Bu ifadedeki boşluğu doğru bir şekilde dolduracak seçenek aşağıdakilerden hangisidir?
+Soru dört. Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelike göre; meslek mensubu ile müşterisi arasındaki sözleşmenin feshi halinde, müşteriden alınmış olan defter ve belgeler boşluk içinde sahiplerine geri verilir. Bu ifadedeki boşluğu doğru bir şekilde dolduracak seçenek aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
@@ -58,7 +58,7 @@ Soru altı. Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşa
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Haksız Rekabet Kurulu.
+Cevap, yani bunlardan biri olmayan: Haksız Rekabet Kurulu.
 
 [[1]]
 
@@ -68,7 +68,7 @@ Soru yedi. Serbest Muhasebeci Mali Müşavirlik Staj Yönetmeliğine göre stajd
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Türmob tarafından akredite edilen yabancı dil eğitim programlarında geçen sürelerin bir yılı stajdan sayılır.
+Cevap, yani yanlış olan ifade: Türmob tarafından akredite edilen yabancı dil eğitim programlarında geçen sürelerin bir yılı stajdan sayılır.
 
 [[1]]
 
@@ -83,12 +83,12 @@ Cevap: İş sahiplerine ait veya iş sahiplerinden elde edilen bilgileri kullanm
 [[1]]
 
 [[bip]]
-Soru dokuz. Bir meslek mensubu; Bir. Nesnel ve mesleğine ilişkin olduğu sürece işi ve şahsı hakkında açıklama yapabilir. Iki. Seminerler ve eğitim programları organize edebilir. Ancak, bu faaliyetleri basın ve yayın yoluyla üçüncü kişilere duyuramaz. Üç. Mesleki konularda hazırlayacağı kitap, makale ve benzeri bilimsel çalışmalarda mesleki ve akademik unvanlarını kullanamaz. Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliğinde belirtilen Reklam Kuralları kapsamında yukarıdakilerden hangileri yanlıştır?
+Soru dokuz. Bir meslek mensubu; Bir. Nesnel ve mesleğine ilişkin olduğu sürece işi ve şahsı hakkında açıklama yapabilir. İki. Seminerler ve eğitim programları organize edebilir. Ancak, bu faaliyetleri basın ve yayın yoluyla üçüncü kişilere duyuramaz. Üç. Mesleki konularda hazırlayacağı kitap, makale ve benzeri bilimsel çalışmalarda mesleki ve akademik unvanlarını kullanamaz. Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Mesleklerine İlişkin Haksız Rekabet ve Reklam Yasağı Yönetmeliğinde belirtilen Reklam Kuralları kapsamında yukarıdakilerden hangileri yanlıştır?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Yalnız üç.
+Cevap, yani yanlış olan ifadeler: Yalnız üç.
 
 [[1]]
 
@@ -98,7 +98,7 @@ Soru on. Aşağıdakilerden hangisi Serbest Muhasebeci Mali Müşavirler ve Yemi
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Kurumsal itibar tehdidi.
+Cevap, yani bunlardan biri olmayan: Kurumsal itibar tehdidi.
 
 [[1]]
 
@@ -138,17 +138,17 @@ Soru on dört. üç bin beş yüz altmış sekiz sayılı Serbest Muhasebeci Mal
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Medeni hakları kullanma ehliyetine sahip bulunmak.
+Cevap, yani bunlardan biri olmayan: Medeni hakları kullanma ehliyetine sahip bulunmak.
 
 [[1]]
 
 [[bip]]
-Soru on beş. Her konudan yüz üzerinden en az (i)_____ almak şartıyla, sınavın tüm konularının not ortalamasının en az (ii)_____ olması gerekir. Tezkiye (staj) not ortalaması ayrı bir ders gibi ortalamaya dahil (iii)_____. Yeminli Mali Müşavirlik ve Serbest Muhasebeci Mali Müşavirlik Sınav Yönetmeliğine göre Serbest Muhasebeci Mali Müşavirlik sınavında başarılı olmanın koşulunu gösteren bu ifadelerde boşlukları doğru olarak tamamlayan seçenek aşağıdakilerden hangisidir?
+Soru on beş. Her konudan yüz üzerinden en az boşluk bir almak şartıyla, sınavın tüm konularının not ortalamasının en az boşluk iki olması gerekir. Tezkiye (staj) not ortalaması ayrı bir ders gibi ortalamaya dahil boşluk üç . Yeminli Mali Müşavirlik ve Serbest Muhasebeci Mali Müşavirlik Sınav Yönetmeliğine göre Serbest Muhasebeci Mali Müşavirlik sınavında başarılı olmanın koşulunu gösteren bu ifadelerde boşlukları doğru olarak tamamlayan seçenek aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: (i) elli; (ii) altmış; (iii) edilir.
+Cevap: (bir) elli; (iki) altmış; (üç) edilir.
 
 [[1]]
 
@@ -173,7 +173,7 @@ Cevap: dokuz asıl, dokuz yedek.
 [[1]]
 
 [[bip]]
-Soru on sekiz. Bir. Kınama Iki. Geçici olarak mesleki faaliyetten alıkoyma Üç. Yeminli sıfatını kaldırma Dört. Meslekten çıkarma Meslek mensuplarına verilen yukarıdaki disiplin cezalarından hangileri Hazine ve Maliye Bakanlığı ile diğer ilgili kurum ve kuruluşlara duyurulur?
+Soru on sekiz. Bir. Kınama İki. Geçici olarak mesleki faaliyetten alıkoyma Üç. Yeminli sıfatını kaldırma Dört. Meslekten çıkarma Meslek mensuplarına verilen yukarıdaki disiplin cezalarından hangileri Hazine ve Maliye Bakanlığı ile diğer ilgili kurum ve kuruluşlara duyurulur?
 
 Düşün.
 [[8]]

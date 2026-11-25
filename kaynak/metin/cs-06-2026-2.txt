@@ -8,7 +8,7 @@ Soru bir. dört bin sekiz yüz elli yedi sayılı İş Kanununa göre, yeni iş 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: İşveren yeni iş arama iznini vermez veya eksik kullandırırsa o süreye ilişkin ücret işçiye ödenmez.
+Cevap, yani yanlış olan ifade: İşveren yeni iş arama iznini vermez veya eksik kullandırırsa o süreye ilişkin ücret işçiye ödenmez.
 
 [[1]]
 
@@ -28,7 +28,7 @@ Soru üç. dört bin sekiz yüz elli yedi sayılı İş Kanununa göre, telafi �
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Tatil günlerinde telafi çalışması yaptırılabilir.
+Cevap, yani yanlış olan ifade: Tatil günlerinde telafi çalışması yaptırılabilir.
 
 [[1]]
 
@@ -48,7 +48,7 @@ Soru beş. altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre, aşağ
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Banka kredileri ve kredi kartı borçları.
+Cevap, yani bunlardan biri olmayan: Banka kredileri ve kredi kartı borçları.
 
 [[1]]
 
@@ -88,7 +88,7 @@ Soru dokuz. altı bin yüz iki sayılı Türk Ticaret Kanununa göre, aşağıda
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Kambiyo senedi.
+Cevap, yani bunlardan biri olmayan: Kambiyo senedi.
 
 [[1]]
 
@@ -118,7 +118,7 @@ Soru on iki. Aşağıdakilerden hangisi altı bin yüz iki sayılı Türk Ticare
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Taksitle satım sözleşmelerine ilişkin kamuya yapılan ilanlarda unvanını açıkça belirtmek.
+Cevap, yani bunlardan biri olmayan: Taksitle satım sözleşmelerine ilişkin kamuya yapılan ilanlarda unvanını açıkça belirtmek.
 
 [[1]]
 
@@ -143,12 +143,12 @@ Cevap: İşçi sendikaları ve konfederasyonları ile sendika şubelerinin başk
 [[1]]
 
 [[bip]]
-Soru on beş. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre, aşağıdakilerden hangisi dört bölü a sigortalısı kapsamında değildir?
+Soru on beş. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre, aşağıdakilerden hangisi dört a sigortalısı kapsamında değildir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Gelir vergisinden muaf olup esnaf ve sanatkâr siciline kayıtlı olanlar.
+Cevap, yani bunlardan biri olmayan: Gelir vergisinden muaf olup esnaf ve sanatkâr siciline kayıtlı olanlar.
 
 [[1]]
 
@@ -158,7 +158,7 @@ Soru on altı. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlı
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: İşsizlik sigortası.
+Cevap, yani bunlardan biri olmayan: İşsizlik sigortası.
 
 [[1]]
 

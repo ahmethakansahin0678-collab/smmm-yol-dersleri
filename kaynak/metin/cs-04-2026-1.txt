@@ -3,12 +3,12 @@ BAŞLIK: Çıkmış Sorular 2026-1. Muhasebe Denetimi
 İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Muhasebe Denetimi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
 
 [[bip]]
-Soru bir. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğine göre denetim kıstasını finansal tablolar açısından (i)----; yıllık faaliyet raporları, riskin erken saptanması ve yönetimine ilişkin sistem açısından (ii)---- ve ilgili mevzuatın denetim kıstasına ilişkin hükümleri; diğer mevzuattan kaynaklanan denetim konuları açısından ise denetim kıstasıyla ilgili düzenlemeler veya bunların atıf yaptığı kurallar oluşturur. Diğer mevzuatta doğrudan veya dolaylı olarak denetim kuruluşları ve denetçiler tarafından denetim yapılmasının öngörüldüğü ancak denetim konularının hangi kıstaslara uyumunun aranacağının belirtilmediği durumlarda, denetim kıstası (iii)---- belirlenir. İsteğe bağlı yaptırılan denetimlerde ise bu belirleme denetimi talep edenlerce yapılır. Yukarıdaki ifadede boşlukları tamamlayan doğru seçenek aşağıdakilerden hangisidir?
+Soru bir. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğine göre denetim kıstasını finansal tablolar açısından boşluk bir ; yıllık faaliyet raporları, riskin erken saptanması ve yönetimine ilişkin sistem açısından boşluk iki ve ilgili mevzuatın denetim kıstasına ilişkin hükümleri; diğer mevzuattan kaynaklanan denetim konuları açısından ise denetim kıstasıyla ilgili düzenlemeler veya bunların atıf yaptığı kurallar oluşturur. Diğer mevzuatta doğrudan veya dolaylı olarak denetim kuruluşları ve denetçiler tarafından denetim yapılmasının öngörüldüğü ancak denetim konularının hangi kıstaslara uyumunun aranacağının belirtilmediği durumlarda, denetim kıstası boşluk üç belirlenir. İsteğe bağlı yaptırılan denetimlerde ise bu belirleme denetimi talep edenlerce yapılır. Yukarıdaki ifadede boşlukları tamamlayan doğru seçenek aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: (i) Türkiye Muhasebe Standartları (ii) Türk Ticaret Kanunu (iii) Kamu Gözetimi Kurumu tarafından.
+Cevap: (bir) Türkiye Muhasebe Standartları (iki) Türk Ticaret Kanunu (üç) Kamu Gözetimi Kurumu tarafından.
 
 [[1]]
 
@@ -23,12 +23,12 @@ Cevap: Yalnızca denetim kuruluşları tarafından yapılır.
 [[1]]
 
 [[bip]]
-Soru üç. Kamu Gözetimi Kurumunun Bağımsız Denetim Yönetmeliğine göre denetim kanıtı, denetim konusunda denetim kıstası çerçevesinde önemli uyumsuzluklar bulunup bulunmadığı hususunda güvence verilmesini teminen görüş bildirmeye yönelik olarak denetçi tarafından elde edilen ve belirlenen güvence seviyesi için (i)---- ve (ii)----. Yukarıdaki ifadede boşlukları tamamlayan doğru seçenek aşağıdakilerden hangisidir?
+Soru üç. Kamu Gözetimi Kurumunun Bağımsız Denetim Yönetmeliğine göre denetim kanıtı, denetim konusunda denetim kıstası çerçevesinde önemli uyumsuzluklar bulunup bulunmadığı hususunda güvence verilmesini teminen görüş bildirmeye yönelik olarak denetçi tarafından elde edilen ve belirlenen güvence seviyesi için boşluk bir ve boşluk iki . Yukarıdaki ifadede boşlukları tamamlayan doğru seçenek aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: (i) yeterli (ii) uygun bilgi, belge ve beyanlardır.
+Cevap: (bir) yeterli (iki) uygun bilgi, belge ve beyanlardır.
 
 [[1]]
 
@@ -38,7 +38,7 @@ Soru dört. Aşağıda verilen ifadelerden hangisi Kamu Gözetimi Kurumu Bağım
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Bağımsız denetçilerin kendi adına denetim üstlenebilmesi için denetçi olabilme koşullarını karşılaması ve kadrosunda kendisi hariç en az iki sorumlu denetçi olması gereklidir.
+Cevap, yani yanlış olan ifade: Bağımsız denetçilerin kendi adına denetim üstlenebilmesi için denetçi olabilme koşullarını karşılaması ve kadrosunda kendisi hariç en az iki sorumlu denetçi olması gereklidir.
 
 [[1]]
 
@@ -48,7 +48,7 @@ Soru beş. Türkiye Denetim Standartları, Kalite Yönetim Standardı bire go�
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Denetlenen şirketin iç kontrol sistemi.
+Cevap, yani bunlardan biri olmayan: Denetlenen şirketin iç kontrol sistemi.
 
 [[1]]
 
@@ -68,7 +68,7 @@ Soru yedi. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğine göre, a�
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Denetim kuruluşları ve denetçilerin kurumsal tanıtıcı bilgiler içeren broşürler hazırlayıp dağıtması.
+Cevap, yani bunlardan biri olmayan: Denetim kuruluşları ve denetçilerin kurumsal tanıtıcı bilgiler içeren broşürler hazırlayıp dağıtması.
 
 [[1]]
 
@@ -98,7 +98,7 @@ Soru on. Kamu Gözetimi Kurumu düzenlemeleri ve Türkiye Denetim Standartlar�
 Düşün.
 [[8]]
 [[bip]]
-Cevap: “Önemli yanlışlık” riskinin ne kadar yüksek olduğu değerlendiriliyorsa muhtemelen daha az denetim kanıtı gerekecektir. Daha fazla denetim kanıtının elde edilmesi, denetim kanıtının düşük olan kalitesini telafi edebilir.
+Cevap, yani yanlış olan ifade: “Önemli yanlışlık” riskinin ne kadar yüksek olduğu değerlendiriliyorsa muhtemelen daha az denetim kanıtı gerekecektir. Daha fazla denetim kanıtının elde edilmesi, denetim kanıtının düşük olan kalitesini telafi edebilir.
 
 [[1]]
 
@@ -108,7 +108,7 @@ Soru on bir. Türkiye Denetim Standartlarına göre, “Önemlilik'' ile ilgil
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Denetçi, finansal tabloların bütünü açısından önemlilik arz etmeyen yanlışlıkların tespit edilmesinden sorumludur.
+Cevap, yani yanlış olan ifade: Denetçi, finansal tabloların bütünü açısından önemlilik arz etmeyen yanlışlıkların tespit edilmesinden sorumludur.
 
 [[1]]
 
@@ -128,7 +128,7 @@ Soru on üç. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliği (Bağıms
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Sorumlu denetçi olabilmek için en az kıdemli denetçi veya başdenetçi olmak gerekir.
+Cevap, yani yanlış olan ifade: Sorumlu denetçi olabilmek için en az kıdemli denetçi veya başdenetçi olmak gerekir.
 
 [[1]]
 
@@ -148,7 +148,7 @@ Soru on beş. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğine göre,
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Denetim kuruluşları ve denetim üstlenen bağımsız denetçiler, görünürde tarafsızlığı zedeleyecek denetimleri üstlenemezler.
+Cevap, yani yanlış olan ifade: Denetim kuruluşları ve denetim üstlenen bağımsız denetçiler, görünürde tarafsızlığı zedeleyecek denetimleri üstlenemezler.
 
 [[1]]
 
@@ -158,7 +158,7 @@ Soru on altı. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğine göre
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Sözleşmenin süresinden önce ancak taraflarca karşılıklı anlaşarak feshedilebileciğine ilişkin hüküm.
+Cevap, yani bunlardan biri olmayan: Sözleşmenin süresinden önce ancak taraflarca karşılıklı anlaşarak feshedilebileciğine ilişkin hüküm.
 
 [[1]]
 
@@ -198,7 +198,7 @@ Soru yirmi. Aşağıdaki seçeneklerden hangisi yönetimin ve -uygun hâllerde-
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Finansal tabloların hile kaynaklı önemli yanlışlık içermeyecek şekilde hazırlanması için gerekli görülen iç kontrole ilişkin sorumluluğu çerçevesinde denetçinin kontrol eksikliklerini yönetime raporlama sorumluluğu.
+Cevap, yani bunlardan biri olmayan: Finansal tabloların hile kaynaklı önemli yanlışlık içermeyecek şekilde hazırlanması için gerekli görülen iç kontrole ilişkin sorumluluğu çerçevesinde denetçinin kontrol eksikliklerini yönetime raporlama sorumluluğu.
 
 [[1]]
 

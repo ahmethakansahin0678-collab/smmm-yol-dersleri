@@ -38,7 +38,7 @@ Soru dört. Standart maliyet sistemiyle ilgili aşağıdakilerden hangisi yanlı
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Standart maliyet sisteminin her işletmede kurulması ve uygulanması kolaydır.
+Cevap, yani yanlış olan ifade: Standart maliyet sisteminin her işletmede kurulması ve uygulanması kolaydır.
 
 [[1]]
 
@@ -58,7 +58,7 @@ Soru altı. Muhasebe bilgi sistemi ile ilgili aşağıdakilerden hangisi yanlı�
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Finansal muhasebe sadece işletme içi bilgi kullanıcılarının bilgi ihtiyacını karşılar.
+Cevap, yani yanlış olan ifade: Finansal muhasebe sadece işletme içi bilgi kullanıcılarının bilgi ihtiyacını karşılar.
 
 [[1]]
 
@@ -73,17 +73,17 @@ Cevap: elli beş lira.
 [[1]]
 
 [[bip]]
-Soru sekiz. Bir. Satılan Mamuller Maliyeti Iki. Satılan Ticari Mallar Maliyeti Üç. Satılan Hizmet Maliyeti Dört. Diğer Satışların Maliyeti Beş. Satıştan İndirimler Yukarıdakilerden hangileri satışların maliyeti tablosunda yer almaz?
+Soru sekiz. Bir. Satılan Mamuller Maliyeti İki. Satılan Ticari Mallar Maliyeti Üç. Satılan Hizmet Maliyeti Dört. Diğer Satışların Maliyeti Beş. Satıştan İndirimler Yukarıdakilerden hangileri satışların maliyeti tablosunda yer almaz?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Yalnız beş.
+Cevap, yani bunlardan biri olmayan: Yalnız beş.
 
 [[1]]
 
 [[bip]]
-Soru dokuz. yedi bölü A Seçeneğine göre aşağıdakilerden hangisi doğrudur?
+Soru dokuz. yedi A Seçeneğine göre aşağıdakilerden hangisi doğrudur?
 
 Düşün.
 [[8]]
@@ -93,7 +93,7 @@ Cevap: Gider yansıtma hesapları “fiili maliyetlerin” uygulandığı duruml
 [[1]]
 
 [[bip]]
-Soru on. yedi bölü A Seçeneğine göre yedi yüz otuz iki Genel Üretim Giderleri Bütçe Farkları hesabına ilişkin aşağıdakilerden hangisi doğrudur?
+Soru on. yedi A Seçeneğine göre yedi yüz otuz iki Genel Üretim Giderleri Bütçe Farkları hesabına ilişkin aşağıdakilerden hangisi doğrudur?
 
 Düşün.
 [[8]]
@@ -143,7 +143,7 @@ Cevap: bir milyon iki yüz bin lira.
 [[1]]
 
 [[bip]]
-Soru on beş. X, Y ve Z olmak üzere üç ayrı mamulün üretimini yapan bir işletme üretim döneminde ve ayrılma noktasında yüz seksen bin lira ortak maliyete katlanarak X mamulünden beş yüz kg, Y mamulünden dört yüz kg, Z mamulünden üç yüz kg üretmiştir. Mamullerin döneme ait satış fiyatları X için otuz lira bölü kg, Y için altmış lira bölü kg, Z için yetmiş lira bölü kgdır. İşletme ortak maliyetin mamullere dağıtımında Satış Değeri Yöntemini kullandığında Z mamulünün ortak maliyetten kg başına alacağı pay kaç liradır?
+Soru on beş. X, Y ve Z olmak üzere üç ayrı mamulün üretimini yapan bir işletme üretim döneminde ve ayrılma noktasında yüz seksen bin lira ortak maliyete katlanarak X mamulünden beş yüz kilogram, Y mamulünden dört yüz kilogram, Z mamulünden üç yüz kilogram üretmiştir. Mamullerin döneme ait satış fiyatları X için otuz lira kilogram başına, Y için altmış lira kilogram başına, Z için yetmiş lira kilogram başınadır. İşletme ortak maliyetin mamullere dağıtımında Satış Değeri Yöntemini kullandığında Z mamulünün ortak maliyetten kilogram başına alacağı pay kaç liradır?
 
 Düşün.
 [[14]]
@@ -193,7 +193,7 @@ Cevap: direkt ilk madde ve malzeme kırk altı bin altı yüz br, D İ kırk yed
 [[1]]
 
 [[bip]]
-Soru yirmi. yedi bölü A Seçeneğine göre yetmiş sekiz Finansman Giderleri hesap grubuyla ilgili aşağıdakilerden hangisi doğrudur?
+Soru yirmi. yedi A Seçeneğine göre yetmiş sekiz Finansman Giderleri hesap grubuyla ilgili aşağıdakilerden hangisi doğrudur?
 
 Düşün.
 [[8]]

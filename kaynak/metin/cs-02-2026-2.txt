@@ -3,22 +3,24 @@ BAŞLIK: Çıkmış Sorular 2026-2. Finansal Tablolar ve Analizi
 İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Finansal Tablolar ve Analizi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
 
 [[bip]]
-Soru bir. iki bin yirmi iki yılını baz yıl alarak yapılan trend analizine göre stokların otuz bir Aralık iki bin yirmi dört tarihinde alacağı trend yüzdesi (%) aşağıdakilerden hangisidir?
+Soru bir. iki bin yirmi iki yılını baz yıl alarak yapılan trend analizine göre stokların otuz bir Aralık iki bin yirmi dört tarihinde alacağı trend yüzdesi aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: seksen bir.
+Cevap: yüzde seksen bir.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: trend yüzdesi, ilgili yılın tutarının baz yıl tutarına bölünüp yüzle çarpılmasıdır.
 
 [[1]]
 
 [[bip]]
-Soru iki. iki bin yirmi üç yılını baz yıl alarak yapılan trend analizine göre net satışların otuz bir Aralık iki bin yirmi beş tarihinde alacağı trend yüzdesi (%) aşağıdakilerden hangisidir?
+Soru iki. iki bin yirmi üç yılını baz yıl alarak yapılan trend analizine göre net satışların otuz bir Aralık iki bin yirmi beş tarihinde alacağı trend yüzdesi aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: yüz yirmi üç.
+Cevap: yüzde yüz yirmi üç.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: trend yüzdesi, ilgili yılın tutarının baz yıl tutarına bölünüp yüzle çarpılmasıdır.
 
 [[1]]
 
@@ -33,12 +35,12 @@ Cevap: kırk iki bin lira.
 [[1]]
 
 [[bip]]
-Soru dört. Kaldıraç oranı, toplam yabancı kaynakların pasif toplamına bölünmesine göre hesaplanmaktadır. Bir mali analizde; pasif toplamı esas alınarak hesaplanan Devamlı Sermaye oranı yüzde altmış ve Uzun Vadeli Yabancı Kaynak oranı da yüzde on olarak hesaplanmıştır. Bu verilere göre kaldıraç oranı yüzde (%) kaçtır?
+Soru dört. Kaldıraç oranı, toplam yabancı kaynakların pasif toplamına bölünmesine göre hesaplanmaktadır. Bir mali analizde; pasif toplamı esas alınarak hesaplanan Devamlı Sermaye oranı yüzde altmış ve Uzun Vadeli Yabancı Kaynak oranı da yüzde on olarak hesaplanmıştır. Bu verilere göre kaldıraç oranı yüzde kaçtır?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: elli.
+Cevap: yüzde elli.
 
 [[1]]
 
@@ -48,7 +50,7 @@ Soru beş. Bir firmada gelir tablosunun dikey yüzde analizine göre faaliyet k�
 Düşün.
 [[8]]
 [[bip]]
-Cevap: yetmiş beş bin.
+Cevap: yetmiş beş bin lira.
 
 [[1]]
 
@@ -79,6 +81,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: yetmiş iki gün.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: stok devir süresi, dönemdeki gün sayısının stok devir hızına bölümüdür. Devir hızı, satışların maliyetinin ya da ilgili stok için kullanılan tutarın ortalama stoka bölümüdür. Yıl için üç yüz altmış, bir çeyrek için doksan gün kullanılır.
 
 [[1]]
 
@@ -88,7 +91,8 @@ Soru dokuz. otuz bir Mart iki bin yirmi altı itibari ile yarı mamul stokların
 Düşün.
 [[8]]
 [[bip]]
-Cevap: on beş.
+Cevap: on beş gün.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: stok devir süresi, dönemdeki gün sayısının stok devir hızına bölümüdür. Devir hızı, satışların maliyetinin ya da ilgili stok için kullanılan tutarın ortalama stoka bölümüdür. Yıl için üç yüz altmış, bir çeyrek için doksan gün kullanılır.
 
 [[1]]
 
@@ -99,6 +103,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: yirmi.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: stok devir hızı, satışların maliyetinin ortalama stoka bölümüdür. Ortalama stok, dönem başı ve dönem sonu stokların toplamının yarısıdır.
 
 [[1]]
 
@@ -109,6 +114,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: on sekiz gün.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: stok devir süresi, dönemdeki gün sayısının stok devir hızına bölümüdür. Devir hızı, satışların maliyetinin ya da ilgili stok için kullanılan tutarın ortalama stoka bölümüdür. Yıl için üç yüz altmış, bir çeyrek için doksan gün kullanılır.
 
 [[1]]
 
@@ -119,6 +125,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: on sekiz bin lira.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: brüt işletme sermayesi, dönen varlıkların toplamıdır.
 
 [[1]]
 
@@ -129,6 +136,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: sıfır virgül yetmiş beş.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: cari oran, dönen varlıkların kısa vadeli yabancı kaynaklara bölümüdür.
 
 [[1]]
 
@@ -138,67 +146,74 @@ Soru on dört. iki bin yirmi altı yılının birinci çeyrek sonunda ortalama t
 Düşün.
 [[8]]
 [[bip]]
-Cevap: altmış.
+Cevap: altmış gün.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: alacak tahsil süresi, dönemdeki gün sayısının alacak devir hızına bölümüdür. Alacak devir hızı, net satışların ortalama ticari alacaklara bölümüdür.
 
 [[1]]
 
 [[bip]]
-Soru on beş. iki bin yirmi altı yılının birinci çeyrek sonunda brüt satışların kârlılığı yüzde (%) kaçtır?
+Soru on beş. iki bin yirmi altı yılının birinci çeyrek sonunda brüt satışların kârlılığı yüzde kaçtır?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: yirmi beş.
+Cevap: yüzde yirmi beş.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: satışların kârlılığı, brüt satış kârının net satışlara bölünüp yüzle çarpılmasıyla bulunur.
 
 [[1]]
 
 [[bip]]
-Soru on altı. iki bin yirmi beş dönemi sonunda dönem kârı veya zararının dikey yüzdesi (%) kaçtır?
+Soru on altı. iki bin yirmi beş dönemi sonunda dönem kârı veya zararının dikey yüzdesi kaçtır?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: üç virgül doksan beş.
+Cevap: yüzde üç virgül doksan beş.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: dikey yüzde, kalemin temel tutara bölünüp yüzle çarpılmasıdır. Bilançoda temel aktif ya da pasif toplamı, gelir tablosunda net satışlardır.
 
 [[1]]
 
 [[bip]]
-Soru on yedi. Dikey yüzde yöntemine göre iki bin yirmi altı yılının birinci çeyrek dönemi sonunda toplam mali borçların dikey yüzdesi (%) kaçtır?
+Soru on yedi. Dikey yüzde yöntemine göre iki bin yirmi altı yılının birinci çeyrek dönemi sonunda toplam mali borçların dikey yüzdesi kaçtır?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: kırk dokuz.
+Cevap: yüzde kırk dokuz.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: dikey yüzde, kalemin temel tutara bölünüp yüzle çarpılmasıdır. Bilançoda temel aktif ya da pasif toplamı, gelir tablosunda net satışlardır.
 
 [[1]]
 
 [[bip]]
-Soru on sekiz. Dikey yüzde yöntemine göre iki bin yirmi altı yılının birinci çeyrek dönemi sonunda satış indirimlerinin dikey yüzdesi (%) kaçtır?
+Soru on sekiz. Dikey yüzde yöntemine göre iki bin yirmi altı yılının birinci çeyrek dönemi sonunda satış indirimlerinin dikey yüzdesi kaçtır?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: iki virgül beş.
+Cevap: yüzde iki virgül beş.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: dikey yüzde, kalemin temel tutara bölünüp yüzle çarpılmasıdır. Bilançoda temel aktif ya da pasif toplamı, gelir tablosunda net satışlardır.
 
 [[1]]
 
 [[bip]]
-Soru on dokuz. Karşılaştırmalı tablolar analizi yöntemi kullanılarak hesaplanan ticari borçların iki bin yirmi dört ve iki bin yirmi beş yılları arasındaki değişim yüzdesi (%) kaçtır?
+Soru on dokuz. Karşılaştırmalı tablolar analizi yöntemi kullanılarak hesaplanan ticari borçların iki bin yirmi dört ve iki bin yirmi beş yılları arasındaki değişim yüzdesi kaçtır?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: -otuz.
+Cevap: eksi yüzde otuz.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: değişim yüzdesi, cari yıl ile önceki yıl arasındaki farkın önceki yıla bölünüp yüzle çarpılmasıdır.
 
 [[1]]
 
 [[bip]]
-Soru yirmi. Karşılaştırmalı tablolar analizi yöntemi kullanılarak hesaplanan kısa vadeli mali borçların iki bin yirmi dört ve iki bin yirmi beş yılları arasındaki değişim yüzdesi (%) kaçtır?
+Soru yirmi. Karşılaştırmalı tablolar analizi yöntemi kullanılarak hesaplanan kısa vadeli mali borçların iki bin yirmi dört ve iki bin yirmi beş yılları arasındaki değişim yüzdesi kaçtır?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: yirmi bir.
+Cevap: yüzde yirmi bir.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: değişim yüzdesi, cari yıl ile önceki yıl arasındaki farkın önceki yıla bölünüp yüzle çarpılmasıdır.
 
 [[1]]
 

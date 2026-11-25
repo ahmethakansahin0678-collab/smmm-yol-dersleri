@@ -8,7 +8,8 @@ Soru bir. iki bin yirmi beş yılının net işletme sermayesi kaç liradır?
 Düşün.
 [[8]]
 [[bip]]
-Cevap: -yüz bin.
+Cevap: eksi yüz bin lira.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: net işletme sermayesi, dönen varlıklardan kısa vadeli yabancı kaynakların çıkarılmasıyla bulunur. Eksi çıkması, kısa vadeli borçların dönen varlıklardan fazla olduğunu gösterir.
 
 [[1]]
 
@@ -19,6 +20,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: sıfır virgül dokuz.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: cari oran, dönen varlıkların kısa vadeli yabancı kaynaklara bölümüdür.
 
 [[1]]
 
@@ -29,6 +31,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: sıfır virgül dört.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: likidite oranı, dönen varlıklardan stoklar düşüldükten sonra kalan tutarın kısa vadeli yabancı kaynaklara bölümüdür.
 
 [[1]]
 
@@ -39,6 +42,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: kırk gün.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: stok devir süresi, dönemdeki gün sayısının stok devir hızına bölümüdür. Devir hızı, satışların maliyetinin ya da ilgili stok için kullanılan tutarın ortalama stoka bölümüdür. Yıl için üç yüz altmış, bir çeyrek için doksan gün kullanılır.
 
 [[1]]
 
@@ -48,7 +52,8 @@ Soru beş. iki bin yirmi beş yılının ortalama ticari alacak tahsilat süresi
 Düşün.
 [[8]]
 [[bip]]
-Cevap: otuz iki.
+Cevap: otuz iki gün.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: alacak tahsil süresi, dönemdeki gün sayısının alacak devir hızına bölümüdür. Alacak devir hızı, net satışların ortalama ticari alacaklara bölümüdür.
 
 [[1]]
 
@@ -58,7 +63,8 @@ Soru altı. iki bin yirmi beş yılının ortalama ticari borç ödeme süresi k
 Düşün.
 [[8]]
 [[bip]]
-Cevap: kırk.
+Cevap: kırk gün.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: borç ödeme süresi, dönemdeki gün sayısının borç devir hızına bölümüdür. Borç devir hızı, satışların maliyetinin ya da alışların ortalama ticari borçlara bölümüdür.
 
 [[1]]
 
@@ -69,6 +75,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: yüzde yirmi.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: satışların kârlılığı, brüt satış kârının net satışlara bölünüp yüzle çarpılmasıyla bulunur.
 
 [[1]]
 
@@ -79,6 +86,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: yüzde altı.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: faaliyet kârlılığı, faaliyet kârının net satışlara bölünüp yüzle çarpılmasıyla bulunur.
 
 [[1]]
 
@@ -89,6 +97,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: yüzde iki virgül yirmi dokuz.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: varlıkların kârlılığı, net kârın toplam varlıklara bölünüp yüzle çarpılmasıyla bulunur.
 
 [[1]]
 
@@ -99,6 +108,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: yüzde yüz bir virgül altı.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: gelir tablosunun dikey analizinde temel net satışlardır. Bu yüzden brüt satışların dikey yüzdesi yüzün üzerinde çıkar.
 
 [[1]]
 
@@ -109,6 +119,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: yüzde yirmi beş virgül doksan dört.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: dikey yüzde, kalemin temel tutara bölünüp yüzle çarpılmasıdır. Bilançoda temel aktif ya da pasif toplamı, gelir tablosunda net satışlardır.
 
 [[1]]
 
@@ -119,6 +130,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: yüzde yüz elli.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: trend yüzdesi, ilgili yılın tutarının baz yıl tutarına bölünüp yüzle çarpılmasıdır.
 
 [[1]]
 
@@ -129,6 +141,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: yüzde yüz seksen.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: trend yüzdesi, ilgili yılın tutarının baz yıl tutarına bölünüp yüzle çarpılmasıdır.
 
 [[1]]
 
@@ -139,6 +152,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: dört milyon beş yüz kırk bin lira.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: satışlardan nakit girişi, net satışlara dönem başı ticari alacakların eklenip dönem sonu ticari alacakların çıkarılmasıyla bulunur.
 
 [[1]]
 
@@ -149,6 +163,7 @@ Düşün.
 [[8]]
 [[bip]]
 Cevap: yüzde elli.
+Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: değişim yüzdesi, cari yıl ile önceki yıl arasındaki farkın önceki yıla bölünüp yüzle çarpılmasıdır.
 
 [[1]]
 
@@ -188,7 +203,7 @@ Soru on dokuz. te me se bir Finansal Tabloların Sunuluşuna göre, tam bir fina
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Döneme ait üretim maliyeti tablosu.
+Cevap, yani bunlardan biri olmayan: Döneme ait üretim maliyeti tablosu.
 
 [[1]]
 

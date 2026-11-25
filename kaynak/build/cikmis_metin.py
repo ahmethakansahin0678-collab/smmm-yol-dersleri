@@ -59,10 +59,24 @@ def seslendir(t):
     t = t.replace('’', "'").replace('‘', "'")
     t = re.sub(r"₺'([a-zçğıöşü]+)", lambda m: 'lira' + ek_uyum(m.group(1)), t)
     t = t.replace('₺', ' lira')
+    SEK = {'nin': 'nin', 'nın': 'nin', 'ye': 'ne', 'ya': 'ne', 'de': 'nde', 'da': 'nde', 'deki': 'ndeki', 'den': 'nden', 'dan': 'nden', 'i': 'ni'}
+    t = re.sub(r"A\.\s?Ş\.(?:'([a-zçğıöşü]+))?", lambda m: 'Anonim Şirketi' + SEK.get(m.group(1), m.group(1) or '')[0:0] if not m.group(1) else 'Anonim Şirketi' + SEK.get(m.group(1), m.group(1)), t)
+    t = re.sub(r"Ltd\.\s?Şti(?:\.?'?([a-zçğıöşü]+)|\.)?", lambda m: 'Limited Şirketi' + ({'nin': 'nin'}.get(m.group(1), m.group(1) or '')), t)
+    # boşluk doldurma işaretleri, (i)/(ii) numaraları, (%) ve +/- işaretleri
+    RN = {'i': 'bir', 'ii': 'iki', 'iii': 'üç', 'iv': 'dört', 'v': 'beş'}
+    t = re.sub(r'\((i{1,3}|iv|v)\)\s*(?:-{2,}|_{2,})', lambda m: ' boşluk ' + RN[m.group(1)] + ' ', t)
+    t = re.sub(r'-{2,}|_{2,}', ' boşluk ', t)
+    t = re.sub(r'\((i{1,3}|iv|v)\)', lambda m: '(' + RN[m.group(1)] + ')', t)
+    t = re.sub(r'\(\s*%\s*\)', '', t)
+    t = re.sub(r'%\s*(?=[a-zçğıöşü])', 'yüzde ', t)
+    t = re.sub(r'([Ff]azla)\s*\(\+\)', r'\1', t); t = re.sub(r'([Ee]ksik)\s*\(-\)', r'\1', t)
+    t = t.replace('(+)', ' artı ').replace('(-)', ' eksi ').replace('+', ' artı ')
+    t = re.sub(r'(?<=[a-zçğıöşü]) - (?=[A-ZÇĞİÖŞÜ])', ' eksi ', t)
+    t = re.sub(r'(?<=\w)\(', ' (', t)
     t = re.sub(r'%\s*(\d+(?:,\d+)?)', r'yüzde \1', t)
     t = re.sub(r'(\d+(?:,\d+)?)\s*%', r'yüzde \1', t)
     # Roma rakamlı madde başları ve "I ve III" gibi cevaplar
-    t = re.sub(r'(?<![A-Za-zÇĞİÖŞÜçğıöşü])(VIII|VII|VI|IV|V|III|II|I)(?=\.\s|\s*,|\s+ve\s|\s*$|\s*\))', lambda m: ROMA[m.group(1)].capitalize() if m.end() < len(t) and t[m.end():m.end()+1] == '.' else ROMA[m.group(1)], t)
+    t = re.sub(r'(?<![A-Za-zÇĞİÖŞÜçğıöşü])(VIII|VII|VI|IV|V|III|II|I)(?=\.\s|\s*,|\s+ve\s|\s*$|\s*\))', lambda m: ('İ' + ROMA[m.group(1)][1:] if ROMA[m.group(1)][0] == 'i' else ROMA[m.group(1)].capitalize()) if m.end() < len(t) and t[m.end():m.end()+1] == '.' else ROMA[m.group(1)], t)
     def kisa_ek(m):
         ac, ek = KISA[m.group(1)], m.group(2)
         if ac.endswith('u'):
@@ -74,13 +88,46 @@ def seslendir(t):
     t = re.sub(r'\b([A-ZÇĞİÖŞÜ]{5,})\b', lambda m: tr_kucuk(m.group(1)), t)
     t = re.sub(r"(\d)'([a-zçğıöşü]+)", r'\1\2', t)
     t = re.sub(r'(?<![\d.,])(\d{1,3})\.\s(?=[a-zçğıöşü])', lambda m: sira(int(m.group(1))) + ' ', t)
+    AY = ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran', 'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık']
+    t = re.sub(r'\b(\d{1,2})[./](\d{1,2})[./](\d{4})\b', lambda m: f'{int(m.group(1))} {AY[int(m.group(2)) - 1]} {m.group(3)}' if 1 <= int(m.group(2)) <= 12 else m.group(0), t)
+    t = re.sub(r'\b(\d{4})\s*/\s*(?=[A-ZÇĞİÖŞÜ][a-zçğıöşü])', r'\1 ', t)  # 2025/Aralık
+    t = re.sub(r'\s*/\s*kg(\w*)', r' kilogram başına\1', t)
+    t = re.sub(r'\bkg\b', 'kilogram', t)
+    t = re.sub(r'(\d+)\s*/\s*([a-zA-ZçÇ])\b', r'\1 \2', t)  # 4/a -> dört a
+    t = re.sub(r'hangisi\s*/\s*hangileri', 'hangisi ya da hangileri', t)
+    t = re.sub(r'(?<![\w\d])-\s?(?=\d)', 'eksi ', t)
     t = sayilari_yaz(t)
     t = re.sub(r"(\w)'(\w)", r'\1\2', t)
     t = t.replace('/', ' bölü ').replace('&', ' ve ')
     t = re.sub(r'\s+', ' ', t).strip()
     return t
 
-YANLIS = re.compile(r'(yanlış|değildir|yer almaz|olamaz|bulunmaz|söylenemez|yoktur)\b[^.?]*\?\s*$', re.I)
+# Tabloya dayanan (tablosu metne gelmeyen) Finansal Tablolar sorularına cevaptan sonra formül hatırlatması
+FORMUL = [
+    (r'net işletme sermayesi', 'net işletme sermayesi, dönen varlıklardan kısa vadeli yabancı kaynakların çıkarılmasıyla bulunur. Eksi çıkması, kısa vadeli borçların dönen varlıklardan fazla olduğunu gösterir'),
+    (r'brüt işletme sermayesi', 'brüt işletme sermayesi, dönen varlıkların toplamıdır'),
+    (r'cari oran', 'cari oran, dönen varlıkların kısa vadeli yabancı kaynaklara bölümüdür'),
+    (r'likidite oranı', 'likidite oranı, dönen varlıklardan stoklar düşüldükten sonra kalan tutarın kısa vadeli yabancı kaynaklara bölümüdür'),
+    (r'stok devir hızı', 'stok devir hızı, satışların maliyetinin ortalama stoka bölümüdür. Ortalama stok, dönem başı ve dönem sonu stokların toplamının yarısıdır'),
+    (r'devir süresi', 'stok devir süresi, dönemdeki gün sayısının stok devir hızına bölümüdür. Devir hızı, satışların maliyetinin ya da ilgili stok için kullanılan tutarın ortalama stoka bölümüdür. Yıl için üç yüz altmış, bir çeyrek için doksan gün kullanılır'),
+    (r'tahsilat süresi', 'alacak tahsil süresi, dönemdeki gün sayısının alacak devir hızına bölümüdür. Alacak devir hızı, net satışların ortalama ticari alacaklara bölümüdür'),
+    (r'borç ödeme süresi', 'borç ödeme süresi, dönemdeki gün sayısının borç devir hızına bölümüdür. Borç devir hızı, satışların maliyetinin ya da alışların ortalama ticari borçlara bölümüdür'),
+    (r'brüt satışların kârlılığı|satışların kârlılığı', 'satışların kârlılığı, brüt satış kârının net satışlara bölünüp yüzle çarpılmasıyla bulunur'),
+    (r'faaliyet kârlılığı', 'faaliyet kârlılığı, faaliyet kârının net satışlara bölünüp yüzle çarpılmasıyla bulunur'),
+    (r'varlıkların kârlılığı', 'varlıkların kârlılığı, net kârın toplam varlıklara bölünüp yüzle çarpılmasıyla bulunur'),
+    (r'brüt satışların dikey', 'gelir tablosunun dikey analizinde temel net satışlardır. Bu yüzden brüt satışların dikey yüzdesi yüzün üzerinde çıkar'),
+    (r'dikey', 'dikey yüzde, kalemin temel tutara bölünüp yüzle çarpılmasıdır. Bilançoda temel aktif ya da pasif toplamı, gelir tablosunda net satışlardır'),
+    (r'eğilim|trend', 'trend yüzdesi, ilgili yılın tutarının baz yıl tutarına bölünüp yüzle çarpılmasıdır'),
+    (r'değişim yüzde', 'değişim yüzdesi, cari yıl ile önceki yıl arasındaki farkın önceki yıla bölünüp yüzle çarpılmasıdır'),
+    (r'satışlardan sağlanan nakit', 'satışlardan nakit girişi, net satışlara dönem başı ticari alacakların eklenip dönem sonu ticari alacakların çıkarılmasıyla bulunur'),
+]
+
+def formul_notu(soru):
+    for pat, txt in FORMUL:
+        if re.search(pat, soru, re.I): return 'Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: ' + txt + '.'
+    return ''
+
+YANLIS = re.compile(r'(yanlış(?:tır|lardır)?|değildir|yer almaz|olamaz|bulunmaz|söylenemez|yoktur)\b[^.?]*\?\s*$', re.I)
 
 def main(src, outdir):
     Q = json.load(open(src))
@@ -95,14 +142,16 @@ def main(src, outdir):
              f'İki bin yirmi altı yılı {dn} dönem yeterlilik sınavının {ders} soruları. Bu bölümde {sayi(len(qs))} gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.', '']
         for q in qs:
             soru, cevap = seslendir(q['soru']), seslendir(q['cevap'])
-            if re.search(r'kaç\s*₺', q['soru']) and re.fullmatch(r'[\d.,\s]+', q['cevap'].strip()): cevap += ' lira'
-            elif (mm := re.search(r'kaç\s+(iş günü|ay|gün|yıl|saat|hafta|kişi|aylık|günlük|yıllık)', q['soru'])) and re.fullmatch(r'[\d\s]+', q['cevap'].strip()): cevap += ' ' + mm.group(1)
-            elif re.search(r'yüzde kaç|% kaç|kaç %', q['soru']) and re.fullmatch(r'[\d.,\s%]+', q['cevap'].strip()) and 'yüzde' not in cevap: cevap = 'yüzde ' + cevap
+            if re.search(r'kaç\s*₺', q['soru']) and re.fullmatch(r'-?[\d.,\s]+', q['cevap'].strip()): cevap += ' lira'
+            elif (mm := re.search(r'kaç\s+(iş günü|ay|gün|yıl|saat|hafta|kişi|aylık|günlük|yıllık)', q['soru'])) and re.fullmatch(r'[\d\s]+(,0+)?', q['cevap'].strip()): cevap += ' ' + mm.group(1)
+            elif re.search(r'yüzde kaç|% kaç|kaç %|yüzdesi|yüzde \(%\)|\(%\)', q['soru'][-70:]) and re.fullmatch(r'-?[\d.,\s%]+', q['cevap'].strip()) and 'yüzde' not in cevap: cevap = ('eksi yüzde ' + cevap[5:]) if cevap.startswith('eksi ') else 'yüzde ' + cevap
+            if '₺' in q['soru'] and re.fullmatch(r'-?\d{1,3}(\.\d{3})+', q['cevap'].strip()) and not cevap.endswith('lira'): cevap += ' lira'
             hesap = len(re.findall(r'\d', q['soru'])) > 12
             bekle = 14 if hesap else 8
             yanlis = bool(YANLIS.search(q['soru']))
-            onek = 'Cevap, yani yanlış olan ifade: ' if yanlis else ('Doğru kayıt: ' if q.get('kayit') else 'Cevap: ')
-            L += ['[[bip]]', f'Soru {sayi(q["no"])}. {soru}', '', 'Düşün.', f'[[{bekle}]]', '[[bip]]', onek + cevap.rstrip('.') + '.', '', '[[1]]', '']
+            onek = (('Cevap, yani yanlış olan ifadeler: ' if re.search(r'hangileri', q['soru']) else 'Cevap, yani yanlış olan ifade: ') if re.search(r'yanlış', q['soru'][-80:]) else 'Cevap, yani bunlardan biri olmayan: ') if yanlis else ('Doğru kayıt: ' if q.get('kayit') else 'Cevap: ')
+            not_ = formul_notu(q['soru']) if ders == 'Finansal Tablolar ve Analizi' and len(q['soru']) < 170 else ''
+            L += ['[[bip]]', f'Soru {sayi(q["no"])}. {soru}', '', 'Düşün.', f'[[{bekle}]]', '[[bip]]', onek + cevap.rstrip('.') + '.'] + ([not_] if not_ else []) + ['', '[[1]]', '']
         L += [f'{ders} çıkmış soruları bitti. Takıldığın soruların konusunu, ilgili ders bölümünden tekrar dinle.', '']
         fn = f'{outdir}/cs-{ANAHTAR[ders]}-{yil}-{donem}.txt'
         open(fn, 'w').write('\n'.join(L))

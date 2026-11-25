@@ -18,7 +18,7 @@ Soru iki. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğine göre deneti
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Denetim, kullanıcılara denetim konusunun denetim kıstasına uyumuyla ilgili tam veya sınırlı güvence sağlar. Sınırlı güvence sağlayacağı ilgili mevzuatında veya denetim sözleşmesinde açıkça belirtilmemiş ise denetim tam güvence verecek şekilde gerçekleştirilir.
+Cevap, yani yanlış olan ifade: Denetim, kullanıcılara denetim konusunun denetim kıstasına uyumuyla ilgili tam veya sınırlı güvence sağlar. Sınırlı güvence sağlayacağı ilgili mevzuatında veya denetim sözleşmesinde açıkça belirtilmemiş ise denetim tam güvence verecek şekilde gerçekleştirilir.
 
 [[1]]
 
@@ -28,7 +28,7 @@ Soru üç. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğine göre denet
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Finansal tablolar açısından Türkiye Denetim Standartları; yıllık faaliyet raporları, riskin erken saptanması ve yönetimine ilişkin sistem açısından Sermaye Piyasası Kanunu ve ilgili mevzuatın denetim kıstasına ilişkin hükümleri kıstas alınır.
+Cevap, yani yanlış olan ifade: Finansal tablolar açısından Türkiye Denetim Standartları; yıllık faaliyet raporları, riskin erken saptanması ve yönetimine ilişkin sistem açısından Sermaye Piyasası Kanunu ve ilgili mevzuatın denetim kıstasına ilişkin hükümleri kıstas alınır.
 
 [[1]]
 
@@ -38,17 +38,17 @@ Soru dört. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğine göre bağ
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Başvuranın kıdemli denetçi olabilme şartlarını karşılaması.
+Cevap, yani yanlış olan ifade: Başvuranın kıdemli denetçi olabilme şartlarını karşılaması.
 
 [[1]]
 
 [[bip]]
-Soru beş. Denetçi olmak isteyenlerin (i)_____, finansal tablo denetimi dahil olmak üzere mesleki konularda denetim üstlenen bağımsız denetçi yanında ya da denetim kuruluşunda uygulamalı eğitim almaları şarttır. üç bin beş yüz altmış sekiz sayılı Kanun çerçevesinde tasdik ve vergi denetimi hizmetlerinde geçen süreler ile aynı Kanunda yer alan kamu kurum ve kuruluşlarında denetim yetkisini haiz olanların, bu kamu kurum ve kuruluşlarında geçirdikleri süreler uygulamalı mesleki eğitim süresinden sayılır. (ii)_____ sahip olanlarda uygulamalı mesleki eğitim şartı aranmaz. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğinin Uygulamalı Mesleki Eğitim Düzenlemesi kapsamında yer alan bu ifadedeki boşluğu tamamlayan doğru seçenek aşağıdakilerden hangisidir?
+Soru beş. Denetçi olmak isteyenlerin boşluk bir , finansal tablo denetimi dahil olmak üzere mesleki konularda denetim üstlenen bağımsız denetçi yanında ya da denetim kuruluşunda uygulamalı eğitim almaları şarttır. üç bin beş yüz altmış sekiz sayılı Kanun çerçevesinde tasdik ve vergi denetimi hizmetlerinde geçen süreler ile aynı Kanunda yer alan kamu kurum ve kuruluşlarında denetim yetkisini haiz olanların, bu kamu kurum ve kuruluşlarında geçirdikleri süreler uygulamalı mesleki eğitim süresinden sayılır. boşluk iki sahip olanlarda uygulamalı mesleki eğitim şartı aranmaz. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğinin Uygulamalı Mesleki Eğitim Düzenlemesi kapsamında yer alan bu ifadedeki boşluğu tamamlayan doğru seçenek aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: (i) en az üç yıl süreyle; (ii) En az on beş yıl mesleki tecrübeye.
+Cevap: (bir) en az üç yıl süreyle; (iki) En az on beş yıl mesleki tecrübeye.
 
 [[1]]
 
@@ -63,7 +63,7 @@ Cevap: Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğinin uygulamasında
 [[1]]
 
 [[bip]]
-Soru yedi. _____; denetim kanıtlarının Türkiye Denetim Standartları çerçevesinde değerlendirilmesi sonucunda, belirlenen güvence seviyesine uygun şekilde oluşturulan denetçi görüşünün ve varsa dikkat çekilmek istenen diğer hususların kullanıcıların istifadesine sunulması amacıyla Kamu Gözetimi Kurumu düzenlemelerine uygun olarak hazırlanan ve imzalayan denetim kuruluşu veya denetim üstlenen bağımsız denetçi tarafından sorumluluğu üstlenilen belgedir. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliği kapsamında bu ifadede boşluğu doğru bir şekilde tamamlayan seçenek aşağıdakilerden hangisidir?
+Soru yedi. boşluk ; denetim kanıtlarının Türkiye Denetim Standartları çerçevesinde değerlendirilmesi sonucunda, belirlenen güvence seviyesine uygun şekilde oluşturulan denetçi görüşünün ve varsa dikkat çekilmek istenen diğer hususların kullanıcıların istifadesine sunulması amacıyla Kamu Gözetimi Kurumu düzenlemelerine uygun olarak hazırlanan ve imzalayan denetim kuruluşu veya denetim üstlenen bağımsız denetçi tarafından sorumluluğu üstlenilen belgedir. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliği kapsamında bu ifadede boşluğu doğru bir şekilde tamamlayan seçenek aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
@@ -78,7 +78,7 @@ Soru sekiz. Kamu Gözetimi Kurumu Bağımsız Denetim Yönetmeliğine göre Bağ
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Denetim kuruluşları ve denetçilerden faaliyet izni askıya alınanlar, denetim faaliyetinde bulunmayacağını beyan edenler ve sürekli eğitim yükümlülüğünü yerine getirmeyenler sicilden silinirler.
+Cevap, yani yanlış olan ifade: Denetim kuruluşları ve denetçilerden faaliyet izni askıya alınanlar, denetim faaliyetinde bulunmayacağını beyan edenler ve sürekli eğitim yükümlülüğünü yerine getirmeyenler sicilden silinirler.
 
 [[1]]
 
@@ -118,7 +118,7 @@ Soru on iki. Türkiye Denetim Standartları Kalite Yönetim Standardı iki- Dene
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Kalitenin gözden geçirilmesi, denetim ekibi tarafından yapılan önemli bulguların ve bu kapsamda ulaşılan kanıtların bağımsız bir şekilde değerlendirilmesidir.
+Cevap, yani yanlış olan ifade: Kalitenin gözden geçirilmesi, denetim ekibi tarafından yapılan önemli bulguların ve bu kapsamda ulaşılan kanıtların bağımsız bir şekilde değerlendirilmesidir.
 
 [[1]]
 
@@ -133,7 +133,7 @@ Cevap: Denetçi bu durumda söz konusu mevzuata uymak zorundadır.
 [[1]]
 
 [[bip]]
-Soru on dört. _____; doğru iş yapmayı, güvenilir olmayı ve bu şekilde hareket etmek olumsuz kişisel veya kurumsal sonuçlara yol açabilecek olsa ya da aksi şekilde hareket etme baskısıyla karşı karşıya kalınsa dahi uygun şekilde davranma gücüne sahip olmayı içerir. Türkiye Denetim Standartları-Bağımsız Denetçiler İçin Etik Kurallar kapsamında yer alan bu ifadede boşluğu tamamlayan en uygun seçenek aşağıdakilerden hangisidir?
+Soru on dört. boşluk ; doğru iş yapmayı, güvenilir olmayı ve bu şekilde hareket etmek olumsuz kişisel veya kurumsal sonuçlara yol açabilecek olsa ya da aksi şekilde hareket etme baskısıyla karşı karşıya kalınsa dahi uygun şekilde davranma gücüne sahip olmayı içerir. Türkiye Denetim Standartları-Bağımsız Denetçiler İçin Etik Kurallar kapsamında yer alan bu ifadede boşluğu tamamlayan en uygun seçenek aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
@@ -158,7 +158,7 @@ Soru on altı. Aşağıdakilerden hangisi Türkiye Bağımsız Denetim Standartl
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: İç denetçilerin bağımsız denetçilere yardımcı olmalarının sağlanması sorumluluğu.
+Cevap, yani bunlardan biri olmayan: İç denetçilerin bağımsız denetçilere yardımcı olmalarının sağlanması sorumluluğu.
 
 [[1]]
 
@@ -168,12 +168,12 @@ Soru on yedi. Türkiye Bağımsız Denetim Standartları (Bağımsız Denetim St
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Risklerin değerlendirilmesi, kesin ölçümü yapılması gereken önemli bir konu olması nedeniyle mesleki muhakemeden ziyade kanıt gerektiren bir husustur.
+Cevap, yani yanlış olan ifade: Risklerin değerlendirilmesi, kesin ölçümü yapılması gereken önemli bir konu olması nedeniyle mesleki muhakemeden ziyade kanıt gerektiren bir husustur.
 
 [[1]]
 
 [[bip]]
-Soru on sekiz. Bir. Yazılı beyan, belirli konuları teyit etmek veya diğer denetim kanıtlarını desteklemek için yönetim tarafından denetçiye sunulan yazılı bildirimdir. Bu bağlamda yazılı beyanlar; finansal tabloları, bu tablolarda yer alan yönetim beyanlarını veya bu tabloları destekleyen defterleri ve kayıtları kapsamaz. Iki. Yazılı beyanlar, işletmenin finansal tablolarının denetimiyle ilgili olarak denetçinin talep ettiği gerekli bilgilerdir. Dolayısıyla, sorgulamalara verilen yanıtlar gibi, yazılı beyanlar da denetim kanıtı niteliğindedir. Üç. Yazılı beyanlar gerekli olan denetim kanıtını sağlamalarına rağmen, ele aldıkları konularla ilgili tek başlarına yeterli ve uygun denetim kanıtı sağlamazlar. Dört. Yönetimin güvenilir yazılı beyanlar sunmuş olması, yönetimin sorumluluklarını yerine getirmesiyle ve belirli yönetim beyanlarıyla ilgili denetçinin elde edeceği diğer denetim kanıtlarının niteliğini veya kapsamını etkilemez. Türkiye Bağımsız Denetim Standartlarına göre, finansal tabloların denetiminde, denetçinin yönetimden ve -uygun hâllerde- üst yönetimden sorumlu olanlardan yazılı beyan alması kapsamında yukarıdaki ifadelerden hangisi bölü hangileri doğrudur?
+Soru on sekiz. Bir. Yazılı beyan, belirli konuları teyit etmek veya diğer denetim kanıtlarını desteklemek için yönetim tarafından denetçiye sunulan yazılı bildirimdir. Bu bağlamda yazılı beyanlar; finansal tabloları, bu tablolarda yer alan yönetim beyanlarını veya bu tabloları destekleyen defterleri ve kayıtları kapsamaz. İki. Yazılı beyanlar, işletmenin finansal tablolarının denetimiyle ilgili olarak denetçinin talep ettiği gerekli bilgilerdir. Dolayısıyla, sorgulamalara verilen yanıtlar gibi, yazılı beyanlar da denetim kanıtı niteliğindedir. Üç. Yazılı beyanlar gerekli olan denetim kanıtını sağlamalarına rağmen, ele aldıkları konularla ilgili tek başlarına yeterli ve uygun denetim kanıtı sağlamazlar. Dört. Yönetimin güvenilir yazılı beyanlar sunmuş olması, yönetimin sorumluluklarını yerine getirmesiyle ve belirli yönetim beyanlarıyla ilgili denetçinin elde edeceği diğer denetim kanıtlarının niteliğini veya kapsamını etkilemez. Türkiye Bağımsız Denetim Standartlarına göre, finansal tabloların denetiminde, denetçinin yönetimden ve -uygun hâllerde- üst yönetimden sorumlu olanlardan yazılı beyan alması kapsamında yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?
 
 Düşün.
 [[8]]
@@ -188,12 +188,12 @@ Soru on dokuz. Finansal Tabloların Bağımsız Denetiminde Türkiye Bağımsız
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Makul güvence elde ederken denetçi, yönetim tarafından kontrollerin ihlal edilmesi ihtimalini ve hataların ortaya çıkarılmasında etkin olan denetim prosedürlerinin hilenin ortaya çıkarılmasında etkili olacağını göz önünde bulundurarak, tüm denetim boyunca mesleki yetkinliğini sürdürmekle sorumludur.
+Cevap, yani yanlış olan ifade: Makul güvence elde ederken denetçi, yönetim tarafından kontrollerin ihlal edilmesi ihtimalini ve hataların ortaya çıkarılmasında etkin olan denetim prosedürlerinin hilenin ortaya çıkarılmasında etkili olacağını göz önünde bulundurarak, tüm denetim boyunca mesleki yetkinliğini sürdürmekle sorumludur.
 
 [[1]]
 
 [[bip]]
-Soru yirmi. Bağımsız Denetim Standartları kapsamında; _____; bir kontrolün, finansal tablolarda yer alan yanlışlıkları zamanında önleyemeyecek veya tespit edip düzeltemeyecek şekilde tasarlanması, uygulanması veya kullanılması veya finansal tablolarda yer alan yanlışlıkları zamanında önlemek veya tespit edip düzeltmek için gereken bir kontrolün bulunmaması durumunda mevcuttur. Bu ifadede boşluğu en iyi tamamlayan seçenek aşağıdakilerden hangisidir?
+Soru yirmi. Bağımsız Denetim Standartları kapsamında; boşluk ; bir kontrolün, finansal tablolarda yer alan yanlışlıkları zamanında önleyemeyecek veya tespit edip düzeltemeyecek şekilde tasarlanması, uygulanması veya kullanılması veya finansal tablolarda yer alan yanlışlıkları zamanında önlemek veya tespit edip düzeltmek için gereken bir kontrolün bulunmaması durumunda mevcuttur. Bu ifadede boşluğu en iyi tamamlayan seçenek aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]

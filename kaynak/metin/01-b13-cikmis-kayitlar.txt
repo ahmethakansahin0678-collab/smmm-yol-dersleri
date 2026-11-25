@@ -1,0 +1,137 @@
+BAŞLIK: Finansal Muhasebe 13. Çıkmış sorulardaki kayıt mantıkları, sınav rakamlarıyla
+
+Finansal Muhasebe on üçüncü bölüme hoş geldin. Bu bölüm iki bin yirmi altı yılının iki sınavında çıkan kırk Finansal Muhasebe sorusundan derlendi. Soruları tek tek ezberlemek yerine, arkadaki kayıt mantığını öğreneceğiz. Her konuda sınavdaki rakamları kullanacağım ve sonucun neden öyle çıktığını anlatacağım.
+
+Birinci konu: Karşılık ayrılmış bir varlık elden çıkınca.
+
+Kural şu: Önce ayrılmış karşılığı kapat, sonra gerçek zararı ya da kârı bul. Karşılık gerçek zarardan fazlaysa, fazlası Konusu Kalmayan Karşılıklar hesabına gelir olarak yazılır. Azsa, kalan zarar gider olur.
+
+Sınav örneği, hisse senedi: Alış değeri altmış bin, daha önce ayrılan karşılık on iki bin beş yüz, satış bedeli elli bin. Gerçek zarar on bin. Karşılık on iki bin beş yüz ayrılmıştı, yani iki bin beş yüz fazla. Kayıt: Yüz iki Bankalar elli bin borç, yüz on dokuz Menkul Kıymetler Değer Düşüklüğü Karşılığı on iki bin beş yüz borç; yüz on Hisse Senetleri altmış bin alacak, Konusu Kalmayan Karşılıklar iki bin beş yüz alacak.
+
+Sınav örneği, şüpheli alacak: On iki bin liralık şüpheli alacak için yedi bin karşılık ayrılmış, alacak tahsil edilemez hale gelmiş. Yüz yirmi dokuz Şüpheli Ticari Alacaklar Karşılığı yedi bin borç, karşılıksız kalan beş bin lira da altı yüz seksen dokuz Diğer Olağandışı Gider ve Zararlar hesabına borç; yüz yirmi sekiz Şüpheli Ticari Alacaklar on iki bin alacak.
+
+[[bip]]
+Hızlı soru: Karşılık, gerçekleşen zarardan fazlaysa fark hangi hesaba yazılır?
+[[5]]
+Konusu Kalmayan Karşılıklar hesabına, gelir olarak.
+
+İkinci konu: Sermaye artırımı ve ihraç primi.
+
+Sermaye her zaman nominal değerden yazılır. Nominal değerin üstündeki tahsilat Hisse Senedi İhraç Primleri hesabına alacak olarak yazılır. Bu hesap bir özkaynak hesabıdır ve primde borç değil alacak çalışır.
+
+Sınav örneği: Seksen bin liralık sermaye artırımı, bir lira nominal değerli paylar beş liradan satılıyor. Seksen bin pay çarpı beş, dört yüz bin lira tahsil edilir. Kayıt: Bankalar dört yüz bin borç; beş yüz bir Ödenmemiş Sermaye seksen bin alacak, beş yüz yirmi Hisse Senedi İhraç Primleri üç yüz yirmi bin alacak.
+
+Tuzak: Yirmi bin pay üç liradan satılınca prim kırk bin olur ve ihraç primi hesabı kırk bin alacaklandırılır. Borçlandırılır diyen şık yanlıştır.
+
+[[bip]]
+Hızlı soru: Bir lira nominal değerli seksen bin pay beş liradan satılırsa ihraç primi ne kadardır?
+[[5]]
+Üç yüz yirmi bin lira.
+
+Üçüncü konu: Bono ihracı ve iskonto.
+
+Bono nominal değerinden düşük bedelle satılırsa, aradaki fark üç yüz sekiz Menkul Kıymet İhraç Farkları hesabına borç yazılır. Banka masrafı ayrıca finansman gideridir.
+
+Sınav örneği: Yüz bin nominal değerli bono doksan üç bin altı yüz liraya satılıyor, banka bin lira masraf kesiyor. Bankalar doksan iki bin altı yüz borç, Finansman Giderleri bin borç, Menkul Kıymet İhraç Farkları altı bin dört yüz borç; üç yüz beş Çıkarılmış Bonolar ve Senetler yüz bin alacak.
+
+Kısa yoldan: Bankalar, ihraç farkları, üç yüz beş kalıbını görürsen cevap, bononun iskontolu ihraç edilmesidir.
+
+Dördüncü konu: Sayım farkları.
+
+Sürekli envanterde fark normal fireden kaynaklanıyorsa, eksik tutar Satılan Ticari Mallar Maliyeti hesabına borç yazılır. Sınavda otuz sekiz binlik kalan, otuz altı binlik sayım: iki bin Satılan Ticari Mallar Maliyeti borç.
+
+Farkın nedeni belli değilse ve araştırılacaksa, eksik tutar yüz doksan yedi Sayım ve Tesellüm Noksanları hesabına borç yazılır. Sınavda dokuz binlik kalan, sekiz bin beş yüzlük sayım: beş yüz lira Sayım ve Tesellüm Noksanları borç.
+
+Kasa farkında neden belliyse doğrudan ilgili hesap düzeltilir. Sınavda kasada bin lira eksik çıktı ve neden, kaydedilmemiş bir satıcı ödemesiydi. Satıcılar bin borç, Kasa bin alacak.
+
+[[bip]]
+Hızlı soru: Nedeni araştırılacak stok eksiği hangi hesaba borç yazılır?
+[[5]]
+Sayım ve Tesellüm Noksanları.
+
+Beşinci konu: Faiz, reeskont ve tahakkuklar.
+
+Banka kredisinin dönem sonuna kadar işleyen faizi, ödenmemişse Gider Tahakkukları hesabına alacak yazılır. Sınav örneği: Bir Kasımda yüz bin lira, yüzde yirmi dört faizli kredi. Bir Kasımdan yıl sonuna altmış gün. Yüz bin çarpı yüzde yirmi dört çarpı altmış bölü üç yüz altmış, dört bin lira. Gider Tahakkukları dört bin alacak.
+
+Vadeli mevduatın bilanço gününe kadar işleyen faizi ise Gelir Tahakkukları hesabına borç yazılır.
+
+Mevduat faizi tahsil edilirken banka vergi keserse, faizin tamamı Faiz Gelirleri hesabına alacak yazılır; kesilen vergi Peşin Ödenen Vergiler hesabına borçtur. Sınavda iki bin faiz, üç yüz vergi: Faiz Gelirleri iki bin alacak.
+
+Borç senedi için hesaplanan reeskont, faiz giderini azaltır ve Reeskont Faiz Gelirleri hesabına alacak yazılır.
+
+Alacak senedi daha yüksek tutarlı yeni bir senetle yenilenirse, aradaki fark faiz gelirdir. Sınavda üç bin liralık senet, üç bin iki yüz liralık senetle yenilendi: iki yüz lira Faiz Gelirleri alacak.
+
+[[bip]]
+Hızlı soru: Bir Kasımda alınan yüz bin lira, yüzde yirmi dört faizli kredinin yıl sonu faiz tahakkuku ne kadardır?
+[[5]]
+Dört bin lira.
+
+Altıncı konu: Gider karşılığı ve gelecek aylar.
+
+Tahmini elektrik gideri ay sonunda Maliyet Giderleri Karşılığı hesabına alacak yazılmıştı. Sınavda tahmin altı yüz, gelen fatura yedi yüz artı kadeve. Fatura gelince karşılık kapatılır: Maliyet Giderleri Karşılığı altı yüz borç, eksik kalan yüz lira Pazarlama Satış ve Dağıtım Giderleri borç, İndirilecek Kadeve yüz kırk borç; Bankalar sekiz yüz kırk alacak.
+
+Gelecek Aylara Ait Giderler hesabında seksen bin varsa ve yirmi bini gelecek dönemi ilgilendiriyorsa, altmış bin bu dönemin gideri yapılır ve hesap yirmi bin kalan verir.
+
+Yedinci konu: Stok değerleme ve standartlar.
+
+İlk giren ilk çıkar örneği: Dönem başı beş yüz adet yirmi liradan, sonra sekiz yüz adet yirmi beş liradan, sonra bin adet otuz liradan alış. Toplam satış bin yedi yüz adet. İlk beş yüz adet on bin, sonraki sekiz yüz adet yirmi bin, kalan dört yüz adet otuz liradan on iki bin. Satılan malın maliyeti kırk iki bin lira.
+
+Türkiye Muhasebe Standardı İki Stoklar: Stok, maliyet ile net gerçekleşebilir değerden düşük olanıyla ölçülür. Net gerçekleşebilir değer, tahmini satış fiyatından satış giderleri düşülerek bulunur. Sınavda maliyet otuz bin, satış fiyatı otuz beş bin, satış gideri altı bin. Net gerçekleşebilir değer yirmi dokuz bin. Bin lira değer düşüklüğü var ve karşılık ayrılır.
+
+Aynı standarda göre sabit genel üretim giderleri normal kapasiteye göre yüklenir. Sınavda normal kapasite on bin birim, üretim sekiz bin birim. Sabit genel üretim giderinin altmış bininin yalnızca yüzde sekseni, yani kırk sekiz bini mamule yüklenir. Mamul maliyeti: yirmi bin artı seksen bin artı kırk bin değişken artı kırk sekiz bin sabit, yüz seksen sekiz bin lira. Kalan on iki bin dönem gideridir.
+
+[[bip]]
+Hızlı soru: Normal kapasitenin altında üretimde sabit genel üretim giderinin yüklenmeyen kısmı ne olur?
+[[5]]
+Dönem gideri olur, stoka yüklenmez.
+
+Sekizinci konu: Duran varlıklar.
+
+Üretim miktarı yöntemi: Maliyetten hurda değer düşülür, toplam çalışma saatine bölünür ve dönemdeki çalışmayla çarpılır. Sınavda dört bin maliyet, beş yüz hurda, bin saat ömür, iki yüz saat çalışma. Üç bin beş yüz bölü bin, çarpı iki yüz: yedi yüz lira amortisman.
+
+Yenileme fonu: Satılan kamyonetin yedi bin lira kârı yenileme fonu olarak özel fonlara alınmıştı. Yeni kamyonet elli bin, beş yıl ömür, yıllık amortisman on bin. Bu amortismanın yedi bini fondan karşılanır, kalan üç bini gider olur. Kayıt: Pazarlama Satış ve Dağıtım Giderleri üç bin borç, Özel Fonlar yedi bin borç; Birikmiş Amortismanlar on bin alacak.
+
+Yeniden değerleme modeli: Taşıtların kayıtlı değeri yirmi beş binden elli bine, birikmiş amortisman yirmi binden otuz bine çıktı. Net değer beş binden yirmi bine çıktı, artış on beş bin. Yeniden Değerleme Artışları hesabına on beş bin alacak yazılır.
+
+Yatırım amaçlı gayrimenkul: Otuz bin liraya alınan arsa yatırım amaçlı elde tutulmaya başlandı, gerçeğe uygun değeri kırk bin. Gerçeğe Uygun Değerle Ölçülen Yatırım Amaçlı Gayrimenkuller kırk bin borç, Arazi ve Arsalar otuz bin alacak, aradaki on bin Yeniden Değerleme Artışları hesabına alacak.
+
+Binanın dış cephe yalıtımı ve yenilemesi binanın değerini artırdığı için Binalar hesabına eklenir. Kamyonet için verilen avans Verilen Avanslar hesabına borç yazılır. Geliştirme giderleri aktifleştirilir, araştırma giderleri ise gider yazılır.
+
+[[bip]]
+Hızlı soru: Dört bin lira maliyetli, beş yüz lira hurda değerli, bin saat ömürlü cihaz iki yüz saat çalışırsa amortisman ne kadardır?
+[[5]]
+Yedi yüz lira.
+
+Dokuzuncu konu: Kısa kısa doğru hesaplar.
+
+Kredili alınan mal için taşıma gideri satıcı adına ödenirse, satıcıya olan borç azalır: Satıcılar dört bin sekiz yüz borç, Kasa alacak.
+
+İleri tarihli çek, özün önceliği kavramı gereği Alacak Senetleri hesabına alınır.
+
+Hisse senedi alış bedeliyle kaydedilir: İki bin adet, beş liradan, on bin lira.
+
+Ödenen kadeve tahsil edilenden azsa fark Ödenecek Vergi ve Fonlar hesabına yazılır.
+
+Ortaklık payı yüzde kırk beşten yüzde altmışa çıkınca iştirak, bağlı ortaklığa dönüşür.
+
+İştirakin dağıttığı kâr payı: İştiraklerden Alacaklar borç, İştiraklerden Temettü Gelirleri alacak.
+
+İade edilen depozito: Alınan Depozito ve Teminatlar borç, Alıcılar alacak.
+
+Vadeden önce ödemede alınan iskonto, alış maliyetini düşürür: Ticari Mallar hesabına yüz yirmi lira alacak.
+
+Kurumlar vergisi karşılığı: Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları, altı yüz doksan bir borç ve üç yüz yetmiş alacak.
+
+Dersin özeti.
+
+Bir. Karşılık önce kapatılır; fazlası Konusu Kalmayan Karşılıklar, eksiği gider.
+
+İki. Sermaye nominalden; üstü ihraç primi, alacak tarafında.
+
+Üç. İskontolu bono: Bankalar, Menkul Kıymet İhraç Farkları, Çıkarılmış Bonolar.
+
+Dört. Normal fire Satılan Ticari Mallar Maliyeti, nedeni araştırılan fark Sayım ve Tesellüm Noksanları.
+
+Beş. Stok, maliyet ile net gerçekleşebilir değerden düşük olanıyla; sabit genel üretim gideri normal kapasiteye göre yüklenir.
+
+Altı. Üretim miktarı yönteminde önce hurda değer düşülür.

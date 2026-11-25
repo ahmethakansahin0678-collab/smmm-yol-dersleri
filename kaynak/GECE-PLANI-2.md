@@ -15,11 +15,11 @@
 6. pwa/ → depo kopyala, commit, push; artifact'e index.html + dersler.json + yeni ses dosyaları
 
 ## Yapılacaklar (sırayla)
-- [ ] A. 320 çıkmış soruyu konu konu sınıflandır → `kaynak/analiz-2026.md` (ders → konu → soru sayısı, hangi derste/dersimizde karşılığı var mı)
-- [ ] B. Analizde karşılığı olmayan/zayıf konular için yeni ders bölümleri (her ders için en sık çıkan eksik konulardan başla). Her bölüm: anlatım + örnek + 2 soru + özet. Sayılar yazıyla.
-- [ ] C. Çıkmış soruların okunuşunu denetle: tablolu sorular (14 sn bekleme) tekrar okunaklı mı; "Bay (D)" gibi ifadeler, kısaltmalar, ₺ ekleri. Gerekirse cikmis_metin.py düzelt, cs-* yeniden seslendir.
-- [ ] D. Program: yeni bölümleri günlere yerleştir; Program sekmesine "2026 sınav analizi" özeti (ders başına en çok çıkan konular).
-- [ ] E. Soru-Cevap: yanlış cevapladığım soruları işaretleme ("Tekrar sor" listesi) — localStorage ile.
+- [x] A. 320 çıkmış soruyu konu konu sınıflandır → `kaynak/analiz-2026.md` (ders → konu → soru sayısı, hangi derste/dersimizde karşılığı var mı)
+- [x] B. Analizde karşılığı olmayan/zayıf konular için yeni ders bölümleri (her ders için en sık çıkan eksik konulardan başla). Her bölüm: anlatım + örnek + 2 soru + özet. Sayılar yazıyla.
+- [x] C. Çıkmış soruların okunuşunu denetle: tablolu sorular (14 sn bekleme) tekrar okunaklı mı; "Bay (D)" gibi ifadeler, kısaltmalar, ₺ ekleri. Gerekirse cikmis_metin.py düzelt, cs-* yeniden seslendir.
+- [x] D. Program: yeni bölümleri günlere yerleştir; Program sekmesine "2026 sınav analizi" özeti (ders başına en çok çıkan konular).
+- [x] E. Soru-Cevap: yanlış cevapladığım soruları işaretleme ("Tekrar sor" listesi) — localStorage ile.
 - [ ] F. Tam regresyon testi + yayın + sabah özeti.
 
 ## Notlar
@@ -28,3 +28,6 @@
 
 ## Ek (01:50)
 - [x] 2025/3 klasik sınav (5 ders) eklendi: cs-0X-2025-3, komisyon cevaplarıyla. Testler geçti, yayında (GitHub + artifact v28).
+
+- [x] 02:00 yayın: 5 yeni ders (07-b4, 04-b5, 06-b10, 05-b13, 08-b5) Gün 23-24; Meslek düzeltmeleri seslendirildi; Tekrar sor listesi; 2026 analizi Program sekmesinde; ses ?v= sürüm etiketi (eski indirilen sesler temizlenir). GitHub 4dcc215, artifact v29.
+- [x] 03:00 yayın: çıkmış soru okunuşu düzeltildi (37 yanlış-tipi soruya ön ek, boşluk/(i)/(+)/(-)/%/eksi sayılar, A.Ş., 4/a, tarihler, kg); FTA tablo sorularına formül notu; 3 yeni ders (01-b13 kayıt mantıkları, 03-b7 maliyet hesapları, 02-b6 hedef soruları) Gün 25; 07-b4'e SMG tuzakları. Artifact v30.

@@ -1,0 +1,67 @@
+BAŞLIK: Finansal Tablolar 6. Çıkmış sorulardan hedef ve tersten çözüm soruları
+
+Finansal Tablolar ve Analizi altıncı bölüme hoş geldin. İki bin yirmi altı sınavlarında Finansal Tablolar sorularının çoğu bir tabloya dayanıyordu. Bunları çözmek için formülleri bilmek yeterli. Ama sınavda bir de yeni bir soru tipi vardı: hedef soruları. "Şu oranı yakalamak için stok ne olmalı?" gibi. Bu bölümde önce sınavda en çok kullanılan formülleri bir kez daha toparlayacağım, sonra hedef sorularını sınav rakamlarıyla tersten çözeceğim.
+
+Birinci konu: Sınavda en çok kullanılan formüller.
+
+Net işletme sermayesi: dönen varlıklar eksi kısa vadeli yabancı kaynaklar. Brüt işletme sermayesi: dönen varlıkların kendisi.
+
+Cari oran: dönen varlıklar bölü kısa vadeli yabancı kaynaklar. Likidite oranı: dönen varlıklardan stoklar çıkarıldıktan sonra kısa vadeli yabancı kaynaklara bölünür.
+
+Devir hızı ve süre: Devir hızı, akış tutarının ortalama bakiyeye bölümüdür. Süre ise gün sayısının devir hızına bölümüdür. Yıl için üç yüz altmış, çeyrek için doksan gün kullanılır. Ortalama bakiye, dönem başı ile dönem sonunun toplamının yarısıdır.
+
+Hangi akış tutarı? Alacakta net satışlar. Stokta satışların maliyeti. Borçta satışların maliyeti ya da alışlar.
+
+Dikey yüzde: Bilançoda temel aktif ya da pasif toplamı, gelir tablosunda net satışlar. Bu yüzden brüt satışların dikey yüzdesi yüzün üstünde çıkar. Sınavda yüz bir virgül altı ve yüz iki gibi değerler geldi.
+
+Trend yüzdesi: ilgili yıl bölü baz yıl, çarpı yüz. Karşılaştırmalı tablolarda değişim yüzdesi: fark bölü önceki yıl, çarpı yüz. Değişim eksi de çıkabilir; sınavda ticari borçlar için eksi yüzde otuz geldi.
+
+Satışlardan nakit girişi: net satışlar, artı dönem başı ticari alacaklar, eksi dönem sonu ticari alacaklar.
+
+[[bip]]
+Hızlı soru: Gelir tablosunun dikey analizinde temel tutar nedir?
+[[5]]
+Net satışlar. Bu yüzden brüt satışlar yüzün üstünde çıkar.
+
+İkinci konu: Hedef soruları. Bu soruların hepsinde formülü yaz, bilinmeyeni yalnız bırak.
+
+Sınav örneği bir, likidite hedefi: Dönen varlıklar yüz elli bin, kısa vadeli yabancı kaynaklar yüz bin, hedeflenen likidite oranı sıfır virgül altı. Dönen varlıklar eksi stok, bölü yüz bin, sıfır virgül altı olmalı. Demek ki dönen varlıklar eksi stok altmış bin. Yüz elli bin eksi altmış bin, stok doksan bin lira olmalı.
+
+Sınav örneği iki, tahsil süresi hedefi: İki bin yirmi altı için tahmini net satışlar altı yüz bin, hedef tahsil süresi altmış gün. Üç yüz altmış bölü altmış, alacak devir hızı altı olmalı. Altı yüz bin bölü altı, ortalama alacak yüz bin olmalı. Dönem başı alacak, yani iki bin yirmi beş sonu, yüz yirmi bin. Yüz yirmi bin artı X, bölü iki, yüz bin. X seksen bin. Yıl sonu alacak seksen bin lira olmalı.
+
+Sınav örneği üç, kaldıraç: Kaldıraç oranı, toplam yabancı kaynaklar bölü pasif toplamı. Devamlı sermaye oranı yüzde altmış, uzun vadeli yabancı kaynak oranı yüzde on. Devamlı sermaye, özkaynak artı uzun vadeli yabancı kaynaktır. Demek ki özkaynak yüzde elli. Pasifin geri kalanı yabancı kaynak: kaldıraç oranı yüzde elli.
+
+Sınav örneği dört, dikey yüzdeden tutara: Faaliyet kârının dikey yüzdesi yüzde on beş, brüt satışların dikey yüzdesi yüzde yüz iki, brüt satışlar beş yüz on bin. Brüt satış net satışın yüzde yüz ikisi ise net satış beş yüz bin. Faaliyet kârı, beş yüz binin yüzde on beşi, yetmiş beş bin lira.
+
+Sınav örneği beş, borç ödeme süresi hedefi: Mantık aynı. Hedef süre otuz altı gün ise devir hızı, dönemdeki gün sayısı bölü otuz altı olur. Dönem altı ay ise yüz seksen gün; devir hızı beş. Satışların maliyeti beşe bölünür, ortalama borç bulunur; ortalamanın iki katından dönem başı borç çıkarılır ve dönem sonu borç bulunur.
+
+[[bip]]
+Hızlı soru: Dönen varlıklar yüz elli bin, kısa vadeli borçlar yüz bin. Likidite oranı sıfır virgül altı olsun istiyorsak stok ne olmalı?
+[[5]]
+Doksan bin lira.
+
+Üçüncü konu: Grafik yorumları.
+
+Sınavda iki grafik sorusu geldi. Kural basit: İki çizginin birbirine göre nasıl açıldığına bak.
+
+Satışların maliyeti net satışlardan daha hızlı artıyorsa, brüt satış kârı azalma eğilimindedir.
+
+Ticari alacakların trendi net satışların trendinden hızlı artıyorsa, ortalama tahsil süresi uzuyor demektir.
+
+Dönen varlıklar kısa vadeli yabancı kaynaklardan hızlı artıyor ve stokların payı düşüyorsa, likidite gücü iyileşiyor demektir.
+
+Dördüncü konu: Türkiye Muhasebe Standardı Bir.
+
+Tam bir finansal tablolar seti: finansal durum tablosu, kâr veya zarar ve diğer kapsamlı gelir tablosu, özkaynak değişim tablosu, nakit akış tablosu ve dipnotlar. Döneme ait üretim maliyeti tablosu bu setin içinde yer almaz.
+
+Toplam kapsamlı gelir: Ortaklarla ortaklık sıfatıyla yapılan işlemler dışında, bir dönem boyunca özkaynakta meydana gelen değişimdir.
+
+Dersin özeti.
+
+Bir. Devir hızı akış bölü ortalama; süre gün bölü devir hızı.
+
+İki. Gelir tablosunda dikey analizin temeli net satışlar.
+
+Üç. Hedef sorularında formülü yaz, bilinmeyeni yalnız bırak. Ortalama bakiyeden dönem sonuna geçmek için ortalamanın iki katından dönem başını çıkar.
+
+Dört. Devamlı sermaye eşittir özkaynak artı uzun vadeli yabancı kaynak.

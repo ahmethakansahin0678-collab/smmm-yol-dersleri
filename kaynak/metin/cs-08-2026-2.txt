@@ -3,7 +3,7 @@ BAŞLIK: Çıkmış Sorular 2026-2. Sermaye Piyasası Mevzuatı
 İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Sermaye Piyasası Mevzuatı soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
 
 [[bip]]
-Soru bir. Bir. İzahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan hiçbir şart ve koşul aranmaksızın halka arz edenler sorumludur. Iki. İhraççılar, izahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararın halka arz edenlerden tazmin edilememesi halinde sorumlu olurlar. Üç. Zararın izahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan doğrudan sorumlu olanlardan tazmin edilememesi hâlinde; ihraca aracılık eden lider aracı kurum kusurlarına ve durumun gereklerine göre zararlar kendilerine yükletilebildiği ölçüde sorumludur. Dört. Bağımsız denetim kuruluşları gibi izahnamede yer almak üzere hazırlanan raporları hazırlayan kişi ve kurumlar da hazırladıkları raporlarda yer alan yanlış, yanıltıcı ve eksik bilgilerden bu Kanun hükümleri çerçevesinde sorumludur. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre izahnameden sorumlu kişilere ilişkin yukarıdakilerden hangileri doğrudur?
+Soru bir. Bir. İzahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan hiçbir şart ve koşul aranmaksızın halka arz edenler sorumludur. İki. İhraççılar, izahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararın halka arz edenlerden tazmin edilememesi halinde sorumlu olurlar. Üç. Zararın izahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan doğrudan sorumlu olanlardan tazmin edilememesi hâlinde; ihraca aracılık eden lider aracı kurum kusurlarına ve durumun gereklerine göre zararlar kendilerine yükletilebildiği ölçüde sorumludur. Dört. Bağımsız denetim kuruluşları gibi izahnamede yer almak üzere hazırlanan raporları hazırlayan kişi ve kurumlar da hazırladıkları raporlarda yer alan yanlış, yanıltıcı ve eksik bilgilerden bu Kanun hükümleri çerçevesinde sorumludur. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre izahnameden sorumlu kişilere ilişkin yukarıdakilerden hangileri doğrudur?
 
 Düşün.
 [[8]]
@@ -13,7 +13,7 @@ Cevap: üç ve dört.
 [[1]]
 
 [[bip]]
-Soru iki. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre; “Kayıtlı sermaye sisteminde, yönetim kurulu, altı bin yüz iki sayılı Türk Ticaret Kanununun esas sermayenin artırılmasına ilişkin hükümlerine bağlı kalmaksızın esas sözleşmelerinde tespit edilen kayıtlı sermaye tavanına kadar sermayelerini artırmaya yetkilidir. Şu kadar ki, bu yetki genel kurul tarafından en çok _____ yıl süre ile verilebilir." Bu cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
+Soru iki. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre; “Kayıtlı sermaye sisteminde, yönetim kurulu, altı bin yüz iki sayılı Türk Ticaret Kanununun esas sermayenin artırılmasına ilişkin hükümlerine bağlı kalmaksızın esas sözleşmelerinde tespit edilen kayıtlı sermaye tavanına kadar sermayelerini artırmaya yetkilidir. Şu kadar ki, bu yetki genel kurul tarafından en çok boşluk yıl süre ile verilebilir." Bu cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
 
 Düşün.
 [[8]]
@@ -23,7 +23,7 @@ Cevap: beş.
 [[1]]
 
 [[bip]]
-Soru üç. Bir. Genel saklama hizmeti Iki. Bireysel portföy yöneticiliği Üç. Halka arza aracılık Dört. Yatırım danışmanlığı Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğe göre yukarıda sayılan hizmet ve faaliyetlerden hangilerinde “yerindelik testi” uygulaması zorunludur?
+Soru üç. Bir. Genel saklama hizmeti İki. Bireysel portföy yöneticiliği Üç. Halka arza aracılık Dört. Yatırım danışmanlığı Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğe göre yukarıda sayılan hizmet ve faaliyetlerden hangilerinde “yerindelik testi” uygulaması zorunludur?
 
 Düşün.
 [[8]]
@@ -58,12 +58,12 @@ Soru altı. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Borçlanmaya dayalı kitle fonlaması faaliyetlerine bankacılık mevzuatı hükümleri uygulanır.
+Cevap, yani yanlış olan ifade: Borçlanmaya dayalı kitle fonlaması faaliyetlerine bankacılık mevzuatı hükümleri uygulanır.
 
 [[1]]
 
 [[bip]]
-Soru yedi. Bir. Bankalar nezdinde tutulmakta olan yatırım kuruluşu müşteri nakitlerinin, herhangi bir münferit hesap açılmaksızın yatırım kuruluşunun kendi nakit varlığı olarak izlenmesi esastır. Iki. Yatırımcıların yatırım kuruluşları nezdinde bulunan nakit ve sermaye piyasası araçları, sadece yatırım kuruluşlarının kamuya olan borçları nedeniyle haczedilebilir. Üç. Yatırımcıların her ne surette olursa olsun yatırım kuruluşları nezdinde bulunan nakit ve sermaye piyasası araçları bölü varlıkları, yatırımcıların yazılı açık izni olmaksızın, tevdi edilen kurumlar tarafından tevdi amacı dışında kendilerine veya üçüncü kişilere menfaat sağlayacak şekilde kullanılamazlar. Dört. Yatırım kuruluşları, yatırımcılardan sermaye piyasası araçlarının ödünç veya açığa satış işlemleri nedeniyle teminat verilmesini isteyebilirler. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre teminatlar, yatırımcı varlıkları ve kullanım esaslarına ilişkin yukarıdakilerden hangileri doğrudur?
+Soru yedi. Bir. Bankalar nezdinde tutulmakta olan yatırım kuruluşu müşteri nakitlerinin, herhangi bir münferit hesap açılmaksızın yatırım kuruluşunun kendi nakit varlığı olarak izlenmesi esastır. İki. Yatırımcıların yatırım kuruluşları nezdinde bulunan nakit ve sermaye piyasası araçları, sadece yatırım kuruluşlarının kamuya olan borçları nedeniyle haczedilebilir. Üç. Yatırımcıların her ne surette olursa olsun yatırım kuruluşları nezdinde bulunan nakit ve sermaye piyasası araçları bölü varlıkları, yatırımcıların yazılı açık izni olmaksızın, tevdi edilen kurumlar tarafından tevdi amacı dışında kendilerine veya üçüncü kişilere menfaat sağlayacak şekilde kullanılamazlar. Dört. Yatırım kuruluşları, yatırımcılardan sermaye piyasası araçlarının ödünç veya açığa satış işlemleri nedeniyle teminat verilmesini isteyebilirler. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre teminatlar, yatırımcı varlıkları ve kullanım esaslarına ilişkin yukarıdakilerden hangileri doğrudur?
 
 Düşün.
 [[8]]
@@ -78,7 +78,7 @@ Soru sekiz. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Değişken sermayeli yatırım ortaklığı kurucu payları, kuruluştan sonra ihraç edilemez.
+Cevap, yani yanlış olan ifade: Değişken sermayeli yatırım ortaklığı kurucu payları, kuruluştan sonra ihraç edilemez.
 
 [[1]]
 
@@ -88,7 +88,7 @@ Soru dokuz. Özel Durumlar Tebliğine göre içsel bilgilerin kamuya açıklanma
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Açıklanması ertelenen içsel bilgiye konu olan olayın gerçekleşmemesi durumunda, ihraççı açıklanması ertelenen içsel bilgi ve bu bilgiye konu olayın gerçekleşmeme durumunu ertelenme sebepleri ortadan kalkar kalkmaz kamuya açıklamak zorundadır.
+Cevap, yani yanlış olan ifade: Açıklanması ertelenen içsel bilgiye konu olan olayın gerçekleşmemesi durumunda, ihraççı açıklanması ertelenen içsel bilgi ve bu bilgiye konu olayın gerçekleşmeme durumunu ertelenme sebepleri ortadan kalkar kalkmaz kamuya açıklamak zorundadır.
 
 [[1]]
 
@@ -98,7 +98,7 @@ Soru on. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa g�
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Denetim faaliyetinin icrası kapsamında gerekli yerlerde kolluk yardımı ile arama yapılabilmesi için denetimle görevlendirilen personelin doğrudan ilgili sulh ceza hakimliğinden talepte bulunması yeterlidir.
+Cevap, yani yanlış olan ifade: Denetim faaliyetinin icrası kapsamında gerekli yerlerde kolluk yardımı ile arama yapılabilmesi için denetimle görevlendirilen personelin doğrudan ilgili sulh ceza hakimliğinden talepte bulunması yeterlidir.
 
 [[1]]
 
@@ -118,7 +118,7 @@ Soru on iki. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanunun
 Düşün.
 [[8]]
 [[bip]]
-Cevap: İdari para cezası uygulanacak ilgilinin, savunması istendiğine ilişkin yazının tebliği tarihinden itibaren on beş gün içinde savunma vermemesi hâlinde, ilgilinin savunma hakkından feragat ettiği kabul edilir.
+Cevap, yani yanlış olan ifade: İdari para cezası uygulanacak ilgilinin, savunması istendiğine ilişkin yazının tebliği tarihinden itibaren on beş gün içinde savunma vermemesi hâlinde, ilgilinin savunma hakkından feragat ettiği kabul edilir.
 
 [[1]]
 
@@ -128,7 +128,7 @@ Soru on üç. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanunu
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Borsaların esas sözleşme değişikliklerine Kurulun uygun görüşü üzerine Cumhurbaşkanı tarafından izin verilir.
+Cevap, yani yanlış olan ifade: Borsaların esas sözleşme değişikliklerine Kurulun uygun görüşü üzerine Cumhurbaşkanı tarafından izin verilir.
 
 [[1]]
 
@@ -158,7 +158,7 @@ Soru on altı. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanun
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Piyasa dolandırıcılığı.
+Cevap, yani bunlardan biri olmayan: Piyasa dolandırıcılığı.
 
 [[1]]
 
@@ -168,7 +168,7 @@ Soru on yedi. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanunu
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Tedrici tasfiye kararı vermek.
+Cevap, yani bunlardan biri olmayan: Tedrici tasfiye kararı vermek.
 
 [[1]]
 
@@ -178,12 +178,12 @@ Soru on sekiz. Sermaye Piyasası Araçlarının Satışı Tebliğine göre aşa�
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Tahsisli satış.
+Cevap, yani bunlardan biri olmayan: Tahsisli satış.
 
 [[1]]
 
 [[bip]]
-Soru on dokuz. Bir. Çıkarılmış sermaye: Kayıtlı sermayeli anonim ortaklıkların sahip olmaları zorunlu olan asgari çıkarılmış sermayelerini, Iki. Merkezî Karşı Taraf: Alıcıya karşı satıcı, satıcıya karşı da alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt eden merkezî takas kuruluşunu, Üç. Saklama hizmeti: Sermaye piyasası faaliyetleri sebebiyle veya emanetçi sıfatıyla veya idare etmek için veya teminat olarak veya her ne nam altında olursa olsun, sermaye piyasası faaliyetleriyle ilişkili olarak kayden veya fiziken tevdi veya teslim edilen sermaye piyasası araçlarına ilişkin hizmetleri, Dört. Platform: Kripto varlıkların transfer edilebilmesini ve bu varlıkların ya da bu varlıklara ilişkin özel ve açık anahtarların çevrim içi veya çevrim dışı olarak depolanmasını sağlayan yazılım, donanım, sistem ya da uygulamaları, ifade eder. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre yukarıdaki tanımlardan hangileri doğrudur?
+Soru on dokuz. Bir. Çıkarılmış sermaye: Kayıtlı sermayeli anonim ortaklıkların sahip olmaları zorunlu olan asgari çıkarılmış sermayelerini, İki. Merkezî Karşı Taraf: Alıcıya karşı satıcı, satıcıya karşı da alıcı rolünü üstlenerek takasın tamamlanmasını taahhüt eden merkezî takas kuruluşunu, Üç. Saklama hizmeti: Sermaye piyasası faaliyetleri sebebiyle veya emanetçi sıfatıyla veya idare etmek için veya teminat olarak veya her ne nam altında olursa olsun, sermaye piyasası faaliyetleriyle ilişkili olarak kayden veya fiziken tevdi veya teslim edilen sermaye piyasası araçlarına ilişkin hizmetleri, Dört. Platform: Kripto varlıkların transfer edilebilmesini ve bu varlıkların ya da bu varlıklara ilişkin özel ve açık anahtarların çevrim içi veya çevrim dışı olarak depolanmasını sağlayan yazılım, donanım, sistem ya da uygulamaları, ifade eder. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre yukarıdaki tanımlardan hangileri doğrudur?
 
 Düşün.
 [[8]]

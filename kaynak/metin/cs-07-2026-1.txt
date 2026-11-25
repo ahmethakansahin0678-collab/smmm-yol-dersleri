@@ -8,7 +8,7 @@ Soru bir. Aşağıdakilerden hangisi Serbest Muhasebeci Mali Müşavirler ve Yem
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Değeri önemsiz olanlar hariç, bir müşteriden hediye veya ayrıcalıklı hizmet alınması.
+Cevap, yani bunlardan biri olmayan: Değeri önemsiz olanlar hariç, bir müşteriden hediye veya ayrıcalıklı hizmet alınması.
 
 [[1]]
 
@@ -18,7 +18,7 @@ Soru iki. Aşağıdakilerden hangisi Serbest Muhasebeci Mali Müşavir ve Yeminl
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Meslek mensuplarının hizmetlerine karşılık alacakları ücretin en az miktarının altında iş kabul etmek.
+Cevap, yani bunlardan biri olmayan: Meslek mensuplarının hizmetlerine karşılık alacakları ücretin en az miktarının altında iş kabul etmek.
 
 [[1]]
 
@@ -28,7 +28,7 @@ Soru üç. Aşağıdakilerden hangisi üç bin beş yüz altmış sekiz sayılı
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Ruhsatname ücretleri.
+Cevap, yani bunlardan biri olmayan: Ruhsatname ücretleri.
 
 [[1]]
 
@@ -48,7 +48,7 @@ Soru beş. Aşağıdakilerden hangisi Serbest Muhasebeci Mali Müşavirler ve Ye
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Objektiflik.
+Cevap, yani bunlardan biri olmayan: Objektiflik.
 
 [[1]]
 
@@ -58,7 +58,7 @@ Soru altı. Aşağıdakilerden hangisi Serbest Muhasebeci Mali Müşavirlik ve Y
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Üçüncü şahısları yanıltacak şekilde gerçeğe aykırı belge düzenlemek ve onaylamak.
+Cevap, yani bunlardan biri olmayan: Üçüncü şahısları yanıltacak şekilde gerçeğe aykırı belge düzenlemek ve onaylamak.
 
 [[1]]
 
@@ -68,7 +68,7 @@ Soru yedi. Aşağıdakilerden hangisi üç bin beş yüz altmış sekiz sayılı
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Danışma Kurulu.
+Cevap, yani bunlardan biri olmayan: Danışma Kurulu.
 
 [[1]]
 
@@ -78,7 +78,7 @@ Soru sekiz. Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Ça
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Önceki meslek mensubunun adresi.
+Cevap, yani bunlardan biri olmayan: Önceki meslek mensubunun adresi.
 
 [[1]]
 
@@ -88,7 +88,7 @@ Soru dokuz. Aşağıdakilerden hangisi Serbest Muhasebeci Mali Müşavirler ve Y
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Gizlilik.
+Cevap, yani bunlardan biri olmayan: Gizlilik.
 
 [[1]]
 
@@ -98,7 +98,7 @@ Soru on. Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mes
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: İş çevresinden sağlanacak önlemler.
+Cevap, yani bunlardan biri olmayan: İş çevresinden sağlanacak önlemler.
 
 [[1]]
 
@@ -108,7 +108,7 @@ Soru on bir. Aşağıdakilerden hangisi üç bin beş yüz altmış sekiz sayıl
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Serbest muhasebeci mali müşavirlik sınavını kazanmış olmak.
+Cevap, yani bunlardan biri olmayan: Serbest muhasebeci mali müşavirlik sınavını kazanmış olmak.
 
 [[1]]
 
@@ -118,12 +118,12 @@ Soru on iki. Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik M
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Meslek ruhsatının kiralanması veya çeşitli menfaatler sağlayarak meslek mensubu olmayan kişilere faaliyette bulunma imkanı sağlamak.
+Cevap, yani bunlardan biri olmayan: Meslek ruhsatının kiralanması veya çeşitli menfaatler sağlayarak meslek mensubu olmayan kişilere faaliyette bulunma imkanı sağlamak.
 
 [[1]]
 
 [[bip]]
-Soru on üç. Yeminli Mali Müşavirlik ve Serbest Muhasebeci Mali Müşavirlik Sınav Yönetmeliğine göre; Serbest Muhasebeci Mali Müşavirlik sınavında başarılı olamayanlar; Bir. İlk sınav tarihinden itibaren ---- yıl içerisinde Iki. Yılda ---- kez açılacak sınavlara girebilirler. Üç. Bu sınav haklarını süresinde kullanmayanlar veya başarılı olamayanlar, ---- ay süreyle meslek sınavlarına alınmazlar. Bu düzenlemede boş bırakılan kısımlar aşağıdakilerden hangisinde sırasıyla doğru olarak verilmiştir?
+Soru on üç. Yeminli Mali Müşavirlik ve Serbest Muhasebeci Mali Müşavirlik Sınav Yönetmeliğine göre; Serbest Muhasebeci Mali Müşavirlik sınavında başarılı olamayanlar; Bir. İlk sınav tarihinden itibaren boşluk yıl içerisinde İki. Yılda boşluk kez açılacak sınavlara girebilirler. Üç. Bu sınav haklarını süresinde kullanmayanlar veya başarılı olamayanlar, boşluk ay süreyle meslek sınavlarına alınmazlar. Bu düzenlemede boş bırakılan kısımlar aşağıdakilerden hangisinde sırasıyla doğru olarak verilmiştir?
 
 Düşün.
 [[8]]
@@ -133,12 +133,12 @@ Cevap: iki, üç, altı.
 [[1]]
 
 [[bip]]
-Soru on dört. Türmob Sürekli Mesleki Geliştirme Eğitimi Yönetmeliğine göre; Bir. Eğitim kapsamındaki meslek mensubunun yılda en az otuz kredilik ve her üç yılda en az doksan kredilik sürekli mesleki geliştirme eğitimi alması gereklidir. Iki. Bu eğitimlerin yıllık en az on beş kredi ve her üç yılda en az kırk beş kredilik kısmının doğrulanabilir olması gerekir. Üç. üç yıllık dönemde “Mesleki Çalışma Standartları ve Etik İlkeler” konusunda en az üç kredi, “Denetim; Denetim ve Güvence Standartları” konusundan en az iki kredi karşılığı eğitimin tamamlanması gerekir. Dört. Eğitim yükümlülüğünde doğrulanabilir eğitim kredileri dışında kalan üç yıllık periyotta en çok altmış kredilik kısım “Diğer Faaliyetler” ile ikmal edilir. Yukarıdaki ifadelerden hangisi bölü hangileri yanlıştır?
+Soru on dört. Türmob Sürekli Mesleki Geliştirme Eğitimi Yönetmeliğine göre; Bir. Eğitim kapsamındaki meslek mensubunun yılda en az otuz kredilik ve her üç yılda en az doksan kredilik sürekli mesleki geliştirme eğitimi alması gereklidir. İki. Bu eğitimlerin yıllık en az on beş kredi ve her üç yılda en az kırk beş kredilik kısmının doğrulanabilir olması gerekir. Üç. üç yıllık dönemde “Mesleki Çalışma Standartları ve Etik İlkeler” konusunda en az üç kredi, “Denetim; Denetim ve Güvence Standartları” konusundan en az iki kredi karşılığı eğitimin tamamlanması gerekir. Dört. Eğitim yükümlülüğünde doğrulanabilir eğitim kredileri dışında kalan üç yıllık periyotta en çok altmış kredilik kısım “Diğer Faaliyetler” ile ikmal edilir. Yukarıdaki ifadelerden hangisi ya da hangileri yanlıştır?
 
 Düşün.
 [[14]]
 [[bip]]
-Cevap: bir ve iki.
+Cevap, yani yanlış olan ifadeler: bir ve iki.
 
 [[1]]
 
@@ -158,7 +158,7 @@ Soru on altı. Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Mü
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Birliğe dahil odaların net gelirlerinin yüzde onunu geçmemek üzere, alınacak paylar.
+Cevap, yani bunlardan biri olmayan: Birliğe dahil odaların net gelirlerinin yüzde onunu geçmemek üzere, alınacak paylar.
 
 [[1]]
 
@@ -188,7 +188,7 @@ Soru on dokuz. Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin 
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Komandit şirketlerde komanditer ortak olamazlar.
+Cevap, yani yanlış olan ifade: Komandit şirketlerde komanditer ortak olamazlar.
 
 [[1]]
 

@@ -71,21 +71,24 @@ module.exports = {
     { ad: 'Gün 23', not: '2026 çıkmış sorulardan: Meslek yönetmelikleri, Denetim BDY, SPK süreleri',
       sabah: ['07-b4-yonetmelik-bilgileri', '04-b5-bdy-kalite', '08-b5-sureler-tanimlar'],
       aksam: ['07-b4-yonetmelik-bilgileri@tekrar', '04-b5-bdy-kalite@tekrar', '08-b5-sureler-tanimlar@tekrar', 'en-07-kisaltma-sayilar@tekrar'] },
-    { ad: 'Gün 24', not: '2026 çıkmış sorulardan: İdari yargılama, yeni vergi kuralları',
-      sabah: ['06-b10-idari-yargilama', '05-b13-yeni-kurallar', '07-b4-yonetmelik-bilgileri@tekrar'],
-      aksam: ['06-b10-idari-yargilama@tekrar', '05-b13-yeni-kurallar@tekrar', '04-b5-bdy-kalite@tekrar', '08-b5-sureler-tanimlar@tekrar'] }
+    { ad: 'Gün 24', not: '2026 çıkmış sorulardan: İdari yargılama, yeni vergi kuralları, muhasebe kayıtları',
+      sabah: ['06-b10-idari-yargilama', '05-b13-yeni-kurallar', '01-b13-cikmis-kayitlar'],
+      aksam: ['06-b10-idari-yargilama@tekrar', '05-b13-yeni-kurallar@tekrar', '01-b13-cikmis-kayitlar@tekrar', '07-b4-yonetmelik-bilgileri@tekrar'] },
+    { ad: 'Gün 25', not: '2026 çıkmış sorulardan: maliyet hesapları ve finansal tablo hedef soruları',
+      sabah: ['03-b7-cikmis-hesaplar', '02-b6-hedef-sorulari', '01-b13-cikmis-kayitlar@tekrar'],
+      aksam: ['03-b7-cikmis-hesaplar@tekrar', '02-b6-hedef-sorulari@tekrar', '05-b13-yeni-kurallar@tekrar', '06-b10-idari-yargilama@tekrar'] }
   ],
   // Müfredat: her dersin bölümleri. id varsa hazır, yoksa hazırlanıyor.
   mufredat: [
     { ders: 'Finansal Muhasebe', bolumler: [
       ['Temel denklem, hesap planı, ilk kayıtlar', '01-finansal-muhasebe'], ['Hazır değerler ve menkul kıymetler', '01-b8-hazir-degerler'], ['Ticari alacaklar, şüpheli alacak, reeskont', '01-b2-alacaklar-reeskont'],
       ['Stoklar, envanter yöntemleri, sayım farkları', '01-b4-stoklar'], ['Maddi duran varlıklar ve amortisman', '01-b3-duran-varlik-amortisman'], ['Yabancı kaynaklar, krediler ve bordro kaydı', '01-b5-yabanci-kaynaklar'], ['Özkaynaklar, sermaye artırımı, kâr dağıtımı', '01-b6-ozkaynaklar'],
-      ['Dönem sonu işlemleri ve gelir tablosu', '01-b7-donem-sonu'], ['Şirketler: birleşme, tür değiştirme, tasfiye', '01-b10-birlesme-tasfiye'], ['TMS ve TFRS: çerçeve ve temel standartlar', '01-b9-tms-tfrs'], ['Çözümlü problem seti: on kayıt', '01-b11-problem-seti'], ['Hesap numarası testi', '01-b12-hesap-numaralari'] ] },
+      ['Dönem sonu işlemleri ve gelir tablosu', '01-b7-donem-sonu'], ['Şirketler: birleşme, tür değiştirme, tasfiye', '01-b10-birlesme-tasfiye'], ['TMS ve TFRS: çerçeve ve temel standartlar', '01-b9-tms-tfrs'], ['Çözümlü problem seti: on kayıt', '01-b11-problem-seti'], ['Hesap numarası testi', '01-b12-hesap-numaralari'], ['Çıkmış sorulardaki kayıt mantıkları', '01-b13-cikmis-kayitlar'] ] },
     { ders: 'Finansal Tablolar ve Analizi', bolumler: [
-      ['Analiz yöntemleri ve likidite oranları', '02-finansal-tablolar'], ['Mali yapı, faaliyet, kârlılık oranları ve DuPont', '02-b2-oranlar'], ['Nakit akış ve fon akım tabloları', '02-b3-nakit-akis'], ['Enflasyon düzeltmesi', '02-b4-enflasyon-duzeltmesi'], ['Oran problem seti', '02-b5-oran-seti'] ] },
+      ['Analiz yöntemleri ve likidite oranları', '02-finansal-tablolar'], ['Mali yapı, faaliyet, kârlılık oranları ve DuPont', '02-b2-oranlar'], ['Nakit akış ve fon akım tabloları', '02-b3-nakit-akis'], ['Enflasyon düzeltmesi', '02-b4-enflasyon-duzeltmesi'], ['Oran problem seti', '02-b5-oran-seti'], ['Çıkmış sorulardan hedef ve tersten çözüm soruları', '02-b6-hedef-sorulari'] ] },
     { ders: 'Maliyet Muhasebesi', bolumler: [
       ['Temel kavramlar ve üretim maliyeti', '03-maliyet'], ['Stok çıkış yöntemleri ve genel üretim giderlerinin dağıtımı', '03-b2-stok-gug'],
-      ['Sipariş ve safha maliyet sistemleri, eşdeğer birim', '03-b3-safha-siparis'], ['Birleşik ürün ve yan ürün', '03-b5-birlesik-urun'], ['Standart maliyet sapmaları ve başabaş analizi', '03-b4-standart-basabas'], ['Çözümlü problem seti: hesaplar', '03-b6-problem-seti'] ] },
+      ['Sipariş ve safha maliyet sistemleri, eşdeğer birim', '03-b3-safha-siparis'], ['Birleşik ürün ve yan ürün', '03-b5-birlesik-urun'], ['Standart maliyet sapmaları ve başabaş analizi', '03-b4-standart-basabas'], ['Çözümlü problem seti: hesaplar', '03-b6-problem-seti'], ['Çıkmış sorulardaki hesaplar, adım adım', '03-b7-cikmis-hesaplar'] ] },
     { ders: 'Muhasebe Denetimi', bolumler: [
       ['Denetim türleri, denetim riski, görüşler', '04-denetim'], ['Önemlilik, kanıt, iç kontrol ve hile', '04-b2-onemlilik-kanit'], ['Denetçi raporu ve bağımsızlık', '04-b3-rapor-bagimsizlik'], ['Senaryo seti: görüş, tehdit, teknik', '04-b4-senaryo-seti'], ['KGK Bağımsız Denetim Yönetmeliği ve kalite yönetimi', '04-b5-bdy-kalite'] ] },
     { ders: 'Vergi Mevzuatı', bolumler: [

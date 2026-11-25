@@ -1,7 +1,7 @@
 // SMMM Yol Dersleri — çevrimdışı çalışma (service worker)
 // Uygulama dosyaları: önce ağ (3 sn), yoksa önbellek. Ses dosyaları: telefona indirildiyse önbellekten,
 // iPhone'un istediği parça parça (Range) okumayı destekleyerek.
-const SURUM = 'v5';
+const SURUM = 'v6';
 const KABUK = 'kabuk-' + SURUM;
 const SES = 'ses-v1';
 const KABUK_DOSYALARI = ['./', 'index.html', 'dersler.json', 'manifest.webmanifest', 'icon-180.png', 'icon-192.png', 'icon-512.png'];

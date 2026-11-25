@@ -3,7 +3,7 @@ BAŞLIK: Çıkmış Sorular 2026-1. Finansal Muhasebe
 İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Finansal Muhasebe soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
 
 [[bip]]
-Soru bir. İşletme, kredili olarak satın aldığı ticari mallarla ilgili dört bin lira + kadeve(yüzde yirmi) tutarındaki taşıma gideri için nakliye şirketine satıcı adına nakit ödeme yapmıştır. Bu işleme ilişkin günlük defter kaydı aşağıdakilerden hangisidir?
+Soru bir. İşletme, kredili olarak satın aldığı ticari mallarla ilgili dört bin lira artı kadeve (yüzde yirmi) tutarındaki taşıma gideri için nakliye şirketine satıcı adına nakit ödeme yapmıştır. Bu işleme ilişkin günlük defter kaydı aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]

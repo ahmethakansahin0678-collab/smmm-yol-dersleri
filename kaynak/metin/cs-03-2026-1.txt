@@ -13,12 +13,12 @@ Cevap: yüz otuz sekiz bin yedi yüz elli; yetmiş dokuz bin.
 [[1]]
 
 [[bip]]
-Soru iki. Bir ayakkabı üretim işletmesinde Ocak ayında mamullere Yüklenen (Standart) ve Gerçekleşen Genel Üretim Giderleri (genel üretim giderleri) şöyledir: Değişken genel üretim giderleri Sabit genel üretim giderleri Toplam Yüklenen beş yüz altmış yedi bin üç yüz altmış sekiz lira altı yüz on bir bin sekiz yüz kırk lira bir milyon yüz yetmiş dokuz bin iki yüz sekiz lira (Standart) genel üretim giderleri Gerçekleşen beş yüz otuz iki bin iki yüz on sekiz lira altı yüz on üç bin dokuz yüz on altı lira bir milyon yüz kırk altı bin yüz otuz dört lira genel üretim giderleri Buna göre değişken genel üretim giderleri, Sabit genel üretim giderleri ve Toplam genel üretim giderleride fazla (+) ya da eksik (-) yüklenen tutarlar sırasıyla kaç liradır?
+Soru iki. Bir ayakkabı üretim işletmesinde Ocak ayında mamullere Yüklenen (Standart) ve Gerçekleşen Genel Üretim Giderleri (genel üretim giderleri) şöyledir: Değişken genel üretim giderleri Sabit genel üretim giderleri Toplam Yüklenen beş yüz altmış yedi bin üç yüz altmış sekiz lira altı yüz on bir bin sekiz yüz kırk lira bir milyon yüz yetmiş dokuz bin iki yüz sekiz lira (Standart) genel üretim giderleri Gerçekleşen beş yüz otuz iki bin iki yüz on sekiz lira altı yüz on üç bin dokuz yüz on altı lira bir milyon yüz kırk altı bin yüz otuz dört lira genel üretim giderleri Buna göre değişken genel üretim giderleri, Sabit genel üretim giderleri ve Toplam genel üretim giderleride fazla ya da eksik yüklenen tutarlar sırasıyla kaç liradır?
 
 Düşün.
 [[14]]
 [[bip]]
-Cevap: Fazla (+) otuz beş bin yüz elli, Eksik (-) iki bin yetmiş altı, Fazla (+) otuz üç bin yetmiş dört.
+Cevap: Fazla otuz beş bin yüz elli, Eksik iki bin yetmiş altı, Fazla otuz üç bin yetmiş dört.
 
 [[1]]
 
@@ -43,7 +43,7 @@ Cevap: dokuz yüz lira bölü Ayar sayısı; altı yüz lira bölü Test sayıs�
 [[1]]
 
 [[bip]]
-Soru beş. B Üretim İşletmesinde döneme ilişkin Ortak Maliyet on dokuz bin beş yüz liradır. Ayrılma noktasında A mamulü sekiz yüz kg, B mamulü beş yüz kgdır. A mamulünün birim fiyatı yirmi lira, B mamulünün birim fiyatı on altı liradır. Satış Değeri yöntemi kullanılarak dağıtılan ortak maliyetten A ve Bnin alacağı paylar sırasıyla kaç liradır?
+Soru beş. B Üretim İşletmesinde döneme ilişkin Ortak Maliyet on dokuz bin beş yüz liradır. Ayrılma noktasında A mamulü sekiz yüz kilogram, B mamulü beş yüz kilogramdır. A mamulünün birim fiyatı yirmi lira, B mamulünün birim fiyatı on altı liradır. Satış Değeri yöntemi kullanılarak dağıtılan ortak maliyetten A ve Bnin alacağı paylar sırasıyla kaç liradır?
 
 Düşün.
 [[14]]
@@ -53,7 +53,7 @@ Cevap: A mamulü on üç bin, B mamulü altı bin beş yüz.
 [[1]]
 
 [[bip]]
-Soru altı. Tekdüzen Muhasebe Sistemi Uygulama Genel Tebliği yedi bölü A Seçeneğine göre eşzamanlı kayıt yöntemi aşağıdakilerden hangisidir?
+Soru altı. Tekdüzen Muhasebe Sistemi Uygulama Genel Tebliği yedi A Seçeneğine göre eşzamanlı kayıt yöntemi aşağıdakilerden hangisidir?
 
 Düşün.
 [[8]]
@@ -68,7 +68,7 @@ Soru yedi. Aşağıdakilerden hangisi Maliyet-Hacim-Kâr analizlerinin dayandı�
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Giderler, değişken ve sabit olarak ayrılmaz.
+Cevap, yani bunlardan biri olmayan: Giderler, değişken ve sabit olarak ayrılmaz.
 
 [[1]]
 
@@ -98,7 +98,7 @@ Soru on. Aşağıdakilerden hangisi maliyet muhasebesinin amaçlarından biri de
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: İşletmenin ortaklık yapısı ile ilgili karar vermek.
+Cevap, yani bunlardan biri olmayan: İşletmenin ortaklık yapısı ile ilgili karar vermek.
 
 [[1]]
 
@@ -108,7 +108,7 @@ Soru on bir. Üretilen mamulün maliyetinin hesaplanmasında aşağıdaki formü
 Düşün.
 [[8]]
 [[bip]]
-Cevap: Dönembaşı Yarımamul Stok + Direkt İlk Madde ve Malzeme Giderleri + Direkt İşçilik Giderleri + Genel Üretim Giderleri - Dönemsonu Yarımamul Stok.
+Cevap: Dönembaşı Yarımamul Stok artı Direkt İlk Madde ve Malzeme Giderleri artı Direkt İşçilik Giderleri artı Genel Üretim Giderleri eksi Dönemsonu Yarımamul Stok.
 
 [[1]]
 
@@ -153,12 +153,12 @@ Cevap: iki yüz otuz bin; iki yüz yirmi bin.
 [[1]]
 
 [[bip]]
-Soru on altı. D Endüstri İşletmesinde Mart ayında düzenlenen Genel Üretim Gideri Dağıtım Tablosu Iki. Toplamları; A Ana Üretici Gider Yerinde yirmi sekiz milyon yedi yüz elli bin lira, B Ana Üretici Gider Yerinde otuz dokuz milyon yedi yüz elli bin liradır. İşletmede Genel Üretim Gideri yükleme anahtarları A ve B için sırasıyla Direkt İlk Madde ve Malzeme miktarı (hammadde miktarı) ve Direkt İşçilik Saati (direkt işçilik)'dir. Bu ayda beş yüz bin kg Direkt İlk Madde ve Malzeme (hammadde) kullanılmış ve üç yüz bin Direkt İşçilik Saatlik üretim yapılmıştır. A ve B Ana Üretici Gider Yerlerinde Genel Üretim Gideri yükleme katsayıları sırasıyla aşağıdakilerden hangisidir?
+Soru on altı. D Endüstri İşletmesinde Mart ayında düzenlenen Genel Üretim Gideri Dağıtım Tablosu İki. Toplamları; A Ana Üretici Gider Yerinde yirmi sekiz milyon yedi yüz elli bin lira, B Ana Üretici Gider Yerinde otuz dokuz milyon yedi yüz elli bin liradır. İşletmede Genel Üretim Gideri yükleme anahtarları A ve B için sırasıyla Direkt İlk Madde ve Malzeme miktarı (hammadde miktarı) ve Direkt İşçilik Saati (direkt işçilik)'dir. Bu ayda beş yüz bin kilogram Direkt İlk Madde ve Malzeme (hammadde) kullanılmış ve üç yüz bin Direkt İşçilik Saatlik üretim yapılmıştır. A ve B Ana Üretici Gider Yerlerinde Genel Üretim Gideri yükleme katsayıları sırasıyla aşağıdakilerden hangisidir?
 
 Düşün.
 [[14]]
 [[bip]]
-Cevap: elli yedi virgül beş lira bölü kg ; yüz otuz iki virgül beş lira bölü direkt işçilik.
+Cevap: elli yedi virgül beş lira kilogram başına ; yüz otuz iki virgül beş lira bölü direkt işçilik.
 
 [[1]]
 
