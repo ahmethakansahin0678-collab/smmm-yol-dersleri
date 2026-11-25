@@ -682,7 +682,8 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   function qNext(auto) {
     if (Q.i + 1 >= Q.list.length) { qStop(); Q.i = 0; store.set('qi:' + qKey(), 0); qShow('Bu listedeki sorular bitti. Tebrikler. Başlat\'a basarsan baştan başlar.'); return; }
     Q.i++; Q.lastSeg = -1;
-    if (auto || Q.active) { if (auto) { Q.wait = true; au.pause(); setTimeout(() => { if (Q.active) qPlay(); }, 900); } else qPlay(); } else { store.set('qi:' + qKey(), Q.i); qShow(); }
+    // sesi durdurmadan geç: iPhone kilit ekranında durdurup yeniden başlatmak engellenebiliyor
+    if (auto || Q.active) qPlay(); else { store.set('qi:' + qKey(), Q.i); qShow(); }
   }
   function qGo(d) { Q.i = Math.max(0, Math.min(Q.list.length - 1, Q.i + d)); Q.lastSeg = -1; if (Q.active) qPlay(); else { store.set('qi:' + qKey(), Q.i); qShow(); } }
   function qBack5() {
