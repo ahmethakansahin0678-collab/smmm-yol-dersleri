@@ -24,7 +24,7 @@ Oran. Kurumlar vergisinin genel oranı yüzde yirmi beştir. Bankalar, finansal 
 
 Beyan. Kurumlar vergisi beyannamesi, hesap döneminin kapandığı ayı izleyen dördüncü ayın birinci gününden son gününe kadar verilir. Hesap dönemi takvim yılı olan kurumlar için bu, nisan ayıdır. Vergi de aynı ayın sonuna kadar ödenir.
 
-Yıl içinde ise üçer aylık dönemler halinde geçici vergi ödenir. Geçici vergi, yıl sonunda hesaplanan kurumlar vergisinden mahsup edilir. Yani bir ön ödeme gibidir.
+Yıl içinde ise üçer aylık dönemler halinde geçici vergi ödenir. Dikkat: Dördüncü dönem için geçici vergi beyannamesi artık verilmiyor; yani yılda üç kez, mayıs, ağustos ve kasım aylarında beyan edilir. Geçici vergi artan oranlı tarifeyle değil, kurumlar vergisi oranıyla hesaplanır. Geçici vergi, yıl sonunda hesaplanan kurumlar vergisinden mahsup edilir. Yani bir ön ödeme gibidir.
 
 Şimdi matrah, yani verginin hesaplanacağı tutar. Bunu bir merdiven gibi düşün.
 
