@@ -51,6 +51,8 @@ nav.tabs button:focus-visible, button:focus-visible, select:focus-visible { outl
 .controls .play small { color: var(--accent-ink); opacity: .7; }
 .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
 #qMark { grid-column: 1 / -1; }
+li.tap { cursor: pointer; }
+li.tap:active { opacity: .6; }
 #qMark[aria-pressed="true"] { border-color: var(--accent, #c80); }
 .row2 button { border: 1px solid var(--line); background: transparent; color: var(--fg); border-radius: 14px; padding: 12px; font: 600 .95rem var(--body); cursor: pointer; }
 .drive-btn { border: 0; width: 100%; background: transparent; color: var(--muted); font: 600 .9rem var(--body); padding: 6px; cursor: pointer; text-decoration: underline; }
@@ -206,9 +208,10 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
       <p><b>Üç aşama:</b> 1) Gün 1–18: temel tur, müfredatın tamamı bir kez. 2) Gün 19–21: problem ve hızlı soru setleri. 3) Sınava yakın: <b>Deneme</b> günündeki karışık denemeler ve <b>Hızlı Tekrar</b> günündeki özetler. İlk tur bitince Gün 1'den yeniden başlamak en etkili tekrardır.</p>
     </div>
     <div class="leg"><h2>Müfredat</h2><span class="badge" id="mfCount"></span></div>
+    <p class="min" style="margin:0 0 8px">Bir bölüme dokun, o ders hemen çalsın.</p>
     <div class="mf section" id="mf"></div>
     <div class="leg"><h2>2026 sınav analizi</h2><span class="badge" id="anCount"></span></div>
-    <p class="min" style="margin:0 0 8px">İki 2026 sınavında her dersten hangi konudan kaç soru geldi. Çok soru gelen konuya daha çok zaman ayır.</p>
+    <p class="min" style="margin:0 0 8px">İki 2026 sınavında her dersten hangi konudan kaç soru geldi. Çok soru gelen konuya daha çok zaman ayır. Konuya dokunursan ilgili ders çalar.</p>
     <div class="mf section" id="an"></div>
   </section>
 
@@ -299,6 +302,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   // ---------- veri ----------
   fetch('dersler.json', { cache: 'no-cache' }).then(r => r.json()).then(d => {
     DATA = d; d.dersler.forEach(l => byId[l.id] = l);
+    const tek = store.get('tekDers', ''); if (tek && byId[tek]) tekGun(tek);
     if (st.day >= d.program.gunler.length) st.day = 0;
     $('ver').textContent = d.dersler.length + ' bölüm · ' + Math.round(d.dersler.reduce((a, l) => a + l.dk, 0) / 60 * 10) / 10 + ' saat';
     renderAll();
@@ -312,6 +316,21 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
   const key = (d, g, i) => d + '|' + g + '|' + i;
   const itemMin = it => it.tekrar ? Math.max(1, Math.round(it.l.dk * (1 - it.from / it.l.seg.length))) : it.l.dk;
 
+  // Müfredattan ya da analizden seçilen tek ders: listenin sonuna sanal bir gün eklenir
+  function tekGun(id) {
+    let i = DATA.program.gunler.findIndex(g => g.tek);
+    if (i < 0) { DATA.program.gunler.push({ tek: true, ad: 'Seçilen ders', not: '', sabah: [], aksam: [] }); i = DATA.program.gunler.length - 1; }
+    const g = DATA.program.gunler[i], l = byId[id];
+    g.sabah = [id]; g.aksam = [id + (l.tekrar ? '@tekrar' : '')]; g.not = l.title + '. Müfredattan seçtin; bitince istediğin güne geri dönebilirsin.';
+    return i;
+  }
+  function tekCal(id) {
+    if (!byId[id] || !byId[id].seg) return;
+    stop(); store.set('tekDers', id);
+    const i = tekGun(id); Object.keys(st.done).forEach(k => { if (k.startsWith(i + '|')) delete st.done[k]; });
+    st.day = i; st.leg = 'sabah'; st.idx = 0; st.seg = 0; st.sent = 0; save(); renderAll();
+    $('tab-dinle').click(); play();
+  }
   // ---------- çizim ----------
   function renderAll() { renderDays(); renderLists(); renderNow(); renderMf(); renderQs(); qInit(); }
   function renderDays() {
@@ -367,7 +386,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
       r += ready; t += m.bolumler.length;
       d.innerHTML = '<summary><span></span><span class="min">' + ready + '/' + m.bolumler.length + ' hazır</span></summary><ul></ul>';
       d.querySelector('summary span').textContent = m.ders;
-      m.bolumler.forEach(b => { const li = document.createElement('li'); li.textContent = b[0] + (b[1] && byId[b[1]] ? '' : ' · hazırlanıyor'); if (b[1] && byId[b[1]]) li.className = 'ready'; d.querySelector('ul').appendChild(li); });
+      m.bolumler.forEach(b => { const li = document.createElement('li'); li.textContent = b[0] + (b[1] && byId[b[1]] ? '' : ' · hazırlanıyor'); if (b[1] && byId[b[1]]) { li.className = 'ready tap'; li.setAttribute('role', 'button'); li.tabIndex = 0; li.title = 'Dinle'; li.insertAdjacentHTML('beforeend', ' <span class="min">▶</span>'); li.onclick = () => tekCal(b[1]); } d.querySelector('ul').appendChild(li); });
       box.appendChild(d);
     });
     $('mfCount').innerHTML = '<b>' + r + '</b>/' + t + ' bölüm hazır';
@@ -386,6 +405,7 @@ select { background: var(--bg); color: var(--fg); border: 1px solid var(--line);
         li.innerHTML = '<span></span> <b></b><div style="height:4px;border-radius:2px;background:var(--accent,#c80);opacity:.7;margin-top:4px"></div>';
         li.querySelector('span').textContent = k.konu; li.querySelector('b').textContent = '· ' + k.sayi;
         li.querySelector('div').style.width = Math.round(k.sayi / mx * 100) + '%';
+        const hedef = (k.dersler || []).find(x => byId[x]); if (hedef) { li.classList.add('tap'); li.setAttribute('role', 'button'); li.tabIndex = 0; li.querySelector('b').textContent += ' ▶'; li.onclick = () => tekCal(hedef); }
         d.querySelector('ul').appendChild(li);
       });
       box.appendChild(d);
