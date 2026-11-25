@@ -1,0 +1,812 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="SMMM Dersler">
+<meta name="theme-color" content="#0f1514">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font-size:14px}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<title>SMMM Yol Dersleri</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;700&display=swap">
+<style>
+/* Yerleşim: tek sütun, başparmakla kullanılan alt bölgede dev kontroller; sürüşte göz atılmayacak, sadece başlatılacak. */
+:root {
+  --bg: #0f1514;        /* gece yolu: yeşile çalan koyu asfalt */
+  --panel: #18211f;
+  --line: #2a3633;
+  --fg: #ecf2ef;
+  --muted: #94a6a0;
+  --accent: #f2b33d;    /* yol çizgisi sarısı */
+  --accent-ink: #1b1505;
+  --good: #5fd08d;
+  --warn: #ff8a5c;
+  --en: #7fb8ff;
+  --display: "Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
+  --body: "Figtree", -apple-system, "Segoe UI", system-ui, sans-serif;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { background: var(--bg); color: var(--fg); }
+body { font: 16px/1.5 var(--body); margin: 0; -webkit-text-size-adjust: 100%; }
+.wrap { max-width: 640px; margin: 0 auto; padding-block: 12px 40px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); display: flex; flex-direction: column; gap: 16px; }
+h1 { font: 800 1.5rem/1.1 var(--display); margin: 0; letter-spacing: -.01em; }
+h2 { font: 700 1.15rem/1.2 var(--display); margin: 0; text-wrap: balance; }
+.top { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.badge { font-size: .75rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+nav.tabs { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; background: var(--panel); padding: 5px; border-radius: 14px; }
+nav.tabs button { all: unset; text-align: center; padding: 10px 2px; border-radius: 10px; font-weight: 700; font-size: .82rem; color: var(--muted); cursor: pointer; }
+nav.tabs button[aria-selected="true"] { background: var(--line); color: var(--fg); }
+nav.tabs button:focus-visible, button:focus-visible, select:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+/* Oynatıcı */
+.player { background: var(--panel); border-radius: 22px; padding: 18px; display: flex; flex-direction: column; gap: 14px; }
+.now-meta { display: flex; justify-content: space-between; gap: 10px; color: var(--muted); font-size: .85rem; }
+.now-title { font: 700 1.2rem/1.25 var(--display); }
+.now-text { min-height: 6.5em; font-size: 1.15rem; line-height: 1.45; color: var(--fg); }
+.now-text.en { color: var(--en); }
+.now-text .hint { color: var(--muted); font-size: 1rem; }
+.bar { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+.bar > i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s; }
+.controls { display: grid; grid-template-columns: 1fr 1.6fr 1fr; gap: 10px; align-items: stretch; }
+.controls button { border: 0; border-radius: 18px; background: var(--line); color: var(--fg); font: 700 1rem var(--body); min-height: 76px; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; }
+.controls button small { font-weight: 500; font-size: .75rem; color: var(--muted); }
+.controls .play { background: var(--accent); color: var(--accent-ink); min-height: 104px; font-size: 1.25rem; }
+.controls .play small { color: var(--accent-ink); opacity: .7; }
+.row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.row2 button { border: 1px solid var(--line); background: transparent; color: var(--fg); border-radius: 14px; padding: 12px; font: 600 .95rem var(--body); cursor: pointer; }
+.drive-btn { border: 0; width: 100%; background: transparent; color: var(--muted); font: 600 .9rem var(--body); padding: 6px; cursor: pointer; text-decoration: underline; }
+
+/* Sürüş modu: tüm ekran tek düğme */
+.drive { position: fixed; inset: 0; z-index: 50; background: var(--bg); display: flex; flex-direction: column; padding: calc(env(safe-area-inset-top, 0px) + 16px) max(16px, env(safe-area-inset-right, 0px)) calc(env(safe-area-inset-bottom, 0px) + 16px) max(16px, env(safe-area-inset-left, 0px)); gap: 14px; }
+.drive .big { flex: 1; border: 0; border-radius: 28px; background: var(--accent); color: var(--accent-ink); font: 800 2.4rem var(--display); cursor: pointer; }
+.drive .big.paused { background: var(--line); color: var(--fg); }
+.drive .dt { font: 700 1.1rem/1.3 var(--display); text-align: center; }
+.drive .dsub { text-align: center; color: var(--muted); }
+.drive .drow { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
+.drive .drow button:disabled { color: var(--muted); }
+.drive .drow button { min-height: 72px; border: 0; border-radius: 18px; background: var(--panel); color: var(--fg); font: 700 1rem var(--body); cursor: pointer; }
+
+/* Listeler */
+.section { display: flex; flex-direction: column; gap: 10px; }
+.daypick { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; }
+.daypick button { flex: none; border: 1px solid var(--line); background: transparent; color: var(--fg); border-radius: 999px; padding: 8px 14px; font: 600 .9rem var(--body); cursor: pointer; }
+.daypick button[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.daypick button.done::after { content: " ✓"; color: var(--good); }
+.leg { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.leg .badge b { color: var(--accent); font-weight: 700; }
+ol.list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+ol.list li button { all: unset; box-sizing: border-box; width: 100%; display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: center; padding: 12px; border-radius: 14px; background: var(--panel); cursor: pointer; }
+ol.list li button:focus-visible { outline: 3px solid var(--accent); }
+ol.list li.cur button { box-shadow: inset 0 0 0 2px var(--accent); }
+.dot { width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--line); display: grid; place-items: center; font-size: .75rem; }
+li.ok .dot { background: var(--good); border-color: var(--good); color: var(--bg); }
+.li-t { min-width: 0; }
+.li-t b { display: block; font-weight: 600; }
+.li-t span { color: var(--muted); font-size: .82rem; }
+.min { color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
+.tag { font-size: .7rem; padding: 2px 7px; border-radius: 6px; background: var(--line); color: var(--muted); margin-left: 6px; vertical-align: 2px; }
+.tag.en { color: var(--en); }
+
+.card { background: var(--panel); border-radius: 16px; padding: 14px 16px; display: flex; flex-direction: column; gap: 8px; }
+.card p { margin: 0; color: var(--muted); }
+.card p b { color: var(--fg); }
+.mf details { background: var(--panel); border-radius: 14px; padding: 12px 14px; }
+.mf summary { cursor: pointer; font-weight: 700; display: flex; justify-content: space-between; gap: 8px; }
+.mf ul { margin: 10px 0 0; padding-left: 18px; color: var(--muted); }
+.mf li.ready { color: var(--fg); }
+.mf li.ready::marker { content: "● "; color: var(--good); }
+
+/* Soru bankası */
+.filters { display: flex; gap: 6px; flex-wrap: wrap; }
+.filters button { border: 1px solid var(--line); background: transparent; color: var(--fg); border-radius: 999px; padding: 6px 12px; font: 600 .85rem var(--body); cursor: pointer; }
+.filters button[aria-pressed="true"] { background: var(--fg); color: var(--bg); }
+.q { background: var(--panel); border-radius: 14px; padding: 14px; display: flex; flex-direction: column; gap: 8px; }
+.q .qh { display: flex; justify-content: space-between; gap: 8px; font-size: .8rem; color: var(--muted); }
+.pill { font-size: .72rem; font-weight: 700; padding: 2px 8px; border-radius: 999px; white-space: nowrap; }
+.pill.dogru { background: color-mix(in srgb, var(--good) 20%, transparent); color: var(--good); }
+.pill.duzeltildi { background: color-mix(in srgb, var(--warn) 22%, transparent); color: var(--warn); }
+.pill.hatali { background: color-mix(in srgb, var(--warn) 22%, transparent); color: var(--warn); }
+.q ol { margin: 0; padding-left: 22px; }
+.q ol li.right { color: var(--good); font-weight: 600; }
+.q ol li.oldwrong { text-decoration: line-through; color: var(--warn); }
+.q .ex { color: var(--muted); font-size: .92rem; }
+
+/* Ayarlar */
+label.f { display: flex; flex-direction: column; gap: 6px; font-weight: 600; }
+select, input[type=range] { width: 100%; }
+select { background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 10px; padding: 10px; font: 500 1rem var(--body); }
+.notice { border-left: 0; background: color-mix(in srgb, var(--warn) 14%, var(--panel)); }
+.notice p { color: var(--fg); }
+.howto ol { margin: 0; padding-left: 20px; color: var(--muted); display: flex; flex-direction: column; gap: 6px; }
+.howto ol b { color: var(--fg); }
+.small { font-size: .82rem; color: var(--muted); }
+.reader { position: fixed; inset: 0; z-index: 60; background: var(--bg); overflow-y: auto; padding: calc(env(safe-area-inset-top, 0px) + 12px) max(16px, env(safe-area-inset-right, 0px)) calc(env(safe-area-inset-bottom, 0px) + 40px) max(16px, env(safe-area-inset-left, 0px)); }
+.rtop { position: sticky; top: 0; background: var(--bg); display: flex; justify-content: space-between; align-items: center; gap: 12px; padding-block: 8px; }
+.rtop button { border: 1px solid var(--line); background: var(--panel); color: var(--fg); border-radius: 12px; padding: 10px 16px; font: 700 1rem var(--body); }
+.rbody { max-width: 640px; margin: 0 auto; font-size: 1.25rem; line-height: 1.6; }
+.rbody h3 { font: 800 1.3rem/1.25 var(--display); margin: 1.6em 0 .4em; color: var(--accent); }
+.rbody p { margin: 0 0 .8em; }
+.rbody p.en { color: var(--en); }
+@media (prefers-reduced-motion: reduce) { .bar > i { transition: none; } }
+</style>
+
+<div class="wrap" id="app">
+  <div class="top">
+    <h1>SMMM Yol Dersleri</h1>
+    <span class="badge" id="ver">yükleniyor</span>
+  </div>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" aria-selected="true" data-tab="dinle" id="tab-dinle">Dinle</button>
+    <button role="tab" aria-selected="false" data-tab="soru" id="tab-soru">Soru-Cevap</button>
+    <button role="tab" aria-selected="false" data-tab="program" id="tab-program">Program</button>
+    <button role="tab" aria-selected="false" data-tab="sorular" id="tab-sorular">Banka</button>
+    <button role="tab" aria-selected="false" data-tab="ayar" id="tab-ayar">Ses</button>
+  </nav>
+
+  <!-- DİNLE -->
+  <section id="p-dinle" class="section">
+    <div class="player">
+      <div class="now-meta"><span id="nowDers">Gün 1 · Sabah</span><span id="nowPos"></span></div>
+      <div class="now-title" id="nowTitle">Derse başlamak için Başlat'a bas</div>
+      <div class="bar"><i id="bar"></i></div>
+      <div class="now-text" id="nowText"><span class="hint">Telefonu tutucuya koy, Başlat'a bir kez bas. Dersler sırayla, kendiliğinden akar. Ekran açık kalır.</span></div>
+      <div class="controls">
+        <button id="bBack" aria-label="5 saniye geri">⟲ 5 sn<small>geri al</small></button>
+        <button id="bPlay" class="play" aria-label="Başlat">▶ Başlat<small id="playSub">sabah listesi</small></button>
+        <button id="bFwd" aria-label="Sonraki paragraf">⟳<small>ileri</small></button>
+      </div>
+      <div class="row2">
+        <button id="bPrevL">⏮ Önceki ders</button>
+        <button id="bNextL">Sonraki ders ⏭</button>
+      </div>
+      <button class="drive-btn" id="bDrive">Sürüş moduna geç (tüm ekran tek düğme)</button>
+      <button class="drive-btn" id="bRead">Okuma görünümü (iPhone "Ekranı Seslendir" için)</button>
+    </div>
+
+    <div class="daypick" id="dayPick" aria-label="Gün seç"></div>
+    <div class="card" id="dayNote"></div>
+    <div class="leg"><h2>Sabah · gidiş</h2><span class="badge" id="legS"></span></div>
+    <ol class="list" id="listS"></ol>
+    <div class="leg"><h2>Akşam · dönüş</h2><span class="badge" id="legA"></span></div>
+    <ol class="list" id="listA"></ol>
+  </section>
+
+  <!-- SORU-CEVAP -->
+  <section id="p-soru" class="section" hidden>
+    <div class="player">
+      <div class="now-meta"><span id="qMeta">Soru-cevap</span><span id="qPos"></span></div>
+      <div class="now-title" id="qTitle">Bir ders seç ve Başlat'a bas</div>
+      <div class="bar"><i id="qBar"></i></div>
+      <div class="now-text" id="qText"><span class="hint">Her soru sesli okunur, düşünme süresi bırakılır, sonra cevabı okunur ve sıradaki soruya geçilir.</span></div>
+      <div class="controls">
+        <button id="qBack" aria-label="5 saniye geri">⟲ 5 sn<small>geri al</small></button>
+        <button id="qPlay" class="play" aria-label="Başlat">▶ Başlat<small id="qSub">soru-cevap</small></button>
+        <button id="qNext" aria-label="Sonraki soru">⏭<small>sonraki soru</small></button>
+      </div>
+      <div class="row2">
+        <button id="qAns">Cevabı hemen duy</button>
+        <button id="qPrev">⏮ Önceki soru</button>
+      </div>
+    </div>
+    <div class="leg"><h2>Hangi ders?</h2><span class="badge" id="qCount"></span></div>
+    <div class="filters" id="qDers"></div>
+    <div class="filters"><button type="button" id="qShuffle" aria-pressed="false">Karışık sıra</button></div>
+  </section>
+
+  <!-- PROGRAM -->
+  <section id="p-program" class="section" hidden>
+    <div class="card">
+      <h2>Günde iki saat, iki iş</h2>
+      <p><b>Sabah gidiş:</b> yeni konu. Zihin taze, ders baştan sona dinlenir.</p>
+      <p><b>Akşam dönüş:</b> aynı günün konularının soru ve özet kısımları, soru bankası ve İngilizce. Aynı gün ikinci kez duymak kalıcılığı artırır.</p>
+      <p><b>Gün sırası:</b> Gün 1'den başlayıp sırayla ilerle. Bir günün akşam listesi bitince uygulama seni sonraki güne geçirir; yola çıkmadığın gün araya girerse kaldığın yerden devam edersin. Finansal Muhasebe ve Vergi en çok yer kaplar; İngilizce neredeyse her akşam var.</p>
+      <p><b>Üç aşama:</b> 1) Gün 1–18: temel tur, müfredatın tamamı bir kez. 2) Gün 19–21: problem ve hızlı soru setleri. 3) Sınava yakın: <b>Deneme</b> günündeki karışık denemeler ve <b>Hızlı Tekrar</b> günündeki özetler. İlk tur bitince Gün 1'den yeniden başlamak en etkili tekrardır.</p>
+    </div>
+    <div class="leg"><h2>Müfredat</h2><span class="badge" id="mfCount"></span></div>
+    <div class="mf section" id="mf"></div>
+  </section>
+
+  <!-- SORULAR -->
+  <section id="p-sorular" class="section" hidden>
+    <div class="card notice">
+      <p><b>Drive'daki soru bankan hakkında:</b> <span id="sbSum"></span> Bu sorular gerçek çıkmış sınav soruları değil. Hepsi tek tek kontrol edildi; hatalı cevap anahtarları düzeltildi. Sesli hâli “Soru Bankası” derslerinde.</p>
+    </div>
+    <div class="filters" id="qFilter"></div>
+    <div class="section" id="qList"></div>
+  </section>
+
+  <!-- AYAR -->
+  <section id="p-ayar" class="section" hidden>
+    <div class="card" id="offCard">
+      <h2>İnternetsiz kullanım</h2>
+      <p id="offDurum">Dersler telefona indirilmedi. İndirince internet olmadan da çalar.</p>
+      <div class="bar"><i id="offBar"></i></div>
+      <div class="row2">
+        <button id="offIndir">Tüm dersleri indir</button>
+        <button id="offSil">İndirilenleri sil</button>
+      </div>
+      <p class="small">Toplam yaklaşık 100 MB. Wi-Fi'deyken bir kez indirmen yeterli. İndirme sırasında uygulama açık kalsın.</p>
+    </div>
+    <div class="card howto">
+      <h2>Nasıl dinlenir</h2>
+      <ol>
+        <li>Dersler hazır <b>ses dosyası</b> olarak çalar. Ayrı bir ses indirmen gerekmez.</li>
+        <li><b>Başlat</b>'a bir kez bas; dersler sırayla akar. Ekran kilitlense de çalmaya devam eder.</li>
+        <li>Kilit ekranından, Bluetooth'tan ve CarPlay'den durdur, sonraki ders ve <b>5 saniye geri</b> kullanılabilir.</li>
+        <li><b>⟲ 5 sn</b> düğmesi anlamadığın yeri tekrar dinletir.</li>
+        <li>Sessiz mod düğmesi açıksa ses gelmeyebilir; sesi yan tuşlardan aç.</li>
+        <li>İlk açılışta dosyalar internetten yüklenir. Mobil veride her ders yaklaşık 1–2 MB tutar.</li>
+      </ol>
+    </div>
+    <label class="f" for="vTr">Türkçe ses <select id="vTr"></select></label>
+    <label class="f" for="vEn">İngilizce ses <select id="vEn"></select></label>
+    <label class="f" for="rate">Okuma hızı: <span id="rateV">1.0</span>× <input type="range" id="rate" min="0.7" max="1.5" step="0.05" value="1"></label>
+    <label class="f" for="pauseX">Düşünme süresi: <span id="pauseV">1.0</span>× <input type="range" id="pauseX" min="0.5" max="2" step="0.25" value="1"></label>
+    <div class="row2">
+      <button id="bTest">Sesi dene</button>
+      <button id="bReset">İlerlemeyi sıfırla</button>
+    </div>
+    <p class="small" id="voiceInfo"></p>
+    <p class="small" id="resetMsg" hidden>Sıfırlamak için düğmeye bir kez daha bas.</p>
+  </section>
+</div>
+
+<div class="reader" id="reader" hidden>
+  <div class="rtop"><b id="rTitle"></b><button id="rClose">Kapat</button></div>
+  <div class="rbody" id="rBody"></div>
+</div>
+
+<div class="drive" id="drive" hidden>
+  <div class="dt" id="dTitle"></div>
+  <div class="dsub" id="dSub"></div>
+  <button class="big" id="dBig">▶ Başlat</button>
+  <div class="drow">
+    <button id="dBack">⟲ 5 sn geri</button>
+    <button id="dNext">Sonraki ders</button>
+    <button id="dExit">Çık</button>
+  </div>
+  <div class="drow">
+    <button id="dSlow">− Yavaş</button>
+    <button id="dRate" disabled>1.00×</button>
+    <button id="dFast">Hızlı +</button>
+  </div>
+</div>
+
+<script>
+(() => {
+  'use strict';
+  const $ = id => document.getElementById(id);
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem('smmm:' + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v) { try { localStorage.setItem('smmm:' + k, JSON.stringify(v)); } catch {} }
+  };
+
+  let DATA = null, byId = {};
+  const synth = window.speechSynthesis;
+  const st = {
+    day: store.get('day', 0),
+    leg: 'sabah',            // sabah | aksam
+    idx: 0,                  // listedeki sıra
+    seg: 0,                  // segment
+    sent: 0,                 // cümle
+    playing: false,
+    done: store.get('done', {}),      // "gün|bacak|sıra" -> true
+    rate: store.get('rate', 1),
+    pauseX: store.get('pauseX', 1),
+    vTr: store.get('vTr', ''),
+    vEn: store.get('vEn', '')
+  };
+  Object.assign(st, store.get('pos', {}));
+  let timer = null, curUtt = null, token = 0, wakeLock = null, actx = null;
+
+  // ---------- veri ----------
+  fetch('dersler.json', { cache: 'no-cache' }).then(r => r.json()).then(d => {
+    DATA = d; d.dersler.forEach(l => byId[l.id] = l);
+    if (st.day >= d.program.gunler.length) st.day = 0;
+    $('ver').textContent = d.dersler.length + ' bölüm · ' + Math.round(d.dersler.reduce((a, l) => a + l.dk, 0) / 60 * 10) / 10 + ' saat';
+    renderAll();
+  }).catch(() => { $('nowText').textContent = 'Ders dosyası yüklenemedi. İnternet bağlantını kontrol edip sayfayı yenile.'; });
+
+  const items = (day = st.day, leg = st.leg) => DATA.program.gunler[day][leg].map(x => {
+    const [id, mod] = x.split('@'); const l = byId[id];
+    return { l, from: mod === 'tekrar' ? l.tekrar : mod === 'ozet' ? l.ozet : 0, tekrar: !!mod, mod };
+  });
+  const curItem = () => items()[st.idx];
+  const key = (d, g, i) => d + '|' + g + '|' + i;
+  const itemMin = it => it.tekrar ? Math.max(1, Math.round(it.l.dk * (1 - it.from / it.l.seg.length))) : it.l.dk;
+
+  // ---------- çizim ----------
+  function renderAll() { renderDays(); renderLists(); renderNow(); renderMf(); renderQs(); qInit(); }
+  function renderDays() {
+    const box = $('dayPick'); box.innerHTML = '';
+    DATA.program.gunler.forEach((g, i) => {
+      const b = document.createElement('button'); b.type = 'button'; b.textContent = g.ad;
+      b.setAttribute('aria-pressed', i === st.day);
+      const all = ['sabah', 'aksam'].every(leg => g[leg].every((_, j) => st.done[key(i, leg, j)]));
+      if (all) b.classList.add('done');
+      b.onclick = () => { stop(); st.day = i; st.leg = 'sabah'; st.idx = 0; st.seg = 0; st.sent = 0; save(); renderAll(); };
+      box.appendChild(b);
+    });
+    $('dayNote').innerHTML = '<p><b>' + DATA.program.gunler[st.day].ad + ':</b> ' + DATA.program.gunler[st.day].not + '</p>';
+  }
+  function renderLists() {
+    for (const leg of ['sabah', 'aksam']) {
+      const ol = $(leg === 'sabah' ? 'listS' : 'listA'); ol.innerHTML = '';
+      const its = items(st.day, leg); let tot = 0;
+      its.forEach((it, i) => {
+        tot += itemMin(it);
+        const li = document.createElement('li');
+        if (st.done[key(st.day, leg, i)]) li.classList.add('ok');
+        if (leg === st.leg && i === st.idx) li.classList.add('cur');
+        const b = document.createElement('button'); b.type = 'button';
+        const tags = (it.tekrar ? '<span class="tag">' + (it.mod === 'ozet' ? 'özet' : 'tekrar') + '</span>' : '') + (it.l.modul === 'en' ? '<span class="tag en">EN</span>' : '') + (it.l.modul === 'soru' ? '<span class="tag">soru</span>' : '');
+        b.innerHTML = '<span class="dot">' + (li.classList.contains('ok') ? '✓' : '') + '</span><span class="li-t"><b></b><span></span></span><span class="min">' + itemMin(it) + ' dk</span>';
+        b.querySelector('b').textContent = it.l.title.replace(/^Ders \d+\. |^Mesleki İngilizce \d+\. |^Soru Bankası \d+\. /, '');
+        b.querySelector('.li-t span').innerHTML = '';
+        b.querySelector('.li-t span').textContent = it.l.dersAdi; b.querySelector('.li-t span').insertAdjacentHTML('beforeend', tags);
+        b.onclick = () => { stop(); st.leg = leg; st.idx = i; st.seg = it.from; st.sent = 0; save(); renderLists(); renderNow(); play(); };
+        li.appendChild(b); ol.appendChild(li);
+      });
+      $(leg === 'sabah' ? 'legS' : 'legA').innerHTML = '<b>' + tot + '</b> dk';
+    }
+  }
+  function renderNow(text, lang) {
+    const it = curItem(); if (!it) return;
+    $('nowDers').textContent = DATA.program.gunler[st.day].ad + ' · ' + (st.leg === 'sabah' ? 'Sabah' : 'Akşam') + ' · ' + (st.idx + 1) + '/' + items().length;
+    $('nowTitle').textContent = it.l.title + (it.tekrar ? (it.mod === 'ozet' ? ' (özet)' : ' (tekrar)') : '');
+    const n = it.l.seg.length, span = Math.max(1, n - it.from);
+    $('bar').style.width = Math.min(100, Math.round((st.seg - it.from) / span * 100)) + '%';
+    $('nowPos').textContent = Math.max(0, st.seg - it.from) + '/' + span;
+    $('playSub').textContent = st.playing ? 'çalıyor' : (st.seg > it.from ? 'kaldığın yerden' : (st.leg === 'sabah' ? 'sabah listesi' : 'akşam listesi'));
+    $('bPlay').firstChild.textContent = st.playing ? '❚❚ Duraklat' : '▶ Başlat';
+    if (text != null) { const t = $('nowText'); t.textContent = text; t.classList.toggle('en', lang === 'en'); }
+    $('dTitle').textContent = it.l.title; $('dSub').textContent = DATA.program.gunler[st.day].ad + ' · ' + (st.leg === 'sabah' ? 'Sabah' : 'Akşam') + ' · ' + (st.idx + 1) + '/' + items().length;
+    $('dBig').textContent = st.playing ? '❚❚ Duraklat' : '▶ Başlat'; $('dBig').classList.toggle('paused', !st.playing);
+  }
+  function renderMf() {
+    const box = $('mf'); box.innerHTML = ''; let r = 0, t = 0;
+    DATA.program.mufredat.forEach(m => {
+      const d = document.createElement('details'); const ready = m.bolumler.filter(b => b[1] && byId[b[1]]).length;
+      r += ready; t += m.bolumler.length;
+      d.innerHTML = '<summary><span></span><span class="min">' + ready + '/' + m.bolumler.length + ' hazır</span></summary><ul></ul>';
+      d.querySelector('summary span').textContent = m.ders;
+      m.bolumler.forEach(b => { const li = document.createElement('li'); li.textContent = b[0] + (b[1] && byId[b[1]] ? '' : ' · hazırlanıyor'); if (b[1] && byId[b[1]]) li.className = 'ready'; d.querySelector('ul').appendChild(li); });
+      box.appendChild(d);
+    });
+    $('mfCount').innerHTML = '<b>' + r + '</b>/' + t + ' bölüm hazır';
+  }
+  let qf = 'hepsi';
+  function renderQs() {
+    const qs = DATA.sorular;
+    const c = s => qs.filter(q => q.durum === s).length;
+    $('sbSum').textContent = qs.length + ' sorudan ' + c('dogru') + ' tanesinin cevabı doğru, ' + c('duzeltildi') + ' tanesinin cevap anahtarı yanlıştı, ' + c('hatali') + ' tanesi hatalı kurgulanmış.';
+    const F = [['hepsi', 'Hepsi'], ['sorunlu', 'Sadece düzeltilenler'], ...[...new Set(qs.map(q => q.konu))].map(k => [k, k])];
+    $('qFilter').innerHTML = '';
+    F.forEach(([k, n]) => { const b = document.createElement('button'); b.type = 'button'; b.textContent = n; b.setAttribute('aria-pressed', qf === k); b.onclick = () => { qf = k; renderQs(); }; $('qFilter').appendChild(b); });
+    const list = $('qList'); list.innerHTML = '';
+    const LBL = { dogru: 'Doğru', duzeltildi: 'Cevap düzeltildi', hatali: 'Hatalı soru' };
+    qs.filter(q => qf === 'hepsi' || (qf === 'sorunlu' ? q.durum !== 'dogru' : q.konu === qf)).forEach(q => {
+      const d = document.createElement('div'); d.className = 'q';
+      d.innerHTML = '<div class="qh"><span></span><span class="pill ' + q.durum + '">' + LBL[q.durum] + '</span></div><div class="qt"></div><ol type="A"></ol><div class="ex"></div>';
+      d.querySelector('.qh span').textContent = q.id + ' · ' + q.konu;
+      d.querySelector('.qt').textContent = q.soru;
+      q.siklar.forEach((s, i) => { const li = document.createElement('li'); li.textContent = s; if (i === q.dogru) li.className = 'right'; else if (q.durum !== 'dogru' && i === q.eski) li.className = 'oldwrong'; d.querySelector('ol').appendChild(li); });
+      d.querySelector('.ex').textContent = q.aciklama;
+      list.appendChild(d);
+    });
+  }
+
+  // ---------- sekmeler ----------
+  document.querySelectorAll('nav.tabs button').forEach(b => b.onclick = () => {
+    document.querySelectorAll('nav.tabs button').forEach(x => x.setAttribute('aria-selected', x === b));
+    for (const p of ['dinle', 'soru', 'program', 'sorular', 'ayar']) $('p-' + p).hidden = p !== b.dataset.tab;
+    store.set('tab', b.dataset.tab);
+  });
+  { const t = store.get('tab', 'dinle'); const b = document.querySelector('nav.tabs button[data-tab="' + t + '"]'); if (b) b.click(); }
+
+  // ---------- sesler ----------
+  let voices = [];
+  const score = v => (/premium|enhanced|gelişmiş|geliştirilmiş|neural|natural|online/i.test(v.name) ? 10 : 0) + (v.localService ? 1 : 0) + (/yelda|samantha|ava|siri/i.test(v.name) ? 2 : 0);
+  function loadVoices() {
+    if (!synth) return;
+    voices = synth.getVoices();
+    const fill = (sel, pref, saved) => {
+      const vs = voices.filter(v => v.lang.replace('_', '-').toLowerCase().startsWith(pref)).sort((a, b) => score(b) - score(a));
+      sel.innerHTML = '';
+      const o0 = document.createElement('option'); o0.value = ''; o0.textContent = vs.length ? 'Otomatik (en iyisi: ' + vs[0].name + ')' : 'Otomatik (sistem sesi)'; sel.appendChild(o0);
+      vs.forEach(v => { const o = document.createElement('option'); o.value = v.voiceURI; o.textContent = v.name + ' · ' + v.lang; sel.appendChild(o); });
+      sel.value = vs.some(v => v.voiceURI === saved) ? saved : '';
+      return vs.length;
+    };
+    const ntr = fill($('vTr'), 'tr', st.vTr), nen = fill($('vEn'), 'en', st.vEn);
+    $('voiceInfo').textContent = ntr ? ntr + ' Türkçe, ' + nen + ' İngilizce ses bulundu.' : 'Bu cihazda Türkçe ses bulunamadı. iPhone\'da yukarıdaki adımlarla Yelda sesini indir.';
+  }
+  if (synth) { loadVoices(); synth.onvoiceschanged = loadVoices; setTimeout(loadVoices, 800); }
+  const pickVoice = lang => {
+    const saved = lang === 'en' ? st.vEn : st.vTr;
+    const pref = lang === 'en' ? 'en' : 'tr';
+    return voices.find(v => v.voiceURI === saved) || voices.filter(v => v.lang.replace('_', '-').toLowerCase().startsWith(pref)).sort((a, b) => score(b) - score(a))[0] || null;
+  };
+  $('vTr').onchange = e => { st.vTr = e.target.value; store.set('vTr', st.vTr); };
+  $('vEn').onchange = e => { st.vEn = e.target.value; store.set('vEn', st.vEn); };
+  $('rate').value = st.rate; $('rateV').textContent = (+st.rate).toFixed(2);
+  $('rate').oninput = e => { st.rate = +e.target.value; au.playbackRate = st.rate; $('rateV').textContent = st.rate.toFixed(2); store.set('rate', st.rate); };
+  $('pauseX').value = st.pauseX; $('pauseV').textContent = (+st.pauseX).toFixed(2);
+  $('pauseX').oninput = e => { st.pauseX = +e.target.value; $('pauseV').textContent = st.pauseX.toFixed(2); store.set('pauseX', st.pauseX); };
+  $('bTest').onclick = () => {
+    if (!synth) { $('voiceInfo').textContent = 'Bu tarayıcı sesli okumayı desteklemiyor.'; return; }
+    try { actx = actx || new (window.AudioContext || window.webkitAudioContext)(); actx.resume(); } catch {}
+    if (synth.speaking || synth.pending) synth.cancel();
+    if (synth.paused) synth.resume();
+    loadVoices();
+    const v = pickVoice('tr');
+    $('voiceInfo').textContent = 'Deneniyor… Kullanılan ses: ' + (v ? v.name + ' (' + v.lang + ')' : 'sistem varsayılanı') + '. Bulunan ses sayısı: ' + voices.length + '.';
+    const u = new SpeechSynthesisUtterance('Merhaba, bu Türkçe ses. Kasa hesabı borçlandırılır.');
+    if (v) u.voice = v; u.lang = v ? v.lang : 'tr-TR'; u.rate = st.rate;
+    u.onstart = () => { $('voiceInfo').textContent += ' Ses başladı.'; };
+    u.onerror = e => { $('voiceInfo').textContent += ' Hata: ' + (e.error || 'bilinmiyor') + '.'; };
+    u.onend = () => speak('And this is the English voice. Retained earnings.', 'en', () => {});
+    curUtt = u; synth.speak(u);
+  };
+  let resetArm = false;
+  $('bReset').onclick = () => {
+    if (!resetArm) { resetArm = true; $('resetMsg').hidden = false; setTimeout(() => { resetArm = false; $('resetMsg').hidden = true; }, 4000); return; }
+    stop(); st.done = {}; st.day = 0; st.leg = 'sabah'; st.idx = 0; st.seg = 0; st.sent = 0; save(); store.set('done', {}); $('resetMsg').hidden = true; resetArm = false; renderAll();
+  };
+
+  // ---------- konuşma motoru ----------
+  const sentences = s => (s.match(/[^.!?:]+[.!?:]+["”']?|\S[^.!?:]*$/g) || [s]).map(x => x.trim()).filter(Boolean);
+  function speak(text, lang, onend) {
+    if (!synth) { onend(); return; }
+    const u = new SpeechSynthesisUtterance(text);
+    const v = pickVoice(lang);
+    if (v) u.voice = v;
+    u.lang = v ? v.lang : (lang === 'en' ? 'en-US' : 'tr-TR');
+    u.rate = st.rate * (lang === 'en' ? 0.92 : 1);
+    const my = token; let fired = false, started = false, err = '';
+    u.onstart = () => { started = true; };
+    const fin = () => {
+      if (fired || my !== token) return; fired = true;
+      if (!started) failCount++; else failCount = 0;
+      if (failCount >= 3) { const e = err || 'ses başlamadı'; stop(); failCount = 0; showFail(e); return; }
+      onend();
+    };
+    u.onend = fin;
+    u.onerror = e => { if (e.error === 'interrupted' || e.error === 'canceled') return; err = e.error || ''; fin(); };
+    curUtt = u; // iOS'ta çöp toplayıcı yüzünden kaybolmasın
+    synth.speak(u);
+    // Güvenlik ağı: onend bazen gelmez; tahmini süre + pay dolunca devam et.
+    const est = (text.length / 13) / st.rate * 1000 + 4000;
+    const guard = () => { if (fired || my !== token) return; if (synth.speaking && !synth.paused) { setTimeout(guard, 1500); return; } fin(); };
+    setTimeout(guard, est);
+  }
+  let failCount = 0;
+  function showFail(e) {
+    const msg = 'Ses çalınamadı (' + e + '). Bu cihaz, sayfanın sesli okuma yapmasına izin vermiyor. Ses sekmesindeki notlara bak.';
+    $('nowText').textContent = msg; $('nowText').classList.remove('en');
+    $('voiceInfo').textContent = msg;
+  }
+  function beep() {
+    try {
+      actx = actx || new (window.AudioContext || window.webkitAudioContext)();
+      const t = actx.currentTime;
+      [[880, 0], [1320, 0.16]].forEach(([f, d]) => {
+        const o = actx.createOscillator(), g = actx.createGain();
+        o.frequency.value = f; o.type = 'sine';
+        g.gain.setValueAtTime(0.0001, t + d); g.gain.exponentialRampToValueAtTime(0.35, t + d + 0.02); g.gain.exponentialRampToValueAtTime(0.0001, t + d + 0.22);
+        o.connect(g).connect(actx.destination); o.start(t + d); o.stop(t + d + 0.25);
+      });
+    } catch {}
+  }
+  function unlock() {
+    try { actx = actx || new (window.AudioContext || window.webkitAudioContext)(); actx.resume(); } catch {}
+    // iOS: ilk konuşma bir dokunuşla başlamalı
+    if (synth && synth.paused) synth.resume();
+  }
+  // ---------- ses dosyası oynatıcı ----------
+  const au = new Audio(); au.preload = 'auto';  au.setAttribute('playsinline', '');
+  const hasAudio = it => !!(it && it.l.zaman && it.l.zaman.length);
+  function segAt(l, t) { let lo = 0, hi = l.zaman.length - 1, r = 0; while (lo <= hi) { const m = (lo + hi) >> 1; if (l.zaman[m] <= t + 0.05) { r = m; lo = m + 1; } else hi = m - 1; } return r; }
+  function mediaMeta(it) {
+    try {
+      if (!('mediaSession' in navigator)) return;
+      navigator.mediaSession.metadata = new MediaMetadata({ title: it.l.title, artist: 'SMMM Yol Dersleri', album: DATA.program.gunler[st.day].ad + ' · ' + (st.leg === 'sabah' ? 'Sabah' : 'Akşam') });
+    } catch {}
+  }
+  function playAudio() {
+    const it = curItem(); if (!it) { finishLeg(); return; }
+    const src = 'ses/' + it.l.id + '.mp3';
+    const t = st.seg > 0 ? (it.l.zaman[st.seg] || 0) : 0;
+    const go = () => {
+      try { au.currentTime = t; } catch {}
+      au.playbackRate = st.rate;
+      const pr = au.play(); if (pr) pr.catch(e => { st.playing = false; renderNow('Ses dosyası çalınamadı (' + (e.name || 'hata') + '). Başlat\'a tekrar bas.', 'tr'); });
+    };
+    if (!au.src || !au.src.endsWith(src)) { au.src = src; au.addEventListener('loadedmetadata', go, { once: true }); au.load(); }
+    else go();
+    mediaMeta(it);
+    const g = it.l.seg[st.seg]; if (g) renderNow(g.s || '', g.l);
+  }
+  au.addEventListener('timeupdate', () => {
+    if (Q.active) { qTick(); return; }
+    if (!st.playing) return; const it = curItem(); if (!hasAudio(it) || !au.src.endsWith('ses/' + it.l.id + '.mp3')) return;
+    const s = segAt(it.l, au.currentTime);
+    if (s !== st.seg) { st.seg = s; save(); const g = it.l.seg[s]; renderNow(g.s ? g.s : g.b ? '🔔' : '… düşünme süresi', g.l); }
+  });
+  au.addEventListener('ended', () => {
+    if (Q.active) { qNext(true); return; }
+    if (!st.playing) return;
+    st.done[key(st.day, st.leg, st.idx)] = true; store.set('done', st.done);
+    nextLesson(true);
+  });
+  au.addEventListener('error', () => { if (st.playing) { st.playing = false; renderNow('Ses dosyası yüklenemedi. İnternet bağlantını kontrol et ve Başlat\'a tekrar bas.', 'tr'); } });
+  try {
+    const ms = navigator.mediaSession;
+    if (ms) {
+      ms.setActionHandler('play', () => Q.mode ? qPlay() : play()); ms.setActionHandler('pause', () => Q.mode ? qStop() : stop());
+      ms.setActionHandler('nexttrack', () => Q.mode ? qNext(false) : lessonJump(1)); ms.setActionHandler('previoustrack', () => Q.mode ? qGo(-1) : lessonJump(-1));
+      ms.setActionHandler('seekbackward', () => Q.mode ? qBack5() : back5()); ms.setActionHandler('seekforward', () => jump(1));
+    }
+  } catch {}
+
+  // ---------- soru-cevap modu ----------
+  const Q = { active: false, mode: false, list: [], all: [], i: 0, ders: store.get('qDers', 'Tümü'), shuffle: store.get('qShuf', false) };
+  const QSKIP = /^(Bir soru daha|Şimdi sınav tarzında bir soru)\.?$/;
+  function qBuild() {
+    const out = [];
+    for (const l of DATA.dersler) {
+      if (!l.zaman || /problem-seti|oran-seti|^deneme-|^00-/.test(l.id)) continue;
+      const end = l.ozet > l.tekrar ? l.ozet : l.seg.length;
+      const bips = []; for (let i = l.tekrar; i < end; i++) if (l.seg[i].b) bips.push(i);
+      let k = 0;
+      while (k < bips.length) {
+        const s = bips[k];
+        let pair = false;
+        if (k + 1 < bips.length) { const mid = l.seg.slice(s + 1, bips[k + 1]); pair = mid.length > 0 && !!mid[mid.length - 1].p; }
+        let e = pair ? (k + 2 < bips.length ? bips[k + 2] : end) : (k + 1 < bips.length ? bips[k + 1] : end);
+        while (e - 1 > s && l.seg[e - 1].s && QSKIP.test(l.seg[e - 1].s.trim())) e--;
+        const qs = l.seg.slice(s, e).find(x => x.s);
+        if (qs) out.push({ l, s, e, a: pair ? bips[k + 1] : null, ders: l.modul === 'en' ? 'İngilizce' : (l.modul === 'soru' ? 'Soru bankası' : l.dersAdi), q: qs.s });
+        k += pair ? 2 : 1;
+      }
+    }
+    return out;
+  }
+  const tOf = (l, i) => i < l.seg.length ? l.zaman[i] : (l.sure || 1e9);
+  function qFilter() {
+    let L = Q.ders === 'Tümü' ? Q.all.slice() : Q.all.filter(x => x.ders === Q.ders);
+    if (Q.shuffle) { for (let i = L.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [L[i], L[j]] = [L[j], L[i]]; } }
+    Q.list = L; Q.i = Q.shuffle ? 0 : Math.min(store.get('qi:' + Q.ders, 0), Math.max(0, L.length - 1));
+  }
+  function qInit() {
+    if (!DATA || Q.all.length) return;
+    Q.all = qBuild();
+    const ders = ['Tümü', ...new Set(Q.all.map(x => x.ders))];
+    if (!ders.includes(Q.ders)) Q.ders = 'Tümü';
+    const box = $('qDers'); box.innerHTML = '';
+    ders.forEach(d => {
+      const b = document.createElement('button'); b.type = 'button'; b.textContent = d + ' (' + (d === 'Tümü' ? Q.all.length : Q.all.filter(x => x.ders === d).length) + ')';
+      b.setAttribute('aria-pressed', d === Q.ders);
+      b.onclick = () => { qStop(); Q.ders = d; store.set('qDers', d); box.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x === b)); qFilter(); qShow(); };
+      box.appendChild(b);
+    });
+    $('qShuffle').setAttribute('aria-pressed', Q.shuffle);
+    $('qCount').innerHTML = '<b>' + Q.all.length + '</b> soru';
+    qFilter(); qShow();
+  }
+  function qShow(text, lang) {
+    const c = Q.list[Q.i];
+    $('qPos').textContent = Q.list.length ? (Q.i + 1) + '/' + Q.list.length : '';
+    $('qMeta').textContent = c ? c.ders : 'Soru-cevap';
+    $('qTitle').textContent = c ? c.l.title.replace(/^Ders \d+\. /, '') : 'Bu derste soru yok';
+    $('qBar').style.width = Q.list.length ? Math.round(Q.i / Q.list.length * 100) + '%' : '0';
+    if (text != null) { $('qText').textContent = text; $('qText').classList.toggle('en', lang === 'en'); }
+    else if (c && !Q.active) { $('qText').textContent = c.q; $('qText').classList.remove('en'); }
+    $('qPlay').firstChild.textContent = Q.active ? '❚❚ Duraklat' : '▶ Başlat';
+    $('qSub').textContent = Q.active ? 'çalıyor' : 'soru-cevap';
+  }
+  function qPlay(fromT) {
+    const c = Q.list[Q.i]; if (!c) return;
+    Q.wait = false;
+    if (st.playing) stop();
+    Q.mode = true; Q.active = true; wake(true);
+    const src = 'ses/' + c.l.id + '.mp3';
+    const t = fromT != null ? fromT : tOf(c.l, c.s);
+    const go = () => { try { au.currentTime = t; } catch {} au.playbackRate = st.rate; const pr = au.play(); if (pr) pr.catch(e => { Q.active = false; qShow('Ses çalınamadı (' + (e.name || 'hata') + '). Başlat\'a tekrar bas.'); }); };
+    if (!au.src || !au.src.endsWith(src)) { au.src = src; au.addEventListener('loadedmetadata', go, { once: true }); au.load(); } else go();
+    try { navigator.mediaSession.metadata = new MediaMetadata({ title: 'Soru ' + (Q.i + 1) + ' · ' + c.ders, artist: 'SMMM Soru-Cevap', album: c.l.title }); } catch {}
+    store.set('qi:' + Q.ders, Q.i);
+    qShow();
+  }
+  function qStop() { Q.active = false; au.pause(); wake(false); qShow(); }
+  function qTick() {
+    const c = Q.list[Q.i]; if (Q.wait || !c || !au.src.endsWith('ses/' + c.l.id + '.mp3')) return;
+    if (au.currentTime >= tOf(c.l, c.e) - 0.05) { qNext(true); return; }
+    const sg = segAt(c.l, au.currentTime), g = c.l.seg[sg];
+    if (g && sg !== Q.lastSeg) { Q.lastSeg = sg; qShow(g.s ? g.s : g.b ? '🔔' : '… düşünme süresi', g.l); }
+  }
+  function qNext(auto) {
+    if (Q.i + 1 >= Q.list.length) { qStop(); Q.i = 0; store.set('qi:' + Q.ders, 0); qShow('Bu listedeki sorular bitti. Tebrikler. Başlat\'a basarsan baştan başlar.'); return; }
+    Q.i++; Q.lastSeg = -1;
+    if (auto || Q.active) { if (auto) { Q.wait = true; au.pause(); setTimeout(() => { if (Q.active) qPlay(); }, 900); } else qPlay(); } else { store.set('qi:' + Q.ders, Q.i); qShow(); }
+  }
+  function qGo(d) { Q.i = Math.max(0, Math.min(Q.list.length - 1, Q.i + d)); Q.lastSeg = -1; if (Q.active) qPlay(); else { store.set('qi:' + Q.ders, Q.i); qShow(); } }
+  function qBack5() {
+    const c = Q.list[Q.i]; if (!c) return;
+    if (au.src && au.src.endsWith('ses/' + c.l.id + '.mp3')) { const t = Math.max(tOf(c.l, c.s), au.currentTime - 5); if (Q.active) { au.currentTime = t; Q.lastSeg = -1; } else qPlay(t); }
+    else qPlay();
+  }
+  $('qPlay').onclick = () => Q.active ? qStop() : qPlay();
+  $('qNext').onclick = () => qNext(false);
+  $('qPrev').onclick = () => qGo(-1);
+  $('qBack').onclick = qBack5;
+  $('qAns').onclick = () => { const c = Q.list[Q.i]; if (!c) return; const t = c.a != null ? tOf(c.l, c.a) : (() => { const pi = c.l.seg.findIndex((x, i) => i > c.s && i < c.e && x.p); return pi > 0 ? tOf(c.l, pi + 1) : tOf(c.l, c.s); })(); Q.lastSeg = -1; if (Q.active) au.currentTime = t; else qPlay(t); };
+  $('qShuffle').onclick = () => { qStop(); Q.shuffle = !Q.shuffle; store.set('qShuf', Q.shuffle); $('qShuffle').setAttribute('aria-pressed', Q.shuffle); qFilter(); qShow(); };
+
+  function step() {
+    if (!st.playing) return;
+    const it = curItem();
+    if (!it) { finishLeg(); return; }
+    if (hasAudio(it)) { playAudio(); return; }
+    const seg = it.l.seg[st.seg];
+    if (!seg) { // ders bitti
+      st.done[key(st.day, st.leg, st.idx)] = true; store.set('done', st.done);
+      nextLesson(true); return;
+    }
+    renderNow();
+    const my = token;
+    const adv = () => { if (my !== token) return; st.seg++; st.sent = 0; save(); step(); };
+    if (seg.b) { renderNow('🔔', 'tr'); beep(); timer = setTimeout(adv, 700); return; }
+    if (seg.p) { renderNow('… düşünme süresi (' + Math.round(seg.p * st.pauseX) + ' sn)', 'tr'); timer = setTimeout(adv, seg.p * 1000 * st.pauseX); return; }
+    const ss = sentences(seg.s);
+    const sayNext = () => {
+      if (my !== token || !st.playing) return;
+      if (st.sent >= ss.length) { timer = setTimeout(adv, seg.l === 'en' ? 700 : 350); return; }
+      renderNow(seg.s, seg.l);
+      speak(ss[st.sent], seg.l, () => { st.sent++; sayNext(); });
+    };
+    sayNext();
+  }
+  function nextLesson(auto) {
+    const its = items();
+    if (st.idx + 1 < its.length) { st.idx++; st.seg = its[st.idx].from; st.sent = 0; save(); renderLists(); if (auto) { if (hasAudio(its[st.idx])) playAudio(); else timer = setTimeout(step, 1200); } else renderNow(''); }
+    else finishLeg();
+  }
+  function finishLeg() {
+    const wasSabah = st.leg === 'sabah';
+    stop();
+    renderDays(); renderLists();
+    const msg = wasSabah ? 'Sabah listesi bitti. Akşam dönüşte Başlat\'a bastığında akşam listesi başlar. İyi çalışmalar.' : 'Bugünün programı bitti. Tebrikler. Yarın bir sonraki gün kendiliğinden açılır.';
+    if (wasSabah) { st.leg = 'aksam'; st.idx = 0; st.seg = items()[0].from; }
+    else if (st.day + 1 < DATA.program.gunler.length) { st.day++; st.leg = 'sabah'; st.idx = 0; st.seg = 0; }
+    st.sent = 0; save();
+    renderAll(); renderNow(msg, 'tr');
+  }
+  async function wake(on) {
+    try {
+      if (on && 'wakeLock' in navigator && document.visibilityState === 'visible') { wakeLock = await navigator.wakeLock.request('screen'); }
+      else if (!on && wakeLock) { await wakeLock.release(); wakeLock = null; }
+    } catch {}
+  }
+  document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && st.playing) { wake(true); /* kilitten dönüşte takıldıysa sürdür */ if (!hasAudio(curItem()) && synth && !synth.speaking) { token++; step(); } } });
+  function play() {
+    if (!DATA) return;
+    if (Q.active) qStop(); Q.mode = false;
+    unlock(); token++; st.playing = true; wake(true); renderNow(); renderLists(); step();
+  }
+  function stop() { token++; st.playing = false; clearTimeout(timer); au.pause(); if (synth) synth.cancel(); wake(false); save(); if (DATA) renderNow(); }
+  function toggle() { st.playing ? stop() : play(); }
+  function jump(d) {
+    const it = curItem(); if (!it) return;
+    const was = st.playing; stop();
+    // bir sonraki/önceki konuşma paragrafına git
+    let s = st.seg + d;
+    while (s >= 0 && s < it.l.seg.length && !it.l.seg[s].s) s += d;
+    st.seg = Math.max(it.from, Math.min(it.l.seg.length - 1, s)); st.sent = 0; save();
+    if (was) play(); else renderNow(it.l.seg[st.seg].s || '', it.l.seg[st.seg].l);
+  }
+  function lessonJump(d) {
+    const its = items(); const was = st.playing; stop();
+    st.idx = Math.max(0, Math.min(its.length - 1, st.idx + d)); st.seg = its[st.idx].from; st.sent = 0; save(); renderLists();
+    if (was) play(); else renderNow('');
+  }
+  function save() { store.set('pos', { day: st.day, leg: st.leg, idx: st.idx, seg: st.seg, sent: 0 }); store.set('day', st.day); }
+
+  $('bPlay').onclick = toggle; $('dBig').onclick = toggle;
+  const back5 = () => {
+    const it = curItem();
+    if (hasAudio(it) && au.src && au.src.endsWith('ses/' + it.l.id + '.mp3')) {
+      const min = it.l.zaman[it.from] || 0;
+      au.currentTime = Math.max(min, au.currentTime - 5);
+      const sg = segAt(it.l, au.currentTime); st.seg = sg; save(); const g = it.l.seg[sg]; renderNow(g.s || '', g.l);
+      if (!st.playing) play();
+    } else jump(-1);
+  };
+  $('bBack').onclick = back5; $('dBack').onclick = back5;
+  $('bFwd').onclick = () => jump(1);
+  $('bPrevL').onclick = () => lessonJump(-1); $('bNextL').onclick = () => lessonJump(1); $('dNext').onclick = () => lessonJump(1);
+  $('bRead').onclick = () => {
+    const box = $('rBody'); box.innerHTML = '';
+    $('rTitle').textContent = DATA.program.gunler[st.day].ad + ' · ' + (st.leg === 'sabah' ? 'Sabah' : 'Akşam');
+    items().forEach(it => {
+      const h = document.createElement('h3'); h.textContent = it.l.title + (it.tekrar ? ' (tekrar)' : ''); box.appendChild(h);
+      it.l.seg.slice(it.from).forEach(g => {
+        const p = document.createElement('p');
+        if (g.s) { p.textContent = g.s; if (g.l === 'en') { p.className = 'en'; p.lang = 'en'; } }
+        else if (g.b) p.textContent = 'Zil.';
+        else if (g.p) p.textContent = 'Düşünme süresi.';
+        box.appendChild(p);
+      });
+    });
+    $('reader').hidden = false; $('reader').scrollTop = 0;
+  };
+  $('rClose').onclick = () => { $('reader').hidden = true; };
+  $('bDrive').onclick = () => { $('drive').hidden = false; renderNow(); };
+  $('dExit').onclick = () => { $('drive').hidden = true; };
+  const setRate = r => { st.rate = Math.round(Math.min(1.5, Math.max(0.7, r)) * 100) / 100; au.playbackRate = st.rate; store.set('rate', st.rate); $('rate').value = st.rate; $('rateV').textContent = st.rate.toFixed(2); $('dRate').textContent = st.rate.toFixed(2) + '×'; };
+  $('dSlow').onclick = () => setRate(st.rate - 0.1); $('dFast').onclick = () => setRate(st.rate + 0.1);
+  $('dRate').textContent = (+st.rate).toFixed(2) + '×';
+
+  if (!synth) $('nowText').textContent = 'Bu tarayıcı sesli okumayı desteklemiyor. iPhone\'da Safari ile aç.';
+})();
+</script>
+
+<script>
+(() => {
+  'use strict';
+  const $ = id => document.getElementById(id);
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+  const SES = 'ses-v1';
+  let idler = [];
+  async function liste() {
+    if (idler.length) return idler;
+    try { const d = await (await fetch('dersler.json')).json(); idler = d.dersler.filter(l => l.zaman).map(l => 'ses/' + l.id + '.mp3'); } catch {}
+    return idler;
+  }
+  async function durum() {
+    if (!('caches' in window)) { $('offDurum').textContent = 'Bu tarayıcı internetsiz kullanımı desteklemiyor.'; return; }
+    const L = await liste(); const c = await caches.open(SES); let n = 0;
+    for (const u of L) if (await c.match(new URL(u, location.href).href)) n++;
+    $('offDurum').textContent = n === L.length && n ? 'Tüm dersler telefonda (' + n + '/' + L.length + '). İnternet olmadan çalışır.' : n + '/' + L.length + ' ders telefonda.';
+    $('offBar').style.width = L.length ? Math.round(n / L.length * 100) + '%' : '0';
+  }
+  let calisiyor = false;
+  $('offIndir').onclick = async () => {
+    if (calisiyor) return; calisiyor = true; $('offIndir').textContent = 'İndiriliyor…';
+    try { if (navigator.storage && navigator.storage.persist) await navigator.storage.persist(); } catch {}
+    const L = await liste(); const c = await caches.open(SES); let n = 0, hata = 0;
+    for (const u of L) {
+      const tam = new URL(u, location.href).href;
+      if (!(await c.match(tam))) {
+        try { const r = await fetch(tam, { cache: 'no-store' }); if (r.ok) await c.put(tam, r); else hata++; } catch { hata++; }
+      }
+      n++; $('offBar').style.width = Math.round(n / L.length * 100) + '%'; $('offDurum').textContent = 'İndiriliyor: ' + n + '/' + L.length;
+    }
+    calisiyor = false; $('offIndir').textContent = 'Tüm dersleri indir';
+    await durum();
+    if (hata) $('offDurum').textContent += ' ' + hata + ' ders indirilemedi; internet bağlantısını kontrol edip tekrar bas.';
+  };
+  let silOnay = false;
+  $('offSil').onclick = async () => {
+    if (!silOnay) { silOnay = true; $('offSil').textContent = 'Emin misin? Tekrar bas'; setTimeout(() => { silOnay = false; $('offSil').textContent = 'İndirilenleri sil'; }, 4000); return; }
+    silOnay = false; $('offSil').textContent = 'İndirilenleri sil';
+    await caches.delete(SES); await durum();
+  };
+  durum();
+})();
+</script>
+</body>
+</html>
