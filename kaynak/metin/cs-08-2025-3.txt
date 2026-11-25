@@ -1,0 +1,65 @@
+BAŞLIK: Çıkmış Sorular 2025-3 Klasik. Sermaye Piyasası Mevzuatı
+
+İki bin yirmi beş yılı üçüncü dönem Sermaye Piyasası Mevzuatı klasik sınavı. Kavram tanımları, kripto varlık hizmet sağlayıcıları ve güveni kötüye kullanma suçu soruldu.
+
+[[bip]]
+Soru bir a. Sermaye Piyasası Kanununa göre halka arz nedir?
+
+Düşün.
+[[10]]
+[[bip]]
+Komisyon cevabı: Sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel bir çağrı ve bu çağrı devamında gerçekleştirilen satıştır.
+
+[[1]]
+
+[[bip]]
+Soru bir b. Halka arz eden kimdir?
+
+Düşün.
+[[10]]
+[[bip]]
+Komisyon cevabı: Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere Kurula başvuruda bulunan gerçek veya tüzel kişilerdir.
+
+[[1]]
+
+[[bip]]
+Soru bir c. Halka arzlarda ön talep toplama nedir?
+
+Düşün.
+[[10]]
+[[bip]]
+Komisyon cevabı: Payların ilk halka arzında veya ikincil halka arzlarda, izahname Kurulca onaylanmadan önce belirli bir fiyat aralığından, yatırımcıların olası taleplerinin, talepte bulunanlar için yükümlülük ve bağlayıcılık doğurmaksızın yetkili kuruluşlarca toplanmasıdır.
+
+[[1]]
+
+[[bip]]
+Soru bir ç. Halka arzlarda ek pay satışı nedir?
+
+Düşün.
+[[10]]
+[[bip]]
+Komisyon cevabı: Toplanan kesin talebin satışa sunulan pay miktarından fazla olması halinde, fazla talebi karşılamak için azami nominal değeri önceden belirlenip kamuya duyurulan payların dağıtılacak toplam paylara eklenmesidir.
+
+[[1]]
+
+[[bip]]
+Soru iki. Kripto varlık hizmet sağlayıcılarının kurucu ve ortaklarından aranan şartları maddeler halinde sayınız.
+
+Düşün.
+[[10]]
+[[bip]]
+Komisyon cevabı: Müflis olmamak, konkordato ilan etmemiş ve iflası ertelenmemiş olmak. Faaliyet izni iptal edilmiş finans kuruluşlarında yüzde on veya daha fazla paya ya da kontrole sahip olmamak. Zimmet, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, suç gelirlerini aklama, terörün finansmanı, vergi kaçakçılığı gibi kanunda sayılan suçlardan hükümlü olmamak ve kasten işlenen bir suçtan beş yıl veya daha fazla hapis cezası almamış olmak. Kanunun yüz birinci maddesine göre işlem yasaklı olmamak. Gerekli mali güce, dürüstlüğe ve itibara sahip olmak. Faaliyet izni Kurulca iptal edilmiş kuruluşlarda bu iptalden sorumlu kişilerden olmamak. Son beş yıl içinde Kanunun yüz dördüncü maddesine göre idari para cezası almamış olmak.
+
+[[1]]
+
+[[bip]]
+Soru üç. Sermaye Piyasası Kanununa göre güveni kötüye kullanma suçunun nitelikli halini oluşturan fiilleri sayınız.
+
+Düşün.
+[[10]]
+[[bip]]
+Komisyon cevabı: Bir: Yatırım kuruluşuna, fon kuruluna veya teminat sorumlularına tevdi edilen sermaye piyasası araçlarını, nakit ve diğer kıymetleri kendisinin veya başkasının menfaatine satmak, kullanmak, rehnetmek, gizlemek veya inkâr etmek. İki: İlişkili bir teşebbüs veya kişiyle emsallerinden bariz şekilde farklı fiyat ve bedellerle örtülü işlem yaparak halka açık ortaklığın kârını veya malvarlığını azaltmak. Üç: Halka açık ortaklıklar ve kolektif yatırım kuruluşlarıyla ilişkili kişiler arasında emsallere, piyasa teamüllerine ve ticari dürüstlüğe aykırı anlaşmalar veya işlem hacmi üreterek kârlarını veya malvarlıklarını azaltmak ya da artmasını engellemek.
+
+[[1]]
+
+Sermaye Piyasası klasik sınavı bitti. Son dönemde kripto varlık düzenlemeleri de soruluyor; bu konuyu ayrıca tekrar et.

@@ -1,0 +1,291 @@
+BAŞLIK: Çıkmış Sorular 2025-3 Klasik. Finansal Muhasebe
+
+İki bin yirmi beş yılı üçüncü dönem Finansal Muhasebe klasik sınavı. Bu sınavda tek bir büyük soru var: X Ticaret İşletmesinin dönem başı bilançosu verilmiş, dönem içinde on yedi işlem ve dönem sonunda sekiz işlem yapılmış. Kayıtlar Tekdüzen Hesap Planına göre, sürekli envanter ve yedi A seçeneğiyle, kadeve oranı yüzde yirmi alınarak yapılacak. Dönem başı bilançoda önemli kalemler şunlar: Kasa yedi bin, Bankalar kırk beş bin, Hisse Senetleri kırk beş bin, Alıcılar beş bin, Alacak Senetleri elli iki bin, Alacak Senetleri Reeskontu iki bin, Şüpheli Ticari Alacaklar on bin ve karşılığı yedi bin, Ticari Mallar seksen bin, Binalar yüz bin, Demirbaşlar kırk bin, Birikmiş Amortismanlar yirmi beş bin. Pasifte Satıcılar beş bin, Borç Senetleri altmış yedi bin üç yüz, Borç Senetleri Reeskontu iki bin üç yüz ve Sermaye iki yüz seksen bin. Her işlemi dinle, kaydı kafanda kur, sonra komisyonun kaydını dinle. Önce açılışta reeskontların ters kaydı yapılır: yüz yirmi iki Alacak Senetleri Reeskontu iki bin borç, altı yüz kırk yedi Reeskont Faiz Gelirleri iki bin alacak; altı yüz elli yedi Reeskont Faiz Giderleri iki bin üç yüz borç, üç yüz yirmi iki Borç Senetleri Reeskontu iki bin üç yüz alacak.
+
+[[bip]]
+İşlem bir. Alış maliyeti yetmiş bin lira olan ticari mallar, kadevesi ve otuz bin lirası banka tahsilatı, kalanı senetli olmak üzere yüz bin lira artı kadeve bedelle satılmıştır. Satış anında işletmenin nakit olarak ödediği iki bin beş yüz lira artı kadeve taşıma giderini alıcı işletme üstlenmiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz iki Bankalar elli bin, yüz yirmi bir Alacak Senetleri yetmiş bin. Alacak tarafı: altı yüz Yurt İçi Satışlar yüz bin, üç yüz doksan bir Hesaplanan kadeve yirmi bin. Maliyet kaydı: altı yüz yirmi bir Satılan Ticari Mallar Maliyeti yetmiş bin borç, yüz elli üç Ticari Mallar yetmiş bin alacak. Alıcı adına ödenen taşıma gideri: yüz yirmi Alıcılar ya da yüz yirmi yedi Diğer Ticari Alacaklar üç bin borç, yüz Kasa üç bin alacak.
+
+Bankaya giren tutar kadeve yirmi bin artı otuz bin, yani elli bin; kalan yetmiş bin senede bağlanmış. Alıcının üstlendiği taşıma gideri işletmenin gideri değil, alıcıdan alacaktır.
+
+[[1]]
+
+[[bip]]
+İşlem iki. İşletme boş binasını üç yıllığına kiraya vermiştir. Üç yıllık kira tutarı ve kadeve banka aracılığıyla tahsil edilmiştir. Aylık kira beş bin lira, işlem bilanço hesaplarında izlenmiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz iki Bankalar iki yüz on altı bin. Alacak tarafı: üç yüz seksen Gelecek Aylara Ait Gelirler altmış bin, dört yüz seksen Gelecek Yıllara Ait Gelirler yüz yirmi bin, üç yüz doksan bir Hesaplanan kadeve otuz altı bin.
+
+Otuz altı aylık kira yüz seksen bin; on iki aylık kısmı kısa vadeli üç yüz seksen, kalan yirmi dört ayı uzun vadeli dört yüz seksen hesabında izlenir.
+
+[[1]]
+
+[[bip]]
+İşlem üç. İşletme binası için asansör tesisatı inşaatına başlamış, sekiz bin lira artı kadeve gider için bono düzenlemiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: iki yüz elli sekiz Yapılmakta Olan Yatırımlar sekiz bin, yüz doksan bir İndirilecek kadeve bin altı yüz. Alacak tarafı: üç yüz yirmi bir Borç Senetleri dokuz bin altı yüz.
+
+[[1]]
+
+[[bip]]
+İşlem dört. İşletme, yüz elli bin lira sermayeli Z İşletmesinin sermaye payının yetmiş altı bin liralık kısmını satın almayı taahhüt etmiş ve taahhüdün otuz bin liralık kısmını banka aracılığıyla ödemiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: iki yüz kırk beş Bağlı Ortaklıklar yetmiş altı bin. Alacak tarafı: iki yüz kırk altı Bağlı Ortaklıklara Sermaye Taahhütleri yetmiş altı bin. Ödeme: iki yüz kırk altı Bağlı Ortaklıklara Sermaye Taahhütleri otuz bin borç, yüz iki Bankalar otuz bin alacak.
+
+yetmiş altı bin bölü yüz elli bin, yüzde elliyi aştığı için iştirak değil bağlı ortaklıktır.
+
+[[1]]
+
+[[bip]]
+İşlem beş. Daha önce adedi bir virgül sekiz liradan alınan yirmi beş bin adet hisse senedinin değeri adet başına bir liraya düşmüş ve karşılık ayrılmıştır.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: altı yüz elli dört Karşılık Giderleri yirmi bin. Alacak tarafı: yüz on dokuz Menkul Kıymetler Değer Düşüklüğü Karşılığı yirmi bin.
+
+Değer kaybı adet başına sıfır virgül sekiz lira çarpı yirmi beş bin adet, yani yirmi bin.
+
+[[1]]
+
+[[bip]]
+İşlem altı. Önceki dönemde şüpheli hale gelen on bin liralık alacağın üç bin beş yüz lirası nakit tahsil edilmiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz Kasa üç bin beş yüz, yüz yirmi dokuz Şüpheli Ticari Alacaklar Karşılığı yedi bin. Alacak tarafı: yüz yirmi sekiz Şüpheli Ticari Alacaklar on bin, altı yüz kırk dört Konusu Kalmayan Karşılıklar ya da altı yüz yetmiş bir Önceki Dönem Gelir ve Kârları beş yüz.
+
+Daha önce yedi bin karşılık ayrılmıştı; tahsil edilmeyen altı bin beş yüz karşılıktan kapanır, karşılığın artan beş yüz lirası gelir yazılır.
+
+[[1]]
+
+[[bip]]
+İşlem yedi. İşletme yeni bir binek oto alımı için satıcıyla anlaşmış ve bankadan altı bin lira avans ödemiştir. Komisyon cevabında tutar sekiz bin olarak kaydedilmiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: iki yüz elli dokuz Verilen Avanslar sekiz bin. Alacak tarafı: yüz iki Bankalar sekiz bin.
+
+Duran varlık alımı için verilen avans iki yüz elli dokuz hesabında izlenir. Soru metninde altı bin, komisyon cevabında sekiz bin yazıyor; kayıt mantığı aynıdır.
+
+[[1]]
+
+[[bip]]
+İşlem sekiz. İşletme satıcıya olan beş bin liralık borcunu ödeyemeyeceğini bildirmiş, iki ay vadeli beş bin beş yüz liralık senet verme teklifi kabul edilmiş ve senet verilmiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: üç yüz yirmi Satıcılar beş bin, yedi yüz seksen Finansman Giderleri beş yüz. Alacak tarafı: üç yüz yirmi bir Borç Senetleri beş bin beş yüz.
+
+Vade farkı olan beş yüz lira finansman gideridir.
+
+[[1]]
+
+[[bip]]
+İşlem dokuz. İşletme bir Kasımda nominal değeri kırk dört bin sekiz yüz lira olan altı ay vadeli yüzde yirmi dört faizli bono ihraç etmiş ve aynı tarihte banka aracılığıyla kırk bin liraya satmıştır.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz iki Bankalar kırk bin, üç yüz sekiz Menkul Kıymetler İhraç Farkı dört bin sekiz yüz. Alacak tarafı: üç yüz beş Çıkarılmış Bonolar ve Senetler kırk dört bin sekiz yüz.
+
+[[1]]
+
+[[bip]]
+İşlem on. kadevesi ve yirmi beş bin lirası bankadan ödenerek, kalanı çek keşide edilerek doksan bin lira artı kadeve ticari mal alınmıştır.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz elli üç Ticari Mallar doksan bin, yüz doksan bir İndirilecek kadeve on sekiz bin. Alacak tarafı: yüz iki Bankalar kırk üç bin, yüz üç Verilen Çekler ve Ödeme Emirleri altmış beş bin.
+
+Bankadan çıkan kadeve on sekiz bin artı yirmi beş bin, yani kırk üç bin; kalan altmış beş bin verilen çekle ödenir.
+
+[[1]]
+
+[[bip]]
+İşlem on bir. Asansör için senet cirosuyla iki bin lira artı kadeve ek gider yapılmış ve inşaat tamamlanmıştır.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: iki yüz elli sekiz Yapılmakta Olan Yatırımlar iki bin, yüz doksan bir İndirilecek kadeve dört yüz. Alacak tarafı: yüz yirmi bir Alacak Senetleri iki bin dört yüz. Tamamlanınca: iki yüz elli iki Binalar on bin borç, iki yüz elli sekiz Yapılmakta Olan Yatırımlar on bin alacak.
+
+Asansör binanın parçası olduğu için toplam on bin lira binalara aktarılır.
+
+[[1]]
+
+[[bip]]
+İşlem on iki. Ticari alacağı olmadığı halde başka bir işletmeden yedi bin liralık bono alınmış, yirmi gün sonra bankada iskonto ettirilmiş; beş yüz lira kesinti yapan banka kalanı hesaba yatırmıştır.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz yirmi bir Alacak Senetleri ya da yüz otuz altı Diğer Çeşitli Alacaklar yedi bin. Alacak tarafı: üç yüz otuz altı Diğer Çeşitli Borçlar yedi bin. İskonto: yüz iki Bankalar altı bin beş yüz ve yedi yüz seksen Finansman Giderleri beş yüz borç, yüz yirmi bir ya da yüz otuz altı hesabı yedi bin alacak.
+
+[[1]]
+
+[[bip]]
+İşlem on üç. İşletme on bin liralık borç senedini vadesinde ödeyememiş; hukuki süreç sonunda senet tutarını, sekiz yüz lira gecikme faizini ve bin iki yüz lira tazminatı bankadan ödemiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: üç yüz yirmi bir Borç Senetleri on bin, yedi yüz seksen Finansman Giderleri sekiz yüz, altı yüz seksen dokuz Diğer Olağandışı Gider ve Zararlar bin iki yüz. Alacak tarafı: yüz iki Bankalar on iki bin.
+
+Gecikme faizi finansman gideri, tazminat ise olağandışı giderdir.
+
+[[1]]
+
+[[bip]]
+İşlem on dört. Banka aracılığıyla nominal değeri bin lira olan hazine bonolarından yüz adet alınmış, beş yüz lira komisyon bankadan ödenmiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz on iki Kamu Kesimi Tahvil, Senet ve Bonoları yüz bin, altı yüz elli üç Komisyon Giderleri beş yüz. Alacak tarafı: yüz iki Bankalar yüz bin beş yüz.
+
+[[1]]
+
+[[bip]]
+İşlem on beş. Yangında seksen bin liralık ticari malın tamamı kullanılamaz hale gelmiş, sigorta şirketi yetmiş bin lira tazminat tahakkuk ettirmiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz yirmi yedi Diğer Ticari Alacaklar ya da yüz otuz altı Diğer Çeşitli Alacaklar yetmiş bin, altı yüz seksen dokuz Diğer Olağandışı Gider ve Zararlar on bin. Alacak tarafı: yüz elli üç Ticari Mallar seksen bin.
+
+[[1]]
+
+[[bip]]
+İşlem on altı. Alıcılardan vadesi dolan alacağın bir kısmına karşılık nakit beş yüz dolar tahsil edilmiştir. İşlem günü bir dolar kırk iki lira.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz Kasa yirmi bir bin. Alacak tarafı: yüz yirmi Alıcılar yirmi bir bin.
+
+[[1]]
+
+[[bip]]
+İşlem on yedi. Nakliyede zarar gören ve alış maliyeti yirmi bin lira olan, satış tutarı yirmi beş bin lira malları alıcı iade etmiş; toplam tutar için alıcıya senet ciro edilmiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: altı yüz on Satıştan İadeler yirmi beş bin, yüz doksan bir İndirilecek kadeve beş bin. Alacak tarafı: yüz yirmi bir Alacak Senetleri otuz bin. Maliyet kaydı: yüz elli üç Ticari Mallar yirmi bin borç, altı yüz yirmi bir Satılan Ticari Mallar Maliyeti yirmi bin alacak.
+
+[[1]]
+
+[[bip]]
+Dönem sonu işlemi bir. kadeve tahakkuk işlemi yapılmıştır.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: üç yüz doksan bir Hesaplanan kadeve elli altı bin. Alacak tarafı: yüz doksan bir İndirilecek kadeve yirmi beş bin, üç yüz altmış Ödenecek Vergi ve Fonlar otuz bir bin.
+
+[[1]]
+
+[[bip]]
+Dönem sonu işlemi iki. Kasa sayımında iki bin lira noksanlık bulunmuş; fark bankaya yatırılıp kaydedilmeyen tutardan kaynaklanıyor.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz iki Bankalar iki bin. Alacak tarafı: yüz Kasa iki bin.
+
+[[1]]
+
+[[bip]]
+Dönem sonu işlemi üç. Tahsil edilen kiranın altı aylık kısmı bu döneme aittir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: üç yüz seksen Gelecek Aylara Ait Gelirler otuz bin. Alacak tarafı: altı yüz kırk dokuz Diğer Olağan Gelir ve Kârlar otuz bin. Ayrıca uzun vadeden kısa vadeye aktarma: dört yüz seksen Gelecek Yıllara Ait Gelirler otuz bin borç, üç yüz seksen Gelecek Aylara Ait Gelirler otuz bin alacak.
+
+[[1]]
+
+[[bip]]
+Dönem sonu işlemi dört. Pazarlama bölümünün kullandığı duran varlıklar için beş bin lira amortisman ayrılmıştır.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yedi yüz altmış Pazarlama, Satış ve Dağıtım Giderleri beş bin. Alacak tarafı: iki yüz elli yedi Birikmiş Amortismanlar beş bin.
+
+[[1]]
+
+[[bip]]
+Dönem sonu işlemi beş. Dönem sonunda bir dolar kırk beş lira.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz Kasa bin beş yüz. Alacak tarafı: altı yüz kırk altı Kambiyo Kârları bin beş yüz.
+
+Kasadaki beş yüz dolar, kur farkı üç lira, kâr bin beş yüz.
+
+[[1]]
+
+[[bip]]
+Dönem sonu işlemi altı. İhraç edilen bonoyla ilgili dönem sonunda hesaplanan faiz bankadan ödenmiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Faiz gideri: yedi yüz seksen Finansman Giderleri bin altı yüz borç, üç yüz sekiz Menkul Kıymetler İhraç Farkı bin altı yüz alacak. Ödeme: üç yüz beş Çıkarılmış Bonolar ve Senetler bin altı yüz borç, yüz iki Bankalar bin altı yüz alacak.
+
+Altı aylık ihraç farkı dört bin sekiz yüz; iki aylık payı bin altı yüz.
+
+[[1]]
+
+[[bip]]
+Dönem sonu işlemi yedi. Satın alınan hazine bonosuyla ilgili dört bin lira faiz tahakkuk ettirilmiştir.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: yüz seksen bir Gelir Tahakkukları dört bin. Alacak tarafı: altı yüz kırk iki Faiz Gelirleri dört bin.
+
+[[1]]
+
+[[bip]]
+Dönem sonu işlemi sekiz. Döneme ilişkin kurumlar vergisi beş bin lira hesaplanmıştır.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç tarafı: altı yüz doksan bir Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları beş bin. Alacak tarafı: üç yüz yetmiş Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları beş bin.
+
+[[1]]
+
+[[bip]]
+Son soru. Bu işlemlerden sonra dönem kârı, vergi ve net kâr ne olur; bilanço toplamı kaç liradır?
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Net satışlar yetmiş beş bin, satışların maliyeti elli bin, brüt satış kârı yirmi beş bin. Faaliyet kârı yirmi bin. Diğer olağan gelirler otuz sekiz bin, diğer olağan giderler yirmi iki bin sekiz yüz, finansman giderleri üç bin dört yüz; olağan kâr otuz bir bin sekiz yüz. Olağandışı giderler on bir bin iki yüz; dönem kârı yirmi bin altı yüz, vergi beş bin, dönem net kârı on beş bin altı yüz. Dönem sonu bilanço toplamı altı yüz bir bin.
+
+Yedi A seçeneğinde yedi yüz altmış ve yedi yüz seksen hesapları yansıtma hesaplarıyla altı yüz otuz bir ve altı yüz altmış hesaplarına aktarılır, sonra gelir tablosu altı yüz doksan Dönem Kârı veya Zararı hesabında kapanır.
+
+[[1]]
+
+Finansal Muhasebe klasik sınavı bitti. Klasik sınavda hesap adı ile hesap kodunun birlikte yazılması gerektiğini unutma; yalnızca kod ya da yalnızca ad yazana puan verilmiyor.

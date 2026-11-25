@@ -1,0 +1,101 @@
+BAŞLIK: Çıkmış Sorular 2025-3 Klasik. Finansal Tablolar ve Analizi
+
+İki bin yirmi beş yılı üçüncü dönem Finansal Tablolar ve Analizi klasik sınavı. İlk iki soru için verilen iki bin yirmi dört rakamları şunlar: Aktif toplamı altı milyon altı yüz kırk yedi bin dokuz yüz on iki, dönen varlıklar dört milyon iki yüz otuz üç bin, hazır değerler iki yüz otuz bin, ticari alacaklar iki milyon elli sekiz bin, stoklar bir milyon dokuz yüz kırk beş bin, duran varlıklar iki milyon dört yüz on dört bin dokuz yüz on iki, maddi duran varlıklar bir milyon dokuz yüz altmış iki bin yedi yüz on iki, maddi olmayan duran varlıklar dört yüz elli iki bin iki yüz. Kısa vadeli yabancı kaynaklar üç milyon yedi yüz yetmiş yedi bin iki yüz, uzun vadeli yabancı kaynaklar bir milyon yirmi iki bin seksen, özkaynaklar bir milyon sekiz yüz kırk sekiz bin altı yüz otuz iki. Net satışlar sekiz milyon sekiz yüz bin, brüt satış kârı iki milyon yirmi üç bin beş yüz yirmi, dönem net kârı iki yüz otuz yedi bin dört yüz otuz iki. Rakamları tek tek ezberlemene gerek yok; formülü ve hesabın mantığını dinle.
+
+[[bip]]
+Soru bir. iki bin yirmi dört için varlık devir hızını hesaplayınız.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Net satışlar sekiz milyon sekiz yüz bin bölü varlık toplamı altı milyon altı yüz kırk yedi bin dokuz yüz on iki, yaklaşık bir virgül otuz iki.
+
+[[1]]
+
+[[bip]]
+Nakit oranı hesaplayınız.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Hazır değerler artı menkul kıymetler iki yüz otuz bin bölü kısa vadeli yabancı kaynaklar üç milyon yedi yüz yetmiş yedi bin iki yüz, yaklaşık sıfır virgül sıfır altı.
+
+Genel kabul gören ölçü sıfır virgül iki civarı olduğu için bu işletmenin nakit oranı düşüktür.
+
+[[1]]
+
+[[bip]]
+Kaldıraç oranını hesaplayınız.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Yabancı kaynaklar toplamı, üç milyon yedi yüz yetmiş yedi bin iki yüz artı bir milyon yirmi iki bin seksen, bölü pasif toplamı altı milyon altı yüz kırk yedi bin dokuz yüz on iki, yüzde yetmiş iki virgül on dokuz.
+
+Genel ölçü yüzde elli civarı; işletme ağırlıklı olarak borçla finanse ediliyor.
+
+[[1]]
+
+[[bip]]
+Satışların kârlılığını hesaplayınız.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Brüt satış kârı iki milyon yirmi üç bin beş yüz yirmi bölü net satışlar sekiz milyon sekiz yüz bin, yüzde yirmi iki virgül doksan dokuz.
+
+[[1]]
+
+[[bip]]
+Varlıkların kârlılığını hesaplayınız.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Dönem net kârı iki yüz otuz yedi bin dört yüz otuz iki bölü varlık toplamı altı milyon altı yüz kırk yedi bin dokuz yüz on iki, yüzde üç virgül elli yedi.
+
+[[1]]
+
+[[bip]]
+Soru iki. otuz bir Aralık iki bin yirmi dört bilançosunun varlık kalemlerini dikey yüzde yöntemiyle analiz ediniz.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Formül: ilgili kalem bölü varlık toplamı, çarpı yüz. Dönen varlıklar yüzde altmış üç virgül altmış yedi; hazır değerler yüzde üç virgül kırk altı; ticari alacaklar yüzde otuz virgül doksan altı; stoklar yüzde yirmi dokuz virgül yirmi altı. Duran varlıklar yüzde otuz altı virgül otuz üç; maddi duran varlıklar yüzde yirmi dokuz virgül elli iki; maddi olmayan duran varlıklar yüzde altı virgül sekiz. Toplam yüzde yüz.
+
+[[1]]
+
+[[bip]]
+Soru üç. Ticari alım satım yapan bir firmada iki bin yirmi beş yılının ocak, şubat ve mart ayları için ticari alacak tahsil süresini hesaplayınız. Ticari alacaklar otuz bir Aralık iki bin yirmi dört iki bin beş yüz; ocak sonu iki bin yüz, şubat sonu iki bin yüz elli, mart sonu iki bin üç yüz. Aylık net satışlar ocak bin sekiz yüz, şubat bin altı yüz, mart bin dokuz yüz.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Alacak devir hızı, net satışlar bölü ortalama ticari alacaklar: ocak sıfır virgül yetmiş sekiz, şubat sıfır virgül altmış dokuz, mart sıfır virgül yetmiş dokuz. Tahsil süresi, otuz gün bölü devir hızı: ocak otuz sekiz virgül otuz üç gün, şubat kırk üç virgül elli dokuz gün, mart otuz yedi virgül seksen dokuz gün.
+
+Dikkat: komisyon her ayın ortalamasını otuz bir Aralık bakiyesiyle o ay sonu bakiyesinin ortalaması olarak almış. Örneğin şubat için iki bin beş yüz artı iki bin yüz elli bölü iki.
+
+[[1]]
+
+[[bip]]
+Aynı firma için ticari borç ödeme süresini hesaplayınız. Ticari borçlar otuz bir Aralık üç bin iki yüz; ocak sonu üç bin yüz, şubat sonu üç bin yüz, mart sonu üç bin yüz elli. Satılan ticari mal maliyeti ocak bin üç yüz, şubat bin iki yüz elli, mart bin dört yüz elli.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Borç devir hızı, satışların maliyeti bölü ortalama ticari borçlar: ocak sıfır virgül kırk bir, şubat sıfır virgül dört, mart sıfır virgül kırk altı. Ödeme süresi: ocak yetmiş iki virgül altmış dokuz gün, şubat yetmiş beş virgül altı gün, mart altmış beş virgül altmış dokuz gün.
+
+[[1]]
+
+[[bip]]
+Ticari mal stok devir süresini hesaplayınız. Stoklar otuz bir Aralık dört bin; ocak sonu dört bin beş yüz, şubat sonu dört bin üç yüz, mart sonu dört bin iki yüz.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Stok devir hızı, satışların maliyeti bölü ortalama stok: ocak sıfır virgül otuz bir, şubat sıfır virgül üç, mart sıfır virgül otuz beş. Stok devir süresi: ocak doksan sekiz virgül sıfır sekiz gün, şubat doksan dokuz virgül altı gün, mart seksen dört virgül seksen üç gün.
+
+[[1]]
+
+Finansal Tablolar klasik sınavı bitti. Klasik sınavda hesaplamanın nasıl yapıldığını göstermeyen, yalnızca sonucu yazan cevaplar değerlendirilmiyor; formülü mutlaka yaz.

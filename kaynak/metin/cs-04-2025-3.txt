@@ -1,0 +1,39 @@
+BAŞLIK: Çıkmış Sorular 2025-3 Klasik. Muhasebe Denetimi
+
+İki bin yirmi beş yılı üçüncü dönem Muhasebe Denetimi klasik sınavı. Üç soru var: iç kontrol ile iç denetim, önemlilik ile performans önemliliği ve Bağımsız Denetim Yönetmeliği ifadeleri. Cevaplar uzun; tanımlardaki anahtar kelimelere dikkat et.
+
+[[bip]]
+Soru bir. Kamu Gözetimi Kurumu Bağımsız Denetim Standartlarına göre iç kontrol nedir, iç denetim nedir? Tanımlayınız ve aralarındaki temel farkı açıklayınız.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: İç kontrol; finansal raporlamanın güvenilirliği, faaliyetlerin etkililiği ve verimliliği ile mevzuata uygunluk açısından işletmenin amaçlarına ulaştığına dair makul güvence sağlamak için üst yönetimden sorumlu olanlar, yönetim ve diğer personel tarafından tasarlanan, uygulanan ve sürekliliği sağlanan sistemdir. Beş bileşeni vardır: kontrol ortamı, risk değerlendirme süreci, kontrol faaliyetleri, bilgi sistemi ve iletişim, izleme. İç denetim ise işletmenin kurumsal yönetim, risk yönetimi ve iç kontrol süreçlerini değerlendirmek ve iyileştirmek için tasarlanan bağımsız ve tarafsız bir güvence ve danışmanlık faaliyetidir. Temel fark: iç kontrol, üst yönetimin sorumluluğunda tüm personelce işletilen sistemin kendisidir ve her işletmede vardır; iç denetim bu sistemi denetleyen, üst yönetime bağlı bağımsız bir fonksiyondur ve her işletmede bulunmak zorunda değildir.
+
+Komisyonun örneği: Mahalle bakkalında da iç kontrol vardır ama iç denetçiye gerek yoktur; büyük bir süpermarkette ise iç kontrolleri denetleyecek iç denetçiye ihtiyaç duyulur.
+
+[[1]]
+
+[[bip]]
+Soru iki. Bağımsız Denetim Standartları kapsamında önemlilik nedir, performans önemliliği nedir?
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: Önemlilik: Eksiklik ve yanlışlıkların, tek başına veya toplu olarak, finansal tablo kullanıcılarının ekonomik kararlarını etkilemesi makul ölçüde bekleniyorsa bunlar önemlidir. Performans önemliliği: Toplulaştırma riskini, yani düzeltilmemiş ve tespit edilmemiş yanlışlıkların toplamının genel önemliliği aşma olasılığını, uygun düşük seviyeye indirmek için genel önemlilikten daha düşük belirlenen tutar veya tutarlardır.
+
+[[1]]
+
+[[bip]]
+Soru üç. Bağımsız Denetim Yönetmeliğine göre şu ifadelerden hangileri tam olarak doğrudur? Bir: Denetim, kullanıcılara te fe re se çerçevesinde güvence sağlayacak bir görüş oluşturmak amacıyla yapılır. İki: Denetim makul veya sınırlı güvence sağlar; sınırlı güvence açıkça belirtilmemişse makul güvence verecek şekilde yapılır; kapsam Türkiye Denetim Standartları çerçevesinde belirlenir. Üç: Denetim, te fe re se çerçevesinde yeterli ve uygun kanıt toplanmasını kapsar. Dört: Denetimin unsurları; konusu, tarafları, kıstası, kanıtları ve denetim raporudur.
+
+Düşün.
+[[12]]
+[[bip]]
+Komisyon cevabı: İki ve dört numaralı ifadeler doğrudur. Bu d şıkkıdır.
+
+Bir ve üç numaralı ifadeler te fe re se diyor; oysa denetim belirlenmiş bir kıstasa göre ve Türkiye Denetim Standartları çerçevesinde yapılır. te fe re se raporlama standardıdır, denetim standardı değildir.
+
+[[1]]
+
+Denetim klasik sınavı bitti. Tanım sorularında anahtar kavramlar puan getirir: makul güvence, beş bileşen, toplulaştırma riski.

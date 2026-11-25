@@ -1,0 +1,67 @@
+BAŞLIK: Çıkmış Sorular 2025-3 Klasik. Maliyet Muhasebesi
+
+İki bin yirmi beş yılı üçüncü dönem Maliyet Muhasebesi klasik sınavı. Üç soru var: hesap planı, fireli safha maliyeti ve eşdeğer birim. Soruyu dinle, kağıtsız çözmeye çalış, sonra komisyonun cevabını dinle.
+
+[[bip]]
+Soru bir. Muhasebe Sistemi Uygulama Genel Tebliğine göre ticaret işletmelerinin, hizmet üretim işletmelerinin ve mamul üretim işletmelerinin kullanacağı yedi kodlu hesapları ayrı ayrı yazınız.
+
+Düşün.
+[[14]]
+[[bip]]
+Komisyon cevabı: Ticaret işletmeleri: yedi yüz elli Araştırma ve Geliştirme Giderleri, yedi yüz altmış Pazarlama Satış ve Dağıtım Giderleri, yedi yüz yetmiş Genel Yönetim Giderleri, yedi yüz seksen Finansman Giderleri. Hizmet işletmeleri: bunlara ek olarak yedi yüz kırk Hizmet Üretim Maliyeti. Mamul üreten işletmeler: yedi yüz on Direkt İlk Madde ve Malzeme Giderleri, yedi yüz yirmi Direkt İşçilik Giderleri, yedi yüz otuz Genel Üretim Giderleri ile yedi yüz elli, yedi yüz altmış, yedi yüz yetmiş ve yedi yüz seksen.
+
+[[1]]
+
+[[bip]]
+Soru iki. Fireli safha maliyeti uygulanan bir işletmede dönem sonu yarı mamulün eşdeğeri; ilk madde açısından on bin, işçilik ve genel üretim gideri açısından yirmi bin birim. Firenin eşdeğeri ilk madde açısından bin, işçilik ve genel üretim gideri açısından beş yüz birim. Birim maliyetler: ilk madde yüz, işçilik otuz, genel üretim gideri yirmi lira. Yarı mamul stok maliyetini ve fire maliyetini bulunuz.
+
+Düşün.
+[[14]]
+[[bip]]
+Komisyon cevabı: Yarı mamul: ilk madde on bin çarpı yüz, bir milyon; işçilik yirmi bin çarpı otuz, altı yüz bin; genel üretim gideri yirmi bin çarpı yirmi, dört yüz bin; toplam iki milyon lira. Fire: bin çarpı yüz, yüz bin; beş yüz çarpı otuz, on beş bin; beş yüz çarpı yirmi, on bin; toplam yüz yirmi beş bin lira.
+
+[[1]]
+
+[[bip]]
+Soru üç a. Safha maliyeti uygulanan bir işletmede dönem başı yarı mamul yirmi bin birim, dönemde üretime başlanan beş yüz bin birim, dönem sonu yarı mamul elli bin birim. Dönemde tamamlanıp devrolan miktar kaçtır?
+
+Düşün.
+[[14]]
+[[bip]]
+Komisyon cevabı: Üretime giren miktar üretimden çıkan miktara eşittir: yirmi bin artı beş yüz bin, eşittir tamamlanan artı elli bin. Tamamlanıp devrolan dört yüz yetmiş bin birim.
+
+[[1]]
+
+[[bip]]
+Soru üç b. Dönemde üretimine başlanıp tamamlanan miktar kaçtır?
+
+Düşün.
+[[14]]
+[[bip]]
+Komisyon cevabı: dört yüz yetmiş bin eksi dönem başı yarı mamul yirmi bin, dört yüz elli bin birim.
+
+[[1]]
+
+[[bip]]
+Soru üç c. Dönem başı yarı mamul ilk madde açısından yüzde yetmiş, işçilik ve genel üretim gideri açısından yüzde elli beş tamamlanmış; dönem sonu yarı mamul ise ilk madde açısından yüzde yirmi, işçilik ve genel üretim gideri açısından yüzde kırk tamamlanmış. Eşdeğer mamul birimleri tablosunu düzenleyiniz.
+
+Düşün.
+[[14]]
+[[bip]]
+Komisyon cevabı: Dönem başı yarı mamulün bu dönemde tamamlanan kısmı: ilk madde yüzde otuz ile altı bin, işçilik ve genel üretim yüzde kırk beş ile dokuz bin. Başlanıp tamamlanan dört yüz elli bin. Dönem sonu yarı mamul: ilk madde on bin, işçilik ve genel üretim yirmi bin. Toplam eşdeğer: ilk madde dört yüz altmış altı bin, işçilik dört yüz yetmiş dokuz bin, genel üretim dört yüz yetmiş dokuz bin birim.
+
+Komisyon ilk giren ilk çıkar mantığıyla, dönem başı yarı mamulün yalnızca bu dönemde tamamlanan kısmını saymış.
+
+[[1]]
+
+[[bip]]
+Soru üç d. Dönemin ilk madde gideri yirmi milyon dokuz yüz yetmiş bin, direkt işçilik yedi milyon yüz seksen beş bin, genel üretim gideri on milyon yedi yüz yetmiş yedi bin beş yüz lira. Birim mamul maliyeti nedir?
+
+Düşün.
+[[14]]
+[[bip]]
+Komisyon cevabı: İlk madde yirmi milyon dokuz yüz yetmiş bin bölü dört yüz altmış altı bin, kırk beş lira. İşçilik yedi milyon yüz seksen beş bin bölü dört yüz yetmiş dokuz bin, on beş lira. Genel üretim gideri on milyon yedi yüz yetmiş yedi bin beş yüz bölü dört yüz yetmiş dokuz bin, yirmi iki virgül beş lira. Birim maliyet seksen iki virgül beş lira.
+
+[[1]]
+
+Maliyet klasik sınavı bitti. Eşdeğer birim sorularında önce üretim miktar dengesini kur: giren eşittir çıkan.
