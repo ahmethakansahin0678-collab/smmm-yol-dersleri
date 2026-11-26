@@ -33,3 +33,4 @@
 - [x] 03:00 yayın: çıkmış soru okunuşu düzeltildi (37 yanlış-tipi soruya ön ek, boşluk/(i)/(+)/(-)/%/eksi sayılar, A.Ş., 4/a, tarihler, kg); FTA tablo sorularına formül notu; 3 yeni ders (01-b13 kayıt mantıkları, 03-b7 maliyet hesapları, 02-b6 hedef soruları) Gün 25; 07-b4'e SMG tuzakları. Artifact v30.
 - [x] 02:25 yayın: Müfredat/analizden dokunarak ders çalma; Soru-Cevap sorular arası durdurmadan geçiş (iPhone kilit ekranı). Kısaltma okunuşu test edildi (cümle içinde sorun yok). GitHub 08916d4, artifact v32.
 - [x] 02:27: 05-b3'e dördüncü dönem geçici vergi kaldırıldı notu; eski Hukuk/Vergi/Meslek derslerinde çelişki taraması temiz. GitHub f600fcb, artifact v33. Sırada: 05:30 yedek uyandırmada son regresyon + 06:40 sabah özeti.
+- [x] 03:35 yedek uyandırma: test sunucuları yeniden başlatıldı, iki sürümde regresyon geçti; 100 ses dosyasının süresi zaman damgalarıyla uyumlu; site/pwa/GitHub ses ve dersler.json birebir aynı.
