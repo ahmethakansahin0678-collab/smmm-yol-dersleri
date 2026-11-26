@@ -20,7 +20,7 @@
 - [x] C. Çıkmış soruların okunuşunu denetle: tablolu sorular (14 sn bekleme) tekrar okunaklı mı; "Bay (D)" gibi ifadeler, kısaltmalar, ₺ ekleri. Gerekirse cikmis_metin.py düzelt, cs-* yeniden seslendir.
 - [x] D. Program: yeni bölümleri günlere yerleştir; Program sekmesine "2026 sınav analizi" özeti (ders başına en çok çıkan konular).
 - [x] E. Soru-Cevap: yanlış cevapladığım soruları işaretleme ("Tekrar sor" listesi) — localStorage ile.
-- [ ] F. Tam regresyon testi + yayın + sabah özeti.
+- [x] F. Tam regresyon testi + yayın + sabah özeti.
 
 ## Notlar
 - Çıkmış soru PDF'leri yalnızca bu konteynerde: /tmp/claude-0/cikmis/dosyalar (kamuya açık depoya KOYMA). Çıkarılmış hali: build/cikmis-sorular-2026.json.
@@ -34,3 +34,4 @@
 - [x] 02:25 yayın: Müfredat/analizden dokunarak ders çalma; Soru-Cevap sorular arası durdurmadan geçiş (iPhone kilit ekranı). Kısaltma okunuşu test edildi (cümle içinde sorun yok). GitHub 08916d4, artifact v32.
 - [x] 02:27: 05-b3'e dördüncü dönem geçici vergi kaldırıldı notu; eski Hukuk/Vergi/Meslek derslerinde çelişki taraması temiz. GitHub f600fcb, artifact v33. Sırada: 05:30 yedek uyandırmada son regresyon + 06:40 sabah özeti.
 - [x] 03:35 yedek uyandırma: test sunucuları yeniden başlatıldı, iki sürümde regresyon geçti; 100 ses dosyasının süresi zaman damgalarıyla uyumlu; site/pwa/GitHub ses ve dersler.json birebir aynı.
+- [x] 05:32 son regresyon geçti (iki sürüm, 36 gün). Sabah özeti yazıldı. GECE ÇALIŞMASI BİTTİ.
