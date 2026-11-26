@@ -1,6 +1,6 @@
 BAŞLIK: Çıkmış Sorular 2026-1. Finansal Tablolar ve Analizi
 
-İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Finansal Tablolar ve Analizi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Finansal Tablolar ve Analizi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım; test soruları doğrudan soru olarak sorulacak. Önce soruyu duyacaksın, sonra düşünme süresi, zilden sonra doğru cevabı dinle.
 
 [[bip]]
 Soru bir. iki bin yirmi beş yılının net işletme sermayesi kaç liradır?
@@ -14,7 +14,7 @@ Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formül
 [[1]]
 
 [[bip]]
-Soru iki. iki bin yirmi beş yılının cari oranı aşağıdakilerden hangisidir?
+Soru iki. iki bin yirmi beş yılının cari oranı hangisidir?
 
 Düşün.
 [[8]]
@@ -25,7 +25,7 @@ Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formül
 [[1]]
 
 [[bip]]
-Soru üç. iki bin yirmi beş yılının likidite oranı aşağıdakilerden hangisidir?
+Soru üç. iki bin yirmi beş yılının likidite oranı hangisidir?
 
 Düşün.
 [[8]]
@@ -69,7 +69,7 @@ Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formül
 [[1]]
 
 [[bip]]
-Soru yedi. iki bin yirmi beş yılında satışların kârlılığı oranı aşağıdakilerden hangisidir?
+Soru yedi. iki bin yirmi beş yılında satışların kârlılığı oranı hangisidir?
 
 Düşün.
 [[8]]
@@ -80,7 +80,7 @@ Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formül
 [[1]]
 
 [[bip]]
-Soru sekiz. iki bin yirmi üç yılında faaliyet kârlılığı oranı aşağıdakilerden hangisidir?
+Soru sekiz. iki bin yirmi üç yılında faaliyet kârlılığı oranı hangisidir?
 
 Düşün.
 [[8]]
@@ -91,7 +91,7 @@ Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formül
 [[1]]
 
 [[bip]]
-Soru dokuz. iki bin yirmi dört yılında varlıkların kârlılığı oranı aşağıdakilerden hangisidir?
+Soru dokuz. iki bin yirmi dört yılında varlıkların kârlılığı oranı hangisidir?
 
 Düşün.
 [[8]]
@@ -157,7 +157,7 @@ Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formül
 [[1]]
 
 [[bip]]
-Soru on beş. Karşılaştırmalı tablolar analizi yöntemine göre hazır değerlerin iki bin yirmi üç ve iki bin yirmi dört yılları arasındaki değişim yüzdesinin alacağı değer aşağıdakilerden hangisidir?
+Soru on beş. Karşılaştırmalı tablolar analizi yöntemine göre hazır değerlerin iki bin yirmi üç ve iki bin yirmi dört yılları arasındaki değişim yüzdesinin alacağı değer hangisidir?
 
 Düşün.
 [[8]]
@@ -168,7 +168,7 @@ Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formül
 [[1]]
 
 [[bip]]
-Soru on altı. Bir firmanın aşağıdaki iki bin yirmi dört ve iki bin yirmi beş yılı verileri gerçek rakamlardır ve iki bin yirmi altı yılı verileri de öngörü rakamlarıdır. Gerçek Gerçek Öngörü iki bin yirmi dört iki bin yirmi beş iki bin yirmi altı Net Satışlar dört yüz bin beş yüz bin altı yüz bin Ticari Alacaklar seksen bin yüz yirmi bin Firmanın Ortalama Alacaklar iki bin yirmi altı yılında ortalama tahsilat yüz bin süresinin altmış gün Alacak olması Devir Hızı hedeflenmektedir. Bu hedefin beş yakalanması altı için Alacak iki bin yirmi altı Tahsil yılı Süresi sonunu kaç lira ticari alacak yetmiş iki ile kapatması altmış gerekir? (Devir hızlarında ilgili formüllerde ortalama değeri kullanınız ve bir yılı üç yüz altmış gün olarak kabul ediniz).
+Soru on altı. Bir firmanın iki bin yirmi dört ve iki bin yirmi beş yılı verileri gerçek rakamlardır ve iki bin yirmi altı yılı verileri de öngörü rakamlarıdır. Gerçek Gerçek Öngörü iki bin yirmi dört iki bin yirmi beş iki bin yirmi altı Net Satışlar dört yüz bin beş yüz bin altı yüz bin Ticari Alacaklar seksen bin yüz yirmi bin Firmanın Ortalama Alacaklar iki bin yirmi altı yılında ortalama tahsilat yüz bin süresinin altmış gün Alacak olması Devir Hızı hedeflenmektedir. Bu hedefin beş yakalanması altı için Alacak iki bin yirmi altı Tahsil yılı Süresi sonunu kaç lira ticari alacak yetmiş iki ile kapatması altmış gerekir? (Devir hızlarında ilgili formüllerde ortalama değeri kullanınız ve bir yılı üç yüz altmış gün olarak kabul ediniz).
 
 Düşün.
 [[14]]
@@ -188,7 +188,7 @@ Cevap: doksan bin lira.
 [[1]]
 
 [[bip]]
-Soru on sekiz. Firmanın iki bin yirmi bir ve iki bin yirmi beş yılları arasında net satışlar ve satışların maliyet grafiği aşağıda gösterilmektedir. Bu grafik üzerinde aşağıda yapılan yorumlardan hangisi doğrudur?
+Soru on sekiz. Firmanın iki bin yirmi bir ve iki bin yirmi beş yılları arasında net satışlar ve satışların maliyet grafiği aşağıda gösterilmektedir. Bu grafik üzerinde doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -198,17 +198,17 @@ Cevap: Yıllar itibariyle firmanın brüt satış kârı azalma eğilimindedir.
 [[1]]
 
 [[bip]]
-Soru on dokuz. te me se bir Finansal Tabloların Sunuluşuna göre, tam bir finansal tablolar setinde aşağıdaki tablolardan hangisi yer almaz?
+Soru on dokuz. te me se bir Finansal Tabloların Sunuluşuna göre, tam bir finansal tablolar setinde tablolardan yer almayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Döneme ait üretim maliyeti tablosu.
+Cevap: Döneme ait üretim maliyeti tablosu.
 
 [[1]]
 
 [[bip]]
-Soru yirmi. İşletmenin ortaklarıyla gerçekleştirdiği ve ortakların ortaklık sıfatıyla taraf oldukları işlemlerden kaynaklanan değişimler hariç olmak üzere, bir dönem boyunca işlem ve diğer olaylar sonucunda öz kaynakta meydana gelen değişimdir. te me se bir Finansal Tabloların Sunuluşuna göre bu ifade aşağıdakilerden hangisini açıklar?
+Soru yirmi. İşletmenin ortaklarıyla gerçekleştirdiği ve ortakların ortaklık sıfatıyla taraf oldukları işlemlerden kaynaklanan değişimler hariç olmak üzere, bir dönem boyunca işlem ve diğer olaylar sonucunda öz kaynakta meydana gelen değişimdir. te me se bir Finansal Tabloların Sunuluşuna göre bu ifade hangisini açıklar?
 
 Düşün.
 [[8]]

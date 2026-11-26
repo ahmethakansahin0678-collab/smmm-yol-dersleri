@@ -1,9 +1,9 @@
 BAŞLIK: Çıkmış Sorular 2026-2. Finansal Muhasebe
 
-İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Finansal Muhasebe soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Finansal Muhasebe soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım; test soruları doğrudan soru olarak sorulacak. Önce soruyu duyacaksın, sonra düşünme süresi, zilden sonra doğru cevabı dinle.
 
 [[bip]]
-Soru bir. Satın aldığı genel müdürlük binası için dış cephe yalıtımı ve yenilemesi yaptıran işletme, katlandığı maliyeti aşağıdaki hangi hesapta muhasebeleştirir?
+Soru bir. Satın aldığı genel müdürlük binası için dış cephe yalıtımı ve yenilemesi yaptıran işletme, katlandığı maliyeti hangi hesapta muhasebeleştirir?
 
 Düşün.
 [[8]]
@@ -13,7 +13,7 @@ Cevap: Binalar.
 [[1]]
 
 [[bip]]
-Soru iki. Aşağıdakilerden hangisi işletmenin uzun vadeli borçlarının izlendiği bir hesaptır?
+Soru iki. Hangisi işletmenin uzun vadeli borçlarının izlendiği bir hesaptır?
 
 Düşün.
 [[8]]
@@ -23,7 +23,7 @@ Cevap: Çıkarılmış Tahviller.
 [[1]]
 
 [[bip]]
-Soru üç. Bir işletmenin ihraç ettiği hisse senetlerini nominal değerinin üzerinde satması durumunda, nominal değerle satış değeri arasındaki fark aşağıdaki hesapların hangisinde muhasebeleştirilir?
+Soru üç. Bir işletmenin ihraç ettiği hisse senetlerini nominal değerinin üzerinde satması durumunda, nominal değerle satış değeri arasındaki fark hesapların hangisinde muhasebeleştirilir?
 
 Düşün.
 [[8]]
@@ -33,7 +33,7 @@ Cevap: Hisse Senedi İhraç Primleri.
 [[1]]
 
 [[bip]]
-Soru dört. İşletme kayıtlarındaki bir borç senedi için raporlama tarihinde bin liralık reeskont hesaplanmıştır. Hesaplanan tutar için yapılacak günlük defter kaydıyla ilgili aşağıdakilerden hangisi doğrudur?
+Soru dört. İşletme kayıtlarındaki bir borç senedi için raporlama tarihinde bin liralık reeskont hesaplanmıştır. Hesaplanan tutar için yapılacak günlük defter kaydıyla ilgili doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -43,7 +43,7 @@ Cevap: Reeskont Faiz Gelirleri hesabına alacak kaydı yapılır.
 [[1]]
 
 [[bip]]
-Soru beş. İşletmenin bankadaki mevduat hesabına vade tarihinde iki bin lira faiz tahakkuk ettirilmiştir. Banka aynı anda üç yüz liralık vergi kesintisi yapmıştır. Bu işlemler için işletmede tek bir günlük defter kaydı yapılmış ise aşağıdakilerden hangisi doğrudur?
+Soru beş. İşletmenin bankadaki mevduat hesabına vade tarihinde iki bin lira faiz tahakkuk ettirilmiştir. Banka aynı anda üç yüz liralık vergi kesintisi yapmıştır. Bu işlemler için işletmede tek bir günlük defter kaydı yapılmış ise doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -63,17 +63,17 @@ Cevap: Bononun iskontolu olarak ihraç edilmesi.
 [[1]]
 
 [[bip]]
-Soru yedi. Sermaye artırımına giden bir işletme nominal değeri bir lira olan yirmi bin adet hisse senedini üç liralık birim fiyatla banka aracılığıyla satmıştır. Sermaye artırımı ve hisse senetlerinin satışını ayrı ayrı muhasebeleştiren işletmenin yapacağı günlük defter kayıtlarıyla ilgili aşağıdakilerden hangisi yanlıştır?
+Soru yedi. Sermaye artırımına giden bir işletme nominal değeri bir lira olan yirmi bin adet hisse senedini üç liralık birim fiyatla banka aracılığıyla satmıştır. Sermaye artırımı ve hisse senetlerinin satışını ayrı ayrı muhasebeleştiren işletmenin yapacağı günlük defter kayıtlarıyla ilgili yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Hisse Senedi İhraç Primleri hesabı kırk bin lira borçlandırılır.
+Cevap: Hisse Senedi İhraç Primleri hesabı kırk bin lira borçlandırılır.
 
 [[1]]
 
 [[bip]]
-Soru sekiz. Aralıksız sayım (sürekli envanter) yöntemini kullanarak ticari mal hareketlerini muhasebeleştiren bir işletmede Ticari Mallar hesabının borç kalanı dokuz bin liradır. Yapılan sayım sonucunda işletmede sekiz bin beş yüz lira değerinde ticari mal olduğu saptanmıştır. Aradaki farkın nedenini araştırma kararı alan işletmenin yapacağı kayıtla ilgili aşağıdakilerden hangisi doğrudur?
+Soru sekiz. Aralıksız sayım (sürekli envanter) yöntemini kullanarak ticari mal hareketlerini muhasebeleştiren bir işletmede Ticari Mallar hesabının borç kalanı dokuz bin liradır. Yapılan sayım sonucunda işletmede sekiz bin beş yüz lira değerinde ticari mal olduğu saptanmıştır. Aradaki farkın nedenini araştırma kararı alan işletmenin yapacağı kayıtla ilgili doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -83,7 +83,7 @@ Cevap: Sayım ve Tesellüm Noksanları hesabı beş yüz lira borçlandırılır
 [[1]]
 
 [[bip]]
-Soru dokuz. İşletme, deposunda çıkan yangın nedeniyle değeri düşen on bin liralık ticari malları için dönem içinde dokuz bin lira karşılık ayırmıştır. Aynı dönem içinde bu ticari malları bin beş yüz lira artı kadeve bedelle satmıştır. Belirtilen bu işlemlerin muhasebeleştirilmesinde aşağıdaki hesaplardan hangisi kullanılmaz?
+Soru dokuz. İşletme, deposunda çıkan yangın nedeniyle değeri düşen on bin liralık ticari malları için dönem içinde dokuz bin lira karşılık ayırmıştır. Aynı dönem içinde bu ticari malları bin beş yüz lira artı kadeve bedelle satmıştır. Belirtilen bu işlemlerin muhasebeleştirilmesinde hesaplardan kullanılmayan nedir?
 
 Düşün.
 [[14]]
@@ -103,7 +103,7 @@ Cevap: Değer düşüklüğü karşılığı ayrılmış olan hisse senetlerinin
 [[1]]
 
 [[bip]]
-Soru on bir. İşletmelerin para ve sermaye piyasalarından sağladığı borçlar için kullanılması gereken hesap grubu aşağıdakilerden hangisidir?
+Soru on bir. İşletmelerin para ve sermaye piyasalarından sağladığı borçlar için kullanılması gereken hesap grubu hangisidir?
 
 Düşün.
 [[8]]
@@ -113,7 +113,7 @@ Cevap: Mali Borçlar.
 [[1]]
 
 [[bip]]
-Soru on iki. İşletme, yaptığı üç bin liralık ek yatırımla başka bir işletmedeki mevcut ortaklık payını yüzde kırk beşten yüzde altmışa çıkarmıştır. Bu durumda yapılması gereken kayıtlarla ilgili aşağıdakilerden hangisi doğrudur?
+Soru on iki. İşletme, yaptığı üç bin liralık ek yatırımla başka bir işletmedeki mevcut ortaklık payını yüzde kırk beşten yüzde altmışa çıkarmıştır. Bu durumda yapılması gereken kayıtlarla ilgili doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -123,7 +123,7 @@ Cevap: İştirak yatırımı Bağlı Ortaklık yatırımına dönüştürülür.
 [[1]]
 
 [[bip]]
-Soru on üç. İşletme, pazarlama faaliyetinde kullanmak üzere satın alacağı kamyonet için banka hesabından dört bin iki yüz lira avans ödemiştir. Buna göre yapılacak muhasebe kaydında borçlandırılacak hesap aşağıdakilerden hangisidir?
+Soru on üç. İşletme, pazarlama faaliyetinde kullanmak üzere satın alacağı kamyonet için banka hesabından dört bin iki yüz lira avans ödemiştir. Buna göre yapılacak muhasebe kaydında borçlandırılacak hesap hangisidir?
 
 Düşün.
 [[8]]
@@ -133,7 +133,7 @@ Cevap: Verilen Avanslar.
 [[1]]
 
 [[bip]]
-Soru on dört. İşletme, bir Kasımda doksan gün vadeli ve yüzde yirmi dört faizli yüz bin lira tutarında banka kredisi kullanmıştır. Anapara ve faiz vade sonunda ödenecektir. Buna göre kredinin alındığı yılın sonunda yapılması gereken kayıtla ilgili aşağıdakilerden hangisi doğrudur? (Bir yıl üç yüz altmış gün olarak alınacaktır)
+Soru on dört. İşletme, bir Kasımda doksan gün vadeli ve yüzde yirmi dört faizli yüz bin lira tutarında banka kredisi kullanmıştır. Anapara ve faiz vade sonunda ödenecektir. Buna göre kredinin alındığı yılın sonunda yapılması gereken kayıtla ilgili doğru olan ifade nedir? (Bir yıl üç yüz altmış gün olarak alınacaktır)
 
 Düşün.
 [[14]]
@@ -143,7 +143,7 @@ Cevap: Gider Tahakkukları hesabı dört bin lira alacaklandırılır.
 [[1]]
 
 [[bip]]
-Soru on beş. İşletme, daha önce kredili olarak ticari mal satın aldığı bir satıcıya olan iki bin dört yüz liralık borcunu aynı dönem içinde vadesinden önce ödemiş ve bu çerçevede yüz yirmi lira artı yüzde yirmi kadeve tutarında iskonto elde etmiştir. Buna göre yapılacak günlük defter kaydıyla ilgili aşağıdakilerden hangisi doğrudur?
+Soru on beş. İşletme, daha önce kredili olarak ticari mal satın aldığı bir satıcıya olan iki bin dört yüz liralık borcunu aynı dönem içinde vadesinden önce ödemiş ve bu çerçevede yüz yirmi lira artı yüzde yirmi kadeve tutarında iskonto elde etmiştir. Buna göre yapılacak günlük defter kaydıyla ilgili doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -153,7 +153,7 @@ Cevap: Ticari Mallar hesabına yüz yirmi lira alacak kaydı yapılır.
 [[1]]
 
 [[bip]]
-Soru on altı. İşletme kasım ayı sonu itibarıyla satış mağazasının tahmini elektrik tüketim bedeli olan altı yüz lirayı otuz Kasımda muhasebeleştirmiştir. Aralık ayında gelen elektrik faturası ise yedi yüz lira artı yüzde yirmi kadeve tutarındadır ve hemen bankadan ödenmiştir. Faturanın gelmesine ve ödenmesine ilişkin günlük defter kaydı aşağıdakilerden hangisidir?
+Soru on altı. İşletme kasım ayı sonu itibarıyla satış mağazasının tahmini elektrik tüketim bedeli olan altı yüz lirayı otuz Kasımda muhasebeleştirmiştir. Aralık ayında gelen elektrik faturası ise yedi yüz lira artı yüzde yirmi kadeve tutarındadır ve hemen bankadan ödenmiştir. Faturanın gelmesine ve ödenmesine ilişkin günlük defter kaydı hangisidir?
 
 Düşün.
 [[8]]
@@ -163,7 +163,7 @@ Doğru kayıt: yedi yüz altmış Pazarlama, Satış Ve Dağıtım Giderleri yü
 [[1]]
 
 [[bip]]
-Soru on yedi. İşletmenin dönem sonu itibariyle hesapladığı Kurumlar Vergisi yükümlülüğü iki bin beş yüz liradır. Buna göre yapılacak günlük defter kaydı aşağıdakilerden hangisidir?
+Soru on yedi. İşletmenin dönem sonu itibariyle hesapladığı Kurumlar Vergisi yükümlülüğü iki bin beş yüz liradır. Buna göre yapılacak günlük defter kaydı hangisidir?
 
 Düşün.
 [[8]]
@@ -173,7 +173,7 @@ Doğru kayıt: altı yüz doksan bir Dönem Kârı Vergi Ve Diğer Yasal. Yükü
 [[1]]
 
 [[bip]]
-Soru on sekiz. İşletme fabrika binası yapmak üzere iki bin yirmi dört yılında otuz bin liraya aldığı ve maliyet değeriyle ölçtüğü bir arsayı iki bin yirmi beş yılında yatırım amaçlı olarak elde tutmaya karar vermiştir. Akredite bir değerleme şirketine yaptırılan değerleme sonucunda arsanın gerçeğe uygun değerinin kırk bin lira olduğu belirlenmiştir. te me se kırk Yatırım Amaçlı Gayrimenkullere göre binanın sınıf değişikliği ve değerlemesiyle ilgili kayıtlar kapsamında aşağıdaki günlük defter kayıtlarından hangisi doğrudur?
+Soru on sekiz. İşletme fabrika binası yapmak üzere iki bin yirmi dört yılında otuz bin liraya aldığı ve maliyet değeriyle ölçtüğü bir arsayı iki bin yirmi beş yılında yatırım amaçlı olarak elde tutmaya karar vermiştir. Akredite bir değerleme şirketine yaptırılan değerleme sonucunda arsanın gerçeğe uygun değerinin kırk bin lira olduğu belirlenmiştir. te me se kırk Yatırım Amaçlı Gayrimenkullere göre binanın sınıf değişikliği ve değerlemesiyle ilgili kayıtlar kapsamında günlük defter kayıtlarından doğru olan ifade nedir?
 
 Düşün.
 [[14]]
@@ -183,7 +183,7 @@ Doğru kayıt: iki yüz kırk beş Gerçeğe Uygun Değerle Ölçülen. Yatırı
 [[1]]
 
 [[bip]]
-Soru on dokuz. Tek bir mamul üreten bir işletmenin döneme ilişkin normal üretim kapasitesi on bin birimdir. İşletmede dönem başı ve dönem sonu yarı mamul stoku ile dönem başı mamul stoku bulunmamaktadır. İşletme ilgili dönemde sekiz bin birim mamul üretmiş ve tamamını satmıştır. Dönemde katlanılan üretim giderleri aşağıdaki gibidir: Direkt İlk Madde ve Malzeme Giderleri yirmi bin lira Direkt İşçilik Giderleri seksen bin lira Sabit Genel Üretim Giderleri altmış bin lira Değişken Genel Üretim Giderleri kırk bin lira te me se iki Stoklara göre, satılan mamullerin bilançodan çıkarılmasına ilişkin günlük defter kaydı aşağıdakilerden hangisidir?
+Soru on dokuz. Tek bir mamul üreten bir işletmenin döneme ilişkin normal üretim kapasitesi on bin birimdir. İşletmede dönem başı ve dönem sonu yarı mamul stoku ile dönem başı mamul stoku bulunmamaktadır. İşletme ilgili dönemde sekiz bin birim mamul üretmiş ve tamamını satmıştır. Dönemde katlanılan üretim giderleri gibidir: Direkt İlk Madde ve Malzeme Giderleri yirmi bin lira Direkt İşçilik Giderleri seksen bin lira Sabit Genel Üretim Giderleri altmış bin lira Değişken Genel Üretim Giderleri kırk bin lira te me se iki Stoklara göre, satılan mamullerin bilançodan çıkarılmasına ilişkin günlük defter kaydı hangisidir?
 
 Düşün.
 [[14]]

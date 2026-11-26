@@ -122,6 +122,39 @@ FORMUL = [
     (r'satışlardan sağlanan nakit', 'satışlardan nakit girişi, net satışlara dönem başı ticari alacakların eklenip dönem sonu ticari alacakların çıkarılmasıyla bulunur'),
 ]
 
+# Seçenekler arasından seçim isteyen sorularda şıklar okunur (sayısal ve öncül kombinasyonlu şıklar hariç)
+def sik_oku(q):
+    if q.get('kayit') or len(q.get('secenekler', {})) < 2: return False
+    if not re.search(r'hangi|aşağıdaki|neden|nedir|nasıl|nelerdir|ne yapmalıdır|ne zaman', q['soru'], re.I): return False
+    v = list(q['secenekler'].values())
+    if all(len(re.findall(r'[A-Za-zÇĞİÖŞÜçğıöşü]{4,}', x)) == 0 for x in v): return False   # sayısal şıklar
+    if all(re.fullmatch(r'(Yalnız\s+)?[IVX]+(\s*(,|ve)\s*[IVX]+)*', x.strip()) for x in v): return False  # öncüller soruda
+    return sum(map(len, v)) < 2000
+
+def dogrudan(t):
+    """Test sorusunu şıksız, doğrudan soru biçimine çevirir: 'Aşağıdakilerden hangisi X değildir?' -> 'X olmayan nedir?'"""
+    # boşluk doldurma: son cümleyi kısa bir soruya çevir
+    bm = re.search(r'(?<=[."”?])\s*[^."”]*(?:boş bırakılan|boşlu[kğ]|tamamlayan)[^."”]*aşağıdakilerden\s+hangi[^.?]*\?\s*$', t, re.I)
+    if bm:
+        cogul = re.search(r'boşluklar|yerlere|kısımlar|sırasıyla', bm.group(0), re.I) or len(re.findall(r'-{2,}|_{2,}', t)) >= 2
+        return t[:bm.start()].rstrip() + (' Boşluklara sırasıyla ne gelir?' if cogul else ' Boşluğa ne gelir?')
+    if re.search(r'hangileri|Yalnız|yukarıdaki', t, re.I): return t
+    t = re.sub(r'(ifadelerden|yorumlardan)\s+(?=(?:yanlış|doğru|hangisi))', '', t)
+    t = re.sub(r'seçeneklerde belirtilenlerden\s+', '', t)
+    t = re.sub(r'aşağıda yapılan\s+', '', t)
+    t = re.sub(r'^Aşağıda verilen\s+', '', t)
+    t = re.sub(r'[Aa]şağıdaki(?:lerden)?\s+(?:([\wçğıöşüÇĞİÖŞÜ]+?(?:lardan|lerden|ların|lerin)?)\s+)?(?=hangi)', lambda m: (m.group(1) + ' ') if m.group(1) else '', t)
+    t = re.sub(r'[Aa]şağıdaki\s+', '', t)
+    SON = [(r'biri değildir', 'biri olmayan nedir'), (r'birisi olarak sayılmamıştır', 'biri olarak sayılmayan nedir'), (r'sayılmamıştır', 'sayılmayan nedir'),
+           (r'değildir', 'olmayan nedir'), (r'girmez', 'girmeyen nedir'), (r'yer almaz', 'yer almayan nedir'), (r'kullanılmaz', 'kullanılmayan nedir'),
+           (r'yanlıştır', 'yanlış olan ifade nedir'), (r'doğrudur', 'doğru olan ifade nedir'), (r'tabidir', 'tabi olan nedir')]
+    m = re.search(r'\bhangisi\s+((?:(?!hangisi).)*?)\s*(' + '|'.join(a for a, _ in SON) + r')\s*\?(\s*\(.*\))?\s*$', t)
+    if m:
+        bitis = dict(SON)[m.group(2)]
+        t = t[:m.start()] + (m.group(1) + ' ' if m.group(1) else '') + bitis + '?' + (m.group(3) or '')
+    t = re.sub(r'\s+', ' ', t).strip()
+    return t[0].upper() + t[1:] if t else t
+
 def formul_notu(soru):
     for pat, txt in FORMUL:
         if re.search(pat, soru, re.I): return 'Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formülü hatırla: ' + txt + '.'
@@ -139,9 +172,9 @@ def main(src, outdir):
         yil, donem = sinav.split('-')
         dn = 'birinci' if donem == '1' else 'ikinci'
         L = [f'BAŞLIK: Çıkmış Sorular {sinav}. {ders}', '',
-             f'İki bin yirmi altı yılı {dn} dönem yeterlilik sınavının {ders} soruları. Bu bölümde {sayi(len(qs))} gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.', '']
+             f'İki bin yirmi altı yılı {dn} dönem yeterlilik sınavının {ders} soruları. Bu bölümde {sayi(len(qs))} gerçek sınav sorusu var. Şıkları okumayacağım; test soruları doğrudan soru olarak sorulacak. Önce soruyu duyacaksın, sonra düşünme süresi, zilden sonra doğru cevabı dinle.', '']
         for q in qs:
-            soru, cevap = seslendir(q['soru']), seslendir(q['cevap'])
+            soru, cevap = seslendir(dogrudan(q['soru'])), seslendir(q['cevap'])
             if re.search(r'kaç\s*₺', q['soru']) and re.fullmatch(r'-?[\d.,\s]+', q['cevap'].strip()): cevap += ' lira'
             elif (mm := re.search(r'kaç\s+(iş günü|ay|gün|yıl|saat|hafta|kişi|aylık|günlük|yıllık)', q['soru'])) and re.fullmatch(r'[\d\s]+(,0+)?', q['cevap'].strip()): cevap += ' ' + mm.group(1)
             elif re.search(r'yüzde kaç|% kaç|kaç %|yüzdesi|yüzde \(%\)|\(%\)', q['soru'][-70:]) and re.fullmatch(r'-?[\d.,\s%]+', q['cevap'].strip()) and 'yüzde' not in cevap: cevap = ('eksi yüzde ' + cevap[5:]) if cevap.startswith('eksi ') else 'yüzde ' + cevap
@@ -151,7 +184,13 @@ def main(src, outdir):
             yanlis = bool(YANLIS.search(q['soru']))
             onek = (('Cevap, yani yanlış olan ifadeler: ' if re.search(r'hangileri', q['soru']) else 'Cevap, yani yanlış olan ifade: ') if re.search(r'yanlış', q['soru'][-80:]) else 'Cevap, yani bunlardan biri olmayan: ') if yanlis else ('Doğru kayıt: ' if q.get('kayit') else 'Cevap: ')
             not_ = formul_notu(q['soru']) if ders == 'Finansal Tablolar ve Analizi' and len(q['soru']) < 170 else ''
-            L += ['[[bip]]', f'Soru {sayi(q["no"])}. {soru}', '', 'Düşün.', f'[[{bekle}]]', '[[bip]]', onek + cevap.rstrip('.') + '.'] + ([not_] if not_ else []) + ['', '[[1]]', '']
+            siklar = []
+            if dogrudan(q['soru']) != q['soru'] and not q.get('kayit'): onek = 'Cevap: '
+            if False and sik_oku(q):  # kullanıcı isteği: şık okunmaz, soru doğrudan sorulur
+                siklar = ['Şıklar.', ''] + sum([[f'{h}, {seslendir(v).rstrip(".")}.', ''] for h, v in sorted(q['secenekler'].items())], [])
+                bekle += 4
+                if q.get('dogru'): onek = onek[:-2] + f', {q["dogru"]} şıkkı: ' if onek.endswith(': ') else onek
+            L += ['[[bip]]', f'Soru {sayi(q["no"])}. {soru}', ''] + siklar + ['Düşün.', f'[[{bekle}]]', '[[bip]]', onek + cevap.rstrip('.') + '.'] + ([not_] if not_ else []) + ['', '[[1]]', '']
         L += [f'{ders} çıkmış soruları bitti. Takıldığın soruların konusunu, ilgili ders bölümünden tekrar dinle.', '']
         fn = f'{outdir}/cs-{ANAHTAR[ders]}-{yil}-{donem}.txt'
         open(fn, 'w').write('\n'.join(L))

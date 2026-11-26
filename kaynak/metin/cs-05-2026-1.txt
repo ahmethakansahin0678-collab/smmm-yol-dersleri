@@ -1,6 +1,6 @@
 BAŞLIK: Çıkmış Sorular 2026-1. Vergi Mevzuatı
 
-İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Vergi Mevzuatı soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Vergi Mevzuatı soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım; test soruları doğrudan soru olarak sorulacak. Önce soruyu duyacaksın, sonra düşünme süresi, zilden sonra doğru cevabı dinle.
 
 [[bip]]
 Soru bir. Tam mükellef olan Bayan (G), iki bin yirmi beş takvim yılında, bir sinema filminin senaryo yazarlığı karşılığında dört milyon beş yüz bin lira kazanç elde etmiştir. Yazılan senaryo beş bin sekiz yüz kırk altı sayılı Fikir ve Sanat Eserleri Kanunu hükümlerine göre Kültür ve Turizm Bakanlığı tarafından eser olarak kayıt ve tescil edilmiştir. Bayan (G)'ye senaryo yazarlığı karşılığı yapılan ödemeler üzerinden Gelir Vergisi tevkifatı yapılmıştır. Bayan (G) iki bin yirmi beş takvim yılında ayrıca, tam mükellef bir anonim şirketten brüt yedi yüz bin lira tutarında kâr payı (temettü) elde etmiştir. Tam mükellef anonim şirketten elde edilen kâr payından Gelir Vergisi tevkifatı yapılmıştır. yüz doksan üç sayılı Gelir Vergisi Kanununa göre, Bayan (G)'nin iki bin yirmi beş takvim yılı Gelir Vergisi matrahı (vergiye tabi geliri) kaç liradır?
@@ -13,7 +13,7 @@ Cevap: dört milyon sekiz yüz elli bin lira.
 [[1]]
 
 [[bip]]
-Soru iki. Tam mükellef Bay (D)'nin tamamı üzerinden tevkifat yapılmış olan iki bin yirmi beş takvim yılı gelirleri aşağıdaki gibidir: lira Birinci İşverenden Alınan Safi Ücret Geliri üç milyon dokuz yüz bin İkinci İşverenden Alınan Safi Ücret Geliri üç yüz bin İş Yeri Kira Geliri (Brüt) dört yüz yirmi bin Mükellef Bay (D) işyeri kira gelirinde safi iradın tespitinde götürü gider yöntemini seçmiştir. yüz doksan üç sayılı Gelir Vergisi Kanununa göre, Bay (D)'nin iki bin yirmi beş takvim yılı Gelir Vergisi beyanı ile ilgili olarak aşağıdakilerden hangisi doğrudur?
+Soru iki. Tam mükellef Bay (D)'nin tamamı üzerinden tevkifat yapılmış olan iki bin yirmi beş takvim yılı gelirleri gibidir: lira Birinci İşverenden Alınan Safi Ücret Geliri üç milyon dokuz yüz bin İkinci İşverenden Alınan Safi Ücret Geliri üç yüz bin İş Yeri Kira Geliri (Brüt) dört yüz yirmi bin Mükellef Bay (D) işyeri kira gelirinde safi iradın tespitinde götürü gider yöntemini seçmiştir. yüz doksan üç sayılı Gelir Vergisi Kanununa göre, Bay (D)'nin iki bin yirmi beş takvim yılı Gelir Vergisi beyanı ile ilgili olarak doğru olan ifade nedir?
 
 Düşün.
 [[14]]
@@ -33,27 +33,27 @@ Cevap: bir milyon yedi yüz on bin lira.
 [[1]]
 
 [[bip]]
-Soru dört. yüz doksan üç sayılı Gelir Vergisi Kanununa göre, aşağıdakilerden hangisi vergiye uyumlu mükelleflerin vergi indiriminden yararlanabilmesi için aranan şartlardan değildir?
+Soru dört. yüz doksan üç sayılı Gelir Vergisi Kanununa göre, vergiye uyumlu mükelleflerin vergi indiriminden yararlanabilmesi için aranan şartlardan olmayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Kanuni süresi içerisinde verilen bir beyannameye ilişkin olarak, kanuni süresinden sonra düzeltme amacıyla düzeltme beyannamesi veya pişmanlıkla beyanname verilmemiş olması.
+Cevap: Kanuni süresi içerisinde verilen bir beyannameye ilişkin olarak, kanuni süresinden sonra düzeltme amacıyla düzeltme beyannamesi veya pişmanlıkla beyanname verilmemiş olması.
 
 [[1]]
 
 [[bip]]
-Soru beş. altı bin yüz seksen üç sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre, aşağıdakilerden hangisi ihtiyati haciz uygulanmasını gerektiren hallerden biri değildir?
+Soru beş. altı bin yüz seksen üç sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre, ihtiyati haciz uygulanmasını gerektiren hallerden biri olmayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Teşebbüsün muvazaalı olduğu ve hakikatte başkasına aidiyeti hakkında deliller elde edilmişse.
+Cevap: Teşebbüsün muvazaalı olduğu ve hakikatte başkasına aidiyeti hakkında deliller elde edilmişse.
 
 [[1]]
 
 [[bip]]
-Soru altı. altı bin yüz seksen üç sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre, ihtiyati haciz sebeplerine karşı dava; haczin tatbik edildiği tarihten itibaren boşluk gün içinde, gıyapta yapılan hacizlerde ise haczin tebliğ edildiği tarihten itibaren boşluk gün içinde ilgili vergi mahkemesinde açılmalıdır. Bu cümledeki boşlukları sırasıyla doğru olarak tamamlayan seçenek aşağıdakilerden hangisidir?
+Soru altı. altı bin yüz seksen üç sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre, ihtiyati haciz sebeplerine karşı dava; haczin tatbik edildiği tarihten itibaren boşluk gün içinde, gıyapta yapılan hacizlerde ise haczin tebliğ edildiği tarihten itibaren boşluk gün içinde ilgili vergi mahkemesinde açılmalıdır. Boşluklara sırasıyla ne gelir?
 
 Düşün.
 [[8]]
@@ -63,37 +63,37 @@ Cevap: on beş bölü on beş.
 [[1]]
 
 [[bip]]
-Soru yedi. dört yüz seksen sekiz sayılı Damga Vergisi Kanununa göre aşağıdakilerden hangisi yanlıştır?
+Soru yedi. dört yüz seksen sekiz sayılı Damga Vergisi Kanununa göre yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Bir nüshadan fazla olarak düzenlenen kâğıtlardan nispi vergiye tabi olanların her bir nüshası ayrı ayrı Damga Vergisine tabidir.
+Cevap: Bir nüshadan fazla olarak düzenlenen kâğıtlardan nispi vergiye tabi olanların her bir nüshası ayrı ayrı Damga Vergisine tabidir.
 
 [[1]]
 
 [[bip]]
-Soru sekiz. Aşağıdakilerden hangisi üç bin altmış beş sayılı Katma Değer Vergisi Kanununa göre, Katma Değer Vergisinden istisna değildir?
+Soru sekiz. üç bin altmış beş sayılı Katma Değer Vergisi Kanununa göre, Katma Değer Vergisinden istisna olmayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Spor-Toto oyununda ve Millî Piyango dahil her türlü piyangoda, oyuna ve piyangoya katılma bedelleri.
+Cevap: Spor-Toto oyununda ve Millî Piyango dahil her türlü piyangoda, oyuna ve piyangoya katılma bedelleri.
 
 [[1]]
 
 [[bip]]
-Soru dokuz. üç bin altmış beş sayılı Katma Değer Vergisi Kanununa göre, ihraç kaydıyla teslimlerde tecil terkin uygulamasına ilişkin aşağıdakilerden hangisi yanlıştır?
+Soru dokuz. üç bin altmış beş sayılı Katma Değer Vergisi Kanununa göre, ihraç kaydıyla teslimlerde tecil terkin uygulamasına ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Malların, ihracatçıya teslim tarihini takip eden ay başından itibaren altı ay içinde ihraç edilmesi halinde, tecil edilen vergi terkin olunur.
+Cevap: Malların, ihracatçıya teslim tarihini takip eden ay başından itibaren altı ay içinde ihraç edilmesi halinde, tecil edilen vergi terkin olunur.
 
 [[1]]
 
 [[bip]]
-Soru on. Aşağıdakilerden hangisi üç bin altmış beş sayılı Katma Değer Vergisi Kanununa göre Katma Değer Vergisinin konusuna girmez?
+Soru on. üç bin altmış beş sayılı Katma Değer Vergisi Kanununa göre Katma Değer Vergisinin konusuna girmeyen nedir?
 
 Düşün.
 [[8]]
@@ -113,17 +113,17 @@ Cevap: otuz altı bin altı yüz lira.
 [[1]]
 
 [[bip]]
-Soru on iki. beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununa göre, aşağıdakilerden hangisi Kurumlar Vergisi mükellefi değildir?
+Soru on iki. beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununa göre, Kurumlar Vergisi mükellefi olmayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Türk Ticaret Kanununa göre kurulmuş olan Kollektif Şirketler.
+Cevap: Türk Ticaret Kanununa göre kurulmuş olan Kollektif Şirketler.
 
 [[1]]
 
 [[bip]]
-Soru on üç. (X Y Z) Anonim Şirketi, beş yüz bin lira nakdi sermaye ile on Şubat iki bin yirmi iki tarihinde kurulmuştur. Şirket genel kurulunun yirmi dokuz Aralık iki bin yirmi üç tarihinde aldığı kararla şirketin sermayesinin üç milyon liraya çıkarılması ve bu tutarın bir milyon iki yüz bin lirasının şirket ortaklarınca nakden işletmeye konulması, sekiz yüz bin lirasının enflasyon düzeltmesi olumlu farklarından, beş yüz bin lirasının ise geçmiş yıl kârlarından karşılanması kararı alınmıştır. Bu karar, on Ocak iki bin yirmi dört tarihinde tescil edilmiştir. (X Y Z) Anonim Şirketi tarafından yedi Mayıs iki bin yirmi beş tarihinde tescil edilen kararla şirket sermayesinin bir milyon lira azaltılması kararı alınmıştır. beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununa göre, (X Y Z) Anonim Şirketinin yedi Mayıs iki bin yirmi beş tarihinde yaptığı sermaye azaltımı ile ilgili olarak aşağıdakilerden hangisi doğrudur?
+Soru on üç. (X Y Z) Anonim Şirketi, beş yüz bin lira nakdi sermaye ile on Şubat iki bin yirmi iki tarihinde kurulmuştur. Şirket genel kurulunun yirmi dokuz Aralık iki bin yirmi üç tarihinde aldığı kararla şirketin sermayesinin üç milyon liraya çıkarılması ve bu tutarın bir milyon iki yüz bin lirasının şirket ortaklarınca nakden işletmeye konulması, sekiz yüz bin lirasının enflasyon düzeltmesi olumlu farklarından, beş yüz bin lirasının ise geçmiş yıl kârlarından karşılanması kararı alınmıştır. Bu karar, on Ocak iki bin yirmi dört tarihinde tescil edilmiştir. (X Y Z) Anonim Şirketi tarafından yedi Mayıs iki bin yirmi beş tarihinde tescil edilen kararla şirket sermayesinin bir milyon lira azaltılması kararı alınmıştır. beş bin beş yüz yirmi sayılı Kurumlar Vergisi Kanununa göre, (X Y Z) Anonim Şirketinin yedi Mayıs iki bin yirmi beş tarihinde yaptığı sermaye azaltımı ile ilgili olarak doğru olan ifade nedir?
 
 Düşün.
 [[14]]
@@ -143,7 +143,7 @@ Cevap: dört milyon iki yüz bin lira.
 [[1]]
 
 [[bip]]
-Soru on beş. Mobilya sektöründe faaliyet gösteren tam mükellef (A B C) Anonim Şirketinin iki bin yirmi beş hesap döneminde faaliyetinde kullandığı aktifine kayıtlı binek otomobiller için yaptığı ve yasal defterlerinde gider hesaplarında takip ettiği harcamalar aşağıdaki gibi olup söz konusu giderlerin tümü bu yıl için yapılmıştır: • beş yüz bin lira Akaryakıt Gideri • elli bin lira Sigorta Gideri • otuz bin lira Bakım Onarım Gideri • yirmi bin lira Motorlu Taşıtlar Vergisi Buna göre, (A B C) Anonim Şirketinin iki bin yirmi beş hesap dönemi kurum kazancının tespitine ilişkin olarak, Vergi Kanunları gereğince kanunen kabul edilmeyen gider olarak dikkate alınacak binek otomobil gideri kaç liradır?
+Soru on beş. Mobilya sektöründe faaliyet gösteren tam mükellef (A B C) Anonim Şirketinin iki bin yirmi beş hesap döneminde faaliyetinde kullandığı aktifine kayıtlı binek otomobiller için yaptığı ve yasal defterlerinde gider hesaplarında takip ettiği harcamalar gibi olup söz konusu giderlerin tümü bu yıl için yapılmıştır: • beş yüz bin lira Akaryakıt Gideri • elli bin lira Sigorta Gideri • otuz bin lira Bakım Onarım Gideri • yirmi bin lira Motorlu Taşıtlar Vergisi Buna göre, (A B C) Anonim Şirketinin iki bin yirmi beş hesap dönemi kurum kazancının tespitine ilişkin olarak, Vergi Kanunları gereğince kanunen kabul edilmeyen gider olarak dikkate alınacak binek otomobil gideri kaç liradır?
 
 Düşün.
 [[14]]
@@ -153,22 +153,22 @@ Cevap: yüz doksan dört bin lira.
 [[1]]
 
 [[bip]]
-Soru on altı. dört bin yedi yüz altmış sayılı Özel Tüketim Vergisi Kanununa göre, bu Kanuna ekli listelerdeki malların ihracat teslimleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+Soru on altı. dört bin yedi yüz altmış sayılı Özel Tüketim Vergisi Kanununa göre, bu Kanuna ekli listelerdeki malların ihracat teslimleri ile ilgili olarak yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Teslimin, serbest bölgelerdeki alıcılara yapılması ve teslim konusu malın bir serbest bölgeye vasıl olması şartlarının birlikte gerçekleşmesi halinde, kanuna ekli (bir), (iki), (üç) ve (dört) sayılı listelerdeki malların teslimi Özel Tüketim Vergisinden istisnadır.
+Cevap: Teslimin, serbest bölgelerdeki alıcılara yapılması ve teslim konusu malın bir serbest bölgeye vasıl olması şartlarının birlikte gerçekleşmesi halinde, kanuna ekli (bir), (iki), (üç) ve (dört) sayılı listelerdeki malların teslimi Özel Tüketim Vergisinden istisnadır.
 
 [[1]]
 
 [[bip]]
-Soru on yedi. iki yüz on üç sayılı Vergi Usul Kanununa göre, aşağıdakilerden hangisi kaçakçılık suçunu oluşturan fiillerden (eylemlerden) değildir?
+Soru on yedi. iki yüz on üç sayılı Vergi Usul Kanununa göre, kaçakçılık suçunu oluşturan fiillerden (eylemlerden) olmayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Elektronik belge olarak düzenlenmesi gerekenler de dahil olmak üzere verilmesi icap eden faturaları alıcılara vermemek.
+Cevap: Elektronik belge olarak düzenlenmesi gerekenler de dahil olmak üzere verilmesi icap eden faturaları alıcılara vermemek.
 
 [[1]]
 
@@ -183,7 +183,7 @@ Cevap: iki ve üç.
 [[1]]
 
 [[bip]]
-Soru on dokuz. iki yüz on üç sayılı Vergi Usul Kanununa göre; “Değerleme, vergi matrahlarının hesaplanmasıyla ilgili iktisadi kıymetlerin takdir ve tespitidir.” Aşağıdakilerden hangisinde iki yüz on üç sayılı Vergi Usul Kanununa göre iktisadi kıymetin değerleme ölçüsü yanlış verilmiştir? İktisadi Kıymet Değerleme Ölçüsü
+Soru on dokuz. iki yüz on üç sayılı Vergi Usul Kanununa göre; “Değerleme, vergi matrahlarının hesaplanmasıyla ilgili iktisadi kıymetlerin takdir ve tespitidir.” hangisinde iki yüz on üç sayılı Vergi Usul Kanununa göre iktisadi kıymetin değerleme ölçüsü yanlış verilmiştir? İktisadi Kıymet Değerleme Ölçüsü
 
 Düşün.
 [[8]]

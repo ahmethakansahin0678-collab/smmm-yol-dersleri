@@ -99,7 +99,17 @@ def cikar(pdf_path):
         if not cev and q.get('kirmizi_harf'):
             kayit = kayit_oku(q['opts'].get(q['kirmizi_harf'], []))
             cev = kayit_metin(kayit) if kayit else ''
-        sonuc.append({'no': n, 'soru': soru, 'cevap': cev, 'kayit': kayit})
+        secenekler = {}
+        for h, satir in q['opts'].items():
+            t = ' '.join(' '.join(w['text'] for w in ws) for ws in satir)
+            t = re.sub(r'\s+', ' ', SECENEK.sub('', t)).strip()
+            # aynı satırda birden çok şık: "A) x B) y"
+            parca = re.split(r'\s(?=[B-E]\)\s)', h + ') ' + t)
+            for pc in parca:
+                mm = SECENEK.match(pc)
+                if mm: secenekler[mm.group(1)] = SECENEK.sub('', pc).strip()
+        dogru = q.get('kirmizi_harf') or next((k for k, v in secenekler.items() if cev and v and v.rstrip('.') in cev), None)
+        sonuc.append({'no': n, 'soru': soru, 'cevap': cev, 'kayit': kayit, 'secenekler': secenekler, 'dogru': dogru})
     return sonuc
 
 if __name__ == '__main__':

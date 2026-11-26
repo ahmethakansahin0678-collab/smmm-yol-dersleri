@@ -1,6 +1,6 @@
 BAŞLIK: Çıkmış Sorular 2026-2. Sermaye Piyasası Mevzuatı
 
-İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Sermaye Piyasası Mevzuatı soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Sermaye Piyasası Mevzuatı soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım; test soruları doğrudan soru olarak sorulacak. Önce soruyu duyacaksın, sonra düşünme süresi, zilden sonra doğru cevabı dinle.
 
 [[bip]]
 Soru bir. Bir. İzahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan hiçbir şart ve koşul aranmaksızın halka arz edenler sorumludur. İki. İhraççılar, izahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararın halka arz edenlerden tazmin edilememesi halinde sorumlu olurlar. Üç. Zararın izahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan doğrudan sorumlu olanlardan tazmin edilememesi hâlinde; ihraca aracılık eden lider aracı kurum kusurlarına ve durumun gereklerine göre zararlar kendilerine yükletilebildiği ölçüde sorumludur. Dört. Bağımsız denetim kuruluşları gibi izahnamede yer almak üzere hazırlanan raporları hazırlayan kişi ve kurumlar da hazırladıkları raporlarda yer alan yanlış, yanıltıcı ve eksik bilgilerden bu Kanun hükümleri çerçevesinde sorumludur. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre izahnameden sorumlu kişilere ilişkin yukarıdakilerden hangileri doğrudur?
@@ -13,7 +13,7 @@ Cevap: üç ve dört.
 [[1]]
 
 [[bip]]
-Soru iki. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre; “Kayıtlı sermaye sisteminde, yönetim kurulu, altı bin yüz iki sayılı Türk Ticaret Kanununun esas sermayenin artırılmasına ilişkin hükümlerine bağlı kalmaksızın esas sözleşmelerinde tespit edilen kayıtlı sermaye tavanına kadar sermayelerini artırmaya yetkilidir. Şu kadar ki, bu yetki genel kurul tarafından en çok boşluk yıl süre ile verilebilir." Bu cümlede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?
+Soru iki. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre; “Kayıtlı sermaye sisteminde, yönetim kurulu, altı bin yüz iki sayılı Türk Ticaret Kanununun esas sermayenin artırılmasına ilişkin hükümlerine bağlı kalmaksızın esas sözleşmelerinde tespit edilen kayıtlı sermaye tavanına kadar sermayelerini artırmaya yetkilidir. Şu kadar ki, bu yetki genel kurul tarafından en çok boşluk yıl süre ile verilebilir." Boşluğa ne gelir?
 
 Düşün.
 [[8]]
@@ -53,12 +53,12 @@ Cevap: üç hafta.
 [[1]]
 
 [[bip]]
-Soru altı. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre kitle fonlaması faaliyetleri ile kitle fonlama platformlarına ilişkin aşağıdakilerden hangisi yanlıştır?
+Soru altı. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre kitle fonlaması faaliyetleri ile kitle fonlama platformlarına ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Borçlanmaya dayalı kitle fonlaması faaliyetlerine bankacılık mevzuatı hükümleri uygulanır.
+Cevap: Borçlanmaya dayalı kitle fonlaması faaliyetlerine bankacılık mevzuatı hükümleri uygulanır.
 
 [[1]]
 
@@ -73,37 +73,37 @@ Cevap: üç ve dört.
 [[1]]
 
 [[bip]]
-Soru sekiz. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre değişken sermayeli yatırım ortaklıklarına ilişkin aşağıdakilerden hangisi yanlıştır?
+Soru sekiz. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre değişken sermayeli yatırım ortaklıklarına ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Değişken sermayeli yatırım ortaklığı kurucu payları, kuruluştan sonra ihraç edilemez.
+Cevap: Değişken sermayeli yatırım ortaklığı kurucu payları, kuruluştan sonra ihraç edilemez.
 
 [[1]]
 
 [[bip]]
-Soru dokuz. Özel Durumlar Tebliğine göre içsel bilgilerin kamuya açıklanmasının ertelenmesine ilişkin aşağıdakilerden hangisi yanlıştır?
+Soru dokuz. Özel Durumlar Tebliğine göre içsel bilgilerin kamuya açıklanmasının ertelenmesine ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Açıklanması ertelenen içsel bilgiye konu olan olayın gerçekleşmemesi durumunda, ihraççı açıklanması ertelenen içsel bilgi ve bu bilgiye konu olayın gerçekleşmeme durumunu ertelenme sebepleri ortadan kalkar kalkmaz kamuya açıklamak zorundadır.
+Cevap: Açıklanması ertelenen içsel bilgiye konu olan olayın gerçekleşmemesi durumunda, ihraççı açıklanması ertelenen içsel bilgi ve bu bilgiye konu olayın gerçekleşmeme durumunu ertelenme sebepleri ortadan kalkar kalkmaz kamuya açıklamak zorundadır.
 
 [[1]]
 
 [[bip]]
-Soru on. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre Kurulda denetimle görevlendirilen personel tarafından gerçekleştirilen denetim faaliyetinin icrasına ilişkin aşağıdakilerden hangisi yanlıştır?
+Soru on. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre Kurulda denetimle görevlendirilen personel tarafından gerçekleştirilen denetim faaliyetinin icrasına ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Denetim faaliyetinin icrası kapsamında gerekli yerlerde kolluk yardımı ile arama yapılabilmesi için denetimle görevlendirilen personelin doğrudan ilgili sulh ceza hakimliğinden talepte bulunması yeterlidir.
+Cevap: Denetim faaliyetinin icrası kapsamında gerekli yerlerde kolluk yardımı ile arama yapılabilmesi için denetimle görevlendirilen personelin doğrudan ilgili sulh ceza hakimliğinden talepte bulunması yeterlidir.
 
 [[1]]
 
 [[bip]]
-Soru on bir. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre bu Kanunda tanımlanan kripto varlıkların zimmet suçuna ait davaların görüldüğü mahkeme aşağıdakilerden hangisidir?
+Soru on bir. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre bu Kanunda tanımlanan kripto varlıkların zimmet suçuna ait davaların görüldüğü mahkeme hangisidir?
 
 Düşün.
 [[8]]
@@ -113,22 +113,22 @@ Cevap: Ağır ceza mahkemesi.
 [[1]]
 
 [[bip]]
-Soru on iki. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre idari para cezalarının uygulanmasına ilişkin aşağıdakilerden hangisi yanlıştır?
+Soru on iki. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre idari para cezalarının uygulanmasına ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: İdari para cezası uygulanacak ilgilinin, savunması istendiğine ilişkin yazının tebliği tarihinden itibaren on beş gün içinde savunma vermemesi hâlinde, ilgilinin savunma hakkından feragat ettiği kabul edilir.
+Cevap: İdari para cezası uygulanacak ilgilinin, savunması istendiğine ilişkin yazının tebliği tarihinden itibaren on beş gün içinde savunma vermemesi hâlinde, ilgilinin savunma hakkından feragat ettiği kabul edilir.
 
 [[1]]
 
 [[bip]]
-Soru on üç. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre borsalar ve piyasa işleticilerine ilişkin aşağıdakilerden hangisi yanlıştır?
+Soru on üç. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre borsalar ve piyasa işleticilerine ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Borsaların esas sözleşme değişikliklerine Kurulun uygun görüşü üzerine Cumhurbaşkanı tarafından izin verilir.
+Cevap: Borsaların esas sözleşme değişikliklerine Kurulun uygun görüşü üzerine Cumhurbaşkanı tarafından izin verilir.
 
 [[1]]
 
@@ -143,7 +143,7 @@ Cevap: bir yıl.
 [[1]]
 
 [[bip]]
-Soru on beş. Birleşme ve Bölünme Tebliğine göre bir şirketin malvarlığının bir veya birden fazla bölümünün mevcut veya yeni kurulacak başka bir şirkete veya şirketlere devredildiği, bölünen şirket sona ermeksizin ortaklarının devredilen malvarlığı bölümlerinin karşılığında devralan şirket veya şirketlerin ortağı olduğu işlem aşağıdakilerden hangisidir?
+Soru on beş. Birleşme ve Bölünme Tebliğine göre bir şirketin malvarlığının bir veya birden fazla bölümünün mevcut veya yeni kurulacak başka bir şirkete veya şirketlere devredildiği, bölünen şirket sona ermeksizin ortaklarının devredilen malvarlığı bölümlerinin karşılığında devralan şirket veya şirketlerin ortağı olduğu işlem hangisidir?
 
 Düşün.
 [[8]]
@@ -163,22 +163,22 @@ Cevap, yani bunlardan biri olmayan: Piyasa dolandırıcılığı.
 [[1]]
 
 [[bip]]
-Soru on yedi. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre bu Kanuna tabi ihraççıların, Kanuna, sermaye piyasası mevzuatına, esas sözleşme ve fon iç tüzüğü hükümlerine veya işletme maksat ve mevzuuna aykırı görülen durum ve işlemleri sebebiyle sermayenin veya mal varlığının azalmasına veya kaybına yol açtıklarının tespit edilmesi halinde Kurulun almaya yetkili olduğu tedbirler arasında aşağıdakilerden hangisi yer almaz?
+Soru on yedi. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre bu Kanuna tabi ihraççıların, Kanuna, sermaye piyasası mevzuatına, esas sözleşme ve fon iç tüzüğü hükümlerine veya işletme maksat ve mevzuuna aykırı görülen durum ve işlemleri sebebiyle sermayenin veya mal varlığının azalmasına veya kaybına yol açtıklarının tespit edilmesi halinde Kurulun almaya yetkili olduğu tedbirler arasında yer almayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Tedrici tasfiye kararı vermek.
+Cevap: Tedrici tasfiye kararı vermek.
 
 [[1]]
 
 [[bip]]
-Soru on sekiz. Sermaye Piyasası Araçlarının Satışı Tebliğine göre aşağıdakilerden hangisi sermaye piyasası araçlarının halka arz yoluyla satışında kullanılan yöntemlerden biri değildir?
+Soru on sekiz. Sermaye Piyasası Araçlarının Satışı Tebliğine göre sermaye piyasası araçlarının halka arz yoluyla satışında kullanılan yöntemlerden biri olmayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Tahsisli satış.
+Cevap: Tahsisli satış.
 
 [[1]]
 
@@ -193,7 +193,7 @@ Cevap: iki ve üç.
 [[1]]
 
 [[bip]]
-Soru yirmi. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre borsalarda ve teşkilatlanmış diğer pazar yerlerinde işlem gören sermaye piyasası araçlarının teslimi, bedellerinin ödenmesi ve bu işlemlere ilişkin teminat yükümlülüklerinin ifası ile ilgili işlemleri yürüten anonim ortaklık şeklindeki özel hukuk tüzel kişiliğine haiz kurum aşağıdakilerden hangisidir?
+Soru yirmi. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre borsalarda ve teşkilatlanmış diğer pazar yerlerinde işlem gören sermaye piyasası araçlarının teslimi, bedellerinin ödenmesi ve bu işlemlere ilişkin teminat yükümlülüklerinin ifası ile ilgili işlemleri yürüten anonim ortaklık şeklindeki özel hukuk tüzel kişiliğine haiz kurum hangisidir?
 
 Düşün.
 [[8]]

@@ -1,6 +1,6 @@
 BAŞLIK: Çıkmış Sorular 2026-1. Sermaye Piyasası Mevzuatı
 
-İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Sermaye Piyasası Mevzuatı soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Sermaye Piyasası Mevzuatı soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım; test soruları doğrudan soru olarak sorulacak. Önce soruyu duyacaksın, sonra düşünme süresi, zilden sonra doğru cevabı dinle.
 
 [[bip]]
 Soru bir. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, izahname ile kamuya açıklanan bilgilerde, satışa başlamadan önce veya satış süresi içinde yatırımcıların yatırım kararını etkileyebilecek değişiklik veya yeni hususların ortaya çıkması hâlinde, değişiklik veya yeni hususların yayımlanmasından önce sermaye piyasası araçlarını satın almak için talepte bulunmuş olan yatırımcılar, izahnamede yapılan ek ve değişikliklerin yayımlanmasından itibaren kaç iş günü içinde taleplerini geri alma hakkına sahiptirler?
@@ -33,32 +33,32 @@ Cevap: iki ve dört.
 [[1]]
 
 [[bip]]
-Soru dört. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, teminat yönetim sözleşmesi ve teminat yöneticisine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
+Soru dört. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, teminat yönetim sözleşmesi ve teminat yöneticisine ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Temerrüt hâlinde ya da kanun veya sözleşme hükümlerinde öngörülen sebeplerle teminattan alacağın karşılanması söz konusu olduğunda; teminat yöneticisinin teminata konu varlıkları satıp bedellerini yatırımcılar arasında paylaştırabilmesi için Sermaye Piyasası Kurulundan izin alması gerekmektedir.
+Cevap: Temerrüt hâlinde ya da kanun veya sözleşme hükümlerinde öngörülen sebeplerle teminattan alacağın karşılanması söz konusu olduğunda; teminat yöneticisinin teminata konu varlıkları satıp bedellerini yatırımcılar arasında paylaştırabilmesi için Sermaye Piyasası Kurulundan izin alması gerekmektedir.
 
 [[1]]
 
 [[bip]]
-Soru beş. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, kamuyu aydınlatma belgelerinden doğan sorumlulukla ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+Soru beş. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, kamuyu aydınlatma belgelerinden doğan sorumlulukla ilgili yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Kamuyu aydınlatma belgelerinden doğan tazminat talebi, zararın meydana geldiği tarihten itibaren üç ay içinde zamanaşımına uğrar.
+Cevap: Kamuyu aydınlatma belgelerinden doğan tazminat talebi, zararın meydana geldiği tarihten itibaren üç ay içinde zamanaşımına uğrar.
 
 [[1]]
 
 [[bip]]
-Soru altı. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerden hangisi kripto varlık hizmet sağlayıcısı yönetim kurulu üyelerinde aranan şartlardan değildir?
+Soru altı. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, kripto varlık hizmet sağlayıcısı yönetim kurulu üyelerinde aranan şartlardan olmayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Gerekli mali güce sahip olmak.
+Cevap: Gerekli mali güce sahip olmak.
 
 [[1]]
 
@@ -73,12 +73,12 @@ Cevap: iki ve üç.
 [[1]]
 
 [[bip]]
-Soru sekiz. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, yatırım ortaklıklarının kuruluş ve faaliyet şartlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
+Soru sekiz. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, yatırım ortaklıklarının kuruluş ve faaliyet şartlarına ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Yatırım ortaklıklarının bir portföy yönetim şirketinden hizmet alabilmesi için esas sözleşmelerinde hüküm bulunması yeterli olup Kuruldan ayrıca onay almalarına gerek bulunmamaktadır.
+Cevap: Yatırım ortaklıklarının bir portföy yönetim şirketinden hizmet alabilmesi için esas sözleşmelerinde hüküm bulunması yeterli olup Kuruldan ayrıca onay almalarına gerek bulunmamaktadır.
 
 [[1]]
 
@@ -93,17 +93,17 @@ Cevap: bir ve iki.
 [[1]]
 
 [[bip]]
-Soru on. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, yatırım fonlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
+Soru on. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, yatırım fonlarına ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Yatırım fonu portföyünde bulunan taşınmazlar, taşınmaza dayalı haklar ve taşınmaza dayalı senetler tapu kütüğüne portföy yönetim şirketi adına tescil edilir.
+Cevap: Yatırım fonu portföyünde bulunan taşınmazlar, taşınmaza dayalı haklar ve taşınmaza dayalı senetler tapu kütüğüne portföy yönetim şirketi adına tescil edilir.
 
 [[1]]
 
 [[bip]]
-Soru on bir. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, “Bu Kanunda tanımlanan veya atıfta bulunulan suçlardan dolayı yargılama yapmaya Hâkimler ve Savcılar Yüksek Kurulunun ihtisas mahkemesi olarak görevlendireceği boşluk yetkilidir.” cümlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+Soru on bir. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, “Bu Kanunda tanımlanan veya atıfta bulunulan suçlardan dolayı yargılama yapmaya Hâkimler ve Savcılar Yüksek Kurulunun ihtisas mahkemesi olarak görevlendireceği boşluk yetkilidir.” Boşluğa ne gelir?
 
 Düşün.
 [[8]]
@@ -113,17 +113,17 @@ Cevap: Asliye ceza mahkemeleri.
 [[1]]
 
 [[bip]]
-Soru on iki. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, yatırım fon mal varlığının ayrılığına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
+Soru on iki. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, yatırım fon mal varlığının ayrılığına ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Fon mal varlığı, fon iç tüzüğünde hüküm bulunsa dahi fon hesabına yapılacak kredi alma, türev araç ve açığa satış işlemleri için teminat olarak gösterilemez.
+Cevap: Fon mal varlığı, fon iç tüzüğünde hüküm bulunsa dahi fon hesabına yapılacak kredi alma, türev araç ve açığa satış işlemleri için teminat olarak gösterilemez.
 
 [[1]]
 
 [[bip]]
-Soru on üç. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerden hangisi portföy saklama hizmetinin kapsamına girmez?
+Soru on üç. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, portföy saklama hizmetinin kapsamına girmeyen nedir?
 
 Düşün.
 [[8]]
@@ -133,7 +133,7 @@ Cevap: Yatırım fonlarına ait fon portföyünün hangi sermaye piyasası araç
 [[1]]
 
 [[bip]]
-Soru on dört. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, “Kurul, yatırım kuruluşlarının sermaye piyasası faaliyetinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getiremediğinin veya kısa sürede yerine getiremeyeceğinin tespit edilmesi hâlinde yatırımcıları tazmin kararı alır. Bu karar, durumun tespitinden itibaren boşluk içinde alınır.” cümlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+Soru on dört. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, “Kurul, yatırım kuruluşlarının sermaye piyasası faaliyetinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getiremediğinin veya kısa sürede yerine getiremeyeceğinin tespit edilmesi hâlinde yatırımcıları tazmin kararı alır. Bu karar, durumun tespitinden itibaren boşluk içinde alınır.” Boşluğa ne gelir?
 
 Düşün.
 [[8]]
@@ -143,7 +143,7 @@ Cevap: üç Ay.
 [[1]]
 
 [[bip]]
-Soru on beş. Yatırım Fonlarına İlişkin Esaslar Tebliğine göre, portföyünün tamamı devamlı olarak, vadesine en fazla yüz seksen dört gün kalmış likiditesi yüksek para ve sermaye piyasası araçlarından oluşan ve portföyünün günlük olarak hesaplanan ağırlıklı ortalama vadesi en fazla kırk beş gün olan fonları kapsayan şemsiye fon türü aşağıdakilerden hangisidir?
+Soru on beş. Yatırım Fonlarına İlişkin Esaslar Tebliğine göre, portföyünün tamamı devamlı olarak, vadesine en fazla yüz seksen dört gün kalmış likiditesi yüksek para ve sermaye piyasası araçlarından oluşan ve portföyünün günlük olarak hesaplanan ağırlıklı ortalama vadesi en fazla kırk beş gün olan fonları kapsayan şemsiye fon türü hangisidir?
 
 Düşün.
 [[8]]
@@ -163,7 +163,7 @@ Cevap: Yalnız bir.
 [[1]]
 
 [[bip]]
-Soru on yedi. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, aşağıdakilerden hangisi piyasa bozucu eylemler, bilgi suistimali ve piyasa dolandırıcılığı incelemelerinde sermaye piyasası kurulunun almaya yetkili olduğu tedbirler arasında sayılmamıştır?
+Soru on yedi. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, piyasa bozucu eylemler, bilgi suistimali ve piyasa dolandırıcılığı incelemelerinde sermaye piyasası kurulunun almaya yetkili olduğu tedbirler arasında sayılmayan nedir?
 
 Düşün.
 [[8]]
@@ -173,17 +173,17 @@ Cevap: İlgili kişiler hakkında adli para cezasına hükmedilmesi ve uygulanma
 [[1]]
 
 [[bip]]
-Soru on sekiz. İzahname ve İhraç Belgesi Tebliğine göre, izahname hazırlama yükümlülüğünden muafiyetler ile izahname hazırlanmasını gerektirmeyen durumlara ilişkin aşağıdaki ifadelerden hangisi yanlıştır?
+Soru on sekiz. İzahname ve İhraç Belgesi Tebliğine göre, izahname hazırlama yükümlülüğünden muafiyetler ile izahname hazırlanmasını gerektirmeyen durumlara ilişkin yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Her halka arz için ayrı ayrı olmak üzere yatırımcı başına en az yüz bin lira değerinde sermaye piyasası aracı alan yatırımcılara yönelik yapılan halka arzlarda ihraççı veya halka arz eden izahname hazırlama yükümlülüğünden muaftır.
+Cevap: Her halka arz için ayrı ayrı olmak üzere yatırımcı başına en az yüz bin lira değerinde sermaye piyasası aracı alan yatırımcılara yönelik yapılan halka arzlarda ihraççı veya halka arz eden izahname hazırlama yükümlülüğünden muaftır.
 
 [[1]]
 
 [[bip]]
-Soru on dokuz. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, her türlü varlık veya hakkın finansmanını sağlamak amacıyla varlık kiralama şirketleri tarafından ihraç edilen ve sahiplerinin bu varlık veya haklardan elde edilen gelirlerden payları oranında hak sahibi olmalarını sağlayan, nitelikleri Kurulca belirlenen sermaye piyasası aracı aşağıdakilerden hangisidir?
+Soru on dokuz. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, her türlü varlık veya hakkın finansmanını sağlamak amacıyla varlık kiralama şirketleri tarafından ihraç edilen ve sahiplerinin bu varlık veya haklardan elde edilen gelirlerden payları oranında hak sahibi olmalarını sağlayan, nitelikleri Kurulca belirlenen sermaye piyasası aracı hangisidir?
 
 Düşün.
 [[8]]
@@ -193,7 +193,7 @@ Cevap: Kira sertifikası.
 [[1]]
 
 [[bip]]
-Soru yirmi. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, “Sistemik riskin gözetimi ve finansal istikrarın korunması amacıyla, Kurul, sermaye piyasasında gerçekleştirilen işlemlere ilişkin olarak, bu işlemleri gerçekleştirenlerden, bu işlemlere ilişkin bilgilerin, belirleyeceği şekil ve içerikte, doğrudan kendisine veya yetkilendireceği bir boşluk bildirilmesini isteyebilir.” cümlesinde boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?
+Soru yirmi. altı bin üç yüz altmış iki sayılı Sermaye Piyasası Kanununa göre, “Sistemik riskin gözetimi ve finansal istikrarın korunması amacıyla, Kurul, sermaye piyasasında gerçekleştirilen işlemlere ilişkin olarak, bu işlemleri gerçekleştirenlerden, bu işlemlere ilişkin bilgilerin, belirleyeceği şekil ve içerikte, doğrudan kendisine veya yetkilendireceği bir boşluk bildirilmesini isteyebilir.” Boşluğa ne gelir?
 
 Düşün.
 [[8]]

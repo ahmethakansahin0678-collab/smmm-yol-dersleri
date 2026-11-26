@@ -1,9 +1,9 @@
 BAŞLIK: Çıkmış Sorular 2026-2. Finansal Tablolar ve Analizi
 
-İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Finansal Tablolar ve Analizi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Finansal Tablolar ve Analizi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım; test soruları doğrudan soru olarak sorulacak. Önce soruyu duyacaksın, sonra düşünme süresi, zilden sonra doğru cevabı dinle.
 
 [[bip]]
-Soru bir. iki bin yirmi iki yılını baz yıl alarak yapılan trend analizine göre stokların otuz bir Aralık iki bin yirmi dört tarihinde alacağı trend yüzdesi aşağıdakilerden hangisidir?
+Soru bir. iki bin yirmi iki yılını baz yıl alarak yapılan trend analizine göre stokların otuz bir Aralık iki bin yirmi dört tarihinde alacağı trend yüzdesi hangisidir?
 
 Düşün.
 [[8]]
@@ -14,7 +14,7 @@ Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formül
 [[1]]
 
 [[bip]]
-Soru iki. iki bin yirmi üç yılını baz yıl alarak yapılan trend analizine göre net satışların otuz bir Aralık iki bin yirmi beş tarihinde alacağı trend yüzdesi aşağıdakilerden hangisidir?
+Soru iki. iki bin yirmi üç yılını baz yıl alarak yapılan trend analizine göre net satışların otuz bir Aralık iki bin yirmi beş tarihinde alacağı trend yüzdesi hangisidir?
 
 Düşün.
 [[8]]
@@ -45,7 +45,7 @@ Cevap: yüzde elli.
 [[1]]
 
 [[bip]]
-Soru beş. Bir firmada gelir tablosunun dikey yüzde analizine göre faaliyet kârlılığı yüzdesi yüzde on beş ve brüt satışların yüzdesi yüzde yüz iki olarak hesaplanmıştır. Brüt satışların beş yüz on bin lira olduğu durumda faaliyet kârı aşağıdakilerden hangisidir?
+Soru beş. Bir firmada gelir tablosunun dikey yüzde analizine göre faaliyet kârlılığı yüzdesi yüzde on beş ve brüt satışların yüzdesi yüzde yüz iki olarak hesaplanmıştır. Brüt satışların beş yüz on bin lira olduğu durumda faaliyet kârı hangisidir?
 
 Düşün.
 [[8]]
@@ -55,7 +55,7 @@ Cevap: yetmiş beş bin lira.
 [[1]]
 
 [[bip]]
-Soru altı. Bir ticari firmanın iki bin yirmi iki ve iki bin yirmi beş yıllarına ait net satışlar ve ticari alacaklar arasındaki trend ilişkisi aşağıdaki grafikte gösterilmiştir. Bu grafik verilerine göre firma için aşağıdaki yorumlardan hangisi doğrudur?
+Soru altı. Bir ticari firmanın iki bin yirmi iki ve iki bin yirmi beş yıllarına ait net satışlar ve ticari alacaklar arasındaki trend ilişkisi grafikte gösterilmiştir. Bu grafik verilerine göre firma için doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -65,7 +65,7 @@ Cevap: Ortalama tahsilat süreleri uzamaktadır.
 [[1]]
 
 [[bip]]
-Soru yedi. Bir ticari firmanın iki bin yirmi iki ve iki bin yirmi beş yıllarına ait dönen varlıklar, kısa vadeli yabancı kaynaklar ve stoklar arasındaki trend ilişkisi aşağıdaki grafikte gösterilmiştir. Bu grafik verilerine göre firma için aşağıdaki yorumlardan hangisi doğrudur?
+Soru yedi. Bir ticari firmanın iki bin yirmi iki ve iki bin yirmi beş yıllarına ait dönen varlıklar, kısa vadeli yabancı kaynaklar ve stoklar arasındaki trend ilişkisi grafikte gösterilmiştir. Bu grafik verilerine göre firma için doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -130,7 +130,7 @@ Bu soru sınavda bir tabloya dayanıyordu, tabloyu burada okuyamıyorum. Formül
 [[1]]
 
 [[bip]]
-Soru on üç. iki bin yirmi altı yılının birinci çeyrek sonunda cari oran aşağıdakilerden hangisidir?
+Soru on üç. iki bin yirmi altı yılının birinci çeyrek sonunda cari oran hangisidir?
 
 Düşün.
 [[8]]

@@ -1,14 +1,14 @@
 BAŞLIK: Çıkmış Sorular 2026-1. Hukuk
 
-İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Hukuk soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+İki bin yirmi altı yılı birinci dönem yeterlilik sınavının Hukuk soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım; test soruları doğrudan soru olarak sorulacak. Önce soruyu duyacaksın, sonra düşünme süresi, zilden sonra doğru cevabı dinle.
 
 [[bip]]
-Soru bir. Aşağıdakilerden hangisi beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre, genel sağlık sigortalısının bakmakla yükümlü olduğu kişiler arasında değildir?
+Soru bir. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre, genel sağlık sigortalısının bakmakla yükümlü olduğu kişiler arasında olmayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Oturma izni almamış anne ve babası.
+Cevap: Oturma izni almamış anne ve babası.
 
 [[1]]
 
@@ -23,12 +23,12 @@ Cevap: dört ay.
 [[1]]
 
 [[bip]]
-Soru üç. altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre, aşağıdakilerden hangisi borcu sona erdiren hallerden biri değildir?
+Soru üç. altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre, borcu sona erdiren hallerden biri olmayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Ölüm.
+Cevap: Ölüm.
 
 [[1]]
 
@@ -43,7 +43,7 @@ Cevap: iki yıl.
 [[1]]
 
 [[bip]]
-Soru beş. iki bin beş yüz yetmiş yedi sayılı İdari Yargılama Usulü Kanunu madde on dörte göre dava dilekçeleri üzerindeki ilk inceleme işleminde aşağıdaki hususlardan hangisine bakılmaz?
+Soru beş. iki bin beş yüz yetmiş yedi sayılı İdari Yargılama Usulü Kanunu madde on dörte göre dava dilekçeleri üzerindeki ilk inceleme işleminde hususlardan hangisine bakılmaz?
 
 Düşün.
 [[8]]
@@ -73,17 +73,17 @@ Cevap: biray.
 [[1]]
 
 [[bip]]
-Soru sekiz. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre, aşağıda sayılanlardan hangisi iş kazası, meslek hastalığı, hastalık ve analık sigortasından sağlanan haklardan biri değildir?
+Soru sekiz. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre, aşağıda sayılanlardan iş kazası, meslek hastalığı, hastalık ve analık sigortasından sağlanan haklardan biri olmayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: İş kazası veya meslek hastalığı sonucu ölen sigortalının üçüncü derecede yakınlarına gelir bağlanması.
+Cevap: İş kazası veya meslek hastalığı sonucu ölen sigortalının üçüncü derecede yakınlarına gelir bağlanması.
 
 [[1]]
 
 [[bip]]
-Soru dokuz. dört bin sekiz yüz elli yedi sayılı İş Kanununa göre işveren; ekonomik, teknolojik, yapısal ve benzeri işletme, işyeri veya işin gerekleri sonucu toplu işçi çıkarmak istediğinde aşağıdaki kurumlardan hangisine bildirmek zorundadır?
+Soru dokuz. dört bin sekiz yüz elli yedi sayılı İş Kanununa göre işveren; ekonomik, teknolojik, yapısal ve benzeri işletme, işyeri veya işin gerekleri sonucu toplu işçi çıkarmak istediğinde kurumlardan hangisine bildirmek zorundadır?
 
 Düşün.
 [[8]]
@@ -93,7 +93,7 @@ Cevap: Türkiye İş Kurumuna.
 [[1]]
 
 [[bip]]
-Soru on. altı bin yüz iki sayılı Türk Ticaret Kanunu madde beşte geçen “Aksine hüküm bulunmadıkça, dava olunan şeyin değerine veya tutarına bakılmaksızın tüm ticari davalar ile ticari nitelikteki çekişmesiz yargı işlerine bakmakla görevli mahkeme” aşağıdakilerden hangisidir?
+Soru on. altı bin yüz iki sayılı Türk Ticaret Kanunu madde beşte geçen “Aksine hüküm bulunmadıkça, dava olunan şeyin değerine veya tutarına bakılmaksızın tüm ticari davalar ile ticari nitelikteki çekişmesiz yargı işlerine bakmakla görevli mahkeme” hangisidir?
 
 Düşün.
 [[8]]
@@ -103,7 +103,7 @@ Cevap: Asliye Ticaret Mahkemesi.
 [[1]]
 
 [[bip]]
-Soru on bir. Aşağıdakilerden hangisi dört bin sekiz yüz elli yedi sayılı İş Kanununda düzenlenen ve iş sözleşmesinden kaynaklanan yıllık izin ücreti ve diğer tazminatlardan farklı bir zamanaşımına tabidir?
+Soru on bir. dört bin sekiz yüz elli yedi sayılı İş Kanununda düzenlenen ve iş sözleşmesinden kaynaklanan yıllık izin ücreti ve diğer tazminatlardan farklı bir zamanaşımına tabi olan nedir?
 
 Düşün.
 [[8]]
@@ -123,7 +123,7 @@ Cevap: bir virgül beş saat.
 [[1]]
 
 [[bip]]
-Soru on üç. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre yapılan kontrol ve denetimlerde, çalıştırdığı kişileri sigortalı olarak bildirmediği veya bildirilen sigortalıyı fiilen çalıştırmadığı tespit edilen işverenler, boşluk süreyle, bu maddeyle sağlanan boşluk yararlanamaz.” cümlesinde boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi gelmelidir?
+Soru on üç. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre yapılan kontrol ve denetimlerde, çalıştırdığı kişileri sigortalı olarak bildirmediği veya bildirilen sigortalıyı fiilen çalıştırmadığı tespit edilen işverenler, boşluk süreyle, bu maddeyle sağlanan boşluk yararlanamaz.” Boşluklara sırasıyla ne gelir?
 
 Düşün.
 [[8]]
@@ -133,12 +133,12 @@ Cevap: bir yıl bölü destek unsurlarından.
 [[1]]
 
 [[bip]]
-Soru on dört. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre, idari para cezaları ile ilgili aşağıdakilerden hangisi yanlıştır?
+Soru on dört. beş bin beş yüz on sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre, idari para cezaları ile ilgili yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Tebliğ tarihinden itibaren on beş gün içinde cezanın peşin ödenmesi halinde yargı yolu kapanır.
+Cevap: Tebliğ tarihinden itibaren on beş gün içinde cezanın peşin ödenmesi halinde yargı yolu kapanır.
 
 [[1]]
 
@@ -153,7 +153,7 @@ Cevap: beş.
 [[1]]
 
 [[bip]]
-Soru on altı. Bir. Sözleşmelerden doğan borç İki. Haksız fiillerden doğan borç Üç. Sebepsiz zenginleşmeden doğan borç Dört. Amme alacağından doğan borç Aşağıdaki hangi seçenekte altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre borç ilişkisinin kaynakları tam olarak ifade edilmiştir?
+Soru on altı. Bir. Sözleşmelerden doğan borç İki. Haksız fiillerden doğan borç Üç. Sebepsiz zenginleşmeden doğan borç Dört. Amme alacağından doğan borç hangi seçenekte altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre borç ilişkisinin kaynakları tam olarak ifade edilmiştir?
 
 Düşün.
 [[8]]
@@ -163,12 +163,12 @@ Cevap: bir, iki ve üç.
 [[1]]
 
 [[bip]]
-Soru on yedi. altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre, taksitle satışta tarafların hak ve borçları ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?
+Soru on yedi. altı bin doksan sekiz sayılı Türk Borçlar Kanununa göre, taksitle satışta tarafların hak ve borçları ile ilgili olarak yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Alıcı, peşin satış bedelinin en az yüzde ellisini en geç teslim anında peşin olarak ödemekle yükümlüdür.
+Cevap: Alıcı, peşin satış bedelinin en az yüzde ellisini en geç teslim anında peşin olarak ödemekle yükümlüdür.
 
 [[1]]
 
@@ -183,7 +183,7 @@ Cevap: dört, beş ve altı.
 [[1]]
 
 [[bip]]
-Soru on dokuz. altı bin yüz iki sayılı Türk Ticaret Kanununa göre, kıymetli evrakı zayi olan senet üzerinde hak sahibi olan kişinin aşağıdaki mercilerden hangisine başvurması gerekir?
+Soru on dokuz. altı bin yüz iki sayılı Türk Ticaret Kanununa göre, kıymetli evrakı zayi olan senet üzerinde hak sahibi olan kişinin mercilerden hangisine başvurması gerekir?
 
 Düşün.
 [[8]]
@@ -193,12 +193,12 @@ Cevap: Asliye Ticaret Mahkemesi.
 [[1]]
 
 [[bip]]
-Soru yirmi. Aşağıdakilerden hangisi iki bin beş yüz yetmiş yedi sayılı İdari Yargılama Usulü Kanununda idari yargı mahkemelerince verilen kararlara karşı belirlenen başvuru yolları arasında yer almaz?
+Soru yirmi. iki bin beş yüz yetmiş yedi sayılı İdari Yargılama Usulü Kanununda idari yargı mahkemelerince verilen kararlara karşı belirlenen başvuru yolları arasında yer almayan nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani bunlardan biri olmayan: Şikayet.
+Cevap: Şikayet.
 
 [[1]]
 

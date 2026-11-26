@@ -1,9 +1,9 @@
 BAŞLIK: Çıkmış Sorular 2026-2. Maliyet Muhasebesi
 
-İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Maliyet Muhasebesi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım: önce soruyu duyacaksın, zil çalınca düşün, ikinci zilden sonra doğru cevabı dinle.
+İki bin yirmi altı yılı ikinci dönem yeterlilik sınavının Maliyet Muhasebesi soruları. Bu bölümde yirmi gerçek sınav sorusu var. Şıkları okumayacağım; test soruları doğrudan soru olarak sorulacak. Önce soruyu duyacaksın, sonra düşünme süresi, zilden sonra doğru cevabı dinle.
 
 [[bip]]
-Soru bir. Aşağıdakilerden hangisinde genel üretim giderlerini oluşturan kalemler birlikte doğru bir şekilde verilmiştir?
+Soru bir. Hangisinde genel üretim giderlerini oluşturan kalemler birlikte doğru bir şekilde verilmiştir?
 
 Düşün.
 [[8]]
@@ -13,7 +13,7 @@ Cevap: Elektrik gideri, amortisman gideri, sarf malzemesi gideri.
 [[1]]
 
 [[bip]]
-Soru iki. Aşağıdaki üretim kayıplarından hangisi ek bir işleme tabi tutularak birinci kalite mamul niteliğine dönüştürülebilir?
+Soru iki. Üretim kayıplarından hangisi ek bir işleme tabi tutularak birinci kalite mamul niteliğine dönüştürülebilir?
 
 Düşün.
 [[8]]
@@ -23,7 +23,7 @@ Cevap: Kusurlu mamuller.
 [[1]]
 
 [[bip]]
-Soru üç. Bir üretim işletmesinde çalışılan fiili süre iki bin beş yüz Direkt İşçilik Saati (direkt işçilik)'dir. Fiili ücret saat başına iki yüz liradır. İşletme ise dönemde iki bin dört yüz direkt işçilik çalışılacağını ve saat ücretinin iki yüz on lira olacağını planlamıştır. Bu bilgilere göre direkt işçilik zaman ve ücret sapması aşağıdakilerden hangisinde sırasıyla doğru olarak verilmiştir?
+Soru üç. Bir üretim işletmesinde çalışılan fiili süre iki bin beş yüz Direkt İşçilik Saati (direkt işçilik)'dir. Fiili ücret saat başına iki yüz liradır. İşletme ise dönemde iki bin dört yüz direkt işçilik çalışılacağını ve saat ücretinin iki yüz on lira olacağını planlamıştır. Bu bilgilere göre direkt işçilik zaman ve ücret sapması hangisinde sırasıyla doğru olarak verilmiştir?
 
 Düşün.
 [[14]]
@@ -33,12 +33,12 @@ Cevap: yirmi bir bin lira olumsuz, yirmi beş bin lira olumlu.
 [[1]]
 
 [[bip]]
-Soru dört. Standart maliyet sistemiyle ilgili aşağıdakilerden hangisi yanlıştır?
+Soru dört. Standart maliyet sistemiyle ilgili yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Standart maliyet sisteminin her işletmede kurulması ve uygulanması kolaydır.
+Cevap: Standart maliyet sisteminin her işletmede kurulması ve uygulanması kolaydır.
 
 [[1]]
 
@@ -53,17 +53,17 @@ Cevap: otuz bin lira.
 [[1]]
 
 [[bip]]
-Soru altı. Muhasebe bilgi sistemi ile ilgili aşağıdakilerden hangisi yanlıştır?
+Soru altı. Muhasebe bilgi sistemi ile ilgili yanlış olan ifade nedir?
 
 Düşün.
 [[8]]
 [[bip]]
-Cevap, yani yanlış olan ifade: Finansal muhasebe sadece işletme içi bilgi kullanıcılarının bilgi ihtiyacını karşılar.
+Cevap: Finansal muhasebe sadece işletme içi bilgi kullanıcılarının bilgi ihtiyacını karşılar.
 
 [[1]]
 
 [[bip]]
-Soru yedi. Dönemde on bin birim (br) mamul üreten işletmede üretimle ilgili katlanılan giderler aşağıdaki gibidir: Endirekt madde yüz bin lira, direkt ilk madde ve malzeme bir milyon lira, endirekt işçilik elli bin lira, direkt işçilik beş yüz bin lira, elektrik su ve doğalgaz iki yüz bin lira, çeşitli genel üretim gideri elli bin lira, makine amortismanları yüz elli bin lira. Bu işletmede birim başına genel üretim gideri kaç liradır?
+Soru yedi. Dönemde on bin birim (br) mamul üreten işletmede üretimle ilgili katlanılan giderler gibidir: Endirekt madde yüz bin lira, direkt ilk madde ve malzeme bir milyon lira, endirekt işçilik elli bin lira, direkt işçilik beş yüz bin lira, elektrik su ve doğalgaz iki yüz bin lira, çeşitli genel üretim gideri elli bin lira, makine amortismanları yüz elli bin lira. Bu işletmede birim başına genel üretim gideri kaç liradır?
 
 Düşün.
 [[14]]
@@ -83,7 +83,7 @@ Cevap, yani bunlardan biri olmayan: Yalnız beş.
 [[1]]
 
 [[bip]]
-Soru dokuz. yedi A Seçeneğine göre aşağıdakilerden hangisi doğrudur?
+Soru dokuz. yedi A Seçeneğine göre doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -93,7 +93,7 @@ Cevap: Gider yansıtma hesapları “fiili maliyetlerin” uygulandığı duruml
 [[1]]
 
 [[bip]]
-Soru on. yedi A Seçeneğine göre yedi yüz otuz iki Genel Üretim Giderleri Bütçe Farkları hesabına ilişkin aşağıdakilerden hangisi doğrudur?
+Soru on. yedi A Seçeneğine göre yedi yüz otuz iki Genel Üretim Giderleri Bütçe Farkları hesabına ilişkin doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -103,7 +103,7 @@ Cevap: Fiili üretim giderleri ile maliyetlere yüklenen önceden saptanmış gi
 [[1]]
 
 [[bip]]
-Soru on bir. Muhasebe Sistemi Uygulama Genel Tebliğlerine göre gider yerleriyle ilgili aşağıdakilerden hangisi doğrudur?
+Soru on bir. Muhasebe Sistemi Uygulama Genel Tebliğlerine göre gider yerleriyle ilgili doğru olan ifade nedir?
 
 Düşün.
 [[8]]
@@ -173,7 +173,7 @@ Cevap: iki milyon iki yüz on bin lira.
 [[1]]
 
 [[bip]]
-Soru on sekiz. Safha (Evre) maliyet sistemini uygulayan bir işletme İlk Giren İlk Çıkar yöntemini kullanarak aylık maliyetlerini hesaplamaktadır. İşletmede Haziran iki bin yirmi altı ayına ilişkin bilgiler şöyledir: Dönem başı yarı mamul miktarı dört bin birim (br), dönemde üretimine başlanan on bin br, dönemde tamamlanan on iki bin br, dönem sonu yarı mamul stok miktarı iki bin br. Dönem sonu yarı mamullerin genel üretim gideri açısından tamamlanma derecesi yüzde otuzdur. Dönemin genel üretim giderleri dört yüz kırk bin lira ve dönemde eşdeğer birim başına genel üretim gideri kırk liradır. Dönemde üretim kaybı yoktur. Bu bilgilere göre dönem başı yarı mamullerin genel üretim gideri açısından tamamlanma derecesi aşağıdakilerden hangisidir?
+Soru on sekiz. Safha (Evre) maliyet sistemini uygulayan bir işletme İlk Giren İlk Çıkar yöntemini kullanarak aylık maliyetlerini hesaplamaktadır. İşletmede Haziran iki bin yirmi altı ayına ilişkin bilgiler şöyledir: Dönem başı yarı mamul miktarı dört bin birim (br), dönemde üretimine başlanan on bin br, dönemde tamamlanan on iki bin br, dönem sonu yarı mamul stok miktarı iki bin br. Dönem sonu yarı mamullerin genel üretim gideri açısından tamamlanma derecesi yüzde otuzdur. Dönemin genel üretim giderleri dört yüz kırk bin lira ve dönemde eşdeğer birim başına genel üretim gideri kırk liradır. Dönemde üretim kaybı yoktur. Bu bilgilere göre dönem başı yarı mamullerin genel üretim gideri açısından tamamlanma derecesi hangisidir?
 
 Düşün.
 [[14]]
@@ -183,7 +183,7 @@ Cevap: yüzde kırk.
 [[1]]
 
 [[bip]]
-Soru on dokuz. Safha (Evre) maliyet sistemini uygulayan bir işletme İlk Giren İlk Çıkar yöntemini kullanarak aylık maliyetlerini hesaplamaktadır. Dönemde üretim kaybı yoktur. Dönem içindeki fiziki hareketler şöyledir: • Dönem başı yarı mamul stok iki bin br; tamamlanma dereceleri: Direkt ilk madde ve malzeme (direkt ilk madde ve malzeme) yüzde yetmiş, direkt işçilik (D İ) ve genel üretim gideri (genel üretim giderleri) yüzde elli beş. • Dönemde üretimine başlanan elli bin br • Dönem sonu yarı mamul stok beş bin br; tamamlanma dereceleri: Direkt ilk madde ve malzeme yüzde yirmi, direkt işçilik ve genel üretim gideri yüzde kırk. Üretim maliyeti unsurları açısından eşdeğer mamul miktarları aşağıdakilerden hangisidir?
+Soru on dokuz. Safha (Evre) maliyet sistemini uygulayan bir işletme İlk Giren İlk Çıkar yöntemini kullanarak aylık maliyetlerini hesaplamaktadır. Dönemde üretim kaybı yoktur. Dönem içindeki fiziki hareketler şöyledir: • Dönem başı yarı mamul stok iki bin br; tamamlanma dereceleri: Direkt ilk madde ve malzeme (direkt ilk madde ve malzeme) yüzde yetmiş, direkt işçilik (D İ) ve genel üretim gideri (genel üretim giderleri) yüzde elli beş. • Dönemde üretimine başlanan elli bin br • Dönem sonu yarı mamul stok beş bin br; tamamlanma dereceleri: Direkt ilk madde ve malzeme yüzde yirmi, direkt işçilik ve genel üretim gideri yüzde kırk. Üretim maliyeti unsurları açısından eşdeğer mamul miktarları hangisidir?
 
 Düşün.
 [[14]]
@@ -193,7 +193,7 @@ Cevap: direkt ilk madde ve malzeme kırk altı bin altı yüz br, D İ kırk yed
 [[1]]
 
 [[bip]]
-Soru yirmi. yedi A Seçeneğine göre yetmiş sekiz Finansman Giderleri hesap grubuyla ilgili aşağıdakilerden hangisi doğrudur?
+Soru yirmi. yedi A Seçeneğine göre yetmiş sekiz Finansman Giderleri hesap grubuyla ilgili doğru olan ifade nedir?
 
 Düşün.
 [[8]]
